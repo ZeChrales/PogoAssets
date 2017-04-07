@@ -1,0 +1,6 @@
+Key	English	Notes	Japanese	French	Spanish	German	Italian	TPCi
+fake_news	Fake News							
+fake_news_title	Holiday!							
+fake_news_text_1	Yeah!							
+fake_news_text_2	Get some presents!							
+fake_news_link	http://pokemongolive.com/en/post/holiday2016/							

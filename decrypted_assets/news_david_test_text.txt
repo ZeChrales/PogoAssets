@@ -1,0 +1,6 @@
+Key	English	Notes	Japanese	French	Spanish	German	Italian	TPCi
+news_david_test	David News Test		デービットのニュース確認					
+news_david_test_title	David's Test Banner		デービットのニュース！					
+news_david_test_button	External Link		詳細情報					
+news_david_test_description	This is only a test. Built in Unity 5.5		次のニュースです。					
+news_david_test_link	http://pokemongolive.com/en/		http://pokemongolive.com/ja/					

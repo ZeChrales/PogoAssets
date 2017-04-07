@@ -1,0 +1,4 @@
+Key	English	Japanese	French	Spanish	German	Italian	Korean
+news_birthday_title	Pokémon Day	ポケモン誕生の日 	Pokémon Day	Día de Pokémon	Pokémon Day	Giornata dei Pokémon	포켓몬 탄생의 날
+news_birthday_button	Got it	OK	J'ai compris	Entendido	Verstanden	Capito	확인
+news_birthday_description	Celebrate Pokémon Day by catching a festive Pikachu from February 26 to March 6!	ポケモン誕生の日をお祝いしよう！\n2月27日(月)の朝から3月6日(月)にかけて、お祝い気分のかわいいとんがり帽子のピカチュウがあなたの街にやってくるかも！ 	Célébrez le Pokémon Day en capturant un Pikachu spécial du 26 février au 6 mars !	¡Celebra el Día de Pokémon atrapando un Pikachu festivo del 26 de febrero al 6 de marzo!	Feier den Pokémon Day, indem du den festlichen Pikachu ab 26. Februar bis zum 6. März fängst!	Festeggiate la Giornata dei Pokémon catturando un Pikachu festivo dal 26 febbraio al 6 marzo!	포켓몬데이를 축하해주세요! 2월 27일(월) 오전 6시부터 3월 7일(화) 오전 6시까지 축하 분위기의 귀여운 고깔모자의 피카츄가 당신의 도시에 찾아갈지도 몰라요!

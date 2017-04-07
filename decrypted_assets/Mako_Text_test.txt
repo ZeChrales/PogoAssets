@@ -1,0 +1,4 @@
+Key	English	Notes	Japanese	French	Spanish	German	Italian	TPCi
+news_mako_test_title	Limited Edition Pikachu!		特別なピカチュウをみつけよう！	BONJOUR				
+news_mako_text_1	Dec 12, 11AM PST - Dec 29, 10AM PST		12月13日~12月29日	OUI OUI				
+news_makos_text_2	For a limited time only, Trainers will encounter limited edition Pikachu in the wild!		年末にお似合いの赤い帽子をかぶったピカチュウがいるみたい。探しに行ってみてね！	Tre bien				

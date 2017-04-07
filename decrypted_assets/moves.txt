@@ -1,0 +1,220 @@
+Key	English	Japanese	French	Spanish	German	Italian	Korean
+move_name_0001	Thunder Shock	でんきショック	Éclair	Impactrueno	Donnerschock	Tuonoshock	전기쇼크
+move_name_0002	Quick Attack	でんこうせっか	Vive-Attaque	Ataque Rápido	Ruckzuckhieb	Attacco Rapido	전광석화
+move_name_0003	Scratch	ひっかく	Griffe	Arañazo	Kratzer	Graffio	할퀴기
+move_name_0004	Ember	ひのこ	Flammèche	Ascuas	Glut	Braciere	불꽃세례
+move_name_0005	Vine Whip	つるのムチ	Fouet Lianes	Látigo Cepa	Rankenhieb	Frustata	덩굴채찍
+move_name_0006	Tackle	たいあたり	Charge	Placaje	Tackle	Azione	몸통박치기
+move_name_0007	Razor Leaf	はっぱカッター	Tranch'Herbe	Hoja Afilada	Rasierblatt	Foglielama	잎날가르기
+move_name_0008	Take Down	とっしん	Bélier	Derribo	Bodycheck	Riduttore	돌진
+move_name_0009	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	물대포
+move_name_0010	Bite	かみつく	Morsure	Mordisco	Biss	Morso	물기
+move_name_0011	Pound	はたく	Écras'Face	Destructor	Pfund	Botta	막치기
+move_name_0012	Double Slap	おうふくビンタ	Torgnoles	Doble Bofetón	Duplexhieb	Doppiasberla	연속뺨치기
+move_name_0013	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	김밥말이
+move_name_0014	Hyper Beam	はかいこうせん	Ultralaser	Hiperrayo	Hyperstrahl	Iper Raggio	파괴광선
+move_name_0015	Lick	したでなめる	Léchouille	Lengüetazo	Schlecker	Leccata	핥기
+move_name_0016	Dark Pulse	あくのはどう	Vibrobscur	Pulso Umbrío	Finsteraura	Neropulsar	악의파동
+move_name_0017	Smog	スモッグ	Purédpois	Polución	Smog	Smog	스모그
+move_name_0018	Sludge	ヘドロこうげき	Détritus	Residuos	Schlammbad	Fango	오물공격
+move_name_0019	Metal Claw	メタルクロー	Griffe Acier	Garra Metal	Metallklaue	Ferrartigli	메탈크로우
+move_name_0020	Vice Grip	はさむ	Force Poigne	Agarre	Klammer	Presa	찝기
+move_name_0021	Flame Wheel	かえんぐるま	Roue de Feu	Rueda Fuego	Flammenrad	Ruotafuoco	화염자동차
+move_name_0022	Megahorn	メガホーン	Mégacorne	Megacuerno	Vielender	Megacorno	메가폰
+move_name_0023	Wing Attack	つばさでうつ	Cru-Aile	Ataque Ala	Flügelschlag	Attacco d'Ala	날개치기
+move_name_0024	Flamethrower	かえんほうしゃ	Lance-Flammes	Lanzallamas	Flammenwurf	Lanciafiamme	화염방사
+move_name_0025	Sucker Punch	ふいうち	Coup Bas	Golpe Bajo	Tiefschlag	Sbigoattacco	기습
+move_name_0026	Dig	あなをほる	Tunnel	Excavar	Schaufler	Fossa	구멍파기
+move_name_0027	Low Kick	けたぐり	Balayage	Patada Baja	Fußkick	Colpo Basso	안다리걸기
+move_name_0028	Cross Chop	クロスチョップ	Coup-Croix	Tajo Cruzado	Kreuzhieb	Incrocolpo	크로스촙
+move_name_0029	Psycho Cut	サイコカッター	Coupe Psycho	Psicocorte	Psychoklinge	Psicotaglio	사이코커터
+move_name_0030	Psybeam	サイケこうせん	Rafale Psy	Psicorrayo	Psystrahl	Psicoraggio	환상빔
+move_name_0031	Earthquake	じしん	Séisme	Terremoto	Erdbeben	Terremoto	지진
+move_name_0032	Stone Edge	ストーンエッジ	Lame de Roc	Roca Afilada	Steinkante	Pietrataglio	스톤에지
+move_name_0033	Ice Punch	れいとうパンチ	Poing-Glace	Puño Hielo	Eishieb	Gelopugno	냉동펀치
+move_name_0034	Heart Stamp	ハートスタンプ	Crève-Cœur	Arrumaco	Herzstempel	Cuorestampo	하트스탬프
+move_name_0035	Discharge	ほうでん	Coup d'Jus	Chispazo	Ladungsstoß	Scarica	방전
+move_name_0036	Flash Cannon	ラスターカノン	Luminocanon	Foco Resplandor	Lichtkanone	Cannonflash	러스터캐논
+move_name_0037	Peck	つつく	Picpic	Picotazo	Schnabel	Beccata	쪼기
+move_name_0038	Drill Peck	ドリルくちばし	Bec Vrille	Pico Taladro	Bohrschnabel	Perforbecco	회전부리
+move_name_0039	Ice Beam	れいとうビーム	Laser Glace	Rayo Hielo	Eisstrahl	Geloraggio	냉동빔
+move_name_0040	Blizzard	ふぶき	Blizzard	Ventisca	Blizzard	Bora	눈보라
+move_name_0041	Air Slash	エアスラッシュ	Lame d'Air	Tajo Aéreo	Luftschnitt	Eterelama	에어슬래시
+move_name_0042	Heat Wave	ねっぷう	Canicule	Onda Ígnea	Hitzewelle	Ondacalda	열풍
+move_name_0043	Twineedle	ダブルニードル	Double-Dard	Doble Ataque	Duonadel	Doppio Ago	더블니들
+move_name_0044	Poison Jab	どくづき	Direct Toxik	Puya Nociva	Gifthieb	Velenpuntura	독찌르기
+move_name_0045	Aerial Ace	つばめがえし	Aéropique	Golpe Aéreo	Aero-Ass	Aeroassalto	제비반환
+move_name_0046	Drill Run	ドリルライナー	Tunnelier	Taladradora	Schlagbohrer	Giravvita	드릴라이너
+move_name_0047	Petal Blizzard	はなふぶき	Tempête Florale	Tormenta Floral	Blütenwirbel	Fiortempesta	꽃보라
+move_name_0048	Mega Drain	メガドレイン	Méga-Sangsue	Megaagotar	Megasauger	Megassorbimento	메가드레인
+move_name_0049	Bug Buzz	むしのさざめき	Bourdon	Zumbido	Käfergebrumm	Ronzio	벌레의야단법석
+move_name_0050	Poison Fang	どくどくのキバ	Crochet Venin	Colmillo Veneno	Giftzahn	Velenodenti	독엄니
+move_name_0051	Night Slash	つじぎり	Tranche-Nuit	Tajo Umbrío	Nachthieb	Nottesferza	깜짝베기
+move_name_0052	Slash	きりさく	Tranche	Cuchillada	Schlitzer	Lacerazione	베어가르기
+move_name_0053	Bubble Beam	バブルこうせん	Bulles d'O	Rayo Burbuja	Blubbstrahl	Bollaraggio	거품광선
+move_name_0054	Submission	じごくぐるま	Sacrifice	Sumisión	Überroller	Sottomissione	지옥의바퀴
+move_name_0055	Karate Chop	からてチョップ	Poing-Karaté	Golpe Kárate	Karateschlag	Colpokarate	태권당수
+move_name_0056	Low Sweep	ローキック	Balayette	Puntapié	Fußtritt	Calciobasso	로킥
+move_name_0057	Aqua Jet	アクアジェット	Aqua-Jet	Acua Jet	Wasserdüse	Acquagetto	아쿠아제트
+move_name_0058	Aqua Tail	アクアテール	Hydroqueue	Acua Cola	Nassschweif	Idrondata	아쿠아테일
+move_name_0059	Seed Bomb	タネばくだん	Canon Graine	Bomba Germen	Samenbomben	Semebomba	씨폭탄
+move_name_0060	Psyshock	サイコショック	Choc Psy	Psicocarga	Psychoschock	Psicoshock	사이코쇼크
+move_name_0061	Rock Throw	いわおとし	Jet-Pierres	Lanzarrocas	Steinwurf	Sassata	돌떨구기
+move_name_0062	Ancient Power	げんしのちから	Pouvoir Antique	Poder Pasado	Antik-Kraft	Forzantica	원시의힘
+move_name_0063	Rock Tomb	がんせきふうじ	Tomberoche	Tumba Rocas	Felsgrab	Rocciotomba	암석봉인
+move_name_0064	Rock Slide	いわなだれ	Éboulement	Avalancha	Steinhagel	Frana	스톤샤워
+move_name_0065	Power Gem	パワージェム	Rayon Gemme	Joya de Luz	Juwelenkraft	Gemmoforza	파워젬
+move_name_0066	Shadow Sneak	かげうち	Ombre Portée	Sombra Vil	Schattenstoß	Furtivombra	야습
+move_name_0067	Shadow Punch	シャドーパンチ	Poing Ombre	Puño Sombra	Finsterfaust	Pugnodombra	섀도펀치
+move_name_0068	Shadow Claw	シャドークロー	Griffe Ombre	Garra Umbría	Dunkelklaue	Ombrartigli	섀도크루
+move_name_0069	Ominous Wind	あやしいかぜ	Vent Mauvais	Viento Aciago	Unheilböen	Funestovento	괴상한바람
+move_name_0070	Shadow Ball	シャドーボール	Ball'Ombre	Bola Sombra	Spukball	Palla Ombra	섀도볼
+move_name_0071	Bullet Punch	バレットパンチ	Pisto-Poing	Puño Bala	Patronenhieb	Pugnoscarica	불릿펀치
+move_name_0072	Magnet Bomb	マグネットボム	Bombaimant	Bomba Imán	Magnetbombe	Bombagnete	마그넷봄
+move_name_0073	Steel Wing	はがねのつばさ	Aile d'Acier	Ala de Acero	Stahlflügel	Alacciaio	강철날개
+move_name_0074	Iron Head	アイアンヘッド	Tête de Fer	Cabeza de Hierro	Eisenschädel	Metaltestata	아이언헤드
+move_name_0075	Parabolic Charge	パラボラチャージ	Parabocharge	Carga Parábola	Parabolladung	Caricaparabola	파라볼라차지
+move_name_0076	Spark	スパーク	Étincelle	Chispa	Funkensprung	Scintilla	스파크
+move_name_0077	Thunder Punch	かみなりパンチ	Poing-Éclair	Puño Trueno	Donnerschlag	Tuonopugno	번개펀치
+move_name_0078	Thunder	かみなり	Fatal-Foudre	Trueno	Donner	Tuono	번개
+move_name_0079	Thunderbolt	１０まんボルト	Tonnerre	Rayo	Donnerblitz	Fulmine	10만볼트
+move_name_0080	Twister	たつまき	Ouragan	Ciclón	Windhose	Tornado	회오리
+move_name_0081	Dragon Breath	りゅうのいぶき	Dracosouffle	Dragoaliento	Feuerodem	Dragospiro	용의숨결
+move_name_0082	Dragon Pulse	りゅうのはどう	Dracochoc	Pulso Dragón	Drachenpuls	Dragopulsar	용의파동
+move_name_0083	Dragon Claw	ドラゴンクロー	Dracogriffe	Garra Dragón	Drachenklaue	Dragartigli	드래곤크루
+move_name_0084	Disarming Voice	チャームボイス	Voix Enjôleuse	Voz Cautivadora	Säuselstimme	Incantavoce	차밍보이스
+move_name_0085	Draining Kiss	ドレインキッス	Vampibaiser	Beso Drenaje	Diebeskuss	Assorbibacio	드레인키스
+move_name_0086	Dazzling Gleam	マジカルシャイン	Éclat Magique	Brillo Mágico	Zauberschein	Magibrillio	매지컬샤인
+move_name_0087	Moonblast	ムーンフォース	Pouvoir Lunaire	Fuerza Lunar	Mondgewalt	Forza Lunare	문포스
+move_name_0088	Play Rough	じゃれつく	Câlinerie	Carantoña	Knuddler	Carineria	치근거리기
+move_name_0089	Cross Poison	クロスポイズン	Poison-Croix	Veneno X	Giftstreich	Velenocroce	크로스포이즌
+move_name_0090	Sludge Bomb	ヘドロばくだん	Bomb-Beurk	Bomba Lodo	Matschbombe	Fangobomba	오물폭탄
+move_name_0091	Sludge Wave	ヘドロウェーブ	Cradovague	Onda Tóxica	Schlammwoge	Fangonda	오물웨이브
+move_name_0092	Gunk Shot	ダストシュート	Détricanon	Lanza Mugre	Mülltreffer	Sporcolancio	더스트슈트
+move_name_0093	Mud Shot	マッドショット	Tir de Boue	Disparo Lodo	Lehmschuss	Colpodifango	머드숏
+move_name_0094	Bone Club	ホネこんぼう	Massd'Os	Hueso Palo	Knochenkeule	Ossoclava	뼈다귀치기
+move_name_0095	Bulldoze	じならし	Piétisol	Terratemblor	Dampfwalze	Battiterra	땅고르기
+move_name_0096	Mud Bomb	どろばくだん	Boue-Bombe	Bomba Fango	Schlammbombe	Pantanobomba	진흙폭탄
+move_name_0097	Fury Cutter	れんぞくぎり	Taillade	Corte Furia	Zornklinge	Tagliofuria	연속자르기
+move_name_0098	Bug Bite	むしくい	Piqûre	Picadura	Käferbiss	Coleomorso	벌레먹음
+move_name_0099	Signal Beam	シグナルビーム	Rayon Signal	Doble Rayo	Ampelleuchte	Segnoraggio	시그널빔
+move_name_0100	X-Scissor	シザークロス	Plaie-Croix	Tijera X	Kreuzschere	Forbice X	시저크로스
+move_name_0101	Flame Charge	ニトロチャージ	Nitrocharge	Nitrocarga	Nitroladung	Nitrocarica	니트로차지
+move_name_0102	Flame Burst	はじけるほのお	Rebondifeu	Pirotecnia	Funkenflug	Pirolancio	불꽃튀기기
+move_name_0103	Fire Blast	だいもんじ	Déflagration	Llamarada	Feuersturm	Fuocobomba	불대문자
+move_name_0104	Brine	しおみず	Saumure	Salmuera	Lake	Acquadisale	소금물
+move_name_0105	Water Pulse	みずのはどう	Vibraqua	Hidropulso	Aquawelle	Idropulsar	물의파동
+move_name_0106	Scald	ねっとう	Ébullition	Escaldar	Siedewasser	Idrovampata	열탕
+move_name_0107	Hydro Pump	ハイドロポンプ	Hydrocanon	Hidrobomba	Hydropumpe	Idropompa	하이드로펌프
+move_name_0108	Psychic	サイコキネシス	Psyko	Psíquico	Psychokinese	Psichico	사이코키네시스
+move_name_0109	Psystrike	サイコブレイク	Frappe Psy	Onda Mental	Psychostoß	Psicobotta	사이코브레이크
+move_name_0110	Ice Shard	こおりのつぶて	Éclats Glace	Canto Helado	Eissplitter	Geloscheggia	얼음뭉치
+move_name_0111	Icy Wind	こごえるかぜ	Vent Glace	Viento Hielo	Eissturm	Ventogelato	얼다바람
+move_name_0112	Frost Breath	こおりのいぶき	Souffle Glacé	Vaho Gélido	Eisesodem	Alitogelido	얼음숨결
+move_name_0113	Absorb	すいとる	Vol-Vie	Absorber	Absorber	Assorbimento	흡수
+move_name_0114	Giga Drain	ギガドレイン	Giga-Sangsue	Gigadrenado	Gigasauger	Gigassorbimento	기가드레인
+move_name_0115	Fire Punch	ほのおのパンチ	Poing de Feu	Puño Fuego	Feuerschlag	Fuocopugno	불꽃펀치
+move_name_0116	Solar Beam	ソーラービーム	Lance-Soleil	Rayo Solar	Solarstrahl	Solarraggio	솔라빔
+move_name_0117	Leaf Blade	リーフブレード	Lame-Feuille	Hoja Aguda	Laubklinge	Fendifoglia	리프블레이드
+move_name_0118	Power Whip	パワーウィップ	Mégafouet	Latigazo	Blattgeißel	Vigorcolpo	파워휩
+move_name_0119	Splash	はねる	Trempette	Salpicadura	Platscher	Splash	튀어오르기
+move_name_0120	Acid	ようかいえき	Acide	Ácido	Säure	Acido	용해액
+move_name_0121	Air Cutter	エアカッター	Tranch'Air	Aire Afilado	Windschnitt	Aerasoio	에어컷터
+move_name_0122	Hurricane	ぼうふう	Vent Violent	Vendaval	Orkan	Tifone	폭풍
+move_name_0123	Brick Break	かわらわり	Casse-Brique	Demolición	Durchbruch	Breccia	깨트리다
+move_name_0124	Cut	いあいぎり	Coupe	Corte	Zerschneider	Taglio	풀베기
+move_name_0125	Swift	スピードスター	Météores	Rapidez	Sternschauer	Comete	스피드스타
+move_name_0126	Horn Attack	つのでつく	Koud'Korne	Cornada	Hornattacke	Incornata	뿔찌르기
+move_name_0127	Stomp	ふみつけ	Écrasement	Pisotón	Stampfer	Pestone	짓밟기
+move_name_0128	Headbutt	ずつき	Coup d'Boule	Golpe Cabeza	Kopfnuss	Bottintesta	박치기
+move_name_0129	Hyper Fang	ひっさつまえば	Croc de Mort	Hipercolmillo	Hyperzahn	Iperzanna	필살앞니
+move_name_0130	Slam	たたきつける	Souplesse	Atizar	Slam	Schianto	힘껏치기
+move_name_0131	Body Slam	のしかかり	Plaquage	Golpe Cuerpo	Bodyslam	Corposcontro	누르기
+move_name_0132	Rest	ねむる	Repos	Descanso	Erholung	Riposo	잠자기
+move_name_0133	Struggle	わるあがき	Lutte	Combate	Verzweifler	Scontro	발버둥
+move_name_0134	Scald	ねっとう	Ébullition	Escaldar	Siedewasser	Idrovampata	열탕
+move_name_0135	Hydro Pump	ハイドロポンプ	Hydrocanon	Hidrobomba	Hydropumpe	Idropompa	하이드로펌프
+move_name_0136	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	김밥말이
+move_name_0137	Wrap	まきつく	Ligotage	Constricción	Wickel	Avvolgibotta	김밥말이
+move_name_0200	Fury Cutter	れんぞくぎり	Taillade	Corte Furia	Zornklinge	Tagliofuria	연속자르기
+move_name_0201	Bug Bite	むしくい	Piqûre	Picadura	Käferbiss	Coleomorso	벌레먹음
+move_name_0202	Bite	かみつく	Morsure	Mordisco	Biss	Morso	물기
+move_name_0203	Sucker Punch	ふいうち	Coup Bas	Golpe Bajo	Tiefschlag	Sbigoattacco	기습
+move_name_0204	Dragon Breath	りゅうのいぶき	Dracosouffle	Dragoaliento	Feuerodem	Dragospiro	용의숨결
+move_name_0205	Thunder Shock	でんきショック	Éclair	Impactrueno	Donnerschock	Tuonoshock	전기쇼크
+move_name_0206	Spark	スパーク	Étincelle	Chispa	Funkensprung	Scintilla	스파크
+move_name_0207	Low Kick	けたぐり	Balayage	Patada Baja	Fußkick	Colpo Basso	안다리걸기
+move_name_0208	Karate Chop	からてチョップ	Poing-Karaté	Golpe Kárate	Karateschlag	Colpokarate	태권당수
+move_name_0209	Ember	ひのこ	Flammèche	Ascuas	Glut	Braciere	불꽃세례
+move_name_0210	Wing Attack	つばさでうつ	Cru-Aile	Ataque Ala	Flügelschlag	Attacco d'Ala	날개치기
+move_name_0211	Peck	つつく	Picpic	Picotazo	Schnabel	Beccata	쪼기
+move_name_0212	Lick	したでなめる	Léchouille	Lengüetazo	Schlecker	Leccata	핥기
+move_name_0213	Shadow Claw	シャドークロー	Griffe Ombre	Garra Umbría	Dunkelklaue	Ombrartigli	섀도크루
+move_name_0214	Vine Whip	つるのムチ	Fouet Lianes	Látigo Cepa	Rankenhieb	Frustata	덩굴채찍
+move_name_0215	Razor Leaf	はっぱカッター	Tranch'Herbe	Hoja Afilada	Rasierblatt	Foglielama	잎날가르기
+move_name_0216	Mud Shot	マッドショット	Tir de Boue	Disparo Lodo	Lehmschuss	Colpodifango	머드숏
+move_name_0217	Ice Shard	こおりのつぶて	Éclats Glace	Canto Helado	Eissplitter	Geloscheggia	얼음뭉치
+move_name_0218	Frost Breath	こおりのいぶき	Souffle Glacé	Vaho Gélido	Eisesodem	Alitogelido	얼음숨결
+move_name_0219	Quick Attack	でんこうせっか	Vive-Attaque	Ataque Rápido	Ruckzuckhieb	Attacco Rapido	전광석화
+move_name_0220	Scratch	ひっかく	Griffe	Arañazo	Kratzer	Graffio	할퀴기
+move_name_0221	Tackle	たいあたり	Charge	Placaje	Tackle	Azione	몸통박치기
+move_name_0222	Pound	はたく	Écras'Face	Destructor	Pfund	Botta	막치기
+move_name_0223	Cut	いあいぎり	Coupe	Corte	Zerschneider	Taglio	풀베기
+move_name_0224	Poison Jab	どくづき	Direct Toxik	Puya Nociva	Gifthieb	Velenpuntura	독찌르기
+move_name_0225	Acid	ようかいえき	Acide	Ácido	Säure	Acido	용해액
+move_name_0226	Psycho Cut	サイコカッター	Coupe Psycho	Psicocorte	Psychoklinge	Psicotaglio	사이코커터
+move_name_0227	Rock Throw	いわおとし	Jet-Pierres	Lanzarrocas	Steinwurf	Sassata	돌떨구기
+move_name_0228	Metal Claw	メタルクロー	Griffe Acier	Garra Metal	Metallklaue	Ferrartigli	메탈크로우
+move_name_0229	Bullet Punch	バレットパンチ	Pisto-Poing	Puño Bala	Patronenhieb	Pugnoscarica	불릿펀치
+move_name_0230	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	물대포
+move_name_0231	Splash	はねる	Trempette	Salpicadura	Platscher	Splash	튀어오르기
+move_name_0232	Water Gun	みずでっぽう	Pistolet à O	Pistola Agua	Aquaknarre	Pistolacqua	물대포
+move_name_0233	Mud Slap	どろかけ	Coud'Boue	Bofetón Lodo	Lehmschelle	Fangosberla	진흙뿌리기
+move_name_0234	Zen Headbutt	しねんのずつき	Psykoud'Boul	Cabezazo Zen	Zen-Kopfstoß	Cozzata Zen	사념의박치기
+move_name_0235	Confusion	ねんりき	Choc Mental	Confusión	Konfusion	Confusione	염동력
+move_name_0236	Poison Sting	どくばり	Dard-Venin	Picotazo Veneno	Giftstachel	Velenospina	독침
+move_name_0237	Bubble	あわ	Écume	Burbuja	Blubber	Bolla	거품
+move_name_0238	Feint Attack	だましうち	Feinte	Finta	Finte	Finta	속여때리기
+move_name_0239	Steel Wing	はがねのつばさ	Aile d'Acier	Ala de Acero	Stahlflügel	Alacciaio	강철날개
+move_name_0240	Fire Fang	ほのおのキバ	Crocs Feu	Colmillo Ígneo	Feuerzahn	Rogodenti	불꽃엄니
+move_name_0241	Rock Smash	いわくだき	Éclate-Roc	Golpe Roca	Zertrümmerer	Spaccaroccia	바위깨기
+move_name_0242	Transform	へんしん	Morphing	Transformación	Wandler	Trasformaz	변신
+move_name_0243	Counter	カウンター	Riposte	Contraataque	Konter	Contrattacco	카운터
+move_name_0244	Powder Snow	こなゆき	Poudreuse	Nieve Polvo	Pulverschnee	Polneve	눈싸라기
+move_name_0245	Close Combat	インファイト	Close Combat	A Bocajarro	Nahkampf	Zuffa	인파이트
+move_name_0246	Dynamic Punch	ばくれつパンチ	Dynamopoing	Puño Dinámico	Wuchtschlag	Dinamipugno	폭발펀치
+move_name_0247	Focus Blast	きあいだま	Exploforce	Onda Certera	Fokusstoß	Focalcolpo	기합구슬
+move_name_0248	Aurora Beam	オーロラビーム	Onde Boréale	Rayo Aurora	Aurorastrahl	Raggiaurora	오로라빔
+move_name_0249	Charge Beam	チャージビーム	Rayon Chargé	Rayo Carga	Ladestrahl	Raggioscossa	차지빔
+move_name_0250	Volt Switch	ボルトチェンジ	Change Éclair	Voltiocambio	Voltwechsel	Invertivolt	볼트체인지
+move_name_0251	Wild Charge	ワイルドボルト	Éclair Fou	Voltio Cruel	Stromstoß	Sprizzalampo	와일드볼트
+move_name_0252	Zap Cannon	でんじほう	Élecanon	Electrocañón	Blitzkanone	Falcecannone	전자포
+move_name_0253	Dragon Tail	ドラゴンテール	Draco-Queue	Cola Dragón	Drachenrute	Codadrago	드래곤테일
+move_name_0254	Avalanche	ゆきなだれ	Avalanche	Alud	Lawine	Slavina	눈사태
+move_name_0255	Air Slash	エアスラッシュ	Lame d'Air	Tajo Aéreo	Luftschnitt	Eterelama	에어슬래시
+move_name_0256	Brave Bird	ブレイブバード	Rapace	Pájaro Osado	Sturzflug	Baldeali	브레이브버드
+move_name_0257	Sky Attack	ゴッドバード	Piqué	Ataque Aéreo	Himmelsfeger	Aeroattacco	불새
+move_name_0258	Sand Tomb	すなじごく	Tourbi-Sable	Bucle Arena	Sandgrab	Sabbiotomba	모래지옥
+move_name_0259	Rock Blast	ロックブラスト	Boule Roc	Pedrada	Felswurf	Cadutamassi	락블레스트
+move_name_0260	Infestation	まとわりつく	Harcèlement	Acoso	Plage	Assillo	엉겨붙기
+move_name_0261	Struggle Bug	むしのていこう	Survinsecte	Estoicismo	Käfertrutz	Entomoblocco	벌레의저항
+move_name_0262	Silver Wind	ぎんいろのかぜ	Vent Argenté	Viento Plata	Silberhauch	Ventargenteo	은빛바람
+move_name_0263	Astonish	おどろかす	Étonnement	Impresionar	Erstauner	Sgomento	놀래키기
+move_name_0264	Hex	たたりめ	Châtiment	Infortunio	Bürde	Sciagura	병상첨병
+move_name_0265	Night Shade	ナイトヘッド	Ombre Nocturne	Tinieblas	Nachtnebel	Ombra Notturna	나이트헤드
+move_name_0266	Iron Tail	アイアンテール	Queue de Fer	Cola Férrea	Eisenschweif	Codacciaio	아이언테일
+move_name_0267	Gyro Ball	ジャイロボール	Gyroballe	Giro Bola	Gyroball	Vortexpalla	자이로볼
+move_name_0268	Heavy Slam	ヘビーボンバー	Tacle Lourd	Cuerpo Pesado	Rammboss	Pesobomba	헤비봄버
+move_name_0269	Fire Spin	ほのおのうず	Danse Flamme	Giro Fuego	Feuerwirbel	Turbofuoco	회오리불꽃
+move_name_0270	Overheat	オーバーヒート	Surchauffe	Sofoco	Hitzekoller	Vampata	오버히트
+move_name_0271	Bullet Seed	タネマシンガン	Balle Graine	Recurrente	Kugelsaat	Semitraglia	기관총
+move_name_0272	Grass Knot	くさむすび	Nœud Herbe	Hierba Lazo	Strauchler	Laccioerboso	풀묶기
+move_name_0273	Energy Ball	エナジーボール	Éco-Sphère	Energibola	Energieball	Energipalla	에너지볼
+move_name_0274	Extrasensory	じんつうりき	Extrasenseur	Paranormal	Sondersensor	Extrasenso	신통력
+move_name_0275	Future Sight	みらいよち	Prescience	Premonición	Seher	Divinazione	미래예지
+move_name_0276	Mirror Coat	ミラーコート	Voile Miroir	Manto Espejo	Spiegelcape	Specchiovelo	미러코트
+move_name_0277	Outrage	げきりん	Colère	Enfado	Wutanfall	Oltraggio	역린
+move_name_0278	Snarl	バークアウト	Aboiement	Alarido	Standpauke	Urlorabbia	바크아웃
+move_name_0279	Crunch	かみくだく	Mâchouille	Triturar	Knirscher	Sgranocchio	깨물어부수기
+move_name_0280	Foul Play	イカサマ	Tricherie	Juego Sucio	Schmarotzer	Ripicca	속임수
+move_name_0281	Hidden Power	めざめるパワー	Puissance Cachée	Poder Oculto	Kraftreserve	Introforza	잠재파워
