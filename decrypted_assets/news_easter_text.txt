@@ -1,8 +1,8 @@
-Key	English	Japanese	French	Spanish	German	Italian	Korean	ChineseTraditional	Portuguese
-news_easter_title	Eggstravaganza	ポケモンのタマゴを探せ！	Tous vos Œufs dans le même panier	Fiesta de Primavera	Ei-Spektakel	Uova à gogo!	포켓몬의 알을 찾아라!	全民找蛋大作戰！	n/a
-news_easter_date	April 13-20	4月14日(金)〜4月20日(木)まで	Du 13 au 20 avril	Del 13 al 20 de abril	13.–20. April	Dal 13 al 20 aprile	4월 14일(금)~ 4월20일(목)까지	4月14日〜4月20日	n/a
-news_easter_description	A greater variety of Pokémon can now be found in 2 km Eggs	いつもより多くの種類のポケモンが 2km のタマゴからかえるようです。	Plus de Pokémon découverts dans les Œufs de 2 km	¡Habrá una mayor variedad de Pokémon en los Huevos de 2 km!	Eine größere Vielfalt von Pokémon schlüpft jetzt aus 2-km-Eiern!	Nelle Uova da 2 km adesso puoi trovare più specie di Pokémon!	평소보다 많은 종류의 포켓몬이 2km의 알에서 부화합니다.	2公里的蛋能孵出更多種類的寶可夢	n/a
-news_easter_description2	More Candy from Eggs	タマゴからのアメがいつもより多い！	Plus de Bonbons lorsque vos Œufs éclosent	¡Más Caramelos de Huevos!	Mehr Bonbons durch Eier!	Più caramelle dalle Uova!	알에서 받을 수 있는 사탕도 평소보다 많습니다!	孵蛋時可獲得更多糖果	n/a
-news_easter_description3	Double XP	XPがいつもの倍になります！	Le double de PX	¡El doble de PX!	Doppelte EP!	Il doppio dei PE!	XP도 평소의 배!	XP加倍	n/a
-news_easter_xp	XP	XP	PX	PX	EP	PE	XP	XP	
-news_easter_button	Got it	OK	J’ai compris	¡Ya está!	Alles klar!	OK	확인	OK	n/a
+Key	English	Japanese	French	Spanish	German	Italian	Korean	ChineseTraditional
+news_easter_title	Eggstravaganza	ポケモンのタマゴを探せ！	Tous vos Œufs dans le même panier	Fiesta de Primavera	Ei-Spektakel	Uova à gogo!	포켓몬의 알을 찾아라!	全民找蛋大作戰！
+news_easter_date	April 13-20	4月14日(金)〜4月20日(木)まで	Du 13 au 20 avril	Del 13 al 20 de abril	13.–20. April	Dal 13 al 20 aprile	4월 14일(금)~ 4월20일(목)까지	4月14日〜4月20日
+news_easter_description	A greater variety of Pokémon can now be found in 2 km Eggs	いつもより多くの種類のポケモンが 2km のタマゴからかえるようです。	Plus de Pokémon découverts dans les Œufs de 2 km	¡Habrá una mayor variedad de Pokémon en los Huevos de 2 km!	Eine größere Vielfalt von Pokémon schlüpft jetzt aus 2-km-Eiern!	Nelle Uova da 2 km adesso puoi trovare più specie di Pokémon!	평소보다 많은 종류의 포켓몬이 2km의 알에서 부화합니다.	2公里的蛋能孵出更多種類的寶可夢
+news_easter_description2	More Candy from Eggs	タマゴからのアメがいつもより多い！	Plus de Bonbons lorsque vos Œufs éclosent	¡Más Caramelos de Huevos!	Mehr Bonbons durch Eier!	Più caramelle dalle Uova!	알에서 받을 수 있는 사탕도 평소보다 많습니다!	孵蛋時可獲得更多糖果
+news_easter_description3	Double XP	XPがいつもの倍になります！	Le double de PX	¡El doble de PX!	Doppelte EP!	Il doppio dei PE!	XP도 평소의 배!	XP加倍
+news_easter_xp	XP	XP	PX	PX	EP	PE	XP	XP
+news_easter_button	Got it	OK	J’ai compris	¡Ya está!	Alles klar!	OK	확인	OK
