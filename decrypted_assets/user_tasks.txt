@@ -1,3 +1,3 @@
-"Key"	"English"	"Japanese"	"French"	"Spanish"	"German"	"Italian"	"Korean"	"ChineseTraditional"
-"catch_a_pokemon_short_title"	"Catch a Pokémon"	"ポケモンをゲットせよ"	"Attraper un Pokémon"	"¡Captura un Pokémon!"	"Fange ein Pokémon!"	"Cattura un Pokémon"	"포켓몬을 잡자"	"捕捉寶可夢"
-"visit_a_pokestop_short_title"	"Check out a PokéStop"	"ポケストップをめざせ"	"Visiter un PokéStop"	"¡Visita una Poképarada!"	"Besuche einen PokéStop!"	"Visita un Pokéstop"	"포켓스톱으로 가자"	"前往寶可補給站"
+"Key"	"English"	"Japanese"	"French"	"Spanish"	"German"	"Italian"	"Korean"	"ChineseTraditional"	"BrazilianPortuguese"
+"catch_a_pokemon_short_title"	"Catch a Pokémon"	"ポケモンをゲットせよ"	"Attraper un Pokémon"	"¡Captura un Pokémon!"	"Fange ein Pokémon!"	"Cattura un Pokémon"	"포켓몬을 잡자"	"捕捉寶可夢"	"Pegue um Pokémon"
+"visit_a_pokestop_short_title"	"Check out a PokéStop"	"ポケストップをめざせ"	"Visiter un PokéStop"	"¡Visita una Poképarada!"	"Besuche einen PokéStop!"	"Visita un Pokéstop"	"포켓스톱으로 가자"	"前往寶可補給站"	"Visite uma Poképarada"
