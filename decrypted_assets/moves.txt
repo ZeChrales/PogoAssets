@@ -169,7 +169,7 @@
 "move_name_0230"	"Water Gun"	"みずでっぽう"	"Pistolet à O"	"Pistola Agua"	"Aquaknarre"	"Pistolacqua"	"물대포"	"水槍"	"Revólver d'Água"
 "move_name_0231"	"Splash"	"はねる"	"Trempette"	"Salpicadura"	"Platscher"	"Splash"	"튀어오르기"	"躍起"	"Borrifada"
 "move_name_0232"	"Water Gun"	"みずでっぽう"	"Pistolet à O"	"Pistola Agua"	"Aquaknarre"	"Pistolacqua"	"물대포"	"水槍"	"Revólver d'Água"
-"move_name_0233"	"Mud Slap"	"どろかけ"	"Coud’Boue"	"Bofetón Lodo"	"Lehmschelle"	"Fangosberla"	"진흙뿌리기"	"擲泥"	"Tapa de Lama"
+"move_name_0233"	"Mud-Slap"	"どろかけ"	"Coud’Boue"	"Bofetón Lodo"	"Lehmschelle"	"Fangosberla"	"진흙뿌리기"	"擲泥"	"Tapa de Lama"
 "move_name_0234"	"Zen Headbutt"	"しねんのずつき"	"Psykoud’Boul"	"Cabezazo Zen"	"Zen-Kopfstoß"	"Cozzata Zen"	"사념의박치기"	"意念頭錘"	"Cabeçada Zen"
 "move_name_0235"	"Confusion"	"ねんりき"	"Choc Mental"	"Confusión"	"Konfusion"	"Confusione"	"염동력"	"念力"	"Confusão"
 "move_name_0236"	"Poison Sting"	"どくばり"	"Dard-Venin"	"Picotazo Veneno"	"Giftstachel"	"Velenospina"	"독침"	"毒針"	"Ferrão Venenoso"
