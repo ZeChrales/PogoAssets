@@ -217,3 +217,4 @@ Usa la cámara para leer el código QR para registrarte."	"Willkommen bei {0}!\n
 "battle_prep_new_team"	"New Battle Party"	"新バトルパーティ"	"Nouvelle équipe de combat"	"Nuevo equipo de combate"	"Neues Kampfteam"	"Nuova squadra lotta"	"새로운 배틀파티"	"新對戰小隊"	"Nova equipe de batalha"
 "battle_prep_recommended_team"	"Recommended Battle Party"	"おすすめバトルパーティ"	"Équipe de combat recommandée"	"Equipo de combate recomendado"	"Empfohlenes Kampfteam"	"Squadra lotta consigliata"	"추천 배틀파티"	"推薦的對戰小隊"	"Equipe de batalha recomendada"
 "screen_title_pokemon_inventory_party"	"PARTY"	"バトルパーティ"	"ÉQUIPE"	"EQUIPO"	"Kampfteam"	"SQUADRA"	"배틀 파티"	"小隊"	"EQUIPE"
+"raid_ticket_event"	"Event"	"イベント"	"Event"	"Evento"	"Event"	"Evento"	"Event"	"活動"	"Event"
