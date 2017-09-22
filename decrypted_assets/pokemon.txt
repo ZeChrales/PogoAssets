@@ -204,7 +204,7 @@
 "pokemon_name_0202"	"Wobbuffet"	"ソーナンス"	"Qulbutoké"	"Wobbuffet"	"Woingenau"	"Wobbuffet"	"마자용"	"果然翁"	"Wobbuffet"
 "pokemon_name_0203"	"Girafarig"	"キリンリキ"	"Girafarig"	"Girafarig"	"Girafarig"	"Girafarig"	"키링키"	"麒麟奇"	"Girafarig"
 "pokemon_name_0204"	"Pineco"	"クヌギダマ"	"Pomdepik"	"Pineco"	"Tannza"	"Pineco"	"피콘"	"榛果球"	"Pineco"
-"pokemon_name_0205"	"Forretress"	"フォレトス"	"Foretress"	"Forretress"	"Forstellka"	"Forretress"	"쏘콘"	"佛烈托斯"	"Forrestress"
+"pokemon_name_0205"	"Forretress"	"フォレトス"	"Foretress"	"Forretress"	"Forstellka"	"Forretress"	"쏘콘"	"佛烈托斯"	"Forretress"
 "pokemon_name_0206"	"Dunsparce"	"ノコッチ"	"Insolourdo"	"Dunsparce"	"Dummisel"	"Dunsparce"	"노고치"	"土龍弟弟"	"Dunsparce"
 "pokemon_name_0207"	"Gligar"	"グライガー"	"Scorplane"	"Gligar"	"Skorgla"	"Gligar"	"글라이거"	"天蠍"	"Gligar"
 "pokemon_name_0208"	"Steelix"	"ハガネール"	"Steelix"	"Steelix"	"Stahlos"	"Steelix"	"강철톤"	"大鋼蛇"	"Steelix"

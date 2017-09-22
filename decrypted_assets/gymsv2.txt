@@ -118,7 +118,7 @@
 "raid_damage_bonus"	"Damage"	"ダメージ量"	"Dégâts"	"Daño"	"Schaden"	"Danni"	"데미지"	"傷害量"	"Dano"
 "raid_gym_ownership"	"Gym Control"	"ジムの所属"	"Contrôle d’Arène"	"Control del Gimnasio"	"Kontrolle der Arena"	"Controllo della Palestra"	"체육관의 소속"	"占領道館隊伍"	"Controle do Ginásio"
 "general_total_caps"	"TOTAL"	"TOTAL"	"TOTAL"	"TOTAL"	"GESAMT"	"TOTALE"	"TOTAL"	"TOTAL"	"TOTAL"
-"raid_bonus_challenge"	"GO TO BONUS CHALLENGE"	"ゲットチャレンジへ！"	"ALLER AU DÉFI BONUS"	"IR A DESAFÍO DE BONUS"	"ZUR BONUS-HERAUSFORDERUNG"	"VAI ALLA SFIDA BONUS"	"GO TO BONUS CHALLENGE"	"挑戰額外關卡"	"Ir ao desafio de bônus"
+"raid_bonus_challenge"	"GO TO BONUS CHALLENGE"	"ゲットチャレンジへ！"	"ALLER AU DÉFI BONUS"	"IR A DESAFÍO DE BONUS"	"BONUS-HERAUSFORDERUNG"	"VAI ALLA SFIDA BONUS"	"GO TO BONUS CHALLENGE"	"挑戰額外關卡"	"Ir ao desafio de bônus"
 "profile_gymbadges_recently_visited"	"Recently Visited"	"最近行ったジム"	"Récemment visité"	"Visitados recientemente"	"Zuletzt besucht"	"Visitate di recente"	"최근에 간 체육관"	"最近去過的道館"	"Visitados recentemente"
 "profile_category_gymbadges"	"Gym Badges"	"ジムバッジ"	"Badges d’Arène"	"Medallas de Gimnasio"	"Arenaorden"	"Medaglie"	"체육관 배지"	"道館徽章"	"Insígnias de Ginásio"
 "gym_spinner_team_bonus"	"Team Bonus"	"仲間チームボーナス"	"Bonus d’équipe"	"Bonus de equipo"	"Teambonus"	"Bonus squadra"	"동료팀 보너스"	"同隊獎勵"	"Bônus de equipe"
