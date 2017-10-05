@@ -1,0 +1,10 @@
+Key	English	Japanese	French	Spanish	German	Italian	Korean	ChineseTraditional	BrazilianPortuguese
+header	Legendary Pokémon originally from the Johto region are here!	伝説のポケモンが大陸を大移動！	Des Pokémon légendaires originaires de la région de Johto sont arrivés !	¡Ya están aquí los Pokémon legendarios originarios de la región de Johto!	Legendäre Pokémon aus der Johto-Region sind hier!	I Pokémon leggendari della regione di Johto sono arrivati!	전설의 포켓몬이 대륙을 대이동!	城都地區的傳說的寶可夢降臨！	Os Pokémon Lendários originários da região de Johto chegaram!
+firststop	For a limited time: 9/30 – 10/31!	日本時間10月1日から10月31日の期間限定！	Du 30 sep. au 31 oct.	Del 30 de septiembre al 31 de octubre	30. Sept. – 31. Okt.	Dal 30 settembre al 31 ottobre	한국 시간 10월 1일부터 10월 31일까지 기간 한정!	自10/1起至10/30止！	30 de setembro a 31 de outubro
+description	Raikou	ライコウ : アジア・太平洋地域	Raikou	Raikou	Raikou	Raikou	라이코 - 아시아, 태평양 지역	雷公：亞洲及大洋洲	Raikou
+description2	Entei	エンテイ : アメリカ大陸	Entei	Entei	Entei	Entei	앤테이 - 미국	炎帝：美洲	Entei
+description3	Suicune	スイクン : ヨーロッパ・アフリカ大陸	Suicune	Suicune	Suicune	Suicune	스이쿤 - 유럽, 아프리카 대륙	水君：歐洲及非洲	Suicune
+description4	–  Asia-Pacific		en Asie-Pacifique	(Asia Pacífico)	 – Asien-Pazifik	- Asia Pacifica			- Ásia-Pacífico
+description5	–  Americas		aux Amériques	(América)	– Amerika	- America			- Américas
+description6	–  Europe & Africa		en Europe et en Afrique	(Europa y África)	 – Europa & Afrika	- Europa e Africa			- Europa e África
+ok	Got it	OK	J’ai compris	Vale	Alles klar!	OK	확인	OK	OK
