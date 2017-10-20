@@ -1,0 +1,9 @@
+Key	English	Japanese	French	Spanish	German	Italian	Korean	ChineseTraditional	BrazilianPortuguese
+news_halloween_title	Trick-or-Treat	トリック・オア・トリート！	Des bonbons ou des frissons !	¿Truco o trato?	Süßes oder Saures	Dolcetto o scherzetto?	Trick or treat!	Trick or treat!	Gostosuras ou Travessuras?
+news_halloween_date	Oct. 20 – Nov. 2	10月21日〜11月2日	Du 20 oct. au 2 nov.	20 de oct.-2 de nov.	20. Okt.–2. Nov.	20 ott. - 2 nov.	10월 21일 ~ 11월 1일	10月20日～11月2日	20 de out. a 2 de nov.
+news_halloween_description	2× Candy	「アメ」がいつもの2倍！	Le double de Bonbons	¡Doble de Caramelos!	Doppelte Menge Bonbons	Il doppio delle caramelle!	「사탕」이 평소의 2배!	糖果兩倍	O dobro de doces!
+news_halloween_description2	More spooky	ちょっとこわいポケモンがやってくる	Plus de Pokémon effrayants	¡Más Pokémon terroríficos!	Mehr gruselige	Più Pokémon da paura!	조금 무서워보이는 포켓몬도 온다	會出現有點恐怖的寶可夢	Mais Pokémon assustadores!
+news_halloween_description3	Pokémon	「ショップ」では\nスペシャルボックスも	Des boîtes spéciales dans la Boutique	¡Cajas especiales en la tienda!	Pokémon	Offerte speciali al negozio!	「숍」에서는 스페셜 박스도 있어요	商店推出特別禮盒	Combos especiais na loja!
+news_halloween_description4	Special boxes				Besondere Boxen				
+news_halloween_description5	in the shop				im Shop				
+news_halloween_button	Got it	OK	J’ai compris	Vale	Alles klar!	OK	확인	OK	OK
