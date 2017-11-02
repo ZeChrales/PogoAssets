@@ -1,6 +1,6 @@
 <b>Política de Privacidade Pokémon GO</b>
 
-<b>Última Atualização: 1 de julho de 2016</b>
+<b>Última Atualização: 1 de novembro de 2017</b>
 
 Proteger a sua privacidade (ou a privacidade de seu filho autorizado) é realmente importante para a Niantic, Inc. (“<b>Niantic</b>,” “<b>nós</b>,” “<b>nosso</b>,”). Com isso em mente, estamos fornecendo esta Política de Privacidade para explicar nossas práticas relativas à coleta, uso e divulgação de dados que recebemos através dos nossos serviços de videogame Pokémon GO, que são acessíveis através de nosso aplicativo de dispositivo móvel (“<b>App</b>”). Para tornar esta política de privacidade mais fácil de ler, os nossos serviços, o App, e nosso site localizado em http://pokemongo.nianticlabs.com e http://www.pokemongolive.com (o “<b>Site</b>”) são denominados coletivamente de “<b>Serviços</b>.” Esta Política de Privacidade não se aplica a quaisquer sites, serviços ou aplicativos de terceiros, mesmo que sejam acessíveis através de qualquer um dos nossos Serviços.
 
@@ -46,9 +46,9 @@ c. <i>Dados Relacionadas ao Uso dos Serviços.</i>
 
 Nossos servidores registram automaticamente determinados dados sobre como uma pessoa usa nossos Serviços (nos referimos a esses dados como “<b>Dados de Registro</b>”), inclusive titulares não titulares de Conta (qualquer deles, um “<b>Usuário</b>”). Os Dados de Registro podem incluir dados como o endereço de Protocolo de Internet de um Usuário (IP), agente de usuário, tipo de navegador, sistema operacional, a página web que o usuário estava visitando antes de acessar nossos Serviços, as páginas ou recursos de nossos Serviços que um Usuário navegou e o tempo gasto nessas páginas ou recursos, termos pesquisados, os links em nossos Serviços que o usuário clicou e outras estatísticas. Usamos Dados de Registro para administrar os Serviços e analisamos (e podemos contratar terceiros para analisar) Dados de Registro para melhorar, personalizar e ampliar nossos Serviços, expandindo seus recursos, funcionalidades e adaptando-os às necessidades e preferências de nossos Usuários. Podemos usar Dados de Registro de uma pessoa e outras informações para gerar dados agregados, sem identificação sobre como nossos Serviços são utilizados, compreender,  melhorar nossos Serviços e administrar o uso dos Serviços. Se contratarmos um terceiro para analisar os Dados de Registro, iremos garantir que tal terceiro esteja sujeito aos termos contratuais obrigando-o a processar tais Dados de Registro de acordo com as leis de proteção de dados europeias relevantes (inclusive, sem limitação, a Diretiva de Proteção de Dados).
 
-d. <i>Dados Enviados pelo Seu Dispositivo Móvel.</i>
+d. <i>Dados Do Seu Dispositivo Móvel.</i>
 
-Coletamos alguns dados que o seu dispositivo móvel envia quando você usa nossos Serviços, as configurações do usuário e o sistema operacional de seu dispositivo, bem como dados sobre o seu uso de nossos Serviços durante a utilização no dispositivo móvel. Podemos usar esses dados para fornecer os Serviços e para melhorar e personalizar nossos Serviços para você.
+Coletamos alguns dados sobre o seu dispositivo móvel quando você usa nossos Serviços, as configurações do usuário, o sistema operacional de seu dispositivo, dados sobre outros aplicativos instalados em seu dispositivo móvel, bem como dados sobre o seu uso de nossos Serviços durante a utilização no dispositivo móvel. Podemos usar esses dados para fornecer os Serviços e para melhorar e personalizar nossos Serviços para você.
 
 e. <i>Dados de localização. </i>
 
