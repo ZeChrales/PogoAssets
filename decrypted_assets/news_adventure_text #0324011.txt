@@ -1,0 +1,6 @@
+Key	English	Japanese	French	Spanish	German	Italian	Korean	ChineseTraditional	BrazilianPortuguese
+news_adventure_title	Adventure Week	Pokémon GO アドベンチャーウィーク	Semaine Aventure	Semana de Aventuras	Abenteuerwoche	Avventura!	어드벤처 위크	驚奇冒險週	Semana Aventura
+news_adventure_date	May 18–25	5月19日早朝から5月25日まで	Du 18 au 25 mai	18-25 de mayo	18.–25. Mai	18-25 maggio	5월 19일 새벽부터 5월 25일까지	5月19日凌晨起至5月25日止	18 a 25 de maio
+news_adventure_description	More Rock-type Pokémon!	「いわタイプ」のポケモンにもいつもより多く会えるかも？	Plus de Pokémon Roche !	¡Más Pokémon de tipo Roca!	Mehr Gesteins-Pokémon!	Più Pokémon di tipo Roccia!	「바위타입」의 포켓몬에도 평소보다 많이 만나게 될지도?	更多岩石屬性的寶可夢	Mais Pokémon de tipo Pedra!
+news_adventure_description2	4x Buddy Pokémon Candy!	「相棒ポケモン」がアメを見つける早さがいつもの4倍！	Bonbons Copain Pokémon x4 !	¡Caramelos Pokémon compañero x4!	4x Kumpel-Pokémon-Bonbons!	Caramelle compagno: 4x!	「파트너 포켓몬」이 사탕을 찾는 속도가 평소의 4배!	4倍夥伴寶可夢糖果	Doces de companheiro: 4x!
+news_adventure_button	Got it	OK	J’ai compris	Vale	Alles klar!	OK	확인	OK	OK

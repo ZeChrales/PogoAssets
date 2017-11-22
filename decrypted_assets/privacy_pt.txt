@@ -1,0 +1,119 @@
+<b>Política de Privacidade Pokémon GO</b>
+
+<b>Última Atualização: 1 de julho de 2016</b>
+
+Proteger a sua privacidade (ou a privacidade de seu filho autorizado) é realmente importante para a Niantic, Inc. (“<b>Niantic</b>,” “<b>nós</b>,” “<b>nosso</b>,”). Com isso em mente, estamos fornecendo esta Política de Privacidade para explicar nossas práticas relativas à coleta, uso e divulgação de dados que recebemos através dos nossos serviços de videogame Pokémon GO, que são acessíveis através de nosso aplicativo de dispositivo móvel (“<b>App</b>”). Para tornar esta política de privacidade mais fácil de ler, os nossos serviços, o App, e nosso site localizado em http://pokemongo.nianticlabs.com e http://www.pokemongolive.com (o “<b>Site</b>”) são denominados coletivamente de “<b>Serviços</b>.” Esta Política de Privacidade não se aplica a quaisquer sites, serviços ou aplicativos de terceiros, mesmo que sejam acessíveis através de qualquer um dos nossos Serviços.
+
+<b>1. REVISÕES DESTA POLÍTICA DE PRIVACIDADE</b>
+
+<b>QUAISQUER DADOS COLETADOS ATRAVÉS DE NOSSOS SERVIÇOS APENAS SÃO ABRANGIDOS PELA POLÍTICA DE PRIVACIDADE EM VIGOR NO MOMENTO EM QUE TAIS DADOS SÃO COLETADOS. PODEMOS REVISAR ESTA POLÍTICA DE PRIVACIDADE PERIODICAMENTE. SE REALIZARMOS QUAISQUER ALTERAÇÕES MATERIAIS A ESTA POLÍTICA DE PRIVACIDADE, INCLUINDO QUALQUER ALTERAÇÃO QUE POSSA TER EFEITO RETROATIVO, TE NOTIFICAREMOS A RESPEITO POSTANDO-AS NOS SERVIÇOS ENCAMINHANDO UM E-MAIL OU OUTRA NOTIFICAÇÃO, E ATUALIZAREMOS A “DATA DA ÚLTIMA ATUALIZAÇÃO” ACIMA PARA INDICAR QUANDO ESSAS ALTERAÇÕES FORAM FEITAS.</b>
+
+<b>2. COLETA E USO DE DADOS</b>
+
+Todas as informações presentes nesta seção fazem referência ao seu uso próprio, ou ao uso autorizado de seu/sua filho(a), tendo em vista que é necessária autorização prévia do pai ou responsável legal pelas crianças menores de 13 (treze) anos que utilizarem os Serviços.
+
+a. <i>Seus dados coletados ou recebidos</i>
+
+Nossos principais objetivos ao recolher dados são fornecer e melhorar nossos Serviços e administrar o seu uso e permitir que você (ou seu filho autorizado) naveguem facilmente nos nossos Serviços.
+
+i. <i>Dados da Conta.</i>
+
+Durante o jogo e quando você se registra para criar uma conta conosco (“<b>Conta</b>”), coletamos alguns dados que podem ser usados para te identificar ou reconhecer (Dados Pessoais Identificáveis ou “<b>DPI</b>”). Especificamente, considerando que você tenha uma conta no Google, no Clube de Treinadores Pokémon (“<b>PTC</b>”) ou no Facebook antes de se registrar aqui, iremos recolher DPI (como o seu endereço de e-mail do Google, PTC, ou Facebook) que suas configurações de privacidade com o Google, PTC ou Facebook nos permitirem acessar.
+
+Para registrar uma conta PTC você deverá informar a data de nascimento do usuário e um nome de usuário PTC. Estes dados serão compartilhados conosco (veja o parágrafo “Contas com Crianças” abaixo para mais informações a este respeito).
+
+ii. <i>Dados de Jogo.</i>
+
+Durante o jogo, coletaremos determinados dados, como o seu nome e as mensagens enviadas a outros usuários. Estes dados não permitirão que outros te identifiquem , a menos que você opte por usar o seu nome real e outros dados de identificação. Quando você criar uma Conta, também coletaremos outros dados (como país e idioma) que não podem ser usados para identificar você, a menos que combinadas com outros dados de identificação.
+
+iii. <i>Contas com Crianças.</i>
+
+Cumprimos requisitos de consentimento dos pais exigidos pela Lei de Proteção da Privacidade de Crianças Online (COPPA) e as leis europeias de proteção de dados (inclusive, sem limitação, a Diretiva de Proteção de Dados) através de um processo de verificação e autorização promovido pelo PTC. Conforme descrito nos Termos de Serviço (“<b>Termos</b>”), o pai ou o responsável legal (“<b>Responsável</b>”) de cada criança com menos de 13 anos de idade deve se registrar junto a The Pokémon Company International, Inc. (“<b>TPCI</b>”) por meio do PTC antes de criar uma Conta. Para registrar uma conta PTC, o Responsável pela criança deverá fornecer um endereço de e-mail, um nome de usuário e a sua data de nascimento. Para residentes nos Estados Unidos, após o Responsável ter registrado uma conta PTC, a TPCI irá verificar se a criança é realmente filha do Responsável solicitando a soma dos primeiros e últimos dígitos do número de previdência social (Social Security Number) do Responsável juntamente com seu o nome, data de nascimento e endereço. A TPCI não compartilhará estes dados conosco. Após a TPCI verificar que a criança é filha do Responsável, solicitará o consentimento do Responsável para a criação de uma Conta conosco. Se a autorização não for concedida para o acesso e uso dos Serviços pela criança, a Niantic irá (a) bloquear o registro dessa criança para a Conta; (b) impedir seu acesso e uso dos Serviços; e (c) garantir que os dados de tal criança não sejam acessíveis através dos Serviços.
+
+Os Responsáveis têm o direito de recusar a coleta, o uso e/ou a divulgação de Dados Pessoais Identificáveis de seu filho, notificando-nos. Se verificarmos que recebemos Dados Pessoais Identificáveis de uma criança com menos de 13 anos sem o consentimento dos pais, excluiremos a Conta da criança e todos os outros dados pessoalmente identificáveis coletadas em conjunto com esta Conta.
+
+Os pais de crianças com menos de 13 anos compreendem e concordam que a TPCI e/ou a Niantic pode(m) fornecer dados coletadas através dos Serviços a terceiros que usam tais dados para o propósito exclusivo de administrar ou prestar os Serviços (por exemplo, serviços de monitoramento de segurança de terceiros e empresas de hospedagem web).
+
+b. <i>Dados Coletados Usando Cookies e Outras Tecnologias Web.</i>
+
+Como muitos proprietários e operadores de sites, usamos ferramentas de coleta automatizada de dados, tais como Cookies e Web Beacons para coletar determinados dados no nosso Site.
+
+“<b>Cookies</b>” Como muitos proprietários e operadores de sites, usamos ferramentas de coleta automatizada de dados, tais como Cookies e Web Beacons para coletar determinados dados no nosso Site. “Cookies” são pequenos arquivos de texto colocados no seu disco rígido por um servidor da Web quando você acessar nossos Serviços. Podemos usar “Cookies de Sessão” e “Cookies Persistentes” para identificar se você acessou os Serviços e para nos dizer como e quando você interagir com nossos Serviços. Também podemos usar Cookies para monitorar o uso agregado e o encaminhamento de tráfego-web em nossos Serviços e para customizar e melhorar nossos Serviços. Os Cookies de Sessão são excluídos quando você sair dos Serviços e fechar o navegador. Os Cookies Persistentes permanecem no seu computador e irão identificar como você usa os Serviços ao longo do tempo. Embora a maioria dos navegadores aceite automaticamente os Cookies, você consegue alterar as opções do navegador para parar de aceitar Cookies automaticamente ou te consultar antes de aceitá-los. Favor observar, no entanto, que, se você não aceitar Cookies, você poderá não ser capaz de acessar todas as partes ou funções dos Serviços. Alguns terceiros prestadores de serviços que contratarmos (inclusive terceiros anunciantes) também podem colocar Cookies próprios no seu disco rígido.
+
+“<b>Web Beacons</b>” (também conhecidos como web bugs, pixel tags ou GIFs) são gráficos minúsculos com um identificador único que podem ser incluídos em nossos Serviços para diversas finalidades. Por exemplo, podemos utilizar Web Beacons para entregar ou comunicar com Cookies, rastrear e medir o desempenho dos nossos Serviços, monitorar quantos visitantes acessam os nossos Serviços, e monitorar a eficácia da nossa publicidade. Ao contrário de Cookies, que são armazenados no disco rígido do usuário, Web Beacons geralmente são incorporadas de forma invisível em páginas da web (ou em um e-mail).
+
+c. <i>Dados Relacionadas ao Uso dos Serviços.</i>
+
+Nossos servidores registram automaticamente determinados dados sobre como uma pessoa usa nossos Serviços (nos referimos a esses dados como “<b>Dados de Registro</b>”), inclusive titulares não titulares de Conta (qualquer deles, um “<b>Usuário</b>”). Os Dados de Registro podem incluir dados como o endereço de Protocolo de Internet de um Usuário (IP), agente de usuário, tipo de navegador, sistema operacional, a página web que o usuário estava visitando antes de acessar nossos Serviços, as páginas ou recursos de nossos Serviços que um Usuário navegou e o tempo gasto nessas páginas ou recursos, termos pesquisados, os links em nossos Serviços que o usuário clicou e outras estatísticas. Usamos Dados de Registro para administrar os Serviços e analisamos (e podemos contratar terceiros para analisar) Dados de Registro para melhorar, personalizar e ampliar nossos Serviços, expandindo seus recursos, funcionalidades e adaptando-os às necessidades e preferências de nossos Usuários. Podemos usar Dados de Registro de uma pessoa e outras informações para gerar dados agregados, sem identificação sobre como nossos Serviços são utilizados, compreender,  melhorar nossos Serviços e administrar o uso dos Serviços. Se contratarmos um terceiro para analisar os Dados de Registro, iremos garantir que tal terceiro esteja sujeito aos termos contratuais obrigando-o a processar tais Dados de Registro de acordo com as leis de proteção de dados europeias relevantes (inclusive, sem limitação, a Diretiva de Proteção de Dados).
+
+d. <i>Dados Enviados pelo Seu Dispositivo Móvel.</i>
+
+Coletamos alguns dados que o seu dispositivo móvel envia quando você usa nossos Serviços, as configurações do usuário e o sistema operacional de seu dispositivo, bem como dados sobre o seu uso de nossos Serviços durante a utilização no dispositivo móvel. Podemos usar esses dados para fornecer os Serviços e para melhorar e personalizar nossos Serviços para você.
+
+e. <i>Dados de localização. </i>
+
+O App é um jogo baseado em localização. Coletamos e armazenamos dados sobre seu local quando você utilizar o nosso App e executar ações as jogo que utilizam os Serviços de localização disponibilizados através do sistema operacional de seu dispositivo móvel (que faz uso de triangulação de torres de celular/telefonia móvel, triangulação WiFi, e/ou GPS). Você compreende e concorda que, ao utilizar o nosso App, estará transmitindo a localização de seu dispositivo para nós e parte destes dados de localização, juntamente com o seu nome de usuário, podem ser compartilhados através do App. Por exemplo, quando você executar determinadas ações durante o jogo, o nome de usuário e localização podem ser compartilhados através do App com outros usuários que estão jogando também. Além disso, podemos utilizar os dados de localização para melhorar e personalizar nossos Serviços para você.
+
+<b>3. DADOS QUE COMPARTILHAMOS COM TERCEIROS</b>
+
+Não compartilharemos quaisquer de seus Dados Pessoais Identificáveis (ou de seu filho(a) autorizado(a)), que coletarmos de ou sobre você, exceto conforme descrito abaixo:
+
+a. <i>Dados compartilhados com The Pokémon Company (“<b>TPC</b>”) e TPCI.</i>
+
+Caso você crie uma Conta e quaisquer bugs, erros, outros incidentes ou problemas sejam encontrados na operação ou no desenvolvimento dos Serviços, poderemos compartilhar seus Dados Pessoais Identificáveis com a TPC e/ou a TPCI se essa colaboração for necessária para investigar, diagnosticar, corrigir e/ou resolver o problema. Quaisquer dados que você fornecer diretamente à TPC e/ou à TPCI estão sujeitos à política de privacidade da empresa aplicável. Não somos responsáveis pelo conteúdo e pelas práticas e políticas de privacidade ou segurança da TPC ou da TPCI.
+
+b. <i>Dados Compartilhados com Nossos Provedores de Serviços.</i>
+
+Podemos contratar terceiros prestadores de serviços para trabalhar conosco na administração e provimento dos Serviços. Estes terceiros prestadores de serviços têm acesso aos seus Dados Pessoais Identificáveis apenas com a finalidade de executar serviços em nosso nome e são expressamente obrigados a protegê-los, e não divulgá-los ou usá-los com qualquer outra finalidade.
+
+c. <i>Dados Compartilhados com Terceiros.</i>
+
+Podemos compartilhar dados agregados e dados sem identificação com terceiros para pesquisa e análise, identificação de perfil demográfico e outros fins semelhantes. Estes dados não incluirão seus Dados Pessoais Identificáveis.
+
+d. <i>Dados Divulgados em Relação a Transações Comerciais.</i>
+
+Os dados que coletamos de nossos usuários, inclusive Dados Pessoais Identificáveis, são considerados um ativo comercial. Assim, caso sejamos adquiridos por um terceiro como resultado de alguma operação societária (seja fusão, aquisição, venda de ativos, aquisição de ativos por terceiros, encerramento do negócio, pedido de falência), alguns ou todos nossos ativos, inclusive seus Dados Pessoais Identificáveis podem ser divulgados ou transferidos a um terceiro comprador em relação à transação. Na hipótese de tal operação, te notificaremos e daremos a oportunidade de recusar a divulgação ou transferência de seus Dados Pessoais Identificáveis ao terceiro comprador, dentro de um prazo de 30 dias.
+
+e. <i>Dados Divulgados para Nossa Proteção e para a Proteção de Outros.</i>
+
+Cooperamos com autoridades do governo, da lei e entidades privadas para a aplicação e cumprimento da lei. Podemos divulgar quaisquer dados sobre você que estejam sob nosso controle às autoridades governamentais que, a nosso critério, acreditemos ser necessários ou apropriados para: (a) responder a reclamações ou processo legal (inclusive intimações); (b) proteger nossos bens, direitos e segurança e os bens, direitos e segurança de terceiros ou do público em geral; e (c) identificar e interromper qualquer atividade que considerarmos ilegal, antiética ou em desacordo com a legislação vigente.
+
+<b>4. SUAS ESCOLHAS</b>
+
+Nós te oferecemos opções em relação à coleta, uso e compartilhamento de seus Dados Pessoais Identificáveis e respeitaremos suas escolhas em relação à sua conta, ou a de seu filho autorizado. Favor observe que se você decidir não nos fornecer os Dados Pessoais Identificáveis que solicitarmos, você poderá não ser capaz de acessar alguns ou todos os recursos dos Serviços.
+
+a. <i>Rescindindo Seu Consentimento.</i>
+
+Você tem o direito de recusar a continuação da coleta, uso e/ou divulgação de seus Dados Pessoais Identificáveis, nos encaminhando notificação. Se você tiver consentido com seu acesso e uso dos Serviços, mas desejar rescindir tal consentimento, favor nos contatar no endereço pokemongo-privacy@nianticlabs.com para encaminhar a solicitação. Iremos prontamente interromper seu acesso e utilização dos Serviços e garantir que os seus Dados Pessoais Identificáveis não sejam mais acessíveis ao público através dos Serviços. Neste sentido, observe que se você recusar à  coleta, uso e/ou divulgação de seus Dados Pessoais Identificáveis, você poderá não ser capaz de acessar e utilizar os Serviços em todo ou em parte.
+
+b. <i>Opt-Out.</i>
+
+Para residentes de estados membros da União Europeia e Responsáveis por crianças autorizadas, se você optar por se inscrever em nossa lista de endereços ao registrar a Conta, enviaremos a você periodicamente boletins e e-mails gratuitos que promovem diretamente nossos Serviços. Para os demais usuários, se você não excluir a assinatura para nossa lista de email  durante o registro da Conta, enviaremos a você periodicamente boletins de notícias e e-mails que promovem diretamente nossos Serviços. Quando você receber nossos comunicados promocionais, terá a oportunidade de excluir tais mensagens da Conta ou seguir as instruções de cancelamento de recebimento no e-mail que receber. No entanto, também precisaremos te enviar determinados comunicados sobre os Serviços e estes não poderão ser excluídos (por exemplo, comunicados relacionados a atualizações desta Política de Privacidade).
+
+c. <i>Acesso, Alteração e Exclusão de Seus Dados.</i>
+
+Os Responsáveis podem solicitar e obter acesso aos Dados Pessoais Identificáveis armazenados sobre seus filhos menores de 13 anos, contatando-nos no endereço  pokemongo-privacy@nianticlabs.com. Caso desejem alterar ou excluir os Dados Pessoais Identificáveis, sua Conta ou descontinuar o fornecimento de seus Dados Pessoais Identificáveis a terceiros, favor contatar-nos no endereço pokemongo-privacy@nianticlabs.com incluindo sua solicitação. Tomaremos medidas para alterar ou excluir seus dados assim que possível (a menos que de outra forma seja exigido pela legislação aplicável). Por favor observe, no entanto, que alguns dados podem permanecer em arquivo/cópias de backup para nossos registros ou conforme exigido por lei.
+
+<b>5. MANUTENÇÃO DE SEUS DADOS</b>
+
+Após a rescisão ou desativação de sua Conta, a Niantic, seus clientes, associados ou prestadores de serviços podem reter dados (inclusive as suas informações de perfil) e o conteúdo do usuário por um período de tempo comercialmente razoável para fins de backup, arquivo e/ou auditoria. Caso tenha dúvidas sobre a rescisão ou a desativação da sua Conta, entre em contato conosco diretamente pelo endereço pokemongo-privacy@nianticlabs.com. Tal disposição vale para seus dados e para os dados de seu filho autorizado.
+
+<b>6. RESPONDENDO A SINAIS DE NÃO RASTREAR</b>
+
+Nossos Serviços não têm a capacidade de responder a sinais de “Não Rastrear” recebidos de diferentes navegadores. Para saber mais sobre os sinais de rastreamento de navegador e “Não Rastrear”, visite http://allaboutdnt.org. Tal disposição vale para seus sinais e para os sinais de seu filho autorizado.
+
+<b>7. A SEGURANÇA DE SEUS DADOS</b>
+
+Tomamos medidas administrativas, físicas e eletrônicas apropriadas concebidas para proteger os dados que coletamos a seu respeito ou sobre seu filho autorizado, contra destruição acidental ou ilícita, perda acidental ou acesso, utilização, modificação, interferência ou divulgação não autorizada. Esteja ciente, no entanto, que nenhum método de transmissão ou armazenamento de dados é completamente segura. Assim sendo, não podemos garantir a segurança absoluta de quaisquer dados.
+
+<b>8. LINKS PARA OUTROS SITES</b>
+
+Nossos Serviços podem conter links para sites e serviços detidos ou operados por terceiros (cada qual, um “<b>Serviço de Terceiro</b>”). Quaisquer dados que você (ou seu filho autorizado) fornecerem a um Serviço de Terceiro, ou que sejam coletados por um Serviço de Terceiro (inclusive Google, Facebook e PTC) são enviados diretamente ao proprietário ou operador e estão sujeitos à tal política de privacidade. Não somos responsáveis pelas práticas e políticas de conteúdo, privacidade ou segurança de qualquer Serviço de Terceiro. Para proteger seus dados, recomendamos que analise cuidadosamente as políticas de privacidade de todos os Serviços de Terceiros que você acessar através de nossos Serviços.
+
+<b>9. Transferência Internacional</b>
+
+Os seus Dados Pessoais Identificáveis (ou de seu filho autorizado)  podem ser transferidos e mantidos em computadores localizados fora do seu estado, província, país ou outra jurisdição governamental onde as leis de privacidade podem não ser tão protetoras quanto aquelas em sua jurisdição. Se você estiver localizado fora dos Estados Unidos e optar por fornecer suas Dados Pessoais Identificáveis para nós, podemos transferir os seus Dados Pessoais Identificáveis para os Estados Unidos e processá-los lá. Sempre que transferirmos seus Dados Pessoais Identificáveis para fora da jurisdição em que você estiver localizado, garantimos que as proteções apropriadas estejam implementadas em relação à sua segurança. Você pode nos solicitar para não transferirmos suas Dados Pessoais Identificáveis para os Estados Unidos, mas se você fizer isso, pode ser que não sejamos capazes de fornecer os Serviços em todo ou em parte.
+
+<b>10. Dúvidas?</b>
+
+Por favor, nos contate no endereço pokemongo-privacy@nianticlabs.com caso tenha quaisquer dúvidas sobre nossa Política de Privacidade, ou se desejar fazer uma reclamação sobre a nossa coleta, uso ou divulgação de Dados Pessoais Identificáveis sob esta Política de Privacidade (ou de seu filho autorizado). Envidaremos nossos esforços para resolver qualquer reclamação que você possa ter assim que possível.
