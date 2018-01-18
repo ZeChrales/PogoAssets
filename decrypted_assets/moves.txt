@@ -227,4 +227,4 @@
 "move_name_0286"	"Doom Desire"	"はめつのねがい"	"Carnareket"	"Deseo Oculto"	"Kismetwunsch"	"Obbliderio"	"파멸의소원"	"破滅之願"	"Desejo Cruel"
 "move_name_0290"	"Precipice Blades"	"だんがいのつるぎ"	"Lame Pangéenne"	"Filo del Abismo"	"Abgrundsklinge"	"Spade Telluriche"	"단애의칼"	"斷崖之劍"	"Lâmina Abissal"
 "move_name_0289"	"Origin Pulse"	"こんげんのはどう"	"Onde Originelle"	"Pulso Primigenio"	"Ursprungswoge"	"Primopulsar"	"근원의파동"	"根源波動"	"Pulso Original"
-"move_name_0291"	"Present"	"プレゼント"	"Cadeau"	"Presente"	"Geschenk"	"Regalino"	"선물"	"禮物"	"Presente"
+"move_name_0291"	"Present"	"プレゼント"	"Cadeau"	"Presente"	"Geschenk"	"Regalino"	"프레젠트"	"禮物"	"Presente"
