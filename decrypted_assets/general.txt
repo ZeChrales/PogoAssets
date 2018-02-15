@@ -45,7 +45,7 @@
 "badge_battle_training_won"	"Train {0} times."	"ポケモンを {0} 匹トレーニングした！"	"{0} Pokémon dressés."	"Entrena {0} veces."	"Trainiere {0}-mal."	"Pokémon allenati: {0}"	"포켓몬을 {0} 마리 트레이닝했다!"	"訓練 {0} 隻寶可夢"	"Pokémon treinados: {0}"
 "badge_battle_training_won_title"	"Ace Trainer"	"エリートトレーナー"	"Top Dresseur"	"Entre. Guay"	"Ass-Trainer "	"Fantallenatore"	"엘리트 트레이너"	"精英訓練家"	"Treinador Ás"
 "badge_battle_training_won_value_format"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"
-"badge_battle_defend_won"	"Win {0} defense battles!"	"{0} 回ジムを防衛した！"	"{0} combats en défense gagnés."	"Gana {0} combates de defensa."	"Gewinne {0} Verteidigungskämpfe!"	"Lotte difensive vinte: {0}"	"{0} 회 체육관을 방어했다!"	"成功防禦道館 {0} 次！"	"Batalhas de defensa vencidas: {0}"
+"badge_battle_defend_won"	"Win {0} defense battles!"	"{0} 回ジムを防衛した！"	"{0} combats en défense gagnés."	"Gana {0} combates de defensa."	"Gewinne {0} Verteidigungskämpfe!"	"Lotte difensive vinte: {0}"	"{0} 회 체육관을 방어했다!"	"成功防禦道館 {0} 次！"	"Batalhas de defesa vencidas: {0}"
 "badge_battle_defend_won_title"	"Defense Battles Won"	"ジム防衛回数"	"Combats Défense gagnés"	"Combates de defensa ganados"	"Gewonnene Vert.-Kämpfe"	"Lotte difensive vinte"	"체육관 방어 횟수"	"成功防禦道館的次數"	"Batalhas de defesa vencidas"
 "badge_battle_defend_won_value_format"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"	"N0"
 "badge_prestige_raised"	"Raise {0} total Gym Prestige!"	"ジムの名声を {0} 上げた！"	"Prestige d'Arènes augmenté de {0}."	"Aumenta en {0} el prestigio total del Gimnasio."	"Erhöhe Arena-Prestige um {0}."	"Prestigio totale delle Palestre aumentato di: {0}"	"체육관의 명성을 {0} 올렸다!"	"將道館聲望值提升了 {0} ！"	"Prestígio total do Ginásio aumentado em: {0}"
