@@ -30,3 +30,7 @@
 "form_attack"	"Attack"	"アタックフォルム"	"Attaque"	"Ataque"	"Angriffsform"	"Attacco"	"어택폼"	"攻擊形態"	"Ataque"	""	""
 "form_speed"	"Speed"	"スピードフォルム"	"Vitesse"	"Velocidad"	"Initiativeform"	"Velocità"	"스피드폼"	"速度形態"	"Velocidade"	""	""
 "form_deoxys_normal"	"Normal"	"ノーマルフォルム"	"Normale"	"Normal"	"Normalform"	"Normale"	"노말폼"	"ノーマルフォルム"	"Normal"	""	""
+"general_send"	"SEND"	"送信"	"SEND"	"SEND"	"SEND"	"INVIA"	"보내기"	"提交"	"SEND"	""	""
+"general_report_title"	"Report Issue"	"フィードバック"	"Report Issue"	"Report Issue"	"Report Issue"	"Segnala un problema"	"피드백"	"回報問題"	"Report Issue"	""	""
+"weather_report_option_1"	"The weather is not accurate at all!"	"天候が正確に反映されていません"	"The weather is not accurate at all!"	"The weather is not accurate at all!"	"The weather is not accurate at all!"	"Le previsioni del tempo non sono molto accurate!"	"날씨가 정확하게 반영되지 않았습니다"	"天氣完全不對！"	"The weather is not accurate at all!"	""	""
+"weather_report_option_2"	"The weather seems accurate, just not up to date."	"天候は正確ですが、最新の状況を反映していません"	"The weather seems accurate, just not up to date."	"The weather seems accurate, just not up to date."	"The weather seems accurate, just not up to date."	"Le previsioni del tempo sembrano accurate, ma non aggiornate."	"날씨는 정확하지만, 최신 상황을 반영하지 못했습니다"	"天氣是正確的，但並未更新至最新狀態"	"The weather seems accurate, just not up to date."	""	""
