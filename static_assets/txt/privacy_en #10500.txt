@@ -1,0 +1,130 @@
+<b>Pokémon GO Privacy Policy</b>
+
+<b>Last Updated: November 1, 2017</b>
+
+Protecting your privacy (or the privacy of your authorized child) is really important to Niantic, Inc. (“<b>Niantic</b>,” "<b>we</b>," "<b>our</b>," or "<b>us</b>".)
+With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information that we receive through our Pokémon GO video game services, which are accessible via our mobile device application (the “<b>App</b>”).
+To make this Privacy Policy easier to read, our services, the App, and our website located at http://pokemongo.nianticlabs.com
+and http://www.pokemongolive.com (the “<b>Site</b>”) are collectively called the “<b>Services</b>.” This Privacy Policy does not apply to any third party websites, services, or applications, even if they are accessible through any of our Services.
+
+<b>1. REVISIONS TO THIS PRIVACY POLICY</b>
+
+<b>ANY INFORMATION THAT IS COLLECTED VIA OUR SERVICES IS COVERED BY THE PRIVACY POLICY IN EFFECT AT THE TIME SUCH INFORMATION IS COLLECTED. WE MAY REVISE THIS PRIVACY POLICY FROM TIME TO TIME. IF WE MAKE ANY MATERIAL CHANGES TO THIS PRIVACY POLICY, INCLUDING ANY CHANGE THAT WE PROPOSE THAT WILL HAVE RETROACTIVE EFFECT, WE’LL NOTIFY YOU OF THOSE CHANGES BY POSTING THEM ON THE SERVICES OR BY SENDING YOU AN EMAIL OR OTHER NOTIFICATION, AND WE’LL UPDATE THE “LAST UPDATED DATE” ABOVE TO INDICATE WHEN THOSE CHANGES WERE MADE.</b>
+
+<b>2. COLLECTION AND USE OF INFORMATION</b>
+
+a. <i>Information Collected or Received from You (or Your Authorized Child)</i>.
+
+Our primary goals in collecting information are to provide and improve our Services, to administer your (or your authorized child’s) use of the Services, and to enable you (or your authorized child) to enjoy and easily navigate our Services.
+
+i. <i>Account Information</i>.
+
+During gameplay and when you (or your authorized child) register to create an account with us (“<b>Account</b>”), we’ll collect certain information that can be used to identify or recognize you (or your authorized child) (“<b>PII</b>”). Specifically, because you must have an account with Google, Pokémon Trainer Club (“<b>PTC</b>”), or Facebook before registering to create an Account, we will collect PII (such as your Google email address, your PTC registered email address, and/or your Facebook registered email address) that your privacy settings with Google, PTC, or Facebook permit us to access.
+
+Registering a PTC account will require you to submit the date of birth of the user (which could be you or your authorized child) and the PTC username. This information will be shared with us (see the “Accounts with Children” paragraph below for more information on this).
+
+ii. <i>Gameplay Information</i>.
+
+During game play we will collect certain information, such as your (or your authorized child’s) user name and messages sent to other users. This information will not allow others to identify you (or your authorized child) unless you (or your authorized child) choose to use your (or your authorized child’s) real name and other identifying information. When you (or your authorized child) create an Account we also will collect other information (such as country and language) that cannot be used to identify you (or your authorized child) unless combined with other identifying information.
+
+iii. <i>Accounts with Children</i>.
+
+We comply with verifiable parental consent requirements mandated by the Children’s Online Privacy Protection Act (COPPA) and European data protection laws (including, without limitation, the Data Protection Directive) through a verification and consent process handled by PTC. As described in the Terms of Service (“<b>Terms</b>”), the parent or legal guardian (“<b>Parent</b>”) of each child under the age of 13 must register with The Pokémon Company International, Inc. (“<b>TPCI</b>”) through PTC before creating an Account. Registering a PTC account requires that a child’s Parent provide an email address, a user name for the user and the date of birth of the user. For U.S. residents, after a Parent has registered a PTC account, TPCI will verify that the child is the Parent’s child by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. TPCI will not share that information with us. After TPCI verifies that the child is the Parent’s child, it will ask the Parent to consent to the creation of an Account with us. If a Parent does not consent to a child’s access to and use of the Services or does not verify the Parent’s consent through the consent process, Niantic will bar that child’s registration for an Account, prevent the child’s access to and use of the Services, and ensure that such child’s information is not accessible through the Services.
+
+Parents have the right to refuse further collection, use, and/or disclosure of their child’s PII by notifying us. If we learn that we have received PII from a child under the age of 13 without the Parent providing consent, we will delete the child’s Account and all other PII collected in conjunction with such Account.
+
+The Parents of children under the age of 13 understand and agree that TPCI and/or Niantic may provide information collected via the Services, to third parties who use such information for the sole purpose of administering or providing the Services (e.g., third party security monitoring services and web hosting companies).
+
+iv. <i>Apple Watch - Additional Terms for Apple Health App Data.</i>
+
+In addition to the data collection practices described below in this Privacy Policy, if you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data (such as Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.
+
+b. <i> Information Collected Using Cookies and other Web Technologies </i>.
+
+Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information on our Site.
+
+“<b>Cookies</b>” are small text files that are placed on your hard drive by a Web server when you (or your authorized child) access our Services. We may use both session Cookies and persistent Cookies to identify that you (or your authorized child) have logged in to the Services and to tell us how and when you (or your authorized child) interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Session Cookies are deleted when you (or your authorized child) log off from the Services and close the browser. Persistent Cookies remain on your computer and will identify how you use the Services over time. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you (or your authorized child) may not be able to access all portions or features of the Services. Some third party services providers that we engage (including third party advertisers) may also place their own Cookies on your hard drive.
+
+“<b>Web Beacons</b>” (also known as web bugs, pixel tags, or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes. For example, we may use Web Beacons to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
+
+c. <i> Information Related to Use of the Services</i>.
+
+Our servers automatically record certain information about how a person uses our Services (we refer to this information as “<b>Log Data</b>”), including both Account holders and non-Account holders (either, a “<b>User</b>”). Log Data may include information such as a User’s Internet Protocol (IP) address, user agent, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on, and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize, and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s Log Data and other information to generate aggregate, non-identifying information about how our Services are used and use such aggregated information to understand and improve our Services and to administer use of the Services. If we engage a third party to analyze the Log Data, we will ensure that such third party is bound by contractual terms requiring it to process such Log Data in accordance with relevant European data protection laws (including, without limitation, the Data Protection Directive).
+
+d. <i>Device Information</i>.
+
+We collect certain information about your (or your authorized child’s) mobile device when you (or your authorized child) use our Services, like a device identifier, user settings, the operating system of your (or your authorized child’s) device, information about other applications installed on your (or your authorized child’s) device as well as information about your use of our Services while using the mobile device. We may use this information to provide the Services and to improve and personalize our Services for you (or your authorized child).
+
+e. <i> Location Information. </i>
+
+The App is a location based game. We collect and store information about your (or your authorized child’s) location when you (or your authorized child) use our App and take game actions that use the location services made available through your (or your authorized child’s) device’s mobile operating system, which makes use of cell/mobile tower triangulation, wifi triangulation, and/or GPS. You understand and agree that by using our App you (or your authorized child) will be transmitting your (or your authorized child’s) device location to us and some of that location information, along with your (or your authorized child’s) user name, may be shared through the App. For example, when you take certain actions during gameplay, your (or your authorized child’s) user name and location may be shared through the App with other users who are playing the game. We may also use location information to improve and personalize our Services for you (or your authorized child).
+
+<b>3. INFORMATION THAT WE SHARE WITH THIRD PARTIES</b>
+
+We will not share any of your (or your authorized child’s) PII that we have collected from or regarding you (or your authorized child) except as described below:
+
+a. <i> Information Shared with The Pokémon Company (“<b>TPC</b>”) and TPCI </i>.
+
+If you register to create an Account and any bugs, errors, or other incidents or problems are found in the operation or development of the Services, we may share your (or your authorized child’s) PII with TPC and/or TPCI if such collaboration is required to investigate, diagnose, correct, and/or resolve the issue. Any information that you (or your authorized child) provide directly to TPC and/or TPCI is subject to the applicable company’s privacy policy. We are not responsible for the content, privacy, or security practices and policies of TPC or TPCI.
+
+b. <i> Information Shared with Our Services Providers</i>.
+
+We may engage third party service providers to work with us to administer and provide the Services. These third party service providers have access to your (or your authorized child’s) PII only for the purpose of performing services on our behalf and are expressly obligated to secure your (or your authorized child’s) PII and not to disclose or use your (or your authorized child’s) PII for any other purpose.
+
+c. <i> Information Shared with Third Parties </i>.
+
+We may share aggregated information and non-identifying information with third parties for research and analysis, demographic profiling, and other similar purposes. This information will not include your (or your authorized child’s) PII.
+
+d. <i> Information Disclosed in Connection with Business Transactions.</i>
+
+Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your (or your authorized child’s) PII, may be disclosed or transferred to a third party acquirer in connection with the transaction. In the event of such a transaction, we will give you notice of the transaction and the opportunity for a period of 30 days to refuse disclosure or transfer of your (or your authorized child’s) PII to the third party acquirer in connection with the transaction.
+
+e. <i>Information Disclosed for Our Protection and the Protection of Others.</i>
+
+We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you (or your authorized child) that is in our possession or control to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to identify and stop any activity that we consider illegal, unethical, or legally actionable activity.
+
+<b>4. YOUR CHOICES</b>
+
+We offer you choices regarding the collection, use, and sharing of your (or your authorized child’s) PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you (or your authorized child) may not be able to access some or all of the features of the Services.
+
+a. <i> Rescinding Your Consent</i>.
+
+You have the right to refuse further collection, use, and/or disclosure of your (or your authorized child’s) PII by notifying us. If you have consented to your (or your authorized child’s) access to and use of the Services but wish to rescind such consent, please contact us at pokemongo-privacy@nianticlabs.com to submit the request. We will promptly discontinue your (or your authorized child’s) access to and use of the Services and ensure that your (or your authorized child’s) PII is no longer publicly accessible through the Services. Please note, however, that if you refuse further collection, use, and/or disclosure of your (or your authorized child’s) PII, you may not be able to access and use all or a portion of the Services.
+
+b. <i> Opt-Out </i>.
+
+For residents of member states of the European Union and Parents of authorized children, if you elect to subscribe to our mailing list (or elect to subscribe your authorized child to our mailing list) during Account registration, we will periodically send you (or your authorized child) free newsletters and e-mails that directly promote our Services. For all other users, if you do not opt out of subscription to our mailing list (or opt out of subscription for your authorized child to our mailing list) during Account registration, we will periodically send you (or your authorized child) free newsletters and e-mails that directly promote our Services. When you (or your authorized child) receive such promotional communications from us, you (or your authorized child) will have the opportunity to opt out (either through your (or your authorized child’s) Account or by following the unsubscribe instructions provided in the e-mail you (or your authorized child) receive). We will need to send you (or your authorized child) certain communications regarding the Services and you (or your authorized child) will not be able to opt out of those communications (e.g., communications regarding updates to this Privacy Policy).
+
+
+c. <i> Accessing, Modifying, and Deleting Your Information</i>.
+
+Parents may request and obtain access to PII stored about their children who are under the age of 13 by contacting us at pokemongo-privacy@nianticlabs.com . If you want us to modify or delete your (or your authorized child’s) PII and/or your (or your authorized child’s) Account, or discontinue the provision of your (or your authorized child’s) PII to third parties, please contact us at pokemongo-privacy@nianticlabs.com with your request. We’ll take steps to modify or delete your (or your authorized child’s) information as soon we can (unless otherwise permitted by applicable law). Please note, however, that some information may remain in archived/backup copies for our records or as otherwise required by law.
+
+
+<b>5. KEEPING YOUR INFORMATION</b>
+
+Following termination or deactivation of your (or your authorized child’s) Account, Niantic, its clients, affiliates, or service providers may retain information (including your (or your authorized child’s) profile information) and user content for a commercially reasonable time period for backup, archival, and/or audit purposes. If you have any questions about termination or deactivation of your (or your authorized child’s) Account, please contact us directly at pokemongo-privacy@nianticlabs.com
+
+<b>6. RESPONDING TO DO NOT TRACK SIGNALS</b>
+
+Our Services do not have the capability to respond to “Do Not Track” signals received from various web browsers. To learn more about browser tracking signals and “Do Not Track,” please visit http://allaboutdnt.org .
+
+<b>7. THE SECURITY OF YOUR INFORMATION</b>
+
+We take appropriate administrative, physical, and electronic measures designed to protect the information that we collect from or about you or your authorized child from accidental or unlawful destruction, accidental loss or unauthorized access, use, modification, interference, or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+
+<b>8. LINKS TO OTHER SITES</b>
+
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a “<b>Third Party Service</b>”). Any information that you (or your authorized child) provide on or to a Third Party Service or that is collected by a Third Party Service (including Google, Facebook and PTC) is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service. To protect your (or your authorized child’s) information we recommend that you carefully review the privacy policies of all Third Party Service that you (or your authorized child) access via our Services.
+
+<b>9. International Transfer</b>
+
+Your (or your authorized child’s) PII may be transferred to, and maintained on, computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your (or your authorized child’s) PII to us, we may transfer your (or your authorized child’s) PII to the United States and process it there. Whenever we transfer your (or your authorized child’s) PII outside of the jurisdiction in which you (or your authorized child) are located, we ensure that appropriate safeguards are in place in relation to its security. You may request us not to transfer your (or your authorized child’s) PII to the United States, but if you do so, we may not be able to provide some or all of the Services to you (or your authorized child).
+
+<b>10. Questions?</b>
+
+Please contact us at pokemongo-privacy@nianticlabs.com if you have any questions about our Privacy Policy, or if you wish to make a complaint about our collection, use, or disclosure of your (or your authorized child’s) PII under this Privacy Policy. We will use our reasonable endeavors to address any complaint you may have as soon as possible.
+
+<b>Apple Watch - Additional Terms for Apple Health App Data.</b>
+
+In addition to the data collection practices described below in this Privacy Policy, if you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data (such as Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.
