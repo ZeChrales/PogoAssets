@@ -85,7 +85,7 @@
 "move_name_0084"	"Disarming Voice"	"チャームボイス"	"Voix Enjôleuse"	"Voz Cautivadora"	"Säuselstimme"	"Incantavoce"	"차밍보이스"	"魅惑之聲"	"Voz Desarmante"
 "move_name_0085"	"Draining Kiss"	"ドレインキッス"	"Vampibaiser"	"Beso Drenaje"	"Diebeskuss"	"Assorbibacio"	"드레인키스"	"吸取之吻"	"Beijo Drenante"
 "move_name_0086"	"Dazzling Gleam"	"マジカルシャイン"	"Éclat Magique"	"Brillo Mágico"	"Zauberschein"	"Magibrillio"	"매지컬샤인"	"魔法閃耀"	"Clarão Deslumbrante"
-"move_name_0087"	"Moonblast"	"ムーンフォース"	"Pouvoir Lunaire"	"Fuerza Lunar"	"Mondgewalt"	"Forza Lunare"	"문포스"	"月亮之力"	"Explosão Lunar"
+"move_name_0087"	"Moonblast"	"ムーンフォース"	"Pouvoir Lunaire"	"Anillo Ígneo"	"Mondgewalt"	"Forza Lunare"	"문포스"	"月亮之力"	"Explosão Lunar"
 "move_name_0088"	"Play Rough"	"じゃれつく"	"Câlinerie"	"Carantoña"	"Knuddler"	"Carineria"	"치근거리기"	"嬉鬧"	"Jogo Duro"
 "move_name_0089"	"Cross Poison"	"クロスポイズン"	"Poison-Croix"	"Veneno X"	"Giftstreich"	"Velenocroce"	"크로스포이즌"	"十字毒刃"	"Corte-veneno"
 "move_name_0090"	"Sludge Bomb"	"ヘドロばくだん"	"Bomb-Beurk"	"Bomba Lodo"	"Matschbombe"	"Fangobomba"	"오물폭탄"	"污泥炸彈"	"Bomba de Lodo"
@@ -233,3 +233,4 @@
 "move_name_0294"	"Weather Ball"	"ウェザーボール"	"Ball’Météo"	"Meteorobola"	"Meteorologe"	"Palla Clima"	"웨더볼"	"氣象球"	"Esfera Climática"
 "move_name_0295"	"Weather Ball"	"ウェザーボール"	"Ball’Météo"	"Meteorobola"	"Meteorologe"	"Palla Clima"	"웨더볼"	"氣象球"	"Esfera Climática"
 "move_name_0296"	"Frenzy Plant"	"ハードプラント"	"Végé-Attak"	"Planta Feroz"	"Flora-Statue"	"Radicalbero"	"하드플랜트"	"瘋狂植物"	"Planta Mortal"
+"move_name_0298"	"Blast Burn"	"ブラストバーン"	"Rafale Feu"	"Anillo Ígneo"	"Lohekanonade"	"Incendio"	"블러스트번"	"爆炸烈焰"	"Queimadura Explosiva"
