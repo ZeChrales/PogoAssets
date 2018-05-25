@@ -221,4 +221,4 @@
 "filter_key_legendary"	"legendary"	"伝説のポケモン"	"légendaire"	"legendario"	"Legendär"	"leggendario"	"전설의 포켓몬"	"傳說的寶可夢"	"lendário"
 "filter_key_shiny"	"shiny"	"色違い"	"chromatique"	"variocolor"	"Schillernd"	"cromatico"	"색이 다른"	"異色"	"Brilhante"
 "filter_key_mythical"	"mythical"	"まぼろし"	"fabuleux"	"singular"	"Mysteriös"	"misterioso"	"환상"	"幻"	"Mítico"
-"filter_key_alola"	"alola"	"alola"	"alola"	"alola"	"alola"	"alola"	"alola"	"alola"	"alola"
+"filter_key_alola"	"alola"	"あろーら"	"alola"	"alola"	"alola"	"Forma di Alola"	"alola"	"阿羅拉"	"alola"
