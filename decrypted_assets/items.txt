@@ -294,3 +294,7 @@
 "bundle.general2.small.1.itembox_title"	"Item Box (Beta)"	"アイテムボックス (Beta)"	"Boîte à objets (Beta)"	"Pack de objetos (Beta)"	"Itembox (Beta)"	"Pacco strumenti (beta)"	"아이템 박스(Beta)"	"道具盒 (Beta)"	"Combo de Itens (beta)"
 "bundle.general2.medium.1.itembox_title"	"Silver Item Box (Beta)"	"シルバーアイテム (Beta)"	"Boîte à objets argentée (Beta)"	"Pack de objetos plateado (Beta)"	"Silber-Itembox (Beta)"	"Pacco strumenti argento (beta)"	"실버아이템 박스(Beta)"	"銀道具盒 (Beta)"	"Combo de Itens prata (beta)"
 "bundle.general2.large.1.itembox_title"	"Gold Item Box (Beta)"	"ゴールドアイテム (Beta)"	"Boîte à objets dorée (Beta)"	"Pack de objetos dorado (Beta)"	"Gold-Itembox (Beta)"	"Pacco strumenti oro (beta)"	"골드아이템 박스(Beta)"	"金道具盒 (Beta)"	"Combo de Itens ouro (beta)"
+"avatar_m_shirt_mew_bundle_icon"	"Mew Shirt"	"ミュウTシャツ"	"T-shirt Mew"	"Camiseta\nde Mew"	"Mew-T-Shirt"	"T-shirt Mew"	"뮤티셔츠"	"夢幻T恤"	"Camiseta de Mew"
+"avatar_f_shirt_mew_bundle_icon"	"Mew Shirt"	"ミュウTシャツ"	"T-shirt Mew"	"Camiseta\nde Mew"	"Mew-T-Shirt"	"T-shirt Mew"	"뮤티셔츠"	"夢幻T恤"	"Camiseta de Mew"
+"avatar_m_shirt_latias_latios_bundle_icon"	"Latias & Latios Shirt"	"ラティアス＆ラティオスＴシャツ"	"T-shirt Latias et Latios"	"Camisa de Latios e Latias"	"Latias & Latios-\nShirt"	"T-shirt Latias e Latios"	"라티아스&라티오스 티셔츠"	"拉帝亞斯＆拉帝歐斯T恤"	"Camisa de Latios e Latias"
+"avatar_f_shirt_latias_latios_bundle_icon"	"Latias & Latios Shirt"	"ラティアス＆ラティオスＴシャツ"	"T-shirt Latias et Latios"	"Camisa de Latios e Latias"	"Latias & Latios-\nShirt"	"T-shirt Latias e Latios"	"라티아스&라티오스 티셔츠"	"拉帝亞斯＆拉帝歐斯T恤"	"Blusa de Latios e Latias"
