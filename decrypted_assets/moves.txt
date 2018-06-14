@@ -234,3 +234,4 @@
 "move_name_0295"	"Weather Ball"	"ウェザーボール"	"Ball’Météo"	"Meteorobola"	"Meteorologe"	"Palla Clima"	"웨더볼"	"氣象球"	"Esfera Climática"
 "move_name_0296"	"Frenzy Plant"	"ハードプラント"	"Végé-Attak"	"Planta Feroz"	"Flora-Statue"	"Radicalbero"	"하드플랜트"	"瘋狂植物"	"Planta Mortal"
 "move_name_0298"	"Blast Burn"	"ブラストバーン"	"Rafale Feu"	"Anillo Ígneo"	"Lohekanonade"	"Incendio"	"블러스트번"	"爆炸烈焰"	"Queimadura Explosiva"
+"move_name_0297"	"Smack Down"	"うちおとす"	"Anti-Air"	"Antiaéreo"	"Katapult"	"Abbattimento"	"떨어뜨리기"	"擊落"	"Derrubada"
