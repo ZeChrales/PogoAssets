@@ -1,0 +1,536 @@
+test_key
+Test
+screen_you_title
+me
+screen_friends_title
+friends
+social_add_friends
+Add Friend
+friend_code_title
+Trainer Code
+enter_friend_code_prompt
+To add someone to your Friend List, enter their Trainer Code.
+your_friend_code_title
+Your Trainer Code
+other_section_title
+Other
+send_gift_action
+Send Gift
+trade_action
+Trade
+incoming_friend_request_prompt
+{0} people sent you Friend Requests.
+incoming_friend_request_prompt_singular
+One person sent you a Friend Request.
+screen_title_friend_requests
+Friend Requests
+accept_friend_request_prompt
+Sent you a Friend Request!
+became_friends_prompt
+You and {0} are now friends.
+sent_friend_request_prompt
+You sent a Friend Request.
+share_title
+Share
+your_friend_code_desc
+Others can input this Trainer Code to add you as a friend.
+social_add_friend_qr
+QR Code
+social_add_friend_facebook
+Import friends from Facebook
+friend_sent_you_gift_notification
+{0} sent you a Gift!
+select_giftbox_to_send_prompt
+Which Gift do you want to send?
+send_giftbox_prompt
+Send Gift
+gift_from_prompt
+Greetings from
+friend_request_accepted_prompt
+You and {0} are now friends!
+error_opened_daily_max_number_of_gifts
+Daily limit reached. Come back tomorrow to open more Gifts.
+remove_friend_confirmation
+Are you sure you want to remove this friend?
+error_already_sent_gift_today
+You already sent this Trainer a Gift today.
+error_friend_has_unopened_gift
+Your friend still has an unopened Gift from you.
+error_player_not_found
+Invalid Trainer Code; Trainer not found.
+error_friend_request_does_not_exist
+Friend Request does not exist.
+error_senders_friends_list_full
+{0}'s Friend List is full.
+error_friends_list_full
+Your Friend List is full.
+friend_request_declined_prompt
+You declined this Friend Request.
+error_get_friends_requests_failed
+Failed to get Friend Requests. Try again later.
+error_get_friends_list_failed
+Failed to get Friend List. Try again later.
+error_send_friend_request_title
+Failed to send a Friend Request to {0}.
+error_player_already_friend
+You're already friends with this Trainer.
+error_friend_request_max_friends
+Your Friend List is full.
+error_friend_request_friend_inbox_full
+This Trainer has too many pending Friend Requests.
+error_max_friend_requests_sent
+You've sent all the Friend Requests you can right now.
+sent_you_a_gift
+{0} sent you a Gift!
+item_friend_gift_box_name
+Gift
+item_friend_gift_box_desc
+A box that you can send to a friend. Contains a variety of useful items.
+sent_friend_request_success
+You sent a Friend Request to {0}!
+friendslist_sort_lastactivity
+Last Activity
+friendslist_sort_level
+Friendship Level
+friendslist_sort_alphabet
+Name
+giftbox_log_opened
+Opened a Gift from {0}.
+today
+Today
+yesterday
+Yesterday
+two_plus_days_ago
+2+ days ago
+manage_items_button
+Manage Items
+upgrade_item_bag_button
+Upgrade Item Bag
+error_open_gift_bag_full
+Please make space or upgrade your Item Bag before opening the gift.
+friend_opened_your_gift
+{0} received {1} items from your Gift!
+friend_opened_your_gift_singular
+{0} received 1 item from your Gift.
+social_remove_friend
+Remove Friend
+send_gift_prompt
+Send a Gift
+friendship_strengthened
+Friendship level with {0} increased!
+trade_select_header
+Pokémon to Trade
+trade_exclusion_reason_mythical
+Mythical Pokémon can't be traded.
+trade_exclusion_reason_slashed
+This Pokémon cannot be traded.
+trade_exclusion_reason_disabled
+This Pokémon can't be traded due to an error.
+share_my_friend_code_message
+Let's be friends in Pokémon GO! My Trainer Code is {0}!
+friendship_milestone_notification_toast
+You and {0} are now Good Friends!
+friendship_detail_unlock_reqs_singular
+If you keep playing together for {0} more day, you can become {1}s!
+friendship_detail_unlock_reqs_plural
+If you keep playing together for {0} more days, you can become {1}s!
+friendship_detail_capabilities
+Bonus
+friendship_detail_just_friends
+If you increase your Friendship level, you'll earn bonuses! Tap a heart to see more.
+friendship_detail_trade
+Trade
+friendship_detail_battle
+Gym Battle / Raid Battle
+raid_friendship_bonus
+Friendship
+friendship_strengthened_header
+Friendship Level Increased
+friendship_detail_attack_bonus
+Attack bonus
+friendship_detail_raid_bonus
+Raid bonus
+gym_battle_victory_subtitle_alone
+You defeated this Gym
+gym_battle_victory_subtitle_with_friend
+You defeated this Gym with
+friendship_level_0
+Friend
+friendship_level_1
+Good Friend
+friendship_level_2
+Great Friend
+friendship_level_3
+Ultra Friend
+friendship_level_4
+Best Friend
+friendship_detail_ball_singular
++{0} Ball
+friendship_detail_ball_plural
++{0} Balls
+friendship_milestone_notification_toast_3
+You and {0} are now Great Friends!
+friendship_milestone_notification_toast_4
+You and {0} are now Ultra Friends!
+friendship_milestone_notification_toast_5
+You and {0} are now Best Friends!
+friend_singular
+friend
+friend_plural
+friends
+see_details
+SEE DETAILS
+sent_gift_to_friend
+Sent a Gift to {0}.
+settings_gift_received
+Gift Received
+error_no_gifts_in_inventory
+You have no Gifts in your inventory. Visit a PokéStop to look for them!
+trade_detail_appraisal
+Appraisal:
+trade_exclusion_reason_friend_level
+Your Friendship level with this friend isn't high enough to complete this trade.
+trade_exclusion_reason_traded
+This Pokémon can't be traded again.
+trade_exclusion_reason_gym_deployed
+This Pokémon is assigned to a Gym.
+trade_exclusion_reason_buddy
+This Pokémon is your Buddy Pokémon.
+trade_exclusion_reason_stamina
+This Pokémon is not at full health.
+attack_bonus
+Attack Bonus
+raid_bonus_ball
+Raid Bonus Balls
+new_feature_unlocked
+New Bonuses Unlocked
+error_cannot_invite_yourself
+You can't add yourself to your own Friend List!
+change_your_code_button
+CHANGE MY CODE
+change_your_code_title
+Change your Trainer Code
+change_your_code_message
+Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
+your_code_changed
+Trainer Code has been changed.
+badge_max_level_friends
+Become Best Friends with {0} Trainers.
+badge_max_level_friends_value_format
+N0
+error_invite_already_sent
+You have already sent an invite to this Trainer.
+badge_max_level_friends_singular
+Become Best Friends with {0} Trainer.
+screen_title_notification
+Notifications
+badge_max_level_friends_title
+Idol
+badge_trading_distance_title
+Pilot
+badge_trading_title
+Gentleman
+trade_exclusion_reason_egg
+Eggs can't be traded.
+trade_tut_stardust_needed
+Trade with Stardust
+trade_tut_stardust_needed_message
+The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
+trade_tut_special_trade
+Special Trades
+trade_tut_special_trade_message
+Legendary Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
+trade_tut_candy_bonus
+Candy Bonuses
+trade_tut_candy_bonus_message
+You need to be within 100 meters of a friend to start a trade. You can earn a bonus depending on where the Pokémon in the trade were caught. The farther apart their caught locations (up to around 100 km), the more Candy you'll earn! 
+trade_tut_strength_adjust
+Pokémon CP and HP in Trade
+trade_tut_strength_adjust_message
+When you trade a Pokémon to a friend, you can see the range of CP and HP that it could have. This range adjusts based on your friend's level and will also be affected by your Friendship level. After you complete the trade, the stats of both Pokémon will change randomly to reflect the new range.
+error_gift_invalid_state
+Cannot send Gift due to an error.
+trade_activity_log
+Traded {0} for {1} with {2}.
+error_generate_friendcode_failed
+Failed to get your Trainer Code.
+error_invite_already_received
+This Trainer has already sent you a Friend Request.
+add_friends_privacy_prompt
+Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
+visit_help_center_prompt
+For more information, visit the Help Center.
+friendship_detail_no_bonus
+No bonuses.
+social_no_friends
+Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
+gift_sent_toast
+Gift sent!
+friends_list_level_format
+Lv {0}
+badge_trading
+Trade {0} Pokémon.
+badge_trading_value_format
+N0
+badge_trading_distance
+Earn {0} km across the distance of all Pokémon trades.
+badge_trading_distance_value_format
+N0
+log_player_sent_you_a_friend_request
+{0} sent you a Friend Request!
+log_player_accepted_your_friend_request
+{0} accepted your Friend Request!
+trading_confirm
+Confirm
+trading_cancel
+Cancel
+trading_me
+Me
+trade_player_me
+Me
+trading_player_level
+Lv. {0}
+trading_details_warning
+Your friend's Trainer level is lower than yours, so CP and HP are reduced.
+social_player_level_too_low
+The friend feature is currently available for level {0} and above. Please check back to find out when it's available for you.
+error_social_player_banned
+You cannot access this feature.
+trade_friend_is_selecting
+Waiting for {0} to select their Pokémon...
+trading_confirmed
+Confirmed
+trading_waiting
+Waiting...
+friend_invite_accepted_toast
+You and {0} are now friends!
+friend_invite_received_toast
+{0} sent you a Friend Request!
+trade_friend_left_title
+Trade expired.
+trade_friend_left_message
+This trade was canceled.
+trade_cannot_confirm
+Cannot confirm yet
+trade_friend_not_present
+Waiting for {0} to be available for trading.
+trade_confirm_quit_title
+Do you want to cancel this trade?
+trade_confirm_quit_message
+If you leave now, you won't trade with {0}. 
+friendship_detail_unlocked_trading
+You can trade the following Pokémon:
+friendship_detail_stardust_discount
+Stardust discount
+trade_regular_in_pokedex
+Regular Pokémon in Pokédex
+trade_regular_non_pokedex
+All regular Pokémon
+trade_regional_non_pokedex
+All regional Pokémon
+trade_form_non_pokedex
+All Pokémon form variants
+trade_legendary_non_pokedex
+All Legendary Pokémon
+trade_shiny_non_pokedex
+All Shiny Pokémon
+trading_canceled
+Canceled
+trade_special_in_pokedex
+Legendary or Shiny Pokémon in Pokédex
+trade_exclusion_reason_player_cannot_afford
+You do not have enough Stardust.
+trade_exclusion_reason_friend_cannot_afford
+Your friend doesn't have enough Stardust.
+trade_exclusion_reason_player_reached_daily_limit
+You've already made a Special Trade today.
+trade_exclusion_reason_friend_reached_daily_limit
+Your friend has already made a Special Trade today.
+trade_error_unknown
+Trading service temporarily unavailable. Try again later.
+trade_error_friend_not_found
+Couldn't find {0} to trade with.
+trade_error_open_expired
+This trade with {0} has expired.
+trade_error_out_of_range
+{0} is out of range for trading.
+trade_error_below_min_level
+{0} is below the minimum level to trade.
+trade_error_reached_daily_limit
+Daily trading limit reached. Come back tomorrow to trade more.
+trade_error_friend_reached_daily_limit
+{0} has reached the daily trading limit for today.
+trade_error_not_enough_stardust
+You don't have enough Stardust to trade with {0} right now.
+trade_error_friend_not_enough_stardust
+{0} doesn't have enough Stardust to trade with you right now.
+trade_error_select_expired
+This trading session has expired.
+trade_error_confirm_expired
+This trading session has expired.
+trade_error_confirm_daily_limit
+You've reached the daily limit for trading this Pokémon.
+trade_error_get
+Error fetching trade status
+trade_appraise_low_1
+Overall, this {0} is not likely to make much headway in battle.
+trade_appraise_mid_1
+Overall, this {0} is above average.
+trade_appraise_high_1
+Overall, this {0} has certainly caught my attention.
+trade_appraise_best_1
+Overall, this {0} is a wonder! What a breathtaking Pokémon!
+trade_appraise_low_2
+Overall, this {0} may not be great in battle, but I still like it!
+trade_appraise_mid_2
+Overall, this {0} is a decent Pokémon.
+trade_appraise_high_2
+Overall, this {0} is a strong Pokémon.
+trade_appraise_best_2
+Overall, this {0} simply amazes me. It can accomplish anything!
+trade_appraise_low_3
+Overall, this {0} has room for improvement as far as battling goes.
+trade_appraise_mid_3
+Overall, this {0} is pretty decent!
+trade_appraise_high_3
+Overall, this {0} is really strong!
+trade_appraise_best_3
+Overall, this {0} looks like it can really battle with the best of them!
+settings_friend_request_accepted
+Friend Request Accepted
+settings_friend_request_received
+Friend Request Received
+copy_friend_code_title
+COPY MY TRAINER CODE
+copy_friend_code_toast
+Your Trainer Code has been copied!
+trade_error_minimum_level
+You must be at least level {0} to trade.
+friend_caught_a_pokemon
+{0} caught a {1}!
+trade_friend_joined
+You can trade your Pokémon with {0}!
+special_trade_confirm_title
+Do you want to make a Special Trade?
+special_trade_confirm_message
+You can only make a Special Trade once a day.
+trade_error_cooldown_time
+Trading cooldown: {0} remaining
+trade_friend_connected_toast
+{0} has connected!
+trade_all_except_mythical
+All Pokémon except Mythical
+trade_tips_p0
+You can only trade with friends who are nearby.
+trade_tips_p1|0
+Special Trades can only occur once a day.
+trade_tips_p1|1
+You can't trade a Pokémon that has been traded previously.
+trade_tips_p1|2
+The stats of the traded Pokémon will randomly change after trading.
+trade_tips_p1|3
+You can find the trading rules using the Help button located above.
+trade_tips_p1|4
+If your friend’s Trainer level is lower than yours, the traded Pokémon’s potential CP and HP will be adjusted.
+trade_tips_p2|0
+Pokémon not yet registered in your Pokédex require a Special Trade. 
+trade_tips_p2|1
+Your Friendship level must reach Good Friend in order to complete a Special Trade.
+trade_tips_p2|2
+You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
+trade_tips_p2|3
+The amount of Stardust required for trading drastically reduces as your Friendship level increases.
+trade_tips_p2|4
+Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade. 
+trade_tips_p2|5
+Completing a Special Trade requires a large amount of Stardust.
+trade_tips_p2|6
+Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
+trade_tips_p2|7
+Mythical Pokémon can't be traded.
+trade_warning_your_level_lower
+Your Trainer level is lower than your friend's, so CP and HP will be reduced.
+trade_warning_friend_level_lower
+Your friend's Trainer level is lower than yours, so CP and HP will be reduced.
+trade_ending_prompt|0
+{0} sent over {1}.
+trade_ending_prompt|1
+Take good care of {0}!
+trade_exclusion_favorite
+This Pokémon is a favorite Pokémon.
+social_my_code
+MY TRAINER CODE
+decline_friend_request_confirmation
+Are you sure you want to delete this Friend Request?
+decline_friend_request_confirmation_message
+Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
+friend_request_deleted_confirmation
+Friend Request Deleted
+send_gift_button
+Send
+open_gift_button
+Open
+next_button
+Next
+trade_error_rpc
+Unknown Trade Error
+trade_tut_proximity
+Trading with Friends
+trade_tut_proximity_message
+You can trade with a friend only when you're near each other.
+social_send_my_code
+SHARE MY TRAINER CODE
+social_send_code_prompt
+Send a Friend Request by entering your friend's Trainer Code.
+trainer_name_label
+Trainer Name
+trainer_code_label
+Trainer Code
+trade_toast_must_cancel_first
+Please cancel your confirmation first.
+trade_toast_must_connect_first
+Please wait for your friend to connect.
+trade_bonus
+Trade Bonus
+accept
+Accept
+delete
+Delete
+filter_key_traded
+traded
+no_notifications_message
+No notifications.
+social_qr_code_prompt
+Scan this QR code with another Trainer's scanner.
+social_qr_scan_prompt
+Scan a Trainer's QR code
+social_qr_code_header
+MY CODE
+social_qr_scan_header
+SCAN
+social_other_friend_add_title
+OTHERS
+set_friend_nickname
+Set Nickname
+select_gift_to_delete_prompt
+Select Gifts to discard
+delete_gift_confirmation
+Are you sure you want to discard this Gift?
+social_my_qr_code
+My QR Code
+social_lucky_pokemon_label
+Lucky Pokemon
+friendslist_sort_gift
+Gift
+error_set_friend_nickname
+Error setting nickname.
+error_set_friend_nickname_length
+Nickname length is too long.
+friendslist_sort_nickname
+Nickname
+pokedex_details_lucky
+Lucky:
+pokemon_info_multi_transfer_lucky_pokemon_error
+You can't select Lucky Pokémon.
+pokemon_lucky_info_transfer_to_professor_confirmation
+Do you really want to transfer this Lucky Pokémon?

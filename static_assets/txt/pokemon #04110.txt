@@ -1,0 +1,2322 @@
+pokemon_name_0000
+--
+pokemon_name_0001
+Bisasam
+pokemon_name_0002
+Bisaknosp
+pokemon_name_0003
+Bisaflor
+pokemon_name_0004
+Glumanda
+pokemon_name_0005
+Glutexo
+pokemon_name_0006
+Glurak
+pokemon_name_0007
+Schiggy
+pokemon_name_0008
+Schillok
+pokemon_name_0009
+Turtok
+pokemon_name_0010
+Raupy
+pokemon_name_0011
+Safcon
+pokemon_name_0012
+Smettbo
+pokemon_name_0013
+Hornliu
+pokemon_name_0014
+Kokuna
+pokemon_name_0015
+Bibor
+pokemon_name_0016
+Taubsi
+pokemon_name_0017
+Tauboga
+pokemon_name_0018
+Tauboss
+pokemon_name_0019
+Rattfratz
+pokemon_name_0020
+Rattikarl
+pokemon_name_0021
+Habitak
+pokemon_name_0022
+Ibitak
+pokemon_name_0023
+Rettan
+pokemon_name_0024
+Arbok
+pokemon_name_0025
+Pikachu
+pokemon_name_0026
+Raichu
+pokemon_name_0027
+Sandan
+pokemon_name_0028
+Sandamer
+pokemon_name_0029
+Nidoran♀
+pokemon_name_0030
+Nidorina
+pokemon_name_0031
+Nidoqueen
+pokemon_name_0032
+Nidoran♂
+pokemon_name_0033
+Nidorino
+pokemon_name_0034
+Nidoking
+pokemon_name_0035
+Piepi
+pokemon_name_0036
+Pixi
+pokemon_name_0037
+Vulpix
+pokemon_name_0038
+Vulnona
+pokemon_name_0039
+Pummeluff
+pokemon_name_0040
+Knuddeluff
+pokemon_name_0041
+Zubat
+pokemon_name_0042
+Golbat
+pokemon_name_0043
+Myrapla
+pokemon_name_0044
+Duflor
+pokemon_name_0045
+Giflor
+pokemon_name_0046
+Paras
+pokemon_name_0047
+Parasek
+pokemon_name_0048
+Bluzuk
+pokemon_name_0049
+Omot
+pokemon_name_0050
+Digda
+pokemon_name_0051
+Digdri
+pokemon_name_0052
+Mauzi
+pokemon_name_0053
+Snobilikat
+pokemon_name_0054
+Enton
+pokemon_name_0055
+Entoron
+pokemon_name_0056
+Menki
+pokemon_name_0057
+Rasaff
+pokemon_name_0058
+Fukano
+pokemon_name_0059
+Arkani
+pokemon_name_0060
+Quapsel
+pokemon_name_0061
+Quaputzi
+pokemon_name_0062
+Quappo
+pokemon_name_0063
+Abra
+pokemon_name_0064
+Kadabra
+pokemon_name_0065
+Simsala
+pokemon_name_0066
+Machollo
+pokemon_name_0067
+Maschock
+pokemon_name_0068
+Machomei
+pokemon_name_0069
+Knofensa
+pokemon_name_0070
+Ultrigaria
+pokemon_name_0071
+Sarzenia
+pokemon_name_0072
+Tentacha
+pokemon_name_0073
+Tentoxa
+pokemon_name_0074
+Kleinstein
+pokemon_name_0075
+Georok
+pokemon_name_0076
+Geowaz
+pokemon_name_0077
+Ponita
+pokemon_name_0078
+Gallopa
+pokemon_name_0079
+Flegmon
+pokemon_name_0080
+Lahmus
+pokemon_name_0081
+Magnetilo
+pokemon_name_0082
+Magneton
+pokemon_name_0083
+Porenta
+pokemon_name_0084
+Dodu
+pokemon_name_0085
+Dodri
+pokemon_name_0086
+Jurob
+pokemon_name_0087
+Jugong
+pokemon_name_0088
+Sleima
+pokemon_name_0089
+Sleimok
+pokemon_name_0090
+Muschas
+pokemon_name_0091
+Austos
+pokemon_name_0092
+Nebulak
+pokemon_name_0093
+Alpollo
+pokemon_name_0094
+Gengar
+pokemon_name_0095
+Onix
+pokemon_name_0096
+Traumato
+pokemon_name_0097
+Hypno
+pokemon_name_0098
+Krabby
+pokemon_name_0099
+Kingler
+pokemon_name_0100
+Voltobal
+pokemon_name_0101
+Lektrobal
+pokemon_name_0102
+Owei
+pokemon_name_0103
+Kokowei
+pokemon_name_0104
+Tragosso
+pokemon_name_0105
+Knogga
+pokemon_name_0106
+Kicklee
+pokemon_name_0107
+Nockchan
+pokemon_name_0108
+Schlurp
+pokemon_name_0109
+Smogon
+pokemon_name_0110
+Smogmog
+pokemon_name_0111
+Rihorn
+pokemon_name_0112
+Rizeros
+pokemon_name_0113
+Chaneira
+pokemon_name_0114
+Tangela
+pokemon_name_0115
+Kangama
+pokemon_name_0116
+Seeper
+pokemon_name_0117
+Seemon
+pokemon_name_0118
+Goldini
+pokemon_name_0119
+Golking
+pokemon_name_0120
+Sterndu
+pokemon_name_0121
+Starmie
+pokemon_name_0122
+Pantimos
+pokemon_name_0123
+Sichlor
+pokemon_name_0124
+Rossana
+pokemon_name_0125
+Elektek
+pokemon_name_0126
+Magmar
+pokemon_name_0127
+Pinsir
+pokemon_name_0128
+Tauros
+pokemon_name_0129
+Karpador
+pokemon_name_0130
+Garados
+pokemon_name_0131
+Lapras
+pokemon_name_0132
+Ditto
+pokemon_name_0133
+Evoli
+pokemon_name_0134
+Aquana
+pokemon_name_0135
+Blitza
+pokemon_name_0136
+Flamara
+pokemon_name_0137
+Porygon
+pokemon_name_0138
+Amonitas
+pokemon_name_0139
+Amoroso
+pokemon_name_0140
+Kabuto
+pokemon_name_0141
+Kabutops
+pokemon_name_0142
+Aerodactyl
+pokemon_name_0143
+Relaxo
+pokemon_name_0144
+Arktos
+pokemon_name_0145
+Zapdos
+pokemon_name_0146
+Lavados
+pokemon_name_0147
+Dratini
+pokemon_name_0148
+Dragonir
+pokemon_name_0149
+Dragoran
+pokemon_name_0150
+Mewtu
+pokemon_name_0151
+Mew
+pokemon_name_0152
+Endivie
+pokemon_name_0153
+Lorblatt
+pokemon_name_0154
+Meganie
+pokemon_name_0155
+Feurigel
+pokemon_name_0156
+Igelavar
+pokemon_name_0157
+Tornupto
+pokemon_name_0158
+Karnimani
+pokemon_name_0159
+Tyracroc
+pokemon_name_0160
+Impergator
+pokemon_name_0161
+Wiesor
+pokemon_name_0162
+Wiesenior
+pokemon_name_0163
+Hoothoot
+pokemon_name_0164
+Noctuh
+pokemon_name_0165
+Ledyba
+pokemon_name_0166
+Ledian
+pokemon_name_0167
+Webarak
+pokemon_name_0168
+Ariados
+pokemon_name_0169
+Iksbat
+pokemon_name_0170
+Lampi
+pokemon_name_0171
+Lanturn
+pokemon_name_0172
+Pichu
+pokemon_name_0173
+Pii
+pokemon_name_0174
+Fluffeluff
+pokemon_name_0175
+Togepi
+pokemon_name_0176
+Togetic
+pokemon_name_0177
+Natu
+pokemon_name_0178
+Xatu
+pokemon_name_0179
+Voltilamm
+pokemon_name_0180
+Waaty
+pokemon_name_0181
+Ampharos
+pokemon_name_0182
+Blubella
+pokemon_name_0183
+Marill
+pokemon_name_0184
+Azumarill
+pokemon_name_0185
+Mogelbaum
+pokemon_name_0186
+Quaxo
+pokemon_name_0187
+Hoppspross
+pokemon_name_0188
+Hubelupf
+pokemon_name_0189
+Papungha
+pokemon_name_0190
+Griffel
+pokemon_name_0191
+Sonnkern
+pokemon_name_0192
+Sonnflora
+pokemon_name_0193
+Yanma
+pokemon_name_0194
+Felino
+pokemon_name_0195
+Morlord
+pokemon_name_0196
+Psiana
+pokemon_name_0197
+Nachtara
+pokemon_name_0198
+Kramurx
+pokemon_name_0199
+Laschoking
+pokemon_name_0200
+Traunfugil
+pokemon_name_0201
+Icognito
+pokemon_name_0202
+Woingenau
+pokemon_name_0203
+Girafarig
+pokemon_name_0204
+Tannza
+pokemon_name_0205
+Forstellka
+pokemon_name_0206
+Dummisel
+pokemon_name_0207
+Skorgla
+pokemon_name_0208
+Stahlos
+pokemon_name_0209
+Snubbull
+pokemon_name_0210
+Granbull
+pokemon_name_0211
+Baldorfish
+pokemon_name_0212
+Scherox
+pokemon_name_0213
+Pottrott
+pokemon_name_0214
+Skaraborn
+pokemon_name_0215
+Sniebel
+pokemon_name_0216
+Teddiursa
+pokemon_name_0217
+Ursaring
+pokemon_name_0218
+Schneckmag
+pokemon_name_0219
+Magcargo
+pokemon_name_0220
+Quiekel
+pokemon_name_0221
+Keifel
+pokemon_name_0222
+Corasonn
+pokemon_name_0223
+Remoraid
+pokemon_name_0224
+Octillery
+pokemon_name_0225
+Botogel
+pokemon_name_0226
+Mantax
+pokemon_name_0227
+Panzaeron
+pokemon_name_0228
+Hunduster
+pokemon_name_0229
+Hundemon
+pokemon_name_0230
+Seedraking
+pokemon_name_0231
+Phanpy
+pokemon_name_0232
+Donphan
+pokemon_name_0233
+Porygon2
+pokemon_name_0234
+Damhirplex
+pokemon_name_0235
+Farbeagle
+pokemon_name_0236
+Rabauz
+pokemon_name_0237
+Kapoera
+pokemon_name_0238
+Kussilla
+pokemon_name_0239
+Elekid
+pokemon_name_0240
+Magby
+pokemon_name_0241
+Miltank
+pokemon_name_0242
+Heiteira
+pokemon_name_0243
+Raikou
+pokemon_name_0244
+Entei
+pokemon_name_0245
+Suicune
+pokemon_name_0246
+Larvitar
+pokemon_name_0247
+Pupitar
+pokemon_name_0248
+Despotar
+pokemon_name_0249
+Lugia
+pokemon_name_0250
+Ho-Oh
+pokemon_name_0251
+Celebi
+pokemon_name_0252
+Geckarbor
+pokemon_name_0253
+Reptain
+pokemon_name_0254
+Gewaldro
+pokemon_name_0255
+Flemmli
+pokemon_name_0256
+Jungglut
+pokemon_name_0257
+Lohgock
+pokemon_name_0258
+Hydropi
+pokemon_name_0259
+Moorabbel
+pokemon_name_0260
+Sumpex
+pokemon_name_0261
+Fiffyen
+pokemon_name_0262
+Magnayen
+pokemon_name_0263
+Zigzachs
+pokemon_name_0264
+Geradaks
+pokemon_name_0265
+Waumpel
+pokemon_name_0266
+Schaloko
+pokemon_name_0267
+Papinella
+pokemon_name_0268
+Panekon
+pokemon_name_0269
+Pudox
+pokemon_name_0270
+Loturzel
+pokemon_name_0271
+Lombrero
+pokemon_name_0272
+Kappalores
+pokemon_name_0273
+Samurzel
+pokemon_name_0274
+Blanas
+pokemon_name_0275
+Tengulist
+pokemon_name_0276
+Schwalbini
+pokemon_name_0277
+Schwalboss
+pokemon_name_0278
+Wingull
+pokemon_name_0279
+Pelipper
+pokemon_name_0280
+Trasla
+pokemon_name_0281
+Kirlia
+pokemon_name_0282
+Guardevoir
+pokemon_name_0283
+Gehweiher
+pokemon_name_0284
+Maskeregen
+pokemon_name_0285
+Knilz
+pokemon_name_0286
+Kapilz
+pokemon_name_0287
+Bummelz
+pokemon_name_0288
+Muntier
+pokemon_name_0289
+Letarking
+pokemon_name_0290
+Nincada
+pokemon_name_0291
+Ninjask
+pokemon_name_0292
+Ninjatom
+pokemon_name_0293
+Flurmel
+pokemon_name_0294
+Krakeelo
+pokemon_name_0295
+Krawumms
+pokemon_name_0296
+Makuhita
+pokemon_name_0297
+Hariyama
+pokemon_name_0298
+Azurill
+pokemon_name_0299
+Nasgnet
+pokemon_name_0300
+Eneco
+pokemon_name_0301
+Enekoro
+pokemon_name_0302
+Zobiris
+pokemon_name_0303
+Flunkifer
+pokemon_name_0304
+Stollunior
+pokemon_name_0305
+Stollrak
+pokemon_name_0306
+Stolloss
+pokemon_name_0307
+Meditie
+pokemon_name_0308
+Meditalis
+pokemon_name_0309
+Frizelbliz
+pokemon_name_0310
+Voltenso
+pokemon_name_0311
+Plusle
+pokemon_name_0312
+Minun
+pokemon_name_0313
+Volbeat
+pokemon_name_0314
+Illumise
+pokemon_name_0315
+Roselia
+pokemon_name_0316
+Schluppuck
+pokemon_name_0317
+Schlukwech
+pokemon_name_0318
+Kanivanha
+pokemon_name_0319
+Tohaido
+pokemon_name_0320
+Wailmer
+pokemon_name_0321
+Wailord
+pokemon_name_0322
+Camaub
+pokemon_name_0323
+Camerupt
+pokemon_name_0324
+Qurtel
+pokemon_name_0325
+Spoink
+pokemon_name_0326
+Groink
+pokemon_name_0327
+Pandir
+pokemon_name_0328
+Knacklion
+pokemon_name_0329
+Vibrava
+pokemon_name_0330
+Libelldra
+pokemon_name_0331
+Tuska
+pokemon_name_0332
+Noktuska
+pokemon_name_0333
+Wablu
+pokemon_name_0334
+Altaria
+pokemon_name_0335
+Sengo
+pokemon_name_0336
+Vipitis
+pokemon_name_0337
+Lunastein
+pokemon_name_0338
+Sonnfel
+pokemon_name_0339
+Schmerbe
+pokemon_name_0340
+Welsar
+pokemon_name_0341
+Krebscorps
+pokemon_name_0342
+Krebutack
+pokemon_name_0343
+Puppance
+pokemon_name_0344
+Lepumentas
+pokemon_name_0345
+Liliep
+pokemon_name_0346
+Wielie
+pokemon_name_0347
+Anorith
+pokemon_name_0348
+Armaldo
+pokemon_name_0349
+Barschwa
+pokemon_name_0350
+Milotic
+pokemon_name_0351
+Formeo
+pokemon_name_0352
+Kecleon
+pokemon_name_0353
+Shuppet
+pokemon_name_0354
+Banette
+pokemon_name_0355
+Zwirrlicht
+pokemon_name_0356
+Zwirrklop
+pokemon_name_0357
+Tropius
+pokemon_name_0358
+Palimpalim
+pokemon_name_0359
+Absol
+pokemon_name_0360
+Isso
+pokemon_name_0361
+Schneppke
+pokemon_name_0362
+Firnontor
+pokemon_name_0363
+Seemops
+pokemon_name_0364
+Seejong
+pokemon_name_0365
+Walraisa
+pokemon_name_0366
+Perlu
+pokemon_name_0367
+Aalabyss
+pokemon_name_0368
+Saganabyss
+pokemon_name_0369
+Relicanth
+pokemon_name_0370
+Liebiskus
+pokemon_name_0371
+Kindwurm
+pokemon_name_0372
+Draschel
+pokemon_name_0373
+Brutalanda
+pokemon_name_0374
+Tanhel
+pokemon_name_0375
+Metang
+pokemon_name_0376
+Metagross
+pokemon_name_0377
+Regirock
+pokemon_name_0378
+Regice
+pokemon_name_0379
+Registeel
+pokemon_name_0380
+Latias
+pokemon_name_0381
+Latios
+pokemon_name_0382
+Kyogre
+pokemon_name_0383
+Groudon
+pokemon_name_0384
+Rayquaza
+pokemon_name_0385
+Jirachi
+pokemon_name_0386
+Deoxys
+pokemon_desc_0000
+--
+pokemon_desc_0001
+Bisasam macht gern einmal ein Nickerchen im Sonnenschein. Auf seinem Rücken trägt es einen Samen. Indem es Sonnenstrahlen aufsaugt, wird der Samen zunehmend größer.
+pokemon_desc_0002
+Bisaknosp hat eine Knospe auf seinem Rücken. Beine und Rumpf sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht.
+pokemon_desc_0003
+Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen.
+pokemon_desc_0004
+Die Flamme auf seiner Schweifspitze zeigt seine Gefühlslage an. Sie flackert, wenn Glumanda zufrieden ist. Wenn dieses Pokémon wütend wird, lodert die Flamme gewaltig.
+pokemon_desc_0005
+Gnadenlos besiegt Glutexo seine Gegner mit seinen scharfen Klauen. Wenn es auf starke Gegner trifft, wird es wütend und die Flamme auf seiner Schweifspitze flackert in einem bläulichen Ton.
+pokemon_desc_0006
+Glurak fliegt durch die Lüfte, um starke Gegner aufzuspüren. Sein heißer Feueratem bringt alles zum Schmelzen. Aber es richtet seinen Feueratem nie auf schwächere Gegner.
+pokemon_desc_0007
+Schiggys Panzer dient nicht nur zum Schutz. Die runde Form und die Furchen auf der Oberfläche verringern den Widerstand im Wasser, sodass dieses Pokémon sehr schnell schwimmen kann.
+pokemon_desc_0008
+Schillok hat einen langen, buschigen Schweif, dessen Farbe intensiver wird, wenn es altert. Die Kratzer auf seinem Panzer zeugen von seiner Kampfkraft.
+pokemon_desc_0009
+Turtok besitzt Wasserdüsen, die aus seinem Panzer herausragen. Diese sind sehr präzise. Es kann Wassergeschosse so genau verschießen, dass es damit aus fast 50 m leere Dosen trifft.
+pokemon_desc_0010
+Raupy ist sehr gefräßig, es kann Blätter verschlingen, die größer sind als es selbst. Seine Antennen sondern einen übel riechenden Gestank ab.
+pokemon_desc_0011
+Der Panzer dieses Pokémon ist hart wie Stahl. Safcon bewegt sich kaum, da es das weiche Innere unter seiner harten Schale auf seine Entwicklung vorbereitet.
+pokemon_desc_0012
+Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen.
+pokemon_desc_0013
+Hornliu verfügt über einen ausgezeichneten Geruchssinn. So kann es seine Lieblingsblätter von denen unterscheiden, die es nicht mag, indem es mit seiner großen roten Nase daran schnuppert.
+pokemon_desc_0014
+Kokuna bewegt sich kaum, wenn es an einem Baum haftet. In seinem Inneren jedoch regt sich einiges, da es sich auf seine bevorstehende Entwicklung vorbereitet. Dabei wird seine Schale sehr heiß.
+pokemon_desc_0015
+Bibor sind sehr wehrhaft. Es sollte sich besser niemand ihrem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an.
+pokemon_desc_0016
+Taubsi verfügt über einen sehr geschulten Orientierungssinn. Es kehrt zielsicher zu seinem Nest zurück, egal, wie weit es sich von seiner gewohnten Umgebung entfernt hat.
+pokemon_desc_0017
+Tauboga nennt ein großes Gebiet sein Eigen. Es fliegt umher und kontrolliert seinen Lebensraum. Wenn jemand sein Gebiet betritt, zeigt es keine Gnade und greift seine Gegner mit seinen scharfen Krallen an.
+pokemon_desc_0018
+Dieses Pokémon hat ein wunderschönes, glänzendes Gefieder. Viele Trainer sind von der auffälligen Schönheit seines Federkleids begeistert, sodass sie Tauboss als ihr Pokémon wählen.
+pokemon_desc_0019
+Rattfratz ist extrem vorsichtig. Sogar im Schlaf nimmt es alles wahr, indem es seine Ohren bewegt. Es stellt keine großen Ansprüche an seinen Lebensraum und richtet sein Nest überall ein.
+pokemon_desc_0020
+Rattikarls kräftige Zähne wachsen ständig. Deshalb nagt es unablässig Steine und Baumstämme an, um sie abzuwetzen. Manchmal knabbert es sogar Hauswände an.
+pokemon_desc_0021
+Habitak kann einen sehr lauten Schrei ausstoßen, den man über die Entfernung von 1 km vernehmen kann. Durch das Echo seiner hohen, wehklagenden Schreie warnt dieses Pokémon seine Artgenossen vor drohender Gefahr.
+pokemon_desc_0022
+Ibitak erkennt man an seinem langen Hals und Schnabel. Er ist hervorragend dafür geeignet, im Erdreich oder im Wasser Beute zu jagen. Es setzt seinen langen, dünnen Schnabel dabei sehr geschickt ein.
+pokemon_desc_0023
+Rettan rollt sich zu einer Spirale zusammen, wenn es sich ausruht. Aus dieser Haltung kann es blitzschnell auf Bedrohungen aus allen Richtungen reagieren, indem es seinen Kopf hebt.
+pokemon_desc_0024
+Dieses Pokémon ist unheimlich stark. Es kann seine Beute mit seinem Körper umwickeln und sogar Ölfässer zerdrücken. Wenn Arbok einen Gegner umwickelt, ist es unmöglich, seinem Würgegriff zu entkommen.
+pokemon_desc_0025
+Immer wenn Pikachu auf etwas Neues stößt, jagt es einen Elektroschock hindurch. Wenn du eine verkohlte Beere findest, hat dieses Pokémon seine elektrische Ladung falsch eingeschätzt.
+pokemon_desc_0026
+Wenn seine elektrische Ladung zu groß wird, entlädt Raichu seine Energie ins Erdreich. Neben dem Nest dieses Pokémon findet man häufig versengtes Erdreich.
+pokemon_desc_0027
+Sandans Körper kann sehr viel Wasser aufnehmen, sodass es auch in der Wüste überleben kann. Dieses Pokémon rollt sich zusammen, um sich vor Feinden zu schützen.
+pokemon_desc_0028
+Sandamers Körper ist übersät mit spitzen Stacheln, die eigentlich Hauthärtungen darstellen. Einmal im Jahr fallen die alten Stacheln aus und werden durch neue ersetzt.
+pokemon_desc_0029
+Nidoran♀ besitzt Widerhaken, die ein starkes Gift ausstoßen. Sie sind vermutlich zum Schutz dieses schmächtigen Pokémon entstanden. Wenn es wütend wird, stößt es ein gefährliches Gift aus seinem Horn aus.
+pokemon_desc_0030
+Wenn Nidorina mit seinen Freunden oder seiner Familie zusammen ist, zieht es seine Widerhaken ein, damit es niemanden verletzt. Dieses Pokémon wird nervös, wenn man es von seinen Artgenossen trennt.
+pokemon_desc_0031
+Nidoqueens Körper ist mit sehr harten Schuppen bedeckt. Es ist sehr geschickt darin, Gegner mit starken Attacken wegzuschleudern. Dieses Pokémon entwickelt am meisten Kraft, wenn es seine Jungen verteidigt.
+pokemon_desc_0032
+Nidoran♂ hat Muskeln entwickelt, um seine Ohren bewegen zu können. Dadurch kann es sie in jede beliebige Richtung drehen. Diesem Pokémon entgeht nicht einmal das leiseste Geräusch.
+pokemon_desc_0033
+Nidorino besitzt ein Horn, das sogar härter ist als ein Diamant. Wenn es einen Feind wahrnimmt, stellen sich all die Widerhaken auf seinem Rücken auf und es schlägt den Gegner mit aller Kraft in die Flucht.
+pokemon_desc_0034
+Nidokings Schweif ist enorm stark. Mit einer Bewegung kann es einen metallenen Sendemast zum Einsturz bringen. Wenn es in Rage gerät, ist es nur schwer aufzuhalten.
+pokemon_desc_0035
+In Vollmondnächten sammeln sich einige dieser Pokémon, um zu spielen. Wird es Tag, kehrt Piepi zu seinem Zufluchtsort in den Bergen zurück und schläft eingekuschelt neben seinen Artgenossen ein.
+pokemon_desc_0036
+Pixi bewegt sich fort, indem es leicht mit den Flügeln schlägt. Durch seinen federnden Gang kann es sogar über Wasser gehen. Bei Mondschein unternimmt es Spaziergänge auf Seen.
+pokemon_desc_0037
+Vulpix kommt mit einem weißen Schweif zur Welt. Dieser teilt sich sechsfach, wenn das Pokémon von seinem Trainer viel Zuneigung bekommt. Seine sechs Schweife kräuseln sich schließlich.
+pokemon_desc_0038
+Vulnona sendet einen unheimlichen Lichtstrahl aus seinen hellroten Augen aus, um totale Kontrolle über die Gedanken seines Gegners zu erlangen. Man sagt, dieses Pokémon könne 1 000 Jahre leben.
+pokemon_desc_0039
+Pummeluffs Stimmbänder können die Tonlage seiner Stimme beliebig variieren. Dieses Pokémon benutzt diese Fähigkeit, um seine Gegner mit monotonem Gesang in Tiefschlaf zu versetzen.
+pokemon_desc_0040
+Knuddeluff hat handtellergroße Augen, die immer mit Tränenflüssigkeit bedeckt sind. Gerät Staub in die Augen dieses Pokémon, so wird dieser sofort ausgespült.
+pokemon_desc_0041
+Tagsüber bleibt Zubat an einem dunklen Ort und bewegt sich kaum. Wenn es dem Sonnenlicht längere Zeit ausgesetzt wird, zieht es sich Verbrennungen an seinem Körper zu.
+pokemon_desc_0042
+Golbat hat es auf das Blut von Lebewesen abgesehen. Im Schutze der Nacht wird es besonders aktiv. Dieses Pokémon fliegt durch die Nacht, um nach frischem Blut zu suchen.
+pokemon_desc_0043
+Am Tage vergräbt sich Myrapla im Boden, um mit seinem ganzen Körper Nahrung aufzunehmen. Je fruchtbarer der Boden ist, desto glänzender werden seine Blätter.
+pokemon_desc_0044
+Duflor produziert einen ekelerregenden Gestank aus dem Stempel seiner Blume. Wenn es in Gefahr gerät, wird der Gestank noch unerträglicher. Wenn sich dieses Pokémon in Sicherheit befindet, stößt es keinen Gestank aus.
+pokemon_desc_0045
+Giflors giftige Pollen rufen böse allergische Anfälle hervor. Deshalb ist es ratsam, sich keiner schönen Blume im Dschungel zu nähern, so anziehend sie auch sein mag.
+pokemon_desc_0046
+Auf Paras' Rücken wachsen parasitäre Pilze, die Tochukaso genannt werden. Sie wachsen, indem sie dem Käfer-Pokémon Nährstoffe entziehen. Sie sind sehr wertvoll als lebensverlängernde Medizin.
+pokemon_desc_0047
+Parasek sucht große Bäume heim und entzieht Nährstoffe aus Stamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es sich zusammen mit seinen Artgenossen einen neuen Wirt.
+pokemon_desc_0048
+Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem Schutz seines Körpers dient. Es hat große Augen, denen auch winzig kleine Beute nicht entgeht.
+pokemon_desc_0049
+Omot ist ein nachtaktives Pokémon. Kleine Insekten, die vom Licht in der Dunkelheit angezogen Straßenlaternen umschwärmen, sind seine bevorzugte Beute.
+pokemon_desc_0050
+Digda wird zumeist auf Farmen gezüchtet. Denn wo auch immer dieses Pokémon zu graben beginnt, hinterlässt es Erde, die für das Anpflanzen von Feldfrüchten perfekt geeignet und für den Anbau köstlichen Gemüses ideal ist.
+pokemon_desc_0051
+Digdri sind Drillinge, die aus einem Körper entstanden sind. Daher denken alle Köpfe gleich. Sie arbeiten so gut zusammen, dass sie endlos graben können.
+pokemon_desc_0052
+Mauzi zieht seine scharfen Krallen ein, um umherschleichen zu können, ohne verräterische Spuren zu hinterlassen. Dieses Pokémon hat eine Vorliebe für Münzen, die im Licht glitzern.
+pokemon_desc_0053
+Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht einflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas in seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es an den Schnurrhaaren berührt.
+pokemon_desc_0054
+Enton verwendet eine geheimnisvolle Kraft. Dabei erzeugt es Gehirnströme, die man sonst nur von Schlafenden kennt. Diese Entdeckung führte zu einer kontroversen Diskussion unter Wissenschaftlern.
+pokemon_desc_0055
+Die mit Schwimmhäuten überzogenen Flossen an seinen Vorder- und Hinterbeinen und der stromlinienförmige Körper machen Entoron unheimlich schnell. Dieses Pokémon ist auf jeden Fall schneller als die meisten Hochleistungsschwimmer.
+pokemon_desc_0056
+Wenn Menki sich schüttelt und schwer durch die Nase atmet, dann ist es wütend. Da es blitzartig in Raserei gerät, ist es unmöglich, seinem Zorn zu entkommen.
+pokemon_desc_0057
+Wenn Rasaff wütend ist, wird seine Blutzirkulation gesteigert und seine Muskeln werden noch stärker. Allerdings mindert das auch die Fähigkeit zum logischen Denken.
+pokemon_desc_0058
+Fukano hat einen ausgezeichneten Geruchssinn. Wenn dieses Pokémon einmal einen Geruch wahrgenommen hat, vergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu, die Gefühlslage von Lebewesen auszuloten.
+pokemon_desc_0059
+Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km zurücklegen. Das Feuer, das im Innern dieses Pokémon lodert, dient ihm als Energiequelle.
+pokemon_desc_0060
+Quapsel hat eine sehr dünne Haut. Durch sie hindurch kann man sogar sein spiralförmiges Inneres sehen. Obwohl seine Haut so dünn ist, ist sie sehr elastisch. Selbst scharfe Reißzähne können sie nicht durchdringen.
+pokemon_desc_0061
+Quaputzis Körper ist immer feucht und glitschig. Dadurch kann es während eines Kampfes leicht der Umklammerung eines Gegners entkommen.
+pokemon_desc_0062
+Quappo besitzt hochentwickelte, starke Muskeln, die niemals ermüden, egal, wie sehr es sie auch beansprucht. Es ist so kräftig, dass es mühelos große Ozeane durchschwimmen kann.
+pokemon_desc_0063
+Abra schläft 18 Stunden am Tag. Es nimmt die Gegenwart von Feinden aber auch im Schlaf wahr. In einer solchen Situation bringt es sich umgehend mit Teleport in Sicherheit.
+pokemon_desc_0064
+Kadabra sendet Alphawellen aus, wenn es Kopfschmerzen hat. Nur wer eine besonders starke Psyche hat, kann dieses Pokémon unter seine Fittiche nehmen.
+pokemon_desc_0065
+Simsalas Gehirn hört nicht auf zu wachsen, sodass sein Kopf zu schwer für seine Nackenmuskulatur wird. Dieses Pokémon hält seinen Kopf mit psychokinetischer Energie aufrecht.
+pokemon_desc_0066
+Machollos Muskeln sind etwas Besonderes. Sie schmerzen nie, egal, wie sehr sie beansprucht werden. Dieses Pokémon hat genug Kraft, um 100 Erwachsene umherzuwerfen.
+pokemon_desc_0067
+Maschocks starke Muskeln sind so hart wie Stahl. Dieses Pokémon hat so viel Kraft, dass es mit nur einem Finger einen Sumo-Ringer in der Luft halten kann.
+pokemon_desc_0068
+Machomei hat genug Kraft, um alles Mögliche zu stemmen. Bei Tätigkeiten, die Geschick und Sorgfalt erfordern, machen es ihm seine Arme jedoch nicht leicht. Dieses Pokémon neigt dazu, zuerst zu handeln und dann zu denken.
+pokemon_desc_0069
+Knofensas schlanker und elastischer Körper ermöglicht es ihm, jedem Angriff auszuweichen, so heftig dieser auch sein mag. Dieses Pokémon spuckt eine ätzende Flüssigkeit aus, die sogar Eisen zersetzen kann.
+pokemon_desc_0070
+Ultrigaria hat einen großen Haken an seinem Hinterteil. Nachts hängt sich dieses Pokémon zum Schlafen an einen Ast. Wenn es sich im Schlaf bewegt, kann es passieren, dass es auf dem Boden wieder aufwacht.
+pokemon_desc_0071
+Aus Sarzenias Kopf ragt eine lange Ranke hervor, die es bewegt, als wäre sie ein kleines Lebewesen. Nähert sich ahnungslose Beute dieser Falle, verschlingt Sarzenia sie im Ganzen.
+pokemon_desc_0072
+Tentachas Körper setzt sich zum größten Teil aus Wasser zusammen. Wenn es das Meer verlässt, vertrocknet es. Wenn dieses Pokémon auszutrocknen beginnt, sollte man es schnell wieder ins Wasser zurückbringen.
+pokemon_desc_0073
+Tentoxa hat große, rote Kugeln auf seinem Kopf. Sie glühen auf, bevor sie seine Gegner mit Ultraschall erschüttern. Ein Ausbruch dieses Pokémon erzeugt starke Wellen in seiner Umgebung.
+pokemon_desc_0074
+Je länger ein Kleinstein lebt, desto mehr wird seine raue Oberfläche abgeschliffen, sodass es runder wird. Das Herz dieses Pokémon bleibt aber für immer versteinert, hart und rau.
+pokemon_desc_0075
+Georok wächst, indem es sich von Steinen ernährt. Am liebsten mag es Steine, die mit Moos überzogen sind. Dieses Pokémon frisst sich täglich durch eine riesige Menge von Steinen.
+pokemon_desc_0076
+Geowaz lebt hoch in den Bergen. Gibt es ein starkes Erdbeben, rollt dieses Pokémon so lange den Berg hinunter, bis es schließlich unten angekommen ist.
+pokemon_desc_0077
+Nach seiner Geburt ist Ponita so schwach, dass es kaum von alleine aufstehen kann. Dieses Pokémon wird dadurch schnell stärker, dass es sich beim Versuch, mit seinen Eltern Schritt zu halten, immer wieder aufrappeln muss.
+pokemon_desc_0078
+Man kann Gallopa dabei beobachten, wie es lässig über Felder und Wiesen galoppiert. Wenn dieses Pokémon jedoch Ernst macht, erreicht es bis zu 240 km/h. Dann beginnt seine Mähne zu lodern.
+pokemon_desc_0079
+Flegmon benutzt seinen Schweif, um Beute zu fangen, indem es ihn an einem Flussufer ins Wasser taucht. Dieses Pokémon vergisst häufig, was es gerade tun wollte, und verbringt ganze Tage damit, am Ufer herumzutrödeln.
+pokemon_desc_0080
+An Lahmus' Rute hat sich ein Muschas festgebissen. Daher kann es ihn nicht mehr zum Angeln benutzen und es ist dazu gezwungen, umherzuschwimmen und nach Beute Ausschau zu halten.
+pokemon_desc_0081
+Magnetilo ernährt sich von Elektrizität aus Stromleitungen. Dieses Pokémon hängt sich gern an Sicherungskästen. Wenn es in deinem Haus zu einem Stromausfall kommt, solltest du die Sicherungen überprüfen.
+pokemon_desc_0082
+Magneton erzeugt ein sehr starkes Magnetfeld, das Maschinen zerstören kann. Deshalb hört man in großen Städten oft Sirenen, die die Bürger vor Scharen dieser Pokémon warnen sollen.
+pokemon_desc_0083
+Porenta trifft man immer mit einer Lauchstange an. Es gibt gute und schlechte Stangen. Dieses Pokémon kämpft mit Hilfe seiner Stange gegen seine Gegner.
+pokemon_desc_0084
+Dodu hat zwei Köpfe, die nie zur selben Zeit, sondern abwechselnd schlafen. Während ein Kopf schläft, hält der andere Ausschau nach Feinden.
+pokemon_desc_0085
+Dodris drei Köpfe blicken in drei verschiedene Richtungen. Es ist immer auf der Hut. Du solltest dich diesem Pokémon nicht nähern, wenn es bereits misstrauisch ist. Es könnte nach dir hacken.
+pokemon_desc_0086
+Jurob jagt unter der eisigen Oberfläche des Eismeeres nach Beute. Zum Luftholen schlägt es mit dem vorstehenden Teil seines Kopfes ein Loch ins Eis.
+pokemon_desc_0087
+Jugong liebt es, auf bitterkalten Eisschollen ein Nickerchen zu machen. Ein Seemann, der einmal ein solches Pokémon schlafend auf einem Eisberg sah, hielt es irrtümlicherweise für eine Meerjungfrau.
+pokemon_desc_0088
+Sleimas glitschiger, gummiartiger Körper passt durch jede noch so kleine Öffnung. Dieses Pokémon steigt in die Kanalisation hinab, um fauliges Abwasser zu trinken.
+pokemon_desc_0089
+Sleimok scheidet eine widerlich stinkende Substanz aus. Ein einziger Tropfen dieser Substanz reicht aus, um ein Gewässer zu verseuchen.
+pokemon_desc_0090
+Nachts benutzt dieses Pokémon seine breite Zunge, um ein Loch in den Meeresboden zu graben. Darin schläft es. Dabei schließt es seine Schale, aber die Zunge hängt heraus.
+pokemon_desc_0091
+Austos kann im Meerwasser schwimmen, indem es Wasser schluckt und wieder herausspritzt. Dieses Pokémon kann sich auch verteidigen, indem es spitze Stacheln mithilfe des Wasserdrucks verschießt.
+pokemon_desc_0092
+Nebulak hat einen gasförmigen Körper. Wenn es starkem Wind ausgesetzt wird, kann es davongeweht werden. Scharen dieser Pokémon sammeln sich unter Dachrinnen, um sich vor dem gefährlichen Wind zu schützen.
+pokemon_desc_0093
+Alpollo ist ein gefährliches Pokémon. Wenn es dich zu sich lockt, während es durch die Dunkelheit schwebt, darfst du ihm keinesfalls zu nahe kommen. Dieses Pokémon wird versuchen, an dir zu lecken und dein Leben zu stehlen.
+pokemon_desc_0094
+Nachts kann es passieren, dass dich dein Schatten im Licht einer Straßenlaterne plötzlich überholt. Dann ist es ein Gengar, das an dir vorbeiläuft und sich als dein Schatten ausgibt.
+pokemon_desc_0095
+Onix hat einen Magneten in seinem Gehirn. Er dient ihm als Kompass, sodass es beim Graben von Tunneln nicht die Orientierung verliert. Wenn es älter wird, wird sein Körper immer runder und glatter.
+pokemon_desc_0096
+Wenn dir im Schlaf die Nase juckt, ist das ein sicheres Zeichen dafür, dass eines dieser Pokémon auf deinem Kissen sitzt, um deinen Traum durch deine Nasenlöcher hindurch zu verspeisen.
+pokemon_desc_0097
+Hypno hält ein Pendel in der Hand. Das Schwingen und Glitzern des Pendels versetzt seine Feinde in eine tiefe Hypnose. Während dieses Pokémon auf der Suche nach Beute ist, poliert es sein Pendel.
+pokemon_desc_0098
+Krabby lebt an Stränden, in Löchern im Sand. An Sandstränden, an denen es wenig Nahrung findet, sieht man dieses Pokémon mit Artgenossen um sein Revier streiten.
+pokemon_desc_0099
+Kingler hat eine riesige Schere. Es winkt damit, um mit anderen zu kommunizieren. Da seine Schere aber so schwer ist, wird dieses Pokémon schnell müde.
+pokemon_desc_0100
+Voltobal wurde zuerst bei einer Firma beobachtet, die Pokébälle herstellt. Der Zusammenhang zwischen dieser Beobachtung und der Tatsache, dass dieses Pokémon wie ein Pokéball aussieht, ist noch ungeklärt.
+pokemon_desc_0101
+Lektrobal ernährt sich von Elektrizität aus der Atmosphäre. An Tagen, an denen es blitzt, explodiert dieses Pokémon dauernd, da es zu viel Elektrizität zu sich nimmt.
+pokemon_desc_0102
+Dieses Pokémon besteht aus sechs Eiern, die ein engmaschiges Netz bilden. Die sechs Eier ziehen sich gegenseitig an und drehen sich. Wenn die Eier Risse bekommen, steht Owei kurz vor seiner Entwicklung.
+pokemon_desc_0103
+Kokowei stammt ursprünglich aus den Tropen. Seine Köpfe wachsen stetig, wenn es starkem Sonnenlicht ausgesetzt ist. Wenn seine Köpfe abfallen, bilden sie zusammen ein Owei.
+pokemon_desc_0104
+Tragosso sehnt sich nach seiner Mutter, die nicht mehr da ist. Wenn es im Vollmond das Ebenbild seiner Mutter erblickt, muss es weinen. Die Flecken auf dem Totenkopf, den es trägt, stammen von vergossenen Tränen.
+pokemon_desc_0105
+Knogga ist eine entwickelte Form von Tragosso, die den Verlust der Mutter überwunden hat und stärker geworden ist. Die gestählte, abgehärtete Seele dieses Pokémon ist nur schwer zu brechen.
+pokemon_desc_0106
+Kicklee kann seine Beine ausfahren und einziehen. Es verblüfft seine Gegner mit brutalen Tritten. Nach einem Kampf massiert es seine Beine und lockert die Muskeln, um der Erschöpfung vorzubeugen.
+pokemon_desc_0107
+Nockchan besitzt das Herz eines Boxers, der sich auf eine Weltmeisterschaft vorbereitet. Dieses Pokémon hat einen unbeugsamen Willen und gibt niemals auf.
+pokemon_desc_0108
+Wenn Schlurp etwas Neues entdeckt, leckt es daran. Es merkt sich Gegenstände anhand der Struktur und des Geschmacks. Saure Sachen schrecken es eher ab.
+pokemon_desc_0109
+Wenn Smogon sich aufregt, lässt es das giftige Gas in seinem Inneren entweichen. Wenn es sich zu sehr aufbläht, explodiert dieses Pokémon.
+pokemon_desc_0110
+Smogmog liebt die Gase verrottender, fauler Küchenabfälle. Dieses Pokémon sucht sich ein vernachlässigtes, schmutziges Gebäude und richtet sich dort häuslich ein. Nachts, wenn die Menschen schlafen, wühlt es im Müll.
+pokemon_desc_0111
+Rihorn läuft immer geradeaus und zerstampft alles, was ihm in die Quere kommt. Es macht ihm auch nichts aus, wenn es mit dem Kopf voran gegen einen Stahlklotz rennt. Am nächsten Tag allerdings könnte es Schmerzen haben.
+pokemon_desc_0112
+Mit seinem Horn kann Rizeros selbst Diamanten zerbrechen. Ein einziger Hieb mit seinem Schweif kann ein Haus zum Einsturz bringen. Die Haut dieses Pokémon ist so hart, dass nicht einmal Kanonenkugeln Kratzer hinterlassen.
+pokemon_desc_0113
+Chaneira legt täglich ausgesprochen nahrhafte Eier. Sie sind so köstlich, dass sie sogar von Menschen verspeist werden, die gar keinen Appetit haben.
+pokemon_desc_0114
+Wenn man Tangelas Ranken berührt, fallen diese sofort ab. Das tut ihm aber nicht weh und es kann sich schnell in Sicherheit bringen. Verliert es Ranken, werden diese am nächsten Tag durch neue ersetzt.
+pokemon_desc_0115
+Wenn du auf ein junges, spielendes Kangama stößt, solltest du es nicht stören oder versuchen, es einzufangen. Die Mutter dieses Baby-Pokémon ist bestimmt in Reichweite und könnte sehr wütend auf dich werden.
+pokemon_desc_0116
+Seeper ernährt sich von kleinen Insekten und dem Moos auf Steinen. Bei unruhiger See verankert sich dieses Pokémon mit seinem Schweif an Steinen oder Korallen, damit es nicht weggespült wird.
+pokemon_desc_0117
+Sobald sich Seemon um eine Koralle gewickelt hat, schläft es. Von Zeit zu Zeit werden Menschen durch die Widerhaken dieses Pokémon verletzt, wenn sie versuchen, Korallen zu ernten und es dabei nicht bemerken.
+pokemon_desc_0118
+Goldini ist ein wunderschönes Pokémon, dessen Flossen sich elegant im Wasser wiegen. Aber man muss auf dieses Pokémon achtgeben. Es könnte einen sonst heftig mit seinem Horn rammen.
+pokemon_desc_0119
+Im Herbst kann man männliche Golking dabei beobachten, wie sie Balztänze in Flussbetten aufführen, um die weiblichen Exemplare zu beeindrucken. Während dieser Zeit ist die Farbe dieser Pokémon am schönsten.
+pokemon_desc_0120
+In Sterndus Körpermitte befindet sich ein hellrot leuchtendes Organ – sein Kern. Wenn du im Spätsommer an einen Strand gehst, sehen die leuchtenden Kerne dieser Pokémon aus wie Sterne.
+pokemon_desc_0121
+Starmies Mittelteil, sein Kern, leuchtet in sieben Farben. Aufgrund dieser Eigenschaft wird es auch „Juwel des Meeres“ genannt.
+pokemon_desc_0122
+Pantimos ist ein Meister der Pantomime. Seine Gesten und Bewegungen machen den Zuschauer glauben, dass etwas Unsichtbares tatsächlich existiert. Wenn ein Objekt für real gehalten wird, beginnt es, wirklich zu existieren.
+pokemon_desc_0123
+Sichlor ist unheimlich schnell. Dadurch werden die beiden Sensen an seinen Unterarmen noch effektiver. Dieses Pokémon kann mit seinen Sensen in Sekundenschnelle Baumstämme zerteilen.
+pokemon_desc_0124
+Rossana bewegt sich rhythmisch fort. Es wiegt und schwingt seine Hüften, als würde es tanzen. Seine Bewegungen wirken so anziehend auf Menschen, dass diese beginnen, mit den Hüften zu schwingen, ohne darüber nachzudenken.
+pokemon_desc_0125
+Bei Gewitter entbrennt unter Elektek ein Wettstreit um höher gelegene Orte, an denen ein Blitzeinschlag wahrscheinlich ist. Einige Ortschaften benutzen diese Pokémon anstelle von Blitzableitern.
+pokemon_desc_0126
+Im Kampf stößt Magmar glühend heiße Flammen aus, um seinen Gegner einzuschüchtern. Diese Feuersalven erzeugen Hitzewellen, die das Gras und die Bäume der Umgebung in Brand setzen.
+pokemon_desc_0127
+Pinsir ist erstaunlich stark. Es kann einen Feind, der doppelt so viel wiegt wie es selbst, mit seinen Hörnern packen und hochheben. Bei niedrigen Temperaturen werden die Bewegungen dieses Pokémon schwerfällig.
+pokemon_desc_0128
+Dieses Pokémon ist nur zufrieden, wenn es kämpfen kann. Wenn Tauros keinen Gegner findet, sucht es sich robuste Bäume und haut sie um, um sich abzureagieren.
+pokemon_desc_0129
+Karpador ist ein armseliges Pokémon, das nur platschen kann. Sein merkwürdiges Verhalten hat so manchen Wissenschaftler zum Forschen angeregt.
+pokemon_desc_0130
+Wenn sich Karpador zu Garados entwickelt, durchlaufen seine Gehirnzellen eine strukturelle Veränderung, was wohl der Grund für die zügellose, gewalttätige Natur dieses Pokémon ist.
+pokemon_desc_0131
+Die Menschen sind dafür verantwortlich, dass Lapras fast ausgestorben wäre. Abends singt es traurige Klagelieder, da nur noch wenige seiner Artgenossen übrig sind.
+pokemon_desc_0132
+Ditto verändert seine Zellstruktur, um sich in eine andere Form zu verwandeln. Wenn es sich dabei jedoch auf sein Gedächtnis verlässt, unterlaufen diesem Pokémon schon mal Fehler.
+pokemon_desc_0133
+Evolis genetisches Erbmaterial ist so instabil, dass die Umgebung plötzliche Mutationen auslösen kann. Unter anderem führt die Wirkung verschiedener Steine zur Entwicklung dieses Pokémon.
+pokemon_desc_0134
+Aquana hat eine spontane Mutation durchgemacht und ihm sind Flossen und Kiemen gewachsen. Dadurch kann es unter Wasser leben. Dieses Pokémon kann Wasser nach Belieben manipulieren.
+pokemon_desc_0135
+Blitzas Zellen erzeugen schwache Elektrizität. Diese wird aber durch die statische Aufladung seines Fells verstärkt, sodass es Blitzschläge erzeugen kann. Sein Fell besteht aus elektrisch geladenen Nadeln.
+pokemon_desc_0136
+Flamaras flauschiges Fell dient einem besonderen Zweck. Es gibt Hitze an die Luft ab, damit sein Körper nicht zu heiß wird. Die Körpertemperatur dieses Pokémon kann bis auf 900 °C ansteigen.
+pokemon_desc_0137
+Porygon ist in der Lage, sich in Daten zurückzuverwandeln und in den Cyberspace zu gelangen. Dieses Pokémon ist kopiergeschützt, sodass es durch Kopieren nicht vervielfältigt werden kann.
+pokemon_desc_0138
+Amonitas ist ein Pokémon, das lange Zeit ausgestorben war, aber von den Menschen aus Fossilien reproduziert wurde. Wenn es von einem Feind angegriffen wird, zieht es sich in sein hartes Gehäuse zurück.
+pokemon_desc_0139
+Amoroso benutzt seine Tentakel, um Beute einzufangen. Man nimmt an, dass es ausgestorben ist, weil seine Schale zu groß und zu schwer geworden war, sodass seine Bewegungen immer langsamer und schwerfälliger wurden.
+pokemon_desc_0140
+Kabuto ist ein Pokémon, das aus einem Fossil reproduziert wurde. Höchst selten wurden lebende Exemplare dieser Art entdeckt. Dieses Pokémon hat sich seit 300 Millionen Jahren überhaupt nicht verändert.
+pokemon_desc_0141
+Vor langer Zeit jagte Kabutops unter Wasser nach Beute. Es hat sich von einem Meeresbewohner zu einem Landbewohner entwickelt, was man an den Veränderungen seiner Kiemen und Beine sehen kann.
+pokemon_desc_0142
+Aerodactyl ist ein Pokémon aus dem Zeitalter der Dinosaurier. Es wurde aus genetischem Material reproduziert, das aus Bernstein gewonnen wurde. Man geht davon aus, dass es in grauer Vorzeit der König der Lüfte war.
+pokemon_desc_0143
+Der typische Tagesablauf von Relaxo besteht lediglich aus Essen und Schlafen. Es ist so zutraulich, dass Kinder seinen dicken Bauch als Platz zum Spielen nutzen.
+pokemon_desc_0144
+Arktos ist ein sagenumwobenes Vogel-Pokémon, das Eis manipulieren kann. Das Schlagen seiner Flügel bringt die Luft zum Gefrieren. Es wird behauptet, dass es zu schneien beginnt, wenn dieses Pokémon fliegt.
+pokemon_desc_0145
+Zapdos ist ein Legendäres Vogel-Pokémon, das die Fähigkeit besitzt, Elektrizität zu manipulieren. Es lebt in Gewitterwolken. Dieses Pokémon nimmt Energie auf, wenn es vom Blitz getroffen wird.
+pokemon_desc_0146
+Lavados ist ein Legendäres Vogel-Pokémon, das Feuer manipulieren kann. Wenn es verletzt wird, taucht es seinen Körper in das Magma eines Vulkans, um sich zu verbrennen und selbst zu heilen.
+pokemon_desc_0147
+Dratini häutet sich ständig und entledigt sich so seiner Haut, da die Lebensenergie in seinem Körper stetig und unkontrollierbar ansteigt.
+pokemon_desc_0148
+Dragonir speichert eine enorme Menge an Energie in seinem Körper. Es kann die Witterung in seiner Umgebung ändern, indem es Energie aus den Kristallen an seinem Hals und an seinem Schweif entlädt.
+pokemon_desc_0149
+Dragoran kann die Welt innerhalb von 16 Stunden umkreisen. Es ist ein gutherziges Pokémon, das vermisste und sinkende Schiffe bei Unwetter sicher an Land zurückbringt.
+pokemon_desc_0150
+Mewtu ist ein Pokémon, das durch Genmanipulation entstanden ist. Die Menschen haben es zwar mit ihrem wissenschaftlichen Sachverstand erzeugt, aber nicht mit einem mitfühlenden Herzen ausgestattet.
+pokemon_desc_0151
+Mew soll die genetische Zusammensetzung aller Pokémon besitzen. Es kann sich unsichtbar machen, sodass es sich auch Menschen nähern kann, ohne bemerkt zu werden.
+pokemon_desc_0152
+Im Kampf wedelt Endivie mit seinem Blatt, um den Feind fernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus, der die kämpfenden Pokémon beruhigt und eine gemütliche, freundliche Atmosphäre schafft.
+pokemon_desc_0153
+Lorblatts Nacken ist mit zusammengerollten Blättern behangen. In jedem Blatt befindet sich ein kleiner Trieb eines Baumes. Der Duft dieses Triebes bringt Menschen auf Trab.
+pokemon_desc_0154
+Der Duft von Meganies Blume besänftigt Gemüter. Im Kampf gibt dieses Pokémon mehr von seinem beruhigenden Duftstoff ab, um den Kampfgeist des Gegners zu schwächen.
+pokemon_desc_0155
+Feurigel lässt Flammen aus seinem Rücken lodern, wenn es sich schützen muss. Die Flammen sind sehr verzehrend, wenn dieses Pokémon wütend ist. Ist es aber müde, flackern die Flammen nur unregelmäßig und schwach.
+pokemon_desc_0156
+Igelavar hält seine Gegner mit Flammen und Böen heißer Luft auf Distanz. Dieses Pokémon nutzt seine außergewöhnliche Gewandtheit dazu, Angriffen auszuweichen und seinen Gegner gleichzeitig zu versengen.
+pokemon_desc_0157
+Tornupto versteckt sich hinter einem flimmernden Hitzeschild, den es mithilfe seiner heißen Flammen erzeugt. Dieses Pokémon erzeugt Explosionen, die alles in Schutt und Asche legen.
+pokemon_desc_0158
+Karnimani ist zwar sehr klein, aber seine Kiefer sind sehr stark. Wenn die Pokémon denken, dass es nur spielerisch an ihnen knabbert, sollten sie vorsichtig sein, denn sein Biss kann zu schweren Verletzungen führen.
+pokemon_desc_0159
+Wenn Tyracroc einen Feind mit seinen Kiefern eingeklemmt hat, lässt es ihn nicht mehr los. Da seine Zahnspitzen wie Angelhaken gebogen sind, kann man sie nicht mehr entfernen, wenn sie sich verfangen haben.
+pokemon_desc_0160
+Impergator schüchtert seine Feinde dadurch ein, dass es sein riesiges Maul aufreißt. Im Kampf erschüttert es den Boden mit seinen kräftigen Hinterbeinen, wenn es mit unglaublicher Geschwindigkeit auf seinen Gegner losrennt.
+pokemon_desc_0161
+Wenn Wiesor schläft, hält immer jemand Wache. Beim ersten Anflug von Gefahr weckt die Wache die anderen auf. Wenn dieses Pokémon von seinen Artgenossen getrennt wird, kann es vor Angst nicht mehr schlafen.
+pokemon_desc_0162
+Wiesenior ist sehr schlank. Wenn es angegriffen wird, kann es sich durch enge Zwischenräume schlängeln und entkommen. Trotz seiner kurzen Gliedmaßen ist dieses Pokémon sehr wendig und flink.
+pokemon_desc_0163
+Hoothoot besitzt ein inneres Organ, das die Erdumdrehung wahrnimmt. Dieses besondere Organ ermöglicht es diesem Pokémon, jeden Tag zur selben Zeit zu schreien.
+pokemon_desc_0164
+Dank seines hervorragenden Sehvermögens, mit dem es auch bei geringer Beleuchtung sehen kann, und dank seiner geschmeidigen Flügel, mit denen es geräuschlos fliegt, entgeht Noctuh keine Beute.
+pokemon_desc_0165
+Ledyba sondert eine duftende Flüssigkeit ab. Über diese kommuniziert es mit anderen. Dieses Pokémon übermittelt seine Gefühle, indem es die Duftnote des Sekrets verändert.
+pokemon_desc_0166
+In Ländern mit frischer Luft und Sternen am Himmel leben unzählig viele Ledian. Dafür gibt es einen guten Grund: Dieses Pokémon nutzt das Licht der Sterne als Energie.
+pokemon_desc_0167
+Das von Webarak gesponnene Netz ist sein zweites Nervensystem. Dieses Pokémon kann anhand der feinen Vibrationen der Netzfäden bestimmen, welche Art Beute sich darauf befindet.
+pokemon_desc_0168
+Ariados hat kleine hakenförmige Krallen an seinen Füßen. Damit kann es an Decken und Wänden entlangflitzen. Dieses Pokémon schnürt seine Gegner mit einem starken, dünnen Seidenfaden ein.
+pokemon_desc_0169
+Wenn Iksbat fliegt, indem es entweder das vordere oder das hintere Paar Flügel bewegt, ist dies ein Anzeichen dafür, dass dieses Pokémon bereits eine lange Strecke hinter sich hat. Dann wechselt es die Flügel häufig.
+pokemon_desc_0170
+Lampi gibt positive und negative elektrische Ladungen durch seine Antennen ab, um seine Beute zu lähmen. Dieses Pokémon lässt seine Lichter aufflackern und tauscht Signale mit seinen Artgenossen aus.
+pokemon_desc_0171
+Lanturn wird auch „Tiefseestern“ genannt, da es eine leuchtende Antenne besitzt. Dieses Pokémon erzeugt Licht, indem es in der Antenne eine chemische Reaktion zwischen Bakterien und seinen Körperflüssigkeiten erzeugt.
+pokemon_desc_0172
+An Gewittertagen oder Tagen, an denen die Luft sehr trocken ist, kann sich Pichu leichter mit Elektrizität aufladen. Dann kann man das Knistern statischer Aufladung hören.
+pokemon_desc_0173
+In Nächten mit vielen Sternschnuppen kann man Pii im Kreis tanzen sehen. Es tanzt die ganze Nacht hindurch und hört erst bei Sonnenaufgang auf, um seinen Durst mit Morgentau zu stillen.
+pokemon_desc_0174
+Fluffeluffs Stimmbänder sind noch nicht voll entwickelt. Wenn es zu viel singt, schmerzt ihm die Kehle. Dieses Pokémon gurgelt mit Süßwasser aus einem sauberen Fluss.
+pokemon_desc_0175
+Togepi nutzt die positiven Emotionen, wie Freude und Mitgefühl, von Menschen und Pokémon als Energie. Dieses Pokémon speichert Glücksgefühle in seiner Schale und teilt sie mit anderen.
+pokemon_desc_0176
+Togetic ist ein Pokémon, das Glück bringt. Wenn es jemanden trifft, der reinen Herzens ist, zeigt es sich und teilt sein Glück mit dieser Person.
+pokemon_desc_0177
+Natu kann nicht fliegen, da seine Flügel noch nicht ausgewachsen sind. Wenn du diesem Pokémon in die Augen schaust, starrt es dich konzentriert an. Wenn du dich aber bewegst, hüpft es weg, um sich in Sicherheit zu bringen.
+pokemon_desc_0178
+Xatu bleibt den ganzen Tag an ein und demselben Ort wie angewurzelt stehen. Die Menschen glauben, dass es dies aus Angst vor den Dingen tut, die es für die Zukunft vorausgesehen hat.
+pokemon_desc_0179
+Voltilamms flauschiges, wollenes Fell erzeugt Reibung und statische Aufladung. Je höher die elektrische Ladung wird, desto heller leuchtet die Glühbirne an seinem Schweif.
+pokemon_desc_0180
+Die Qualität von Waatys Wolle verändert sich, sodass es mit nur wenig Wolle eine große statische Aufladung erzeugen kann. Die kahlen Stellen in seinem Fell sind gegen Elektrizität abgeschirmt.
+pokemon_desc_0181
+Ampharos strahlt so viel Licht aus, dass es sogar aus dem Weltraum noch gesehen werden kann. In der Antike benutzten die Menschen das Licht dieses Pokémon dazu, Signale über weite Entfernungen auszutauschen.
+pokemon_desc_0182
+Wenn Blubella starkem Sonnenlicht ausgesetzt ist, beginnen sich die Blätter an seinem Körper zu drehen. Der Tanz dieses Pokémon ist in südlichen Ländern sehr bekannt.
+pokemon_desc_0183
+Marills Schweif ist mit Öl gefüllt und dient ihm als eine Art Rettungsring. Wenn nur sein Schweif an der Wasseroberfläche zu sehen ist, taucht dieses Pokémon gerade, um sich von Wasserpflanzen zu ernähren.
+pokemon_desc_0184
+Azumarills lange Ohren dienen ihm als unentbehrliche Sensoren. Wenn es sein Gehör fokussiert, kann dieses Pokémon auch in reißenden Flüssen identifizieren, welche Art von Beute sich in seiner Nähe befindet.
+pokemon_desc_0185
+Mogelbaum tarnt sich als Baum, um Angriffen von Feinden aus dem Weg zu gehen. Da seine Arme aber das ganze Jahr über grün bleiben, fällt seine Tarnung im Winter leicht auf.
+pokemon_desc_0186
+Quaxo hat gelocktes Haar, das ihm den Status eines Königs bescheinigt. Je länger und lockiger sein Haar ist, desto mehr Respekt erntet dieses Pokémon von seinen Artgenossen.
+pokemon_desc_0187
+Hoppspross lässt sich vom Wind treiben. Wenn es bemerkt, dass ein Sturm aufkommt, verbindet es seine Blätter mit anderen Hoppspross, damit es nicht davongeweht wird.
+pokemon_desc_0188
+Hubelupfs Blume beginnt zu blühen, wenn die Temperatur über 18 °C steigt. Wie weit sich die Blüte öffnet, hängt von der Höhe der Temperatur ab. Daher wird dieses Pokémon manchmal als Thermometer eingesetzt.
+pokemon_desc_0189
+Papungha nutzt den Südwind, um das Meer zu überqueren und in ferne Länder zu fliegen. Dieses Pokémon sinkt zu Boden, wenn es während seines Fluges auf kalte Luftschichten stößt.
+pokemon_desc_0190
+An Griffels Schweif befindet sich ein handähnliches Anhängsel, mit dem es geschickt zu Werke gehen kann. Da dieses Pokémon sehr häufig seinen Schweif einsetzt, wirken seine Hände eher plump.
+pokemon_desc_0191
+Sonnkern versucht, sich so wenig wie möglich zu bewegen, um alle gespeicherten Nährstoffe für seine Entwicklung aufzusparen. Außer Morgentau nimmt es nichts weiter zu sich.
+pokemon_desc_0192
+Sonnflora verwandelt Solarenergie in Nährstoffe. Tagsüber, wenn es warm ist, ist es sehr aktiv. Wenn aber die Sonne untergegangen ist, hört es auf, sich zu bewegen.
+pokemon_desc_0193
+Yanma hat einen Blickwinkel von 360 Grad, ohne die Augen bewegen zu müssen. Es ist ein großartiger Flieger und geübt darin, plötzlich anzuhalten oder Wendemanöver vorzunehmen. So kann es sich blitzschnell auf Beute stürzen.
+pokemon_desc_0194
+Felino lebt eigentlich im Wasser. Manchmal kommt es jedoch an Land, um nach Nahrung zu suchen. An Land bedeckt es seinen Körper mit einem schleimigen Giftfilm.
+pokemon_desc_0195
+Morlord jagt seine Nahrung, indem es im Wasser sein Maul weit aufmacht und auf unvorsichtige Beute wartet. Da sich dieses Pokémon nicht bewegt, wird es auch nicht besonders hungrig.
+pokemon_desc_0196
+Psiana ist jedem Trainer treu, dem es zugetan ist. Dieses Pokémon hat die Fähigkeit der Prophezeiung entwickelt, um seine Trainer vor Unheil zu bewahren.
+pokemon_desc_0197
+Nachtara hat sich dadurch entwickelt, dass es den Mondwellen ausgesetzt war. Es versteckt sich im Schutze der Dunkelheit und wartet darauf, dass sich ein Feind bewegt. Die Ringe an seinem Körper leuchten auf, wenn es angreift.
+pokemon_desc_0198
+Kramurx wurde als vermeintlicher Überbringer des Unheils verabscheut und gefürchtet. Dieses Pokémon hat ein großes Interesse an allem, was funkelt und glitzert. Es stiehlt auch Ringe von Frauen.
+pokemon_desc_0199
+Laschoking betreibt jeden Tag Forschung, um die Geheimnisse der Welt zu lüften. Dieses Pokémon vergisst aber alles, was es bereits herausgefunden hat, wenn das Muschas auf seinem Kopf abfällt.
+pokemon_desc_0200
+Traunfugil erschreckt Menschen mit einem markerschütternden Schrei. Dieses Pokémon verwendet seine roten Kraftfelder dazu, die Ängste seiner Feinde aufzunehmen und sie in Nahrung umzuwandeln.
+pokemon_desc_0201
+Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
+pokemon_desc_0202
+Wenn zwei oder mehr Woingenau aufeinandertreffen, versuchen sie, gegenseitig ihre Geduld zu übertreffen. Sie möchten herausfinden, welches Pokémon es am längsten ohne Nahrung aushält. Darauf müssen Trainer achten.
+pokemon_desc_0203
+Der Kopf an Girafarigs Hinterteil hat ein eigenes Gehirn. Er reagiert mit Angriffen auf Gerüche und Geräusche. Wenn man sich diesem Pokémon von hinten nähert, könnte der hintere Kopf plötzlich vorschnellen und zubeißen.
+pokemon_desc_0204
+Tannza hängt an Ästen und wartet auf Beute. Wenn man dieses Pokémon bei einer Mahlzeit stört, indem man den Baum, auf dem es sich befindet, schüttelt, fällt es herunter und explodiert ohne Vorwarnung.
+pokemon_desc_0205
+Forstellka versteckt sich in seiner stahlharten Schale. Die Schale öffnet sich, wenn es nach Beute schnappt. Dies geht jedoch so schnell, dass man das Innere der Schale nicht zu Gesicht bekommt.
+pokemon_desc_0206
+Dummisel hat einen Bohrer als Schweif. Diesen benutzt es, um sich rückwärts in den Boden einzugraben. Dieses Pokémon baut seinen Nestkomplex tief unter der Erdoberfläche auf.
+pokemon_desc_0207
+Skorgla segelt lautlos durch die Lüfte. Es verankert sich mithilfe der Krallen an seinen Hinterbeinen und der riesigen Scheren an seinen Vorderbeinen am Gesicht eines Feindes und vergiftet ihn mit seinem Giftstachel.
+pokemon_desc_0208
+Stahlos lebt noch tiefer unter der Erde als Onix. Dieses Pokémon gräbt immer in Richtung des Erdkerns. Nachweislich hat dieses Pokémon bereits Tiefen von 1 km erreicht.
+pokemon_desc_0209
+Indem es seine Zähne fletscht und ein furchterregendes Gesicht macht, schlägt Snubbull kleinere Pokémon in die Flucht. Es scheint darüber jedoch etwas traurig zu sein.
+pokemon_desc_0210
+Granbull besitzt einen besonders ausgeprägten Unterkiefer. Wegen seiner schweren Zähne wackelt es mit dem Kopf. Es beißt nur zu, wenn es erschreckt wird.
+pokemon_desc_0211
+Baldorfish saugt Wasser ein, um sich aufzublasen. Dieses Pokémon nutzt den Druck des Wassers dazu, giftige Stacheln aus seinem Körper zu verschießen. Es betrachtet Schwimmen als eine echte Herausforderung.
+pokemon_desc_0212
+Scherox' Körper ist hart wie Stahl. Gewöhnliche Angriffe jagen ihm keine Angst ein. Dieses Pokémon schlägt mit den Flügeln, um seine Körpertemperatur zu regulieren.
+pokemon_desc_0213
+Pottrott versteckt sich leise unter Steinen und verbirgt seinen Körper in seiner harten Schale, wenn es gesammelte Beeren zu sich nimmt. Die Beeren vermischen sich mit seinen Körperflüssigkeiten zu einem Saft.
+pokemon_desc_0214
+Skaraborn geht direkt auf seinen Gegner los, rutscht auf ihn zu, um ihn auszuhebeln und mit seinem mächtigen Horn wegzuschleudern. Dieses Pokémon hat genug Kraft, um einen massigen Baum umzustoßen.
+pokemon_desc_0215
+Sniebel klettert an Bäumen hoch, indem es seine hakenförmigen Krallen in die Rinde schlägt. Dieses Pokémon sucht nach unbewachten Nestern und stiehlt die Eier. Davon ernährt es sich.
+pokemon_desc_0216
+Teddiursa leckt gern seine mit Honig bedeckten Pranken ab. Dieses Pokémon bereitet seinen eigenen Honig zu, indem es die von Bibor gesammelten Früchte und Pollen miteinander vermengt.
+pokemon_desc_0217
+In den von Ursaring bewohnten Wäldern gibt es viele Flüsse und hohe Bäume, in denen es Nahrung findet. Dieses Pokémon läuft täglich durch den Wald, um nach Essbarem zu suchen.
+pokemon_desc_0218
+Durch Schneckmags Kreislaufsystem fließt Magma. Wenn dieses Pokémon erkältet ist, kühlt das Magma aus und erhärtet. Sein Körper wird spröde und es brechen Stücke heraus, sodass es kleiner wird.
+pokemon_desc_0219
+Magcargos Schale ist eigentlich seine Haut, die erhärtet ist, als es auskühlte. Seine Schale ist sehr spröde und zerbrechlich. Schon bei einer leichten Berührung bricht sie auseinander. Dann muss es ein Bad in Magma nehmen.
+pokemon_desc_0220
+Auf Nahrungssuche schnüffelt Quiekel am Boden entlang. Seine Lieblingsspeise ist ein Pilz, der unter verwesendem Gras wächst. Manchmal spürt dieses Pokémon heiße Quellen auf.
+pokemon_desc_0221
+Keifel hat ein dichtes Fell aus langen Haaren. Dadurch ist es gegen eisige Kälte gewappnet. Dieses Pokémon benutzt seine Hauer, um an Nahrung zu gelangen, die unter dem Eis eingeschlossen ist.
+pokemon_desc_0222
+Wenn Corasonns Arme Sonnenlicht abbekommen, glitzern sie wunderschön in sieben Farben. Wenn ein Arm abbricht, wächst über Nacht ein neuer nach.
+pokemon_desc_0223
+Remoraid saugt Wasser ein und spritzt es unter Einsatz seiner Bauchmuskeln mit Hochdruck wieder heraus. So schießt es fliegende Beute ab. Wenn seine Entwicklung näher rückt, wandert dieses Pokémon flussabwärts.
+pokemon_desc_0224
+Octillery saugt sich mit seinen Tentakeln an einem Feind fest. Dieses Pokémon betäubt seinen Gegner, bevor es ihm den Rest gibt. Wenn ein Feind zu stark ist, speit es Tinte aus und flüchtet.
+pokemon_desc_0225
+Botogel sammelt seine Nahrung in seinem Schweif. Es gab einmal einen berühmten Entdecker, der es dank eines Botogels geschafft hat, einen der höchsten Berge der Welt zu besteigen. Es hatte seine Nahrung mit ihm geteilt.
+pokemon_desc_0226
+An schönen Tagen sieht man Schwärme von Mantax elegant über die Wellen des Ozeans springen. Durch Remoraid, die an ihm haften und es begleiten, fühlt sich dieses Pokémon nicht belästigt.
+pokemon_desc_0227
+Panzaeron ist komplett in einen harten, schützenden Panzer eingehüllt. Dieses Pokémon fliegt bis zu 300 km/h schnell. Es greift seine Feinde mit seinen messerscharfen Flügeln an.
+pokemon_desc_0228
+Hunduster jagen in Gruppen. Sie kommunizieren miteinander über verschiedene Arten von Geheul und treiben ihre Feinde in die Enge. Die Zusammenarbeit dieser Pokémon ist einzigartig.
+pokemon_desc_0229
+In einer Gruppe von Hundemon ist dasjenige mit den nach hinten gebogenen Hörnern der Anführer. Diese Pokémon bestimmen ihren Anführer durch das Ausfechten von Kämpfen untereinander.
+pokemon_desc_0230
+Seedraking lebt in den Tiefen des Ozeans, die ansonsten verwaist sind. Lange hat man geglaubt, dass das Gähnen dieses Pokémon Strudel auslöst.
+pokemon_desc_0231
+Um sich ein Nest zu bauen, gräbt Phanpy am Flussufer ein Loch ins Erdreich. Es markiert die Umgebung seines Nests mithilfe seines Rüssels, damit seine Artgenossen wissen, dass dieses Gebiet vergeben ist.
+pokemon_desc_0232
+Donphans Lieblingsattacke ist es, als Ball zusammengerollt mit voller Wucht gegen seine Gegner zu krachen. Wenn es erst einmal rollt, ist dieses Pokémon nur schwer aufzuhalten.
+pokemon_desc_0233
+Porygon2 wurde in einem wissenschaftlichen Experiment von Menschen erzeugt. Es verfügt über künstliche Intelligenz, wodurch es selbstständig neue Gesten und Gefühle erlernen kann.
+pokemon_desc_0234
+Damhirplex hat ein prächtiges Geweih, für das hohe Preise gezahlt werden, da sie als Kunstwerke gelten. Daher wurde dieses Pokémon gejagt und wäre beinahe ausgestorben.
+pokemon_desc_0235
+Farbeagle markiert sein Revier mit einer Flüssigkeit, die aus seiner Schweifspitze austritt. Es wurden über 5 000 unterschiedliche Markierungen entdeckt, die dieses Pokémon hinterlassen hat.
+pokemon_desc_0236
+Rabauz muss jeden Tag trainieren, sonst ist es nicht ausgelastet und reagiert gestresst. Wenn man dieses Pokémon trainiert, muss man zahlreiche Trainingsmethoden einsetzen und sie ständig ausbauen.
+pokemon_desc_0237
+Kapoera dreht sich auf dem Kopf stehend um die eigene Achse und teilt Tritte aus. Seine Technik ist eine bemerkenswerte Mischung aus Angriff und Verteidigung. Es bewegt sich drehend schneller voran als laufend.
+pokemon_desc_0238
+Kussilla läuft hektisch umher, fällt aber auch ziemlich oft hin. Es lässt keine Möglichkeit aus, sein Spiegelbild zu betrachten, um sicherzustellen, dass sein Gesicht nicht schmutzig geworden ist.
+pokemon_desc_0239
+Elekid speichert Elektrizität in seinem Körper. Wenn es Metall berührt und versehentlich die aufgestaute Energie entlädt, rotiert es mit den Armen, um sich wieder aufzuladen.
+pokemon_desc_0240
+Magbys Gesundheitszustand kann man am Feuer erkennen, das es ausatmet. Wenn es gelbe Flammen ausstößt, ist es in guter Verfassung. Ist es erschöpft, vermischen sich die Flammen mit schwarzem Rauch.
+pokemon_desc_0241
+Miltank gibt täglich 20 l Milch. Sie ist süßlich und wird von Kindern und Erwachsenen gleichermaßen genossen. Menschen, die keine Milch trinken, essen sie stattdessen als Joghurt.
+pokemon_desc_0242
+Heiteira nimmt mit seinem flauschigen Fell Traurigkeit wahr. Es hastet zu einer traurigen Person, egal, wie weit diese entfernt ist, und teilt ein Glücks-Ei mit ihr, um sie zum Lächeln zu bringen.
+pokemon_desc_0243
+Raikou ist so schnell wie der Blitz. Das Gebrüll dieses Pokémon sendet Schockwellen aus, die wie Donnerschläge durch die Luft beben und den Boden erschüttern.
+pokemon_desc_0244
+Entei verfügt über die Leidenschaft von Magma. Dieses Pokémon wurde bei einem Vulkanausbruch geboren und bringt Feuersbrünste hervor, die alles auslöschen, was mit ihnen in Kontakt kommt.
+pokemon_desc_0245
+Suicune wohnt die Reinheit einer Quelle inne. Es bewegt sich graziös und hat die Macht, schmutziges Wasser zu reinigen.
+pokemon_desc_0246
+Larvitar wurde tief unter der Erde geboren. Um an die Oberfläche zu gelangen, muss es sich durch das Erdreich fressen. Erst dann bekommt es seine Eltern zu Gesicht.
+pokemon_desc_0247
+Pupitar erzeugt in seinem Körper ein Gas, das es komprimiert und kraftvoll ausstößt, um sich wie ein Düsenflugzeug anzutreiben. Sein Körper ist sehr robust und er hält auch massivem Stahl stand.
+pokemon_desc_0248
+Despotar ist erstaunlich stark. Es kann einen ganzen Berg vernichten, um sein Nest zu bauen. Dieses Pokémon wandert in den Bergen umher und sucht nach Gegnern für einen Kampf.
+pokemon_desc_0249
+Lugias Flügel haben eine zerstörerische Kraft. Bereits ein leichtes Flattern kann Häuser hinfortwehen. Daher hat sich dieses Pokémon dafür entschieden, tief unter dem Meer zu leben, wo es niemand sieht.
+pokemon_desc_0250
+Ho-Ohs Federn leuchten in sieben Farben, je nachdem aus welchem Winkel das Licht auf sie fällt. Die Federn sollen ihrem Besitzer Glück bringen. Dieses Pokémon lebt am Fuße eines Regenbogens.
+pokemon_desc_0251
+Dieses Pokémon kommt aus der Zukunft und ist durch die Zeit gereist. Solange Celebi auftaucht, ist der Menschheit angeblich eine rosige Zukunft beschieden.
+pokemon_desc_0252
+Mit den kleinen Haken unter seinen Füßen kann Geckarbor an Wänden hochklettern. Dieses Pokémon greift Feinde an, indem es mit seinem mächtigen Schweif zuschlägt.
+pokemon_desc_0253
+Reptain kann sich mit den Blättern, die aus seinem Körper herauswachsen, im Wald hervorragend tarnen. Dieses Pokémon ist ein wahrer Meister darin, auf die Bäume des Dschungels zu klettern.
+pokemon_desc_0254
+Die Blätter, die auf Gewaldros Körper wachsen, sind sehr scharfkantig. Dieses Pokémon ist sehr agil. Es hüpft von Ast zu Ast und springt seine Feinde von oben oder hinten an.
+pokemon_desc_0255
+Flemmli hängt an seinem Trainer wie eine Klette. Es schlurft immer hinter ihm her. Dieses Pokémon spuckt 1 000 °C heißes Feuer, das seinen Feinden ordentlich einheizt.
+pokemon_desc_0256
+Jungglut trainiert seine Beine und Oberschenkel, indem es über Felder und Berge läuft. Die Beine dieses Pokémon sind sowohl schnell als auch kräftig, sodass es 10 Tritte pro Sekunde ausführen kann.
+pokemon_desc_0257
+Lohgock stößt heftige Flammen aus seinen Handgelenken aus und greift seine Feinde mutig an. Je stärker ein Feind ist, desto stärker lodern die Handgelenke dieses Pokémon.
+pokemon_desc_0258
+Die Flosse an Hydropis Kopf dient als hochempfindliches Radar. Damit kann es Bewegungen im Wasser und in der Luft wahrnehmen. So weiß es jederzeit, was in seiner Umgebung passiert, ohne dabei seine Augen zu benutzen.
+pokemon_desc_0259
+Moorabbels Körper ist mit einem klebrigen Film überzogen, durch den es an Land überleben kann. Dieses Pokémon spielt bei Ebbe in den Schlammpfützen am Strand.
+pokemon_desc_0260
+Sumpex ist sehr stark. Es kann mit Leichtigkeit einen Felsblock bewegen, der über eine Tonne wiegt. Weiterhin ist es mit einem exzellenten Sehvermögen ausgestattet, wodurch es auch in trüben Gewässern sehen kann.
+pokemon_desc_0261
+Sobald Fiffyen eine Bewegung wahrnimmt, schnappt es zu. Es jagt seine Beute so lange, bis sie vollkommen erschöpft ist. Wenn sich die Beute allerdings wehrt, kann es passieren, dass Fiffyen klein beigibt und flieht.
+pokemon_desc_0262
+Magnayen sendet deutliche Signale aus, wenn es sich auf einen Angriff vorbereitet. Es knurrt heftig und macht sich flach. Dieses Pokémon kann mit seinen spitzen Zähnen brutal zubeißen.
+pokemon_desc_0263
+Zigzachs ist ein rastloser Wanderer. Dieses Pokémon ist nämlich sehr neugierig und es inspiziert alles, was ihm zufällig begegnet.
+pokemon_desc_0264
+Geradaks rennt immer mit vollem Tempo und nie im Zickzack, sondern nur gerade. Wenn ihm ein Hindernis im Weg ist, läuft es rechtwinklig daran vorbei. Für dieses Pokémon stellen leichte Kurven eine große Herausforderung dar.
+pokemon_desc_0265
+Waumpel kann mit den Stacheln an seinem Hinterteil die Rinde von Bäumen entfernen und ernährt sich von dem austretenden Saft. An den Füßen dieses Pokémon befinden sich Saugnäpfe, mit denen es auch an Glas nicht abrutscht.
+pokemon_desc_0266
+Schaloko bindet sich mit einem Seidenfaden an einen Ast. Es baumelt dort und wartet auf seine Entwicklung. Durch zwei kleine Löcher in seinem Seidenkokon lugt es heraus.
+pokemon_desc_0267
+Papinellas Lieblingsspeise ist Blütenstaub. Wenn du dieses Pokémon beobachten möchtest, musst du bloß einen Blumentopf vor ein geöffnetes Fenster stellen. Papinella wird sich diese Leckerei nicht entgehen lassen.
+pokemon_desc_0268
+Panekon baut seinen schützenden Kokon, indem es seinen Körper mit feiner Seide einwickelt, die aus seinem Mund austritt. Wenn sein Körper mit Seide bedeckt ist, wird diese hart. Im Kokon wartet es auf seine Entwicklung.
+pokemon_desc_0269
+Pudox wird instinktiv vom Licht angezogen. In hell erleuchteten Städten kann man Scharen dieser Pokémon dabei beobachten, wie sie großen Schaden anrichten, indem sie die Blätter von Bäumen abfressen.
+pokemon_desc_0270
+Loturzel lebt auf der Wasseroberfläche von Teichen oder Seen. Es wird schwächer, wenn sein breites Blatt abstirbt. Nur selten geht dieses Pokémon an Land, um nach sauberem Wasser Ausschau zu halten.
+pokemon_desc_0271
+Lombrero liebt die Nacht und wird bei Einbruch der Dunkelheit aktiv. Es spielt auch gerne Streiche. Wenn es Angler sieht, zieht es unter Wasser an ihren Angelschnüren und erfreut sich an ihrer Entrüstung.
+pokemon_desc_0272
+Kappalores fängt sofort zu tanzen an, wenn es stimmungsvolle, feierliche Musik vernimmt. Dieses Pokémon erscheint angeblich, wenn es Kinder auf Wanderausflügen singen hört.
+pokemon_desc_0273
+Samurzel hängt sich mit dem Kopf an einen Ast. Dabei entzieht es dem Baum Feuchtigkeit. Je mehr Wasser es trinkt, desto glänzender wird der Körper dieses Pokémon.
+pokemon_desc_0274
+Blanas lebt in dichten Wäldern. Manchmal wagt es sich aus dem Wald heraus, um Menschen zu erschrecken. Dieses Pokémon mag es überhaupt nicht, wenn man seine lange Nase zwickt.
+pokemon_desc_0275
+Tengulist ist ein geheimnisvolles Pokémon, das angeblich auf hohen Bäumen lebt, die Tausende von Jahren alt sind. Mit den Blätterfächern an seinen Händen kann es heftige Stürme erzeugen.
+pokemon_desc_0276
+Mutig behauptet Schwalbini sein Territorium gegen Eindringlinge, so stark diese auch sein mögen. Dieses unerschrockene Pokémon bleibt trotz einer Niederlage angriffslustig, heult aber laut, wenn es Hunger hat.
+pokemon_desc_0277
+Dieses Pokémon taucht in einem steilen Winkel ab, sobald es Beute wahrgenommen hat. Es packt seine Beute mit seinen Krallen und lässt sie nicht mehr entkommen.
+pokemon_desc_0278
+Man sieht Wingull oft mit seiner Beute oder seinen Besitztümern im Schnabel herumfliegen auf der Suche nach geeigneten Verstecken. Dieses Pokémon fliegt durch die Lüfte, als würde es gleiten.
+pokemon_desc_0279
+Pelipper transportiert kleine Pokémon und Eier in seinem riesigen Schnabel durch die Lüfte. Dieses Pokémon baut sein Nest auf steilen Klippen am Meer.
+pokemon_desc_0280
+Trasla nimmt mit den Hörnern an seinem Kopf die Gefühle von Menschen wahr. Menschen bekommen dieses Pokémon nur selten zu Gesicht. Wenn es bemerkt, dass eine Person gut gelaunt ist, traut es sich näher an sie heran.
+pokemon_desc_0281
+Man sagt, dass ein Kirlia, das häufig positive Emotionen seines Trainers wahrnimmt, sehr schön wird. Dieses Pokémon kontrolliert psychokinetische Energie mit seinem hochentwickelten Gehirn.
+pokemon_desc_0282
+Guardevoir kann in die Zukunft schauen. Wenn es eine Gefahr für seinen Trainer voraussieht, entlädt es seine psychokinetische Energie mit voller Kraft.
+pokemon_desc_0283
+Gehweiher scheidet aus seinen Zehen ein Öl aus, das es ihm ermöglicht, über Wasser zu gleiten. Dieses Pokémon ernährt sich von Mikroorganismen aus Teichen und Seen.
+pokemon_desc_0284
+Maskeregen schüchtert seine Feinde mit den augenähnlichen Mustern auf seinen Antennen ein. Dieses Pokémon kann mit seinen vier Flügeln wie ein Hubschrauber in jede Richtung fliegen, sogar seitwärts und rückwärts.
+pokemon_desc_0285
+Knilz lebt im feuchten Erdboden finsterer Wälder. Es wird oft reglos unter herabgefallenen Blättern gefunden. Dieses Pokémon ernährt sich von Kompost aus verrotteten Blättern.
+pokemon_desc_0286
+Mit leichtfüßiger Beinarbeit nähert sich Kapilz seinen Feinden und schlägt dann mit seinen dehnbaren Armen um sich. Die Kampftechnik dieses Pokémon treibt Profiboxern die Schamesröte ins Gesicht.
+pokemon_desc_0287
+Bummelz faulenzt zwanzig Stunden pro Tag. Da es sich sehr wenig bewegt, braucht es auch nicht viel Nahrung. Seine Tagesration besteht lediglich aus drei Blättern.
+pokemon_desc_0288
+Muntier brennt darauf, sich auszutoben. Es kann nicht einmal für eine Minute stillsitzen. Es gerät in Stress, wenn es sich nicht andauernd bewegen kann.
+pokemon_desc_0289
+Letarking verbringt den Tag damit, herumzuliegen und nichts zu tun. Es ernährt sich von Gras, das in seiner Reichweite wächst. Hat es alles aufgefressen, so sucht es sich widerwillig ein anderes Plätzchen.
+pokemon_desc_0290
+Nincada lebt viele Jahre in absoluter Dunkelheit unter der Erde. Dieses Pokémon nimmt Nährstoffe aus Baumwurzeln auf. Es rührt sich nicht, da es auf seine Entwicklung wartet.
+pokemon_desc_0291
+Ninjask bewegt sich so schnell, dass man es nicht sehen kann. Seine Schreie sind aber laut und deutlich zu hören. Deshalb hielt man dieses Pokémon lange für unsichtbar.
+pokemon_desc_0292
+Ninjatoms harter Körper bewegt sich überhaupt nicht. Er scheint bloß eine hohle Schale zu sein. Dieses Pokémon soll angeblich die Seele eines jeden stehlen, der hinterrücks einen Blick in seinen hohlen Körper riskiert.
+pokemon_desc_0293
+Normalerweise ist Flurmels Stimme sehr leise, selbst mit größter Anstrengung ist sie kaum hörbar. Wenn dieses Pokémon jedoch eine Gefahr wittert, stößt es ohrenbetäubende Schreie aus.
+pokemon_desc_0294
+Krakeelos Brüllen kann ein Holzhaus zum Einsturz bringen. Es setzt seine Stimme ein, um seine Gegner anzugreifen. Die runden Ohren dieses Pokémon dienen als Lautsprecher.
+pokemon_desc_0295
+Krawumms kann durch sein Brüllen Erdbeben auslösen. Wenn dieses Pokémon durch seine Körperöffnungen kräftig einatmet, ist es kurz davor, ein mächtiges Brüllen von sich zu geben.
+pokemon_desc_0296
+Makuhita ist sehr zäh. Selbst wenn es im Kampf mehrfach niedergeschlagen wurde, steht es immer wieder auf und greift seinen Gegner an. Bei jedem Mal speichert es mehr Energie in seinem Körper für seine Entwicklung.
+pokemon_desc_0297
+Hariyama führt seinen berüchtigten Streckarm-Schlag überall aus. Ein Schlag von diesem Pokémon reicht aus, um einen Strommast zu zerlegen.
+pokemon_desc_0298
+Azurill schleudert seinen Schweif wie ein Lasso weit aus und fliegt dann selbst hinterher. Ein Azurill hat es auf diese Weise geschafft, die Rekordweite von 10 m zurückzulegen.
+pokemon_desc_0299
+Nasgnet besitzt eine magnetische Nase, die immer nach Norden zeigt. Wenn sich zwei Nasgnet treffen, können sie sich einander nicht zuwenden, da ihre magnetischen Nasen sich gegenseitig abstoßen.
+pokemon_desc_0300
+Eneco ist fasziniert von Dingen, die sich bewegen, und jagt ihnen hinterher. Dieses Pokémon jagt häufig seinen eigenen Schweif, sodass ihm schwindlig wird.
+pokemon_desc_0301
+Enekoro liebt seine Eigenständigkeit. So kann es das tun, was es möchte, und kann selbst das Tempo bestimmen. Da dieses Pokémon schläft und isst, wenn es Lust dazu hat, ist sein Tagesablauf eher zufälliger Natur.
+pokemon_desc_0302
+Zobiris führt ein ruhiges, zurückgezogenes Leben tief im Innern einer Höhle. Es ist aber trotzdem sehr gefürchtet, da man sagt, es stehle die Seelen der Menschen, wenn seine Augen im Dunkeln furchterregend funkeln.
+pokemon_desc_0303
+Flunkifers sagenhafter Kiefer besteht aus umgewandelten Stahlhörnern. Sein unterwürfiger Gesichtsausdruck dient dazu, seinen Gegner in Sicherheit zu wiegen, sodass er unaufmerksam wird. Dann schnappt es zu!
+pokemon_desc_0304
+Dieses Pokémon hat einen Körper aus Stahl. Stollunior ernährt sich von Eisenerz aus den Bergen. Zuweilen richtet es großen Schaden an, weil es Brücken und Bahngleise auffrisst.
+pokemon_desc_0305
+Stollrak temperiert seinen Körper, indem es ausgesprochen nahrhaftes Quellwasser trinkt, bis es völlig aufgebläht ist. Dieses Pokémon baut sein Nest in der Nähe von Quellen, aus denen köstliches Wasser sprudelt.
+pokemon_desc_0306
+Stolloss nennt einen ganzen Berg sein Territorium. Gnadenlos schlägt es jeden in die Flucht, der sein Reich betritt. Dieses Pokémon behält sein Territorium jederzeit im Auge.
+pokemon_desc_0307
+Meditie unterzieht sich einem strikten mentalen Training tief in den Bergen. Wenn es meditiert, verliert es jedoch immer seine Konzentration. Deshalb wird sein Training niemals ein Ende haben.
+pokemon_desc_0308
+Mittels Meditation erhöht Meditalis seine Körperenergie und schärft seinen sechsten Sinn. Dieses Pokémon verbirgt sich, indem es eins mit den Feldern und Bergen wird.
+pokemon_desc_0309
+Frizelbliz speichert Elektrizität in seiner langen Körperbehaarung. Dieses Pokémon stimuliert seine Beinmuskulatur durch Stromstöße. Dadurch ist es in der Lage, explosiv zu beschleunigen.
+pokemon_desc_0310
+Voltenso entlädt ständig Elektrizität aus seiner Mähne. Es fliegen dabei Funken, die zuweilen zu Waldbränden führen. In einem Kampf erzeugt dieses Pokémon Gewitterwolken.
+pokemon_desc_0311
+Plusle dient seinen Artgenossen als Cheerleader. Wenn ein Teamkamerad im Kampf erfolgreich ist, erzeugt es das prasselnde Geräusch von Funken, um so seine Freude zu zeigen.
+pokemon_desc_0312
+Minun kümmert sich mehr um das Anfeuern seiner Partner als um seine eigene Sicherheit. Es nutzt die Elektrizität in seinem Körper dazu, einen Funkenregen zu erzeugen und seine Teamkameraden anzufeuern.
+pokemon_desc_0313
+Wenn es Nacht wird, beginnt Volbeats Schweif zu leuchten. Es kommuniziert mit anderen, indem es die Helligkeit und das Blinken dieses Lichts reguliert. Dieses Pokémon wird vom süßen Duft der Illumise angezogen.
+pokemon_desc_0314
+Illumise zieht ganze Scharen Volbeat mit seinem süßlichen Duft an. Dann lässt es diesen hell leuchtenden Schwarm geometrische Figuren aus Licht an den Nachthimmel malen.
+pokemon_desc_0315
+Roselia verschießt scharfe Stacheln auf jeden Feind, der versucht, die Blumen an seinen Armen zu stehlen. Der Duft dieses Pokémon beruhigt Lebewesen.
+pokemon_desc_0316
+Eigentlich besteht Schluppucks Körper nur aus einem Magen. Daher kann es etwas verschlingen, das beinahe seine Größe hat. Sein Magen enthält eine spezielle Flüssigkeit, die wirklich alles verdauen kann.
+pokemon_desc_0317
+Wenn Schlukwech Beute sichtet, verspritzt es eine höchst giftige Substanz aus seinen Poren und besprüht damit sein Ziel. Wenn die Beute geschwächt ist, schluckt es sie mit seinem riesigen Maul im Ganzen herunter.
+pokemon_desc_0318
+Kanivanhas starke Kiefer und seine spitzen Zähne verfügen über die zerstörerische Kraft, Bootsrümpfe verschlingen zu können. Dieses Pokémon hat schon viele Boote versenkt.
+pokemon_desc_0319
+Tohaido trägt den Spitznamen „Tyrann des Meeres“ und ist sehr gefürchtet. Seine grausamen Zähne wachsen sofort nach, wenn sie ausgebrochen sind. Es kann sogar einen Öltanker zerreißen.
+pokemon_desc_0320
+Wailmers Nasenlöcher liegen über seinen Augen. Dieses verspielte Pokémon erschreckt gern Menschen, indem es das Meerwasser, das es in seinem Körper speichert, mit aller Kraft herausprustet.
+pokemon_desc_0321
+Wailord ist bisher das größte aller identifizierten Pokémon. Es schwimmt reglos auf dem offenen Meer und nimmt mit seinem enormen Maul riesige Mengen an Nahrung auf.
+pokemon_desc_0322
+Camaub ist nicht besonders helle. Es nimmt nicht einmal wahr, wenn es getroffen wurde. Ein Hungergefühl allerdings kann es nicht einmal eine Sekunde lang aushalten. In seinem Körper brodelt glühend heißes Magma.
+pokemon_desc_0323
+Camerupt trägt einen Vulkan in seinem Körper. 10 000 °C heißes Magma fließt in ihm. Manchmal brechen die Höcker auf seinem Rücken aus und verspucken glühend heißes Magma.
+pokemon_desc_0324
+Qurtel schaufelt sich auf der Suche nach Kohle durch die Berge. Wenn es welche findet, füllt es die Hohlräume seines Panzers mit Kohle und verbrennt diese. Wenn es angegriffen wird, stößt es dicken schwarzen Rauch aus.
+pokemon_desc_0325
+Spoink hüpft auf seinem Schweif durch die Gegend. Die Erschütterung des Hüpfens bringt sein Herz zum Schlagen. Deshalb kann dieses Pokémon das Hüpfen nicht sein lassen, ansonsten würde sein Herz aufhören zu schlagen.
+pokemon_desc_0326
+Groink benutzt die schwarzen Perlen an seinem Körper dazu, die psychischen Kraftwellen zu verstärken. Wenn es diese spezielle Fähigkeit nutzt, wird sein schnaubender Atem schwerfällig.
+pokemon_desc_0327
+Jedes Pandir auf der Welt soll ein einzigartiges Fleckenmuster haben. Der schwankende Gang dieses Pokémon erweckt den Eindruck, es würde tanzen.
+pokemon_desc_0328
+Knacklions Bau ist eine Art in den Sand gegrabener Kessel. Dieses Pokémon wartet geduldig darauf, dass Beute in seinen Bau hineinfällt. Seine gigantischen Kiefer verfügen über genügend Kraft, um einen Felsen zu zerquetschen.
+pokemon_desc_0329
+Um seine Beute zu schwächen, erzeugt Vibrava Ultraschallwellen, indem es seine Flügel vibrieren lässt. Die Ultraschallwellen dieses Pokémon sind so stark, dass sie bei Menschen Kopfschmerzen verursachen können.
+pokemon_desc_0330
+Libelldra wird auch „Geist der Wüste“ genannt. Da seine flatternden Flügel eine Sandwolke aufwirbeln, ist dieses Pokémon beim Fliegen immer von einem Sandsturm umgeben.
+pokemon_desc_0331
+Tuska lebt an trockenen Orten, z. B. in Wüsten. Es versprüht einen starken Duft aus seiner Blume, um Beute anzuziehen. Wenn sich Beute nähert, verschießt es scharfe Stacheln, um seinen Gegner zu überwältigen.
+pokemon_desc_0332
+Am Tage bleibt Noktuska reglos, damit es in der brennenden Wüstenhitze keine Feuchtigkeit verliert. Dieses Pokémon wird bei Nacht aktiv, wenn die Temperatur sinkt.
+pokemon_desc_0333
+Wablu hat leichte, flauschige Flügel, die wie Schäfchenwolken aussehen. Dieses Pokémon hat keine Angst vor Menschen. Es landet auf ihren Köpfen und bleibt dort sitzen wie ein wattierter Hut.
+pokemon_desc_0334
+Altaria tanzt und dreht sich in der Luft durch viele Schäfchenwolken. Indem es mit seiner kristallklaren Stimme Melodien singt, versetzt es seine Zuhörer in verträumtes Erstaunen.
+pokemon_desc_0335
+Die Erinnerungen an den Kampf mit seinem Erzrivalen Vipitis haben sich in jede Zelle von Sengos Körper eingebrannt. Dieses Pokémon weicht feindlichen Angriffen unheimlich raffiniert und geschickt aus.
+pokemon_desc_0336
+Vipitis lebt seit Generationen in Fehde mit Sengo. Die Narben auf seinem Körper sind Zeugen grausamer Kämpfe. Dieses Pokémon greift seine Gegner mit seinem scharfkantigen Schweif an.
+pokemon_desc_0337
+Lunastein wurde in der Nähe eines Meteoritenkraters entdeckt. Daher nehmen einige Menschen an, dass dieses Pokémon aus dem Weltall stammt. Diese Theorie konnte allerdings bisher noch nicht belegt werden.
+pokemon_desc_0338
+Sonnfel ist eine neue Pokémon-Art, die angeblich aus dem Weltall kam. Es gleitet durch die Luft und bewegt sich leise. Im Kampf setzt dieses Pokémon sehr helles Licht ein.
+pokemon_desc_0339
+Schmerbes empfindliche Barthaare dienen ihm als hervorragendes Radarsystem. Dieses Pokémon versteckt sich im Schlamm, sodass nur noch seine Barthaare herausgucken, und wartet auf Beute.
+pokemon_desc_0340
+Welsar legt viel Wert auf sein Territorium. Ein einzelnes Pokémon dieser Art nennt einen Teich sein Eigen. Wenn sich ein Feind nähert, schlägt es um sich und verursacht ein gewaltiges Erdbeben.
+pokemon_desc_0341
+Krebscorps ist kein heimisches Pokémon, sondern wurde als Haustier importiert. Schließlich verwilderte es. Dieses Pokémon ist mittlerweile sehr robust und hat seine Population vergrößert.
+pokemon_desc_0342
+Krebutack ist von Natur aus sehr gewalttätig, sodass es dauernd andere Lebewesen zum Kampf herausfordern muss. Andere Lebensformen lehnen es ab, mit diesem Pokémon in ein und demselben Teich zu leben.
+pokemon_desc_0343
+Puppance bewegt sich, indem es sich auf seinem Fuß im Kreis dreht. In sehr alten Ruinen wurden primitive Wandmalereien entdeckt, die dieses Pokémon in Begleitung von Menschen zeigen.
+pokemon_desc_0344
+Lepumentas sind aus Schlamm gefertigte Puppen, die von primitiven Menschen hergestellt und durch mysteriöse Strahlen zum Leben erweckt wurden. Diese Pokémon bewegen sich schwebend fort.
+pokemon_desc_0345
+Von Liliep nahm man an, es sei seit etwa 100 Millionen Jahren ausgestorben. Mit seinen wie Blütenblätter geformten Tentakeln heftet es sich an einen Felsen auf dem Meeresboden und fängt Beute.
+pokemon_desc_0346
+Wielie sucht den Meeresboden nach Beute ab. Dieses Pokémon fährt seinen baumstammartigen Nacken aus und fängt mit seinen acht Tentakeln Beute.
+pokemon_desc_0347
+Anorith wurde aus einem prähistorischen Fossil erzeugt. Dieses primitive Pokémon lebte einst in warmen Gewässern. Es klemmt seine Beute fest zwischen seine beiden riesigen Klauen ein.
+pokemon_desc_0348
+Von Armaldos hartem Panzer prallen alle Angriffe ab. Dieses Pokémon hat zwei mächtige Klauen, die es ausfahren oder einziehen kann. Es hat so viel Kraft, dass es damit eine Stahlplatte pulverisieren kann.
+pokemon_desc_0349
+Barschwas Flossen waren schon immer zerfetzt. Wegen seines merkwürdigen Aussehens wird dieses Pokémon weitgehend ignoriert. Es kann sowohl im Meer als auch in Flüssen leben.
+pokemon_desc_0350
+Milotic soll das schönste aller Pokémon sein. Es hat die Macht, Emotionen wie Wut und Feindseligkeit zu besänftigen und somit erbitterten Streit zu vermeiden.
+pokemon_desc_0351
+Formeos Erscheinung ändert sich mit dem Wetter. Dieses Pokémon hat die Fähigkeit erworben, die mächtige Kraft der Natur zu nutzen, um seinen winzigen Körper zu schützen.
+pokemon_desc_0352
+Kecleon kann die Farbe seines Körpers bei Bedarf verändern, um sich seiner Umgebung anzupassen. Es gibt allerdings eine Ausnahme: Das Zickzackmuster auf seinem Bauch kann es nicht verändern.
+pokemon_desc_0353
+Shuppet wird durch Gefühle wie Neid und Rachsucht angezogen. Wenn jemand starke Rachegelüste entwickelt, erscheinen diese Pokémon in Scharen und reihen sich unter der Dachrinne des Hauses dieser Person auf.
+pokemon_desc_0354
+Banette belegt andere mit Flüchen, indem es Nadeln in seinen eigenen Körper sticht. Dieses Pokémon war ursprünglich eine mitleiderregende Plüschpuppe, die weggeworfen wurde.
+pokemon_desc_0355
+Zwirrlicht kann durch jede Wand gehen, egal, wie dick diese ist. Wenn dieses Pokémon sich ein Ziel gesucht hat, verfolgt es seinen Feind unnachgiebig bis zum Sonnenaufgang.
+pokemon_desc_0356
+Zwirrklops Körper ist komplett hohl. Es wird auch mit einem Schwarzen Loch verglichen. Dieses Pokémon nimmt alles in seinem Körper auf, es kommt jedoch nichts wieder heraus.
+pokemon_desc_0357
+Die Früchte am Hals von Tropius sind bei Kindern sehr beliebt. Dieses Pokémon liebt Früchte und isst sie ständig. Offensichtlich sind ihm wegen dieser Vorliebe selbst Früchte gewachsen.
+pokemon_desc_0358
+Palimpalims Schreie hallen durch seinen hohlen Körper. Wenn dieses Pokémon wütend wird, erzeugen seine Schreie Ultraschallwellen, die seine Feinde buchstäblich wegfegen können.
+pokemon_desc_0359
+Jedes Mal, wenn Absol sich den Menschen zeigt, endet dies in einer Katastrophe wie Erdbeben oder Sturmflut. Deswegen ist es auch als das Desaster-Pokémon bekannt.
+pokemon_desc_0360
+Isso hat immer ein breites, fröhliches Lächeln auf seinem Gesicht. Um festzustellen, ob es wütend ist, muss man seinen Schweif betrachten. Wenn es wütend ist, schlägt es damit auf den Boden.
+pokemon_desc_0361
+Schneppke lebt in Gebieten mit heftigem Schneefall. In Jahreszeiten, in denen es nicht schneit, wie im Frühling oder im Sommer, nimmt das Pokémon Reißaus, um in einer Höhle ein ruhiges Leben zwischen Stalaktiten und Stalagmiten zu führen.
+pokemon_desc_0362
+Firnontor hat einen Körper aus Stein, den es mit einem Panzer aus Eis noch verstärkt. Dieses Pokémon kann die Luftfeuchtigkeit der Atmosphäre einfrieren und in jegliche Form verwandeln.
+pokemon_desc_0363
+Seemops kann schneller rollen als laufen. Wenn Gruppen dieses Pokémon zusammen essen, klatschen sie gleichzeitig, um ihre Freude zu zeigen. Deswegen sind ihre Mahlzeiten sehr laut.
+pokemon_desc_0364
+Seejong hat die Angewohnheit, alles, was es zum ersten Mal sieht, auf seiner Nasenspitze zu jonglieren. Dieses Pokémon hält sich bei Laune, indem es manchmal ein Seemops auf seiner Nase balanciert und hin- und herrollt.
+pokemon_desc_0365
+Walraisa hat zwei massive Stoßzähne, die mit einem Hieb Eisblöcke zertrümmern können, die bis zu 10 t wiegen. Es besitzt eine dicke Speckschicht, die es vor eisigen Temperaturen schützt.
+pokemon_desc_0366
+Perlus kräftige Schale dient nicht nur dem Schutz, es nutzt sie auch zum Fangen von Beute. Die Schale eines ausgewachsenen Perlu weist viele Kerben und Kratzer auf.
+pokemon_desc_0367
+Aalabyss entging lange der Aufmerksamkeit des Menschen, da es in extremen Tiefen des Meeres lebt. Die Augen dieses Pokémon können selbst in den dunklen und trüben Tiefen des Meeres einwandfrei sehen.
+pokemon_desc_0368
+Saganabyss lebt in extremen Tiefen des Südmeeres. Sein Körper ist so angelegt, dass er dem enormen Wasserdruck dieser unglaublichen Tiefe standhalten kann. Daher übersteht dieses Pokémon gewöhnliche Attacken unbeschadet.
+pokemon_desc_0369
+Relicanth ist eine Pokémon-Art, die seit 100 Millionen Jahren existiert, ohne jemals ihre Form zu verändern. Dieses prähistorische Pokémon hat ein zahnloses Maul und ernährt sich von Mikroorganismen.
+pokemon_desc_0370
+Liebiskus lebt in den seichten Gewässern der Tropen. Dieses herzförmige Pokémon verdankt seinen Namen der Tatsache, dass es hinter Liebespaaren herschwamm, die es in den Wellen des Ozeans beobachtet hatte.
+pokemon_desc_0371
+Kindwurm hat den Traum, fliegen zu können. In zahlreichen vergeblichen Versuchen stürzte es sich die Klippen herunter. Daher ist sein Kopf sehr robust und so hart wie Stahl geworden.
+pokemon_desc_0372
+In Draschels panzerartiger Schale vollziehen seine Zellen eine Transformation, um einen völlig neuen Körper zu bilden. Die Schale dieses Pokémon ist ausgesprochen schwer, sodass seine Bewegungen träge wirken.
+pokemon_desc_0373
+Es träumte sehr lange davon, dass ihm Flügel wachsen mögen. Dieser sehnliche Wunsch hat wohl eine plötzliche Mutation in den Zellen dieses Pokémon hervorgerufen, sodass ihm plötzlich prächtige Flügel wuchsen.
+pokemon_desc_0374
+Anstelle von Blut fließt eine starke magnetische Energie durch Tanhels Körper. Dieses Pokémon kommuniziert mit anderen, indem es kontrollierte magnetische Impulse aussendet.
+pokemon_desc_0375
+Wenn zwei Tanhel miteinander verschmelzen, entsteht daraus Metang. Die Gehirne der Tanhel werden mit einem magnetischen Nervensystem verbunden. Dadurch erzeugt es starke psychokinetische Energie.
+pokemon_desc_0376
+Metagross hat insgesamt vier Gehirne. Diese können schwierige Berechnungen schneller durchführen als ein Supercomputer. Dieses Pokémon kann durch die Lüfte schweben, indem es seine vier Beine einklappt.
+pokemon_desc_0377
+Regirock wurde vor langer Zeit von Menschen weggeschlossen. Wenn der Körper dieses Pokémon im Kampf Schaden nimmt, sucht es nach passenden Steinen, um sich selbst zu reparieren.
+pokemon_desc_0378
+Regices tiefgefrorener Körper entstand während der Eiszeit. Es kann nicht einmal durch Feuer geschmolzen werden. Dieses Pokémon kontrolliert eisige Luft von -200 °C.
+pokemon_desc_0379
+Registeel hat einen Körper, der härter ist als jede Art von Metall. Sein Körper scheint hohl zu sein. Niemand hat eine Ahnung, was dieses Pokémon wohl frisst.
+pokemon_desc_0380
+Latias ist in höchstem Maße empfindlich gegenüber den Emotionen der Menschen. Wenn es einen Anflug von Feindseligkeit wahrnimmt, werden seine Federn zerzaust und es stößt schrille Schreie aus, um seinen Gegner einzuschüchtern.
+pokemon_desc_0381
+Latios kann seinem Gegenüber ein Bild von etwas, das es einmal gesehen hat, in den Kopf projizieren. Dieses Pokémon ist intelligent und es versteht die menschliche Sprache.
+pokemon_desc_0382
+Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Stürme erzeugen und das Meer vergrößern.
+pokemon_desc_0383
+Es heißt, Groudon sei die Personifizierung des Landes. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Kyogre gekämpft.
+pokemon_desc_0384
+Es heißt, Rayquaza lebe bereits seit mehreren hundert Millionen Jahren. Legenden zufolge hat es den einstigen Konflikt zwischen Groudon und Kyogre beendet.
+pokemon_desc_0385
+Einer Legende nach erfüllt Jirachi jeden Wunsch, der auf einen Notizzettel an seinem Kopf geschrieben wird. Wenn dieses Pokémon Gefahr wittert, kämpft es bereits, bevor es überhaupt aufgewacht ist.
+pokemon_desc_0386
+Die DNS eines Weltraumvirus hat eine spontane Mutation erfahren, da sie einem Laserstrahl ausgesetzt wurde. Daraus entstand Deoxys. Das kristallartige Organ auf der Brust dieses Pokémon ist sein Gehirn.
+pokemon_category_0000
+--
+pokemon_category_0001
+Samen-Pokémon
+pokemon_category_0002
+Samen-Pokémon
+pokemon_category_0003
+Samen-Pokémon
+pokemon_category_0004
+Echse-Pokémon
+pokemon_category_0005
+Flamme-Pokémon
+pokemon_category_0006
+Flamme-Pokémon
+pokemon_category_0007
+Minikröte-Pokémon
+pokemon_category_0008
+Kröte-Pokémon
+pokemon_category_0009
+Panzertier-Pokémon
+pokemon_category_0010
+Wurm-Pokémon
+pokemon_category_0011
+Kokon-Pokémon
+pokemon_category_0012
+Falter-Pokémon
+pokemon_category_0013
+Raupe-Pokémon
+pokemon_category_0014
+Kokon-Pokémon
+pokemon_category_0015
+Giftbiene-Pokémon
+pokemon_category_0016
+Kleinvogel-Pokémon
+pokemon_category_0017
+Vogel-Pokémon
+pokemon_category_0018
+Vogel-Pokémon
+pokemon_category_0019
+Maus-Pokémon
+pokemon_category_0020
+Maus-Pokémon
+pokemon_category_0021
+Kleinvogel-Pokémon
+pokemon_category_0022
+Pickvogel-Pokémon
+pokemon_category_0023
+Schlange-Pokémon
+pokemon_category_0024
+Kobra-Pokémon
+pokemon_category_0025
+Maus-Pokémon
+pokemon_category_0026
+Maus-Pokémon
+pokemon_category_0027
+Maus-Pokémon
+pokemon_category_0028
+Maus-Pokémon
+pokemon_category_0029
+Giftdorn-Pokémon
+pokemon_category_0030
+Giftdorn-Pokémon
+pokemon_category_0031
+Bohrer-Pokémon
+pokemon_category_0032
+Giftdorn-Pokémon
+pokemon_category_0033
+Giftdorn-Pokémon
+pokemon_category_0034
+Bohrer-Pokémon
+pokemon_category_0035
+Fee-Pokémon
+pokemon_category_0036
+Fee-Pokémon
+pokemon_category_0037
+Fuchs-Pokémon
+pokemon_category_0038
+Fuchs-Pokémon
+pokemon_category_0039
+Ballon-Pokémon
+pokemon_category_0040
+Ballon-Pokémon
+pokemon_category_0041
+Fledermaus-Pokémon
+pokemon_category_0042
+Fledermaus-Pokémon
+pokemon_category_0043
+Unkraut-Pokémon
+pokemon_category_0044
+Unkraut-Pokémon
+pokemon_category_0045
+Blume-Pokémon
+pokemon_category_0046
+Pilz-Pokémon
+pokemon_category_0047
+Pilz-Pokémon
+pokemon_category_0048
+Insekt-Pokémon
+pokemon_category_0049
+Giftmotte-Pokémon
+pokemon_category_0050
+Maulwurf-Pokémon
+pokemon_category_0051
+Maulwurf-Pokémon
+pokemon_category_0052
+Katze-Pokémon
+pokemon_category_0053
+Rassekatze-Pokémon
+pokemon_category_0054
+Ente-Pokémon
+pokemon_category_0055
+Ente-Pokémon
+pokemon_category_0056
+Schw./ Affe-Pokémon
+pokemon_category_0057
+Schw./ Affe-Pokémon
+pokemon_category_0058
+Hund-Pokémon
+pokemon_category_0059
+Legendär-Pokémon
+pokemon_category_0060
+Kaulquappe-Pokémon
+pokemon_category_0061
+Kaulquappe-Pokémon
+pokemon_category_0062
+Kaulquappe-Pokémon
+pokemon_category_0063
+Psi-Pokémon
+pokemon_category_0064
+Psi-Pokémon
+pokemon_category_0065
+Psi-Pokémon
+pokemon_category_0066
+Kraftprotz-Pokémon
+pokemon_category_0067
+Kraftprotz-Pokémon
+pokemon_category_0068
+Kraftprotz-Pokémon
+pokemon_category_0069
+Blume-Pokémon
+pokemon_category_0070
+Fliegentod-Pokémon
+pokemon_category_0071
+Fliegentod-Pokémon
+pokemon_category_0072
+Qualle-Pokémon
+pokemon_category_0073
+Qualle-Pokémon
+pokemon_category_0074
+Gestein-Pokémon
+pokemon_category_0075
+Gestein-Pokémon
+pokemon_category_0076
+Urgestein-Pokémon
+pokemon_category_0077
+Feuerpferd-Pokémon
+pokemon_category_0078
+Feuerpferd-Pokémon
+pokemon_category_0079
+Schnarcher-Pokémon
+pokemon_category_0080
+Symbiose-Pokémon
+pokemon_category_0081
+Magnet-Pokémon
+pokemon_category_0082
+Magnet-Pokémon
+pokemon_category_0083
+Wildente-Pokémon
+pokemon_category_0084
+Duovogel-Pokémon
+pokemon_category_0085
+Trivogel-Pokémon
+pokemon_category_0086
+Seehund-Pokémon
+pokemon_category_0087
+Seehund-Pokémon
+pokemon_category_0088
+Schlamm-Pokémon
+pokemon_category_0089
+Schlamm-Pokémon
+pokemon_category_0090
+Muschel-Pokémon
+pokemon_category_0091
+Muschel-Pokémon
+pokemon_category_0092
+Gas-Pokémon
+pokemon_category_0093
+Gas-Pokémon
+pokemon_category_0094
+Schatten-Pokémon
+pokemon_category_0095
+Felsnatter-Pokémon
+pokemon_category_0096
+Hypnose-Pokémon
+pokemon_category_0097
+Hypnose-Pokémon
+pokemon_category_0098
+Krabbe-Pokémon
+pokemon_category_0099
+Kneifer-Pokémon
+pokemon_category_0100
+Ball-Pokémon
+pokemon_category_0101
+Ball-Pokémon
+pokemon_category_0102
+Ei-Pokémon
+pokemon_category_0103
+Palmfrucht-Pokémon
+pokemon_category_0104
+Einsam-Pokémon
+pokemon_category_0105
+Knochenfan-Pokémon
+pokemon_category_0106
+Kicker-Pokémon
+pokemon_category_0107
+Puncher-Pokémon
+pokemon_category_0108
+Schlecker-Pokémon
+pokemon_category_0109
+Giftwolke-Pokémon
+pokemon_category_0110
+Giftwolke-Pokémon
+pokemon_category_0111
+Stachler-Pokémon
+pokemon_category_0112
+Bohrer-Pokémon
+pokemon_category_0113
+Ei-Pokémon
+pokemon_category_0114
+Ranke-Pokémon
+pokemon_category_0115
+Muttertier-Pokémon
+pokemon_category_0116
+Drache-Pokémon
+pokemon_category_0117
+Drache-Pokémon
+pokemon_category_0118
+Goldfisch-Pokémon
+pokemon_category_0119
+Goldfisch-Pokémon
+pokemon_category_0120
+Sternform-Pokémon
+pokemon_category_0121
+Mysteriös-Pokémon
+pokemon_category_0122
+Sperre-Pokémon
+pokemon_category_0123
+Mantis-Pokémon
+pokemon_category_0124
+Humanotyp-Pokémon
+pokemon_category_0125
+Elektro-Pokémon
+pokemon_category_0126
+Brenner-Pokémon
+pokemon_category_0127
+Kneifkäfer-Pokémon
+pokemon_category_0128
+Wildbulle-Pokémon
+pokemon_category_0129
+Fisch-Pokémon
+pokemon_category_0130
+Grausam-Pokémon
+pokemon_category_0131
+Transport-Pokémon
+pokemon_category_0132
+Transform-Pokémon
+pokemon_category_0133
+Evolution-Pokémon
+pokemon_category_0134
+Blubblase-Pokémon
+pokemon_category_0135
+Blitz-Pokémon
+pokemon_category_0136
+Feuer-Pokémon
+pokemon_category_0137
+Virtuell-Pokémon
+pokemon_category_0138
+Spirale-Pokémon
+pokemon_category_0139
+Spirale-Pokémon
+pokemon_category_0140
+Schaltier-Pokémon
+pokemon_category_0141
+Schaltier-Pokémon
+pokemon_category_0142
+Fossil-Pokémon
+pokemon_category_0143
+Tagträumer-Pokémon
+pokemon_category_0144
+Eis-Pokémon
+pokemon_category_0145
+Elektro-Pokémon
+pokemon_category_0146
+Flamme-Pokémon
+pokemon_category_0147
+Drache-Pokémon
+pokemon_category_0148
+Drache-Pokémon
+pokemon_category_0149
+Drache-Pokémon
+pokemon_category_0150
+Genmutant-Pokémon
+pokemon_category_0151
+Neue Art-Pokémon
+pokemon_category_0152
+Laub
+pokemon_category_0153
+Laub
+pokemon_category_0154
+Kräuter
+pokemon_category_0155
+Feuermaus
+pokemon_category_0156
+Vulkan
+pokemon_category_0157
+Vulkan
+pokemon_category_0158
+Großmaul
+pokemon_category_0159
+Großmaul
+pokemon_category_0160
+Großmaul
+pokemon_category_0161
+Späher
+pokemon_category_0162
+Langleib
+pokemon_category_0163
+Eule
+pokemon_category_0164
+Eule
+pokemon_category_0165
+Fünf-Punkt
+pokemon_category_0166
+Fünf-Punkt
+pokemon_category_0167
+Fadenwurf
+pokemon_category_0168
+Langbein
+pokemon_category_0169
+Fledermaus
+pokemon_category_0170
+Angler
+pokemon_category_0171
+Leuchte
+pokemon_category_0172
+Babymaus
+pokemon_category_0173
+Sternform
+pokemon_category_0174
+Ballon
+pokemon_category_0175
+Zackenball
+pokemon_category_0176
+Freude
+pokemon_category_0177
+Kleinvogel
+pokemon_category_0178
+Mystik
+pokemon_category_0179
+Wolle
+pokemon_category_0180
+Wolle
+pokemon_category_0181
+Leuchte
+pokemon_category_0182
+Blume
+pokemon_category_0183
+Aquamaus
+pokemon_category_0184
+Aquahase
+pokemon_category_0185
+Imitation
+pokemon_category_0186
+Frosch
+pokemon_category_0187
+Löwenzahn
+pokemon_category_0188
+Löwenzahn
+pokemon_category_0189
+Löwenzahn
+pokemon_category_0190
+Langschweif
+pokemon_category_0191
+Samen
+pokemon_category_0192
+Sonne
+pokemon_category_0193
+Libelle
+pokemon_category_0194
+Fisch
+pokemon_category_0195
+Fisch
+pokemon_category_0196
+Sonne
+pokemon_category_0197
+Mondschein
+pokemon_category_0198
+Finsternis
+pokemon_category_0199
+Monarch
+pokemon_category_0200
+Kreischer
+pokemon_category_0201
+Symbol
+pokemon_category_0202
+Geduld
+pokemon_category_0203
+Langhals
+pokemon_category_0204
+Beutelwurm
+pokemon_category_0205
+Beutelwurm
+pokemon_category_0206
+Schlange
+pokemon_category_0207
+Flugskorpi
+pokemon_category_0208
+Stahlboa
+pokemon_category_0209
+Fee
+pokemon_category_0210
+Fee
+pokemon_category_0211
+Ballon
+pokemon_category_0212
+Kneifer
+pokemon_category_0213
+Schimmel
+pokemon_category_0214
+Einzelhorn
+pokemon_category_0215
+Stichklaue
+pokemon_category_0216
+Kleinbär
+pokemon_category_0217
+Schläfer
+pokemon_category_0218
+Lava
+pokemon_category_0219
+Lava
+pokemon_category_0220
+Ferkel
+pokemon_category_0221
+Schwein
+pokemon_category_0222
+Koralle
+pokemon_category_0223
+Hochdruck
+pokemon_category_0224
+Hochdruck
+pokemon_category_0225
+Lieferant
+pokemon_category_0226
+Flugrochen
+pokemon_category_0227
+Flugstahl
+pokemon_category_0228
+Hades
+pokemon_category_0229
+Hades
+pokemon_category_0230
+Drache
+pokemon_category_0231
+Langrüssel
+pokemon_category_0232
+Panzer
+pokemon_category_0233
+Virtuell
+pokemon_category_0234
+Vielender
+pokemon_category_0235
+Maler
+pokemon_category_0236
+Racker
+pokemon_category_0237
+Kopfstand
+pokemon_category_0238
+Kuss
+pokemon_category_0239
+Elektro
+pokemon_category_0240
+Glutherd
+pokemon_category_0241
+Milchkuh
+pokemon_category_0242
+Freude
+pokemon_category_0243
+Donner
+pokemon_category_0244
+Vulkan
+pokemon_category_0245
+Polarlicht
+pokemon_category_0246
+Felshaut
+pokemon_category_0247
+Hartschale
+pokemon_category_0248
+Panzer
+pokemon_category_0249
+Taucher
+pokemon_category_0250
+Regenbogen
+pokemon_category_0251
+Zeitreise
+pokemon_category_0252
+Waldgecko
+pokemon_category_0253
+Waldgecko
+pokemon_category_0254
+Dschungel
+pokemon_category_0255
+Küken
+pokemon_category_0256
+Kleinhahn
+pokemon_category_0257
+Großbrand
+pokemon_category_0258
+Lehmhüpfer
+pokemon_category_0259
+Lehmhüpfer
+pokemon_category_0260
+Lehmhüpfer
+pokemon_category_0261
+Biss
+pokemon_category_0262
+Biss
+pokemon_category_0263
+Kleindachs
+pokemon_category_0264
+Sprinter
+pokemon_category_0265
+Wurm
+pokemon_category_0266
+Kokon
+pokemon_category_0267
+Falter
+pokemon_category_0268
+Kokon
+pokemon_category_0269
+Giftmotte
+pokemon_category_0270
+Wasserlinse
+pokemon_category_0271
+Frohmut
+pokemon_category_0272
+Sorglos
+pokemon_category_0273
+Eichelnuss
+pokemon_category_0274
+Hinterlist
+pokemon_category_0275
+Verschlagen
+pokemon_category_0276
+Schwälblein
+pokemon_category_0277
+Schwalbe
+pokemon_category_0278
+Seemöwe
+pokemon_category_0279
+Wasservogel
+pokemon_category_0280
+Gefühl
+pokemon_category_0281
+Emotion
+pokemon_category_0282
+Umarmung
+pokemon_category_0283
+Wassergeher
+pokemon_category_0284
+Auge
+pokemon_category_0285
+Pilz
+pokemon_category_0286
+Pilz
+pokemon_category_0287
+Faulpelz
+pokemon_category_0288
+Wildaffe
+pokemon_category_0289
+Müßig
+pokemon_category_0290
+Vorbereiter
+pokemon_category_0291
+Ninja
+pokemon_category_0292
+Häutung
+pokemon_category_0293
+Flüster
+pokemon_category_0294
+Lauthals
+pokemon_category_0295
+Krach
+pokemon_category_0296
+Courage
+pokemon_category_0297
+Armwurf
+pokemon_category_0298
+Gepunktet
+pokemon_category_0299
+Kompass
+pokemon_category_0300
+Kätzchen
+pokemon_category_0301
+Eingebildet
+pokemon_category_0302
+Finsternis
+pokemon_category_0303
+Schwindler
+pokemon_category_0304
+Eisenpanzer
+pokemon_category_0305
+Eisenpanzer
+pokemon_category_0306
+Eisenpanzer
+pokemon_category_0307
+Meditation
+pokemon_category_0308
+Meditation
+pokemon_category_0309
+Gewitter
+pokemon_category_0310
+Entladung
+pokemon_category_0311
+Jubel
+pokemon_category_0312
+Jubel
+pokemon_category_0313
+Libelle
+pokemon_category_0314
+Libelle
+pokemon_category_0315
+Dorn
+pokemon_category_0316
+Magen
+pokemon_category_0317
+Giftbeutel
+pokemon_category_0318
+Gnadenlos
+pokemon_category_0319
+Brutal
+pokemon_category_0320
+Kugelwal
+pokemon_category_0321
+Flutwal
+pokemon_category_0322
+Taubheit
+pokemon_category_0323
+Ausbruch
+pokemon_category_0324
+Kohle
+pokemon_category_0325
+Sprungfeder
+pokemon_category_0326
+Manipulator
+pokemon_category_0327
+Punkt-Panda
+pokemon_category_0328
+Ameisenlöwe
+pokemon_category_0329
+Vibration
+pokemon_category_0330
+Mystik
+pokemon_category_0331
+Kaktus
+pokemon_category_0332
+Vogelschock
+pokemon_category_0333
+Wollvogel
+pokemon_category_0334
+Summsel
+pokemon_category_0335
+Frettkatz
+pokemon_category_0336
+Reißzahn
+pokemon_category_0337
+Meteorit
+pokemon_category_0338
+Meteorit
+pokemon_category_0339
+Barthaar
+pokemon_category_0340
+Barthaar
+pokemon_category_0341
+Grobian
+pokemon_category_0342
+Schlingel
+pokemon_category_0343
+Lehmpuppe
+pokemon_category_0344
+Lehmpuppe
+pokemon_category_0345
+Seeanemone
+pokemon_category_0346
+Rankfüßer
+pokemon_category_0347
+Krebssenior
+pokemon_category_0348
+Schild
+pokemon_category_0349
+Fisch
+pokemon_category_0350
+Zartheit
+pokemon_category_0351
+Wetter
+pokemon_category_0352
+Farbenspiel
+pokemon_category_0353
+Puppe
+pokemon_category_0354
+Marionette
+pokemon_category_0355
+Requiem
+pokemon_category_0356
+Wink
+pokemon_category_0357
+Obst
+pokemon_category_0358
+Windspiel
+pokemon_category_0359
+Desaster
+pokemon_category_0360
+Strahlekind
+pokemon_category_0361
+Schneehut
+pokemon_category_0362
+Antlitz
+pokemon_category_0363
+Applaus
+pokemon_category_0364
+Spielball
+pokemon_category_0365
+Eisbrecher
+pokemon_category_0366
+Muschel
+pokemon_category_0367
+Tiefsee
+pokemon_category_0368
+Südsee
+pokemon_category_0369
+Bestand
+pokemon_category_0370
+Rendezvous
+pokemon_category_0371
+Steinhaupt
+pokemon_category_0372
+Durchsteher
+pokemon_category_0373
+Drache
+pokemon_category_0374
+Eisenkugel
+pokemon_category_0375
+Eisenklaue
+pokemon_category_0376
+Eisenfuß
+pokemon_category_0377
+Steingipfel
+pokemon_category_0378
+Eisberg
+pokemon_category_0379
+Eisen
+pokemon_category_0380
+Äon
+pokemon_category_0381
+Äon
+pokemon_category_0382
+Seegründler
+pokemon_category_0383
+Kontinent
+pokemon_category_0384
+Himmelhoch
+pokemon_category_0385
+Wünscher
+pokemon_category_0386
+DNS

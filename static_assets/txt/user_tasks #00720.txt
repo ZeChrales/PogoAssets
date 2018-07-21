@@ -1,0 +1,4 @@
+catch_a_pokemon_short_title
+捕捉寶可夢
+visit_a_pokestop_short_title
+前往寶可補給站

@@ -1,0 +1,474 @@
+move_name_0001
+Thunder Shock
+move_name_0002
+Quick Attack
+move_name_0003
+Scratch
+move_name_0004
+Ember
+move_name_0005
+Vine Whip
+move_name_0006
+Tackle
+move_name_0007
+Razor Leaf
+move_name_0008
+Take Down
+move_name_0009
+Water Gun
+move_name_0010
+Bite
+move_name_0011
+Pound
+move_name_0012
+Double Slap
+move_name_0013
+Wrap
+move_name_0014
+Hyper Beam
+move_name_0015
+Lick
+move_name_0016
+Dark Pulse
+move_name_0017
+Smog
+move_name_0018
+Sludge
+move_name_0019
+Metal Claw
+move_name_0020
+Vice Grip
+move_name_0021
+Flame Wheel
+move_name_0022
+Megahorn
+move_name_0023
+Wing Attack
+move_name_0024
+Flamethrower
+move_name_0025
+Sucker Punch
+move_name_0026
+Dig
+move_name_0027
+Low Kick
+move_name_0028
+Cross Chop
+move_name_0029
+Psycho Cut
+move_name_0030
+Psybeam
+move_name_0031
+Earthquake
+move_name_0032
+Stone Edge
+move_name_0033
+Ice Punch
+move_name_0034
+Heart Stamp
+move_name_0035
+Discharge
+move_name_0036
+Flash Cannon
+move_name_0037
+Peck
+move_name_0038
+Drill Peck
+move_name_0039
+Ice Beam
+move_name_0040
+Blizzard
+move_name_0041
+Air Slash
+move_name_0042
+Heat Wave
+move_name_0043
+Twineedle
+move_name_0044
+Poison Jab
+move_name_0045
+Aerial Ace
+move_name_0046
+Drill Run
+move_name_0047
+Petal Blizzard
+move_name_0048
+Mega Drain
+move_name_0049
+Bug Buzz
+move_name_0050
+Poison Fang
+move_name_0051
+Night Slash
+move_name_0052
+Slash
+move_name_0053
+Bubble Beam
+move_name_0054
+Submission
+move_name_0055
+Karate Chop
+move_name_0056
+Low Sweep
+move_name_0057
+Aqua Jet
+move_name_0058
+Aqua Tail
+move_name_0059
+Seed Bomb
+move_name_0060
+Psyshock
+move_name_0061
+Rock Throw
+move_name_0062
+Ancient Power
+move_name_0063
+Rock Tomb
+move_name_0064
+Rock Slide
+move_name_0065
+Power Gem
+move_name_0066
+Shadow Sneak
+move_name_0067
+Shadow Punch
+move_name_0068
+Shadow Claw
+move_name_0069
+Ominous Wind
+move_name_0070
+Shadow Ball
+move_name_0071
+Bullet Punch
+move_name_0072
+Magnet Bomb
+move_name_0073
+Steel Wing
+move_name_0074
+Iron Head
+move_name_0075
+Parabolic Charge
+move_name_0076
+Spark
+move_name_0077
+Thunder Punch
+move_name_0078
+Thunder
+move_name_0079
+Thunderbolt
+move_name_0080
+Twister
+move_name_0081
+Dragon Breath
+move_name_0082
+Dragon Pulse
+move_name_0083
+Dragon Claw
+move_name_0084
+Disarming Voice
+move_name_0085
+Draining Kiss
+move_name_0086
+Dazzling Gleam
+move_name_0087
+Moonblast
+move_name_0088
+Play Rough
+move_name_0089
+Cross Poison
+move_name_0090
+Sludge Bomb
+move_name_0091
+Sludge Wave
+move_name_0092
+Gunk Shot
+move_name_0093
+Mud Shot
+move_name_0094
+Bone Club
+move_name_0095
+Bulldoze
+move_name_0096
+Mud Bomb
+move_name_0097
+Fury Cutter
+move_name_0098
+Bug Bite
+move_name_0099
+Signal Beam
+move_name_0100
+X-Scissor
+move_name_0101
+Flame Charge
+move_name_0102
+Flame Burst
+move_name_0103
+Fire Blast
+move_name_0104
+Brine
+move_name_0105
+Water Pulse
+move_name_0106
+Scald
+move_name_0107
+Hydro Pump
+move_name_0108
+Psychic
+move_name_0109
+Psystrike
+move_name_0110
+Ice Shard
+move_name_0111
+Icy Wind
+move_name_0112
+Frost Breath
+move_name_0113
+Absorb
+move_name_0114
+Giga Drain
+move_name_0115
+Fire Punch
+move_name_0116
+Solar Beam
+move_name_0117
+Leaf Blade
+move_name_0118
+Power Whip
+move_name_0119
+Splash
+move_name_0120
+Acid
+move_name_0121
+Air Cutter
+move_name_0122
+Hurricane
+move_name_0123
+Brick Break
+move_name_0124
+Cut
+move_name_0125
+Swift
+move_name_0126
+Horn Attack
+move_name_0127
+Stomp
+move_name_0128
+Headbutt
+move_name_0129
+Hyper Fang
+move_name_0130
+Slam
+move_name_0131
+Body Slam
+move_name_0132
+Rest
+move_name_0133
+Struggle
+move_name_0134
+Scald
+move_name_0135
+Hydro Pump
+move_name_0136
+Wrap
+move_name_0137
+Wrap
+move_name_0200
+Fury Cutter
+move_name_0201
+Bug Bite
+move_name_0202
+Bite
+move_name_0203
+Sucker Punch
+move_name_0204
+Dragon Breath
+move_name_0205
+Thunder Shock
+move_name_0206
+Spark
+move_name_0207
+Low Kick
+move_name_0208
+Karate Chop
+move_name_0209
+Ember
+move_name_0210
+Wing Attack
+move_name_0211
+Peck
+move_name_0212
+Lick
+move_name_0213
+Shadow Claw
+move_name_0214
+Vine Whip
+move_name_0215
+Razor Leaf
+move_name_0216
+Mud Shot
+move_name_0217
+Ice Shard
+move_name_0218
+Frost Breath
+move_name_0219
+Quick Attack
+move_name_0220
+Scratch
+move_name_0221
+Tackle
+move_name_0222
+Pound
+move_name_0223
+Cut
+move_name_0224
+Poison Jab
+move_name_0225
+Acid
+move_name_0226
+Psycho Cut
+move_name_0227
+Rock Throw
+move_name_0228
+Metal Claw
+move_name_0229
+Bullet Punch
+move_name_0230
+Water Gun
+move_name_0231
+Splash
+move_name_0232
+Water Gun
+move_name_0233
+Mud-Slap
+move_name_0234
+Zen Headbutt
+move_name_0235
+Confusion
+move_name_0236
+Poison Sting
+move_name_0237
+Bubble
+move_name_0238
+Feint Attack
+move_name_0239
+Steel Wing
+move_name_0240
+Fire Fang
+move_name_0241
+Rock Smash
+move_name_0242
+Transform
+move_name_0243
+Counter
+move_name_0244
+Powder Snow
+move_name_0245
+Close Combat
+move_name_0246
+Dynamic Punch
+move_name_0247
+Focus Blast
+move_name_0248
+Aurora Beam
+move_name_0249
+Charge Beam
+move_name_0250
+Volt Switch
+move_name_0251
+Wild Charge
+move_name_0252
+Zap Cannon
+move_name_0253
+Dragon Tail
+move_name_0254
+Avalanche
+move_name_0255
+Air Slash
+move_name_0256
+Brave Bird
+move_name_0257
+Sky Attack
+move_name_0258
+Sand Tomb
+move_name_0259
+Rock Blast
+move_name_0260
+Infestation
+move_name_0261
+Struggle Bug
+move_name_0262
+Silver Wind
+move_name_0263
+Astonish
+move_name_0264
+Hex
+move_name_0265
+Night Shade
+move_name_0266
+Iron Tail
+move_name_0267
+Gyro Ball
+move_name_0268
+Heavy Slam
+move_name_0269
+Fire Spin
+move_name_0270
+Overheat
+move_name_0271
+Bullet Seed
+move_name_0272
+Grass Knot
+move_name_0273
+Energy Ball
+move_name_0274
+Extrasensory
+move_name_0275
+Future Sight
+move_name_0276
+Mirror Coat
+move_name_0277
+Outrage
+move_name_0278
+Snarl
+move_name_0279
+Crunch
+move_name_0280
+Foul Play
+move_name_0281
+Hidden Power
+move_name_0287
+Yawn
+move_name_0282
+Take Down
+move_name_0285
+Draco Meteor
+move_name_0283
+Waterfall
+move_name_0284
+Surf
+move_name_0288
+Psycho Boost
+move_name_0286
+Doom Desire
+move_name_0290
+Precipice Blades
+move_name_0289
+Origin Pulse
+move_name_0291
+Present
+move_name_0292
+Weather Ball
+move_name_0293
+Weather Ball
+move_name_0294
+Weather Ball
+move_name_0295
+Weather Ball
+move_name_0296
+Frenzy Plant
+move_name_0298
+Blast Burn
+move_name_0297
+Smack Down
+move_name_0299
+Hydro Cannon

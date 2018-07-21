@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+recent
+gymbadge_sort_alphabetical
+name
+gymbadge_sort_nearby
+nearby
+gymbadge_sort_score
+points
+gymbadge_sort_progress
+progress
+day_abbrev
+d
+hour_abbrev
+h
+minute_abbrev
+m
+second_abbrev
+s
+gymbadge_aboutthisgym
+about this gym
+gymbadge_totalgymactivity
+total gym activity
+gymbadge_statslabel_won
+victories
+gymbadge_statslabel_defended
+time defended
+gymbadge_statslabel_fed
+treats
+gym_removal_notification_toast
+{0} has fought hard and returned!
+pokemon_hungry_notification_toast
+{0} needs a treat!
+pokemon_won_notification_toast
+{0} defended the Gym!
+nearby_raid_notification_toast
+Nearby Raid Battle starting soon!
+gym_removal_notification_toast|1
+{0} is back after a hard battle!
+gym_removal_notification_toast|2
+{0} was knocked out of the Gym!
+pokemon_hungry_notification_toast|1
+{0} needs some attention...
+pokemon_hungry_notification_toast|2
+{0} wants a Berry!
+pokemon_won_notification_toast|1
+{0} was victorious in battle!
+pokemon_won_notification_toast|2
+{0} has triumphed over your opponents!
+nearby_raid_notification_toast|1
+There's a Raid Battle about to start near you!
+nearby_raid_notification_toast|2
+A Raid Battle is going to start nearby!
+raid_timer_label1
+Waiting for Trainers to join...
+raid_timer_label2
+Select your Pokémon...
+raid_members
+Raid Members
+raid_group_code
+Group Code
+raid_howto_button
+How to play
+raid_join_button
+Join
+raid_join_private_button
+Enter Group Code
+raid_leave_lobby_prompt
+If you leave this group, you won't be able to rejoin.\n\n Do you want to leave this group?
+raid_group_code_intro
+You can battle together with friends by entering the group code of that group.
+raid_join_private_group_button
+JOIN
+raid_create_private_group_button
+Create Group
+raid_join_private_lobby_invalid_code
+This group code is invalid. Please enter a valid code.
+settings_push_notification_header
+Push Notifications
+settings_low_happiness
+Low Motivation
+settings_pokemon_return
+Pokémon's Return
+settings_battle_victory
+Battle Victory
+raid_already_completed
+You already completed this Raid Battle.
+rare_candy_usage_confirmation
+Transform a Rare Candy into a {0} Candy?
+item_rare_candy_name
+Rare Candy
+item_rare_candy_desc
+A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
+item_move_reroll_fast_attack_name
+Fast TM
+item_move_reroll_fast_attack_desc
+This Technical Machine teaches the Pokémon a new Fast Attack.
+item_move_reroll_special_attack_desc
+This Technical Machine teaches the Pokémon a new Charged Attack.
+item_move_reroll_special_attack_name
+Charged TM
+special_move_reroll_confirm_title
+Do you want to teach {0} a new Charged Attack?
+move_reroll_confirm_desc
+{0} will forget {1}.
+quick_move_reroll_confirm_title
+Do you want to teach {0} a new Fast Attack?
+move_reroll_success_message
+{0} learned a new attack!
+raid_team_contribution
+Contribution by Team
+raid_lobby_locked
+RAID FULL
+raid_timer_label3
+Countdown to the Raid Battle start
+gym_please_buy_raid_ticket
+You can buy a Raid Pass to join the Raid Battle.
+filter_hint1
+Search for {0}
+filter_hint2
+Filter by name/nickname
+filter_hint3
+Filter by Pokédex no., e.g., 23–145
+filter_hint4
+Filter by {0}, e.g., {1}, {2}–{3}
+filter_hint5
+Can evolve {0}: \"{1}\"
+filter_hint6
+{0} Evolution, e.g., +{1}
+filter_hint7
+Use multiple filters with ","
+filter_hint8
+Filter by type: {0}, {1}
+shop_battle_tickets_title
+You're out of Raid Passes!
+item_free_raid_ticket_name
+Raid Pass
+item_free_raid_ticket_desc
+Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
+item_paid_raid_ticket_name
+Premium Raid Pass
+item_paid_raid_ticket_desc
+Premium Raid Pass to join a Raid Battle. You can use this pass anytime.
+use_raid_ticket_confirmation
+Use a Raid Pass to join the Raid Battle
+pokecoins_daily_limit_reached
+{0} PokéCoins daily limit reached.
+received_free_item_title
+You received a free {0}!
+gymbadge_timeelapsed
+time defending
+raid_private_group
+PRIVATE
+raid_remove_private_from_lobby_prompt
+Make the group open to the public?\n\nYou can't undo this action.
+raid_message_select_your_pokemon
+Select your Pokémon for battle!
+raid_battle_retreat_confirmation
+Are you sure you want to leave?
+raid_message_get_back_into_battle
+Heal your Pokémon and return to the battle!
+raid_timer_label4
+Countdown until the battle ends
+team_picker_last_team
+Previous battle party
+team_picker_title_load
+Load battle party
+team_picker_title_save
+Save battle party
+team_picker_fainted_pokemon_warning
+Your current party cannot join the battle. Heal your Pokémon first.
+battle_intro_battles_won
+{0} battles won
+team_picker_default_team_name
+Battle party {0}
+team_picker_optimize
+Optimize
+team_picker_set_team_name
+Set battle party name
+team_picker_team_not_set
+Unset
+gym_feed_pokemon_full
+{0} is full! Try giving a treat to other Pokémon.
+gym_feed_pokemon_berry_timeout
+{0} is tired of that Berry.
+gym_feed_pokemon_timeout
+{0} is very happy. Try giving treats to other Pokémon.
+avatar_detail_pokemon_caught
+Pokémon Caught
+avatar_detail_walking_distance
+Walking Distance
+avatar_detail_battle_won
+Battles Won
+avatar_detail_total_activities
+Total Activities
+raid_tut_group_forming_message
+The battle group will automatically match you with other players.
+gym_out_of_range
+Gym out of range!
+general_go_to_shop
+GO TO SHOP
+general_quit
+QUIT
+raid_tut_group_forming
+GROUP FORMING
+raid_tut_how_to_battle_message
+Tap the screen to attack the Raid Boss! Press the Charge Attack button to use your Charged Attack when the attack meter is full!
+raid_tut_how_to_battle
+BATTLE
+raid_tut_pass_message
+You need a Raid Pass to join the battle. You can get one for free each day if you don't already have one. You can also get Premium Raid Passes in the shop.
+raid_pass_caps
+RAID PASS
+raid_tut_what_is_raid_message
+A raid is a battle where you and up to 20 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
+raid_tut_what_is_raid
+WHAT IS A RAID?
+raid_enter_group_code
+PRIVATE GROUP
+raid_public_warning_message
+If you change this group to public, anyone can join and battle with you.\n\nOnce you change to public, your group cannot be made private again.\nAre you sure you want to change to a public group?
+raid_change_to_public
+CHANGE TO PUBLIC
+raid_share_private_code_message
+Share this group code with your friends. They can join you by entering this group code.
+raid_private_lobby_success_message
+Successfully joined a group!
+raid_rejoin_battle
+REJOIN BATTLE
+battle_summary
+SUMMARY
+raid_defeat_boss
+Defeat Boss
+raid_damage_bonus
+Damage
+raid_gym_ownership
+Gym Control
+general_total_caps
+TOTAL
+raid_bonus_challenge
+GO TO BONUS CHALLENGE
+profile_gymbadges_recently_visited
+Recently Visited
+profile_category_gymbadges
+Gym Badges
+gym_spinner_team_bonus
+Team Bonus
+raid_raid
+Raid Battle
+raid_level_caps
+RAID LEVEL
+raid_suggested_group_size
+SUGGESTED GROUP SIZE
+raid_nearby_ongoing
+Ongoing
+gym_battle_continue_battles_won_stat
+{0} BATTLES WON
+gym_battle_victory_subtitle
+You defeated this Gym!
+gym_battle_defeat_body
+All your Pokémon have fainted!
+gym_battle_defeat_footer
+Please try again.
+raid
+raid
+gym_pokemon_you_fed_not_there
+The Pokémon you tried to give a treat to isn't there anymore.
+raid_try_again
+Select new Pokémon, or revive and heal your current Pokémon, and go back to the battle!
+raid_defeat_message
+All your Pokémon have fainted.
+general_battle
+BATTLE
+gym_deployment_time_format
+{0}d {1}h {2}m
+free_raid_ticket_details_desc
+Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.\n\nIf you want to participate in more than one raid per day, you may buy raid passes from the store.
+paid_raid_ticket_details_desc
+Premium Raid Pass to join a Raid Battle. You can use this pass anytime.\n\nTo get more passes, visit the store.
+battle_prep_opponents_header
+Opponents
+gym_feed_pokemon_busy
+Try again later.
+gymbadge_sort_defending
+defending
+raid_finding_players
+Finding other players
+gym_same_team_deploy_lockout
+The Gym is under attack! Try again later.
+screen_title_badge_collection
+Gym Badges
+profile_no_gymbadges
+You don't have any Gym Badges.
+free_ticket_bag_full_error
+Your Bag is full. You'll need to make room to hold a Raid Pass.
+raid_level
+Difficulty
+battle_prep_my_team_header
+My Battle Party
+battle_prep_go
+Go battle!
+raids_no_nearby
+There are no raids nearby.
+gymbadge_you_earned
+Gym Badge Earned!
+award_badge_new_badge
+Defend team Gyms and attack rival ones to upgrade your Gym Badges.
+gym_feed_raid_active
+A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
+gym_next_battle
+Battle
+gym_battle_leave
+Leave
+gym_battle_next
+Next Up:
+error_no_available_lobbies
+No groups found with that code.
+error_lobby_visibility
+An error occurred during the presentation of the raid.
+error_start_raid_battle
+An error occurred in trying to start a raid.
+error_pokemon_team_update
+An error occurred in trying to update your battle party.
+error_join_lobby
+An error occurred in trying to join the raid.
+gym_badge_list_button
+List
+raid_defeat_try_again
+Select new Pokémon or heal up those that fainted and get back to the battle!
+raid_time_out_try_again
+You didn't defeat the Raid Boss in time. Please try again.
+item_golden_razz_berry_name
+Golden Razz Berry
+item_golden_razz_berry_desc
+Feed this to a Pokémon to make it much easier to catch.
+encounter_raid_pokemon_appeared
+Bonus Challenge! Catch {0}!
+raid_need_a_viable_raid_team
+You have no Pokémon ready to battle. Please heal your Pokémon.
+error_raid_active
+A Raid Boss has taken control of the Gym!
+badges_tut_description
+Visit a Gym and spin the Photo Disc to earn a Gym Badge. Unlock item rewards by defending your team's Gyms and attacking rival Gyms!
+profile_gymbadges_help
+Learn more
+gym_tut_title_1
+GET ITEMS
+gym_tut_title_2
+ASSIGN POKÉMON
+gym_tut_title_3
+MOTIVATION
+gym_tut_title_4
+GIVE BERRIES!
+gym_tut_desc_1
+You can find items at Gyms by spinning their Photo Discs.
+gym_tut_desc_2
+You can assign your Pokémon to defend a Gym using the "Assign Pokémon" button at a friendly Gym. After your Pokémon is assigned, you'll see its motivation meter appear.
+gym_tut_desc_3
+Pokémon lose motivation slowly over time and when they are defeated in battle. When a Pokémon with no motivation left is defeated, it will stop defending the Gym and return to its Trainer.
+gym_tut_desc_4
+Treat Pokémon to Berries to keep up their motivation and strength in battle!
+no_usable_items_error
+No usable items
+gym_battle_victory_title
+Great work!
+tm_no_other_moves
+Cannot learn any other attacks!
+disabled_low_stamina
+The Pokémon must be at full HP.
+disabled_buddy
+You can't assign your Buddy Pokémon to defend a Gym.
+badge_raid_battle_won
+Win {0} Raids.
+badge_hours_defended_title
+Gym Leader
+badge_hours_defended
+Defend Gyms for {0} hours.
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+Berry Master
+badge_berries_fed
+Feed {0} Berries at Gyms.
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+Champion
+gym_deploy_raid_active
+A Raid Boss has taken control of the Gym. Please try again after the Raid Boss is gone.
+error_too_many_deployed
+Sorry. You've reached the limit of Pokémon you can assign to Gyms.
+disabled_max_same_defender
+Only one of each Pokémon may be assigned to defend a Gym at the same time.
+error_fort_is_full
+This Gym has no room for additional Pokémon.
+award_badge_rank_up
+Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
+raid_not_yet_available
+Sorry, but Raid Battles are not yet available for your level.\nPlease try again later.
+raid_private_lobby_created_success_message
+Successfully created a group!
+pokestop_button_read_qr_code
+READ QR CODE
+pokestop_button_manual_input
+MANUAL INPUT
+pokestop_check_in_manual_entry_title
+ENTER REGISTRATION CODE
+pokestop_check_in_notice
+Welcome to {0}!\nPlease use the camera to read the QR Code to check in.
+pokestop_check_in_succeeded
+SUCCESSFULLY CHECKED IN
+disabled_max_same_defenders
+Only one of each Pokémon may be assigned to defend a Gym at the same time.
+gym_closed_exclusive_raid_not_invited
+This Gym is closed for an EX Raid.\nIt will reopen at {0}.
+disabled_legendary
+Legendary Pokémon cannot be left at Gyms.
+team_picker_title
+Load & Save Battle Parties
+team_picker_load
+Load
+team_picker_save
+Save
+battle_prep_create_team
+Select your Pokémon!
+battle_prep_new_team
+New Party
+battle_prep_recommended_team
+Recommended Battle Party
+screen_title_pokemon_inventory_party
+PARTY
+raid_ticket_event
+Event
+filter_key_defender
+defender
+filter_key_legendary
+legendary
+filter_key_shiny
+shiny
+filter_key_mythical
+mythical
+filter_key_alola
+alola

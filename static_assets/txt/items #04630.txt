@@ -1,0 +1,618 @@
+item_great_ball_desc
+Poké Ball dalle ottime prestazioni: fornisce maggiori probabilità di cattura rispetto alla normale Poké Ball.
+item_great_ball_name
+Mega Ball
+item_hyper_potion_desc
+Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon.
+item_hyper_potion_name
+Iperpozione
+item_master_ball_desc
+La Poké Ball dalle prestazioni migliori: cattura qualsiasi Pokémon selvatico senza mai fallire.
+item_master_ball_name
+Master Ball
+item_max_potion_desc
+Rimedio spray per le ferite. Restituisce tutti i PS a un Pokémon.
+item_max_potion_name
+Pozione Max
+item_revive_desc
+Rimedio che rianima un Pokémon esausto e gli restituisce metà dei suoi PS.
+item_revive_name
+Revitalizzante
+item_max_revive_desc
+Rimedio che rianima un Pokémon esausto restituendogli tutti i PS.
+item_max_revive_name
+Revitalizzante Max
+item_poke_ball_desc
+Strumento dotato di capsula usato per catturare Pokémon selvatici. Si lancia contro il bersaglio come una palla.
+item_poke_ball_name
+Poké Ball
+item_potion_desc
+Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon.
+item_potion_name
+Pozione
+item_razz_berry_desc
+Dalla a un Pokémon e sarà più facile catturarlo.
+item_razz_berry_name
+Baccalampon
+item_special_camera_name
+Fotocamera
+item_special_camera_desc
+Quando incontri un Pokémon selvatico, puoi usare la tua fotocamera per scattargli una foto.
+item_super_potion_desc
+Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon.
+item_super_potion_name
+Superpozione
+item_ultra_ball_desc
+Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball.
+item_ultra_ball_name
+Ultra Ball
+item_x_attack_desc
+UNDEFINED
+item_x_attack_name
+Attacco X
+item_x_defense_desc
+UNDEFINED
+item_x_defense_name
+Difesa X
+item_x_miracle_desc
+UNDEFINED
+item_x_miracle_name
+UNDEFINED
+item_bluk_berry_desc
+UNDEFINED
+item_bluk_berry_name
+Baccamora
+item_wepar_berry_desc
+UNDEFINED
+item_wepar_berry_name
+Baccapera
+item_nanab_berry_desc
+Fai mangiare questa bacca a un Pokémon per calmarlo e renderlo meno imprevedibile.
+item_nanab_berry_name
+Baccabana
+item_pinap_berry_desc
+Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi.
+item_pinap_berry_name
+Baccananas
+item_pokemon_bag_name
+Ampliamento Box Pokémon
+item_pokemon_bag_desc
+Aumenta le dimensioni della tua collezione di Pokémon.
+item_item_pack_name
+Astuccio strumenti
+item_item_pack_desc
+Aumenta le dimensioni della tua Borsa.
+pokeball.20_title
+Poké Ball x20
+pokeball.20_description
+20 Poké Ball normali da usare per catturare Pokémon!
+pokeball.100_title
+Poké Ball x100
+pokeball.100_description
+100 Poké Ball normali da usare per catturare Pokémon!
+pokeball.200_title
+Poké Ball x200
+pokeball.200_description
+200 Poké Ball normali da usare per catturare Pokémon!
+pokemonstorageupgrade.1_title
+Ampliamento spazio Pokémon
+pokemonstorageupgrade.1_description
+Aumenta lo spazio per i Pokémon di {0}.
+itemstorageupgrade.1_title
+Ampliamento spazio Borsa
+itemstorageupgrade.1_description
+Aumenta lo spazio per gli strumenti di {0}.
+item_lucky_egg_name
+Fortunuovo
+item_lucky_egg_desc
+Uovo pieno di felicità. Fa guadagnare al giocatore il doppio dei PE per 30 minuti. 
+luckyegg.1_title
+Fortunuovo
+luckyegg.1_description
+Uovo pieno di felicità. Fa guadagnare al giocatore il doppio dei PE per 30 minuti. 
+luckyegg.5_title
+Fortunuovo x5
+luckyegg.5_description
+Cinque uova piene di felicità. Fanno guadagnare al giocatore il doppio dei PE per 30 minuti. 
+luckyegg.8_title
+Fortunuovo x8
+luckyegg.8_description
+Otto uova piene di felicità. Fanno guadagnare al giocatore il doppio dei PE per 30 minuti. 
+luckyegg.25_title
+Fortunuovo x25
+luckyegg.25_description
+25 uova piene di felicità. Fanno guadagnare al giocatore il doppio dei PE per 30 minuti. 
+item_incense_ordinary_name
+Aroma
+item_incense_ordinary_desc
+Un intenso profumo che attrae i Pokémon selvatici per 30 minuti.
+incenseordinary.1_title
+Aroma
+incenseordinary.1_description
+Un intenso profumo che attrae i Pokémon selvatici per 30 minuti.
+incenseordinary.8_title
+Aroma x8
+incenseordinary.8_description
+8 aromi. Emanano un intenso profumo che attrae i Pokémon selvatici per 30 minuti.
+incenseordinary.25_title
+Aroma x25
+incenseordinary.25_description
+25 aromi. Emanano un intenso profumo che attrae i Pokémon selvatici per 30 minuti.
+incubatorbasic.1_title
+Incubatrice Uova
+incubatorbasic.1_description
+Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare tre volte.
+item_incubator_basic_name
+Incubatrice Uova
+item_incubator_basic_desc
+Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare tre volte.
+item_incubator_basic_unlimited_name
+Incubatrice Uova ∞
+item_incubator_basic_unlimited_desc
+Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare un numero infinito di volte.
+pokecoin.1000_title
+Pokémonete x1000 (per il testing)
+pokecoin.1000_description
+
+pokecoin.100_title
+Pokémonete x100
+pokecoin.100_description
+
+pokecoin.550_title
+Pokémonete x550
+pokecoin.550_description
+
+pokecoin.1200_title
+Pokémonete x1200
+pokecoin.1200_description
+
+pokecoin.2500_title
+Pokémonete x2500
+pokecoin.2500_description
+
+pokecoin.5200_title
+Pokémonete x5200
+pokecoin.5200_description
+
+pokecoin.14500_title
+Pokémonete x14.500
+pokecoin.14500_description
+
+item_troy_disk_name
+Modulo esca
+item_troy_disk_desc
+Attira i Pokémon per 30 minuti verso un Pokéstop. Ha effetto anche su tutti i giocatori nei dintorni.
+troydisk.1_title
+Modulo esca
+troydisk.1_description
+Attira i Pokémon per 30 minuti verso un Pokéstop. Ha effetto anche su tutti i giocatori nei dintorni.
+troydisk.8_title
+Modulo esca x8
+troydisk.8_description
+8 Moduli esca. Attirano i Pokémon per 30 minuti verso un Pokéstop. Hanno effetto anche su tutti i giocatori nei dintorni.
+item_sun_stone_name
+Pietrasolare
+item_sun_stone_desc
+Pietra particolare che fa evolvere determinate specie di Pokémon. È rossa come il sole al tramonto.
+item_kings_rock_name
+Roccia di Re
+item_kings_rock_desc
+Roccia che fa evolvere determinate specie di Pokémon. Ha l’aspetto di una corona.
+item_metal_coat_name
+Metalcoperta
+item_metal_coat_desc
+Rivestimento che fa evolvere determinate specie di Pokémon. Si tratta di una speciale pellicola metallica.
+item_dragon_scale_name
+Squama Drago
+item_dragon_scale_desc
+Squama che fa evolvere determinate specie di Pokémon. È molto spessa e dura.
+item_up_grade_name
+Upgrade
+item_up_grade_desc
+Apparecchio trasparente che fa evolvere determinate specie di Pokémon. È un prodotto della Silph SpA.
+avatar_f_backpack_cute_bundle_icon
+Zainetto con fiocco
+avatar_f_backpack_default_bundle_icon
+Zainetto da città
+avatar_f_backpack_empty_bundle_icon
+Senza borsa
+avatar_f_belt_simple_bundle_icon
+Fibbia piatta
+avatar_f_belt_default_bundle_icon
+Fibbia Poké Ball
+avatar_f_belt_empty_bundle_icon
+Senza cintura
+avatar_f_glasses_mask_bundle_icon
+Maschera misteriosa
+avatar_f_glasses_3d_bundle_icon
+Occhiali avveniristici
+avatar_f_glasses_thick_bundle_icon
+Occhiali da lettura
+avatar_f_glasses_empty_bundle_icon
+Senza occhiali
+avatar_f_gloves_default_bundle_icon
+Guanti senza dita
+avatar_f_gloves_empty_bundle_icon
+Senza guanti
+avatar_f_hat_knitted_bundle_icon
+Cappello peruviano
+avatar_f_hat_fedora_bundle_icon
+Fedora
+avatar_f_hat_tophat_bundle_icon
+Cilindro
+avatar_f_hat_casket_bundle_icon
+Berretto
+avatar_f_hat_default_a_bundle_icon
+Berretto Poké Ball
+avatar_f_hat_default_b_bundle_icon
+Berretto sportivo
+avatar_f_hat_empty_bundle_icon
+Senza cappello
+avatar_f_necklace_heart_bundle_icon
+Collare con cuore
+avatar_f_necklace_star_bundle_icon
+Collare con stella
+avatar_f_necklace_default_bundle_icon
+Collare base
+avatar_f_necklace_empty_bundle_icon
+Senza collare
+avatar_f_pants_neon_bundle_icon
+Pantacollant vivaci
+avatar_f_pants_skinnyjeans_bundle_icon
+Jeans aderenti
+avatar_f_pants_shorts_bundle_icon
+Pantaloncini sportivi
+avatar_f_pants_miniskirt_wave_bundle_icon
+Minigonna con onde
+avatar_f_pants_miniskirt_bundle_icon
+Minigonna con riga
+avatar_f_pants_miniskirt_turbine_bundle_icon
+Minigonna turbina
+avatar_f_pants_default_bundle_icon
+Tutina sportiva
+avatar_f_shirt_tshirt_pikachu_bundle_icon
+T-shirt Pikachu
+avatar_f_shirt_tanktop_pikachu_bundle_icon
+Top Pikachu
+avatar_f_shirt_tanktop_charizard_bundle_icon
+Top Charizard
+avatar_f_shirt_sweater_valor_bundle_icon
+Maglia Squadra Coraggio
+avatar_f_shirt_sweater_mystic_bundle_icon
+Maglia Squadra Saggezza
+avatar_f_shirt_sweater_instinct_bundle_icon
+Maglia Squadra Istinto
+avatar_f_shirt_sweater_30_bundle_icon
+Maglia 30
+avatar_f_shirt_tshirt_cycling_bundle_icon
+T-shirt sportiva
+avatar_f_shirt_buttondown_bundle_icon
+Maglia attillata
+avatar_f_shirt_tanktop_bundle_icon
+Top Allenatrice
+avatar_f_shirt_default_bundle_icon
+Bolero
+avatar_f_shoes_default_bundle_icon
+Scarpe sportive
+avatar_f_shoes_empty_bundle_icon
+Senza scarpe
+avatar_f_socks_thighhighs_bundle_icon
+Calzamaglia lana
+avatar_f_socks_default_bundle_icon
+Pantaloni aderenti
+avatar_f_socks_empty_bundle_icon
+Senza calze
+avatar_m_backpack_default_bundle_icon
+Zainetto Allenatore
+avatar_m_backpack_empty_bundle_icon
+Senza borsa
+avatar_m_glasses_mask_bundle_icon
+Maschera misteriosa
+avatar_m_glasses_3d_bundle_icon
+Occhiali avveniristici
+avatar_m_glasses_thick_bundle_icon
+Occhiali da lettura
+avatar_m_glasses_empty_bundle_icon
+Senza occhiali
+avatar_m_gloves_default_bundle_icon
+Guanti senza dita
+avatar_m_gloves_empty_bundle_icon
+Senza guanti
+avatar_m_hat_fedora_bundle_icon
+Fedora
+avatar_m_hat_tophat_bundle_icon
+Cilindro
+avatar_m_hat_casket_bundle_icon
+Berretto
+avatar_m_hat_default_bundle_icon
+Visiera Allenatore
+avatar_m_hat_empty_bundle_icon
+Senza cappello
+avatar_m_pants_sweats_bundle_icon
+Pantaloni tuta
+avatar_m_pants_skinnyjeans_bundle_icon
+Jeans aderenti
+avatar_m_pants_default_bundle_icon
+Pantaloni a 3/4
+avatar_m_shirt_blazer_bundle_icon
+Giacca
+avatar_m_shirt_longsleeves_charizard_bundle_icon
+Maglia Charizard
+avatar_m_shirt_longsleeves_pikachu_bundle_icon
+Maglia Pikachu
+avatar_m_shirt_tshirt_instinct_bundle_icon
+T-shirt Squadra Istinto
+avatar_m_shirt_tshirt_mystic_bundle_icon
+T-shirt Squadra Saggezza
+avatar_m_shirt_tshirt_valor_bundle_icon
+T-shirt Squadra Coraggio
+avatar_m_shirt_turtleneck_30_bundle_icon
+Maglia 30
+avatar_m_shirt_tshirt_geometric_bundle_icon
+T-shirt diagonale
+avatar_m_shirt_sweatshirt_sporty_bundle_icon
+Felpa sportiva
+avatar_m_shirt_sweatshirt_streak_bundle_icon
+Felpa con saetta
+avatar_m_shirt_default_2_bundle_icon
+Felpa classica
+avatar_m_shirt_default_1_bundle_icon
+Felpa arancione e bianca
+avatar_m_shirt_default_0_bundle_icon
+Felpa rossa e bianca
+avatar_m_shirt_default_3_bundle_icon
+Felpa blu e bianca
+avatar_m_shoes_default_bundle_icon
+Scarpe sportive
+avatar_m_shoes_empty_bundle_icon
+Senza scarpe
+avatar_m_socks_default_bundle_icon
+Scaldamuscoli
+avatar_m_socks_empty_bundle_icon
+Senza calze
+avatar_m_hat_magikarp_bundle_icon
+Cappello Magikarp
+avatar_f_hat_magikarp_bundle_icon
+Cappello Magikarp
+avatar_m_hat_adventure_bundle_icon
+Cappello da spedizione
+avatar_f_hat_adventure_bundle_icon
+Cappello da spedizione
+paidraidticket.1_title
+Biglietto raid premium
+paidraidticket.1_description
+Un biglietto raid che può essere usato per partecipare a un raid.
+maxrevive.6_title
+Revitalizzanti Max x6
+maxrevive.6_description
+6 Revitalizzanti Max per rianimare Pokémon esausti restituendo loro tutti i PS.
+oneyearanniversary.1_title
+Pacco anniversario
+maxpotion.10_title
+Pozioni Max x10
+maxpotion.10_description
+10 Pozioni Max per restituire tutti i PS a 10 Pokémon.
+f_shirt_tshirt_fest_chicago_2017_bundle_icon
+T-shirt Festival di <i>Pokémon GO </i>
+m_shirt_tshirt_fest_chicago_2017_bundle_icon
+T-shirt Festival di <i>Pokémon GO </i>
+bundle.general1.small.1_title
+Pacco speciale
+bundle.general1.medium.1_title
+Pacco mega
+bundle.general1.large.1_title
+Pacco ultra
+avatar_m_hat_mimikyu_icon
+Cappello costume Mimikyu
+avatar_f_hat_mimikyu_icon
+Cappello costume Mimikyu
+f_hat_ultra_bundle_icon
+Cappello di Ultraluna
+f_shirt_ultra_bundle_icon
+Maglietta di Ultraluna
+f_backpack_ultra_bundle_icon
+Borsa di Ultraluna
+f_pants_ultra_bundle_icon
+Pantaloncini di Ultraluna
+f_shoes_ultra_bundle_icon
+Sandali di Ultraluna
+m_hat_ultra_bundle_icon
+Cappello di Ultrasole
+m_shirt_ultra_bundle_icon
+Maglietta di Ultrasole
+m_backpack_ultra_bundle_icon
+Borsa di Ultrasole
+m_pants_ultra_bundle_icon
+Pantaloni di Ultrasole
+m_shoes_ultra_bundle_icon
+Scarpe di Ultrasole
+item_star_piece_name
+Pezzo Stella
+item_star_piece_desc
+Piccolo frammento di una bellissima gemma che fa ottenere il 50% di polvere di stelle in più per 30 minuti.
+starpiece.1_description
+Piccolo frammento di una bellissima gemma che fa ottenere il 50% di polvere di stelle in più per 30 minuti.
+starpiece.8_description
+8 Pezzi Stella. Ottieni il 50% di polvere di stelle in più per 30 minuti.
+starpiece.25_description
+25 Pezzi Stella. Ottieni il 50% di polvere di stelle in più per 30 minuti.
+starpiece.1_title
+Pezzo Stella
+starpiece.8_title
+8 Pezzi Stella
+starpiece.25_title
+25 Pezzi Stella
+bundle.general2.small.1_title
+Pacco inverno
+bundle.general3.small.1_title
+Pacco inverno
+bundle.general2.medium.1_title
+Pacco mega
+bundle.general3.medium.1_title
+Pacco mega
+bundle.general2.large.1_title
+Pacco ultra
+bundle.general3.large.1_title
+Pacco ultra
+m_shoes_fisher_bundle_icon
+Stivali Pescatore
+m_hat_jogger_bundle_icon
+Visiera Podista
+m_glasses_jogger_bundle_icon
+Occhiali da sole Podista
+m_shirt_jogger_bundle_icon
+Top Podista
+m_pants_jogger_bundle_icon
+Pantaloncini Podista
+m_shoes_jogger_bundle_icon
+Scarpe Podista
+m_gloves_jogger_bundle_icon
+Orologio Podista
+f_shirt_battlegirl_bundle_icon
+Top Combat Girl
+f_gloves_battlegirl_bundle_icon
+Guanti Combat Girl
+f_pants_battlegirl_bundle_icon
+Pantaloncini Combat Girl
+f_shoes_battlegirl_bundle_icon
+Scarpe Combat Girl
+avatar_f_pants_battlegirl_bundle_icon
+Pantaloncini Combat Girl
+avatar_f_shoes_battlegirl_bundle_icon
+Scarpe Combat Girl
+avatar_m_gloves_jogger_bundle_icon
+Orologio Podista
+avatar_m_pants_jogger_bundle_icon
+Pantaloncini Podista
+avatar_f_gloves_battlegirl_bundle_icon
+Guanti Combat Girl
+avatar_f_shirt_battlegirl_bundle_icon
+Top Combat Girl
+avatar_m_shirt_jogger_bundle_icon
+Top Podista
+avatar_m_shoes_jogger_bundle_icon
+Scarpe Podista
+avatar_m_glasses_jogger_bundle_icon
+Occhiali da sole Podista
+avatar_m_shoes_fisher_bundle_icon
+Stivali Pescatore
+avatar_m_hat_jogger_bundle_icon
+Visiera Podista
+avatar_m_pants_fisher_bundle_icon
+Pantaloni Pescatore
+avatar_m_shirt_fisher_bundle_icon
+Gilet Pescatore
+avatar_m_hat_fisher_bundle_icon
+Berretto Pescatore
+avatar_f_hat_teamrocket_bundle_icon
+Berretto Team Rocket
+avatar_f_shirt_teamrocket_0_bundle_icon
+Maglia Team Rocket
+avatar_f_shirt_teamrocket_1_bundle_icon
+Maglia Team Rainbow Rocket
+avatar_f_gloves_teamrocket_bundle_icon
+Guanti Team Rocket
+avatar_f_belt_teamrocket_1_bundle_icon
+Cintura Team Rainbow Rocket
+avatar_f_pants_teamrocket_bundle_icon
+Gonna Team Rocket
+avatar_f_shoes_teamrocket_0_bundle_icon
+Stivali Team Rocket
+avatar_f_shoes_teamrocket_1_bundle_icon
+Stivali Team Rainbow Rocket
+avatar_m_hat_teamrocket_bundle_icon
+Berretto Team Rocket
+avatar_m_shirt_teamrocket_0_bundle_icon
+Maglia Team Rocket
+avatar_m_shirt_teamrocket_1_bundle_icon
+Maglia Team Rainbow Rocket
+avatar_m_gloves_teamrocket_bundle_icon
+Guanti Team Rocket
+avatar_m_pants_teamrocket_bundle_icon
+Pantaloni Team Rocket
+avatar_m_shoes_teamrocket_0_bundle_icon
+Stivali Team Rocket
+avatar_m_shoes_teamrocket_1_bundle_icon
+Stivali Team Rainbow Rocket
+avatar_f_belt_teamrocket_0_bundle_icon
+Cintura Team Rocket
+avatar_m_hat_frlg_bundle_icon
+Berretto Rosso Fuoco
+avatar_m_shirt_frlg_bundle_icon
+Maglia Rosso Fuoco
+avatar_m_backpack_frlg_bundle_icon
+Zaino Rosso Fuoco
+avatar_m_gloves_frlg_bundle_icon
+Polsini Rosso Fuoco
+avatar_m_pants_frlg_bundle_icon
+Pantaloni Rosso Fuoco
+avatar_m_shoes_frlg_bundle_icon
+Scarpe Rosso Fuoco
+avatar_f_hat_frlg_bundle_icon
+Cappello Verde Foglia
+avatar_f_shirt_frlg_bundle_icon
+Top Verde Foglia
+avatar_f_backpack_frlg_bundle_icon
+Borsa Verde Foglia
+avatar_f_gloves_frlg_bundle_icon
+Polsini Verde Foglia
+avatar_f_pants_frlg_bundle_icon
+Gonna Verde Foglia
+avatar_f_shoes_frlg_bundle_icon
+Scarpe Verde Foglia
+avatar_f_shirt_gymleader_bundle_icon
+Maglia Capopalestra
+avatar_f_gloves_gymleader_bundle_icon
+Guanti Capopalestra
+avatar_f_pants_gymleader_bundle_icon
+Gonna Capopalestra
+avatar_f_shoes_gymleader_bundle_icon
+Scarpe Capopalestra
+avatar_m_shirt_gymleader_bundle_icon
+Maglia Capopalestra
+avatar_m_gloves_gymleader_bundle_icon
+Guanti Capopalestra
+avatar_m_pants_gymleader_bundle_icon
+Pantaloncini Capopalestra
+avatar_m_shoes_gymleader_bundle_icon
+Scarpe Capopalestra
+bundle.general4.small.1_title
+Pacco Community Day
+avatar_f_shirt_earthday_2018_bundle_icon
+T-shirt Surf Blue
+avatar_m_shirt_earthday_2018_bundle_icon
+T-shirt Surf Blue
+bundle.general2.small.1.itembox_title
+Pacco strumenti (beta)
+bundle.general2.medium.1.itembox_title
+Pacco strumenti argento (beta)
+bundle.general2.large.1.itembox_title
+Pacco strumenti oro (beta)
+avatar_m_shirt_mew_bundle_icon
+T-shirt Mew
+avatar_f_shirt_mew_bundle_icon
+T-shirt Mew
+avatar_m_shirt_latias_latios_bundle_icon
+T-shirt Latias e Latios
+avatar_f_shirt_latias_latios_bundle_icon
+T-shirt Latias e Latios
+avatar_f_hat_pikachufan_bundle_icon
+Fascia fan di Pikachu
+avatar_f_shirt_pikachufan_bundle_icon
+Maglia fan di Pikachu
+avatar_f_pants_pikachufan_bundle_icon
+Pantaloncini fan di Pikachu
+avatar_f_shoes_pikachufan_bundle_icon
+Scarpe fan di Pikachu
+avatar_m_hat_pikachufan_bundle_icon
+Fascia fan di Pikachu
+avatar_m_shirt_pikachufan_bundle_icon
+Maglia fan di Pikachu
+avatar_m_pants_pikachufan_bundle_icon
+Pantaloncini fan di Pikachu
+avatar_m_shoes_pikachufan_bundle_icon
+Scarpe fan di Pikachu
+avatar_f_glasses_teardrop_bundle_icon
+Occhiali da sole a goccia
+m_glasses_teardrop_bundle_icon
+Occhiali da sole a goccia

@@ -1,0 +1,474 @@
+move_name_0001
+Éclair
+move_name_0002
+Vive-Attaque
+move_name_0003
+Griffe
+move_name_0004
+Flammèche
+move_name_0005
+Fouet Lianes
+move_name_0006
+Charge
+move_name_0007
+Tranch’Herbe
+move_name_0008
+Bélier
+move_name_0009
+Pistolet à O
+move_name_0010
+Morsure
+move_name_0011
+Écras’Face
+move_name_0012
+Torgnoles
+move_name_0013
+Ligotage
+move_name_0014
+Ultralaser
+move_name_0015
+Léchouille
+move_name_0016
+Vibrobscur
+move_name_0017
+Purédpois
+move_name_0018
+Détritus
+move_name_0019
+Griffe Acier
+move_name_0020
+Force Poigne
+move_name_0021
+Roue de Feu
+move_name_0022
+Mégacorne
+move_name_0023
+Cru-Aile
+move_name_0024
+Lance-Flammes
+move_name_0025
+Coup Bas
+move_name_0026
+Tunnel
+move_name_0027
+Balayage
+move_name_0028
+Coup-Croix
+move_name_0029
+Coupe Psycho
+move_name_0030
+Rafale Psy
+move_name_0031
+Séisme
+move_name_0032
+Lame de Roc
+move_name_0033
+Poing-Glace
+move_name_0034
+Crève-Cœur
+move_name_0035
+Coup d’Jus
+move_name_0036
+Luminocanon
+move_name_0037
+Picpic
+move_name_0038
+Bec Vrille
+move_name_0039
+Laser Glace
+move_name_0040
+Blizzard
+move_name_0041
+Lame d’Air
+move_name_0042
+Canicule
+move_name_0043
+Double-Dard
+move_name_0044
+Direct Toxik
+move_name_0045
+Aéropique
+move_name_0046
+Tunnelier
+move_name_0047
+Tempête Florale
+move_name_0048
+Méga-Sangsue
+move_name_0049
+Bourdon
+move_name_0050
+Crochet Venin
+move_name_0051
+Tranche-Nuit
+move_name_0052
+Tranche
+move_name_0053
+Bulles d’O
+move_name_0054
+Sacrifice
+move_name_0055
+Poing-Karaté
+move_name_0056
+Balayette
+move_name_0057
+Aqua-Jet
+move_name_0058
+Hydroqueue
+move_name_0059
+Canon Graine
+move_name_0060
+Choc Psy
+move_name_0061
+Jet-Pierres
+move_name_0062
+Pouvoir Antique
+move_name_0063
+Tomberoche
+move_name_0064
+Éboulement
+move_name_0065
+Rayon Gemme
+move_name_0066
+Ombre Portée
+move_name_0067
+Poing Ombre
+move_name_0068
+Griffe Ombre
+move_name_0069
+Vent Mauvais
+move_name_0070
+Ball’Ombre
+move_name_0071
+Pisto-Poing
+move_name_0072
+Bombaimant
+move_name_0073
+Aile d’Acier
+move_name_0074
+Tête de Fer
+move_name_0075
+Parabocharge
+move_name_0076
+Étincelle
+move_name_0077
+Poing-Éclair
+move_name_0078
+Fatal-Foudre
+move_name_0079
+Tonnerre
+move_name_0080
+Ouragan
+move_name_0081
+Dracosouffle
+move_name_0082
+Dracochoc
+move_name_0083
+Dracogriffe
+move_name_0084
+Voix Enjôleuse
+move_name_0085
+Vampibaiser
+move_name_0086
+Éclat Magique
+move_name_0087
+Pouvoir Lunaire
+move_name_0088
+Câlinerie
+move_name_0089
+Poison-Croix
+move_name_0090
+Bomb-Beurk
+move_name_0091
+Cradovague
+move_name_0092
+Détricanon
+move_name_0093
+Tir de Boue
+move_name_0094
+Massd’Os
+move_name_0095
+Piétisol
+move_name_0096
+Boue-Bombe
+move_name_0097
+Taillade
+move_name_0098
+Piqûre
+move_name_0099
+Rayon Signal
+move_name_0100
+Plaie-Croix
+move_name_0101
+Nitrocharge
+move_name_0102
+Rebondifeu
+move_name_0103
+Déflagration
+move_name_0104
+Saumure
+move_name_0105
+Vibraqua
+move_name_0106
+Ébullition
+move_name_0107
+Hydrocanon
+move_name_0108
+Psyko
+move_name_0109
+Frappe Psy
+move_name_0110
+Éclats Glace
+move_name_0111
+Vent Glace
+move_name_0112
+Souffle Glacé
+move_name_0113
+Vol-Vie
+move_name_0114
+Giga-Sangsue
+move_name_0115
+Poing de Feu
+move_name_0116
+Lance-Soleil
+move_name_0117
+Lame-Feuille
+move_name_0118
+Mégafouet
+move_name_0119
+Trempette
+move_name_0120
+Acide
+move_name_0121
+Tranch’Air
+move_name_0122
+Vent Violent
+move_name_0123
+Casse-Brique
+move_name_0124
+Coupe
+move_name_0125
+Météores
+move_name_0126
+Koud’Korne
+move_name_0127
+Écrasement
+move_name_0128
+Coup d’Boule
+move_name_0129
+Croc de Mort
+move_name_0130
+Souplesse
+move_name_0131
+Plaquage
+move_name_0132
+Repos
+move_name_0133
+Lutte
+move_name_0134
+Ébullition
+move_name_0135
+Hydrocanon
+move_name_0136
+Ligotage
+move_name_0137
+Ligotage
+move_name_0200
+Taillade
+move_name_0201
+Piqûre
+move_name_0202
+Morsure
+move_name_0203
+Coup Bas
+move_name_0204
+Dracosouffle
+move_name_0205
+Éclair
+move_name_0206
+Étincelle
+move_name_0207
+Balayage
+move_name_0208
+Poing-Karaté
+move_name_0209
+Flammèche
+move_name_0210
+Cru-Aile
+move_name_0211
+Picpic
+move_name_0212
+Léchouille
+move_name_0213
+Griffe Ombre
+move_name_0214
+Fouet Lianes
+move_name_0215
+Tranch’Herbe
+move_name_0216
+Tir de Boue
+move_name_0217
+Éclats Glace
+move_name_0218
+Souffle Glacé
+move_name_0219
+Vive-Attaque
+move_name_0220
+Griffe
+move_name_0221
+Charge
+move_name_0222
+Écras’Face
+move_name_0223
+Coupe
+move_name_0224
+Direct Toxik
+move_name_0225
+Acide
+move_name_0226
+Coupe Psycho
+move_name_0227
+Jet-Pierres
+move_name_0228
+Griffe Acier
+move_name_0229
+Pisto-Poing
+move_name_0230
+Pistolet à O
+move_name_0231
+Trempette
+move_name_0232
+Pistolet à O
+move_name_0233
+Coud’Boue
+move_name_0234
+Psykoud’Boul
+move_name_0235
+Choc Mental
+move_name_0236
+Dard-Venin
+move_name_0237
+Écume
+move_name_0238
+Feinte
+move_name_0239
+Aile d’Acier
+move_name_0240
+Crocs Feu
+move_name_0241
+Éclate-Roc
+move_name_0242
+Morphing
+move_name_0243
+Riposte
+move_name_0244
+Poudreuse
+move_name_0245
+Close Combat
+move_name_0246
+Dynamopoing
+move_name_0247
+Exploforce
+move_name_0248
+Onde Boréale
+move_name_0249
+Rayon Chargé
+move_name_0250
+Change Éclair
+move_name_0251
+Éclair Fou
+move_name_0252
+Élecanon
+move_name_0253
+Draco-Queue
+move_name_0254
+Avalanche
+move_name_0255
+Lame d’Air
+move_name_0256
+Rapace
+move_name_0257
+Piqué
+move_name_0258
+Tourbi-Sable
+move_name_0259
+Boule Roc
+move_name_0260
+Harcèlement
+move_name_0261
+Survinsecte
+move_name_0262
+Vent Argenté
+move_name_0263
+Étonnement
+move_name_0264
+Châtiment
+move_name_0265
+Ombre Nocturne
+move_name_0266
+Queue de Fer
+move_name_0267
+Gyroballe
+move_name_0268
+Tacle Lourd
+move_name_0269
+Danse Flamme
+move_name_0270
+Surchauffe
+move_name_0271
+Balle Graine
+move_name_0272
+Nœud Herbe
+move_name_0273
+Éco-Sphère
+move_name_0274
+Extrasenseur
+move_name_0275
+Prescience
+move_name_0276
+Voile Miroir
+move_name_0277
+Colère
+move_name_0278
+Aboiement
+move_name_0279
+Mâchouille
+move_name_0280
+Tricherie
+move_name_0281
+Puissance Cachée
+move_name_0287
+Bâillement
+move_name_0282
+Bélier
+move_name_0285
+Draco Météore
+move_name_0283
+Cascade
+move_name_0284
+Surf
+move_name_0288
+Psycho Boost
+move_name_0286
+Carnareket
+move_name_0290
+Lame Pangéenne
+move_name_0289
+Onde Originelle
+move_name_0291
+Cadeau
+move_name_0292
+Ball’Météo
+move_name_0293
+Ball’Météo
+move_name_0294
+Ball’Météo
+move_name_0295
+Ball’Météo
+move_name_0296
+Végé-Attak
+move_name_0298
+Rafale Feu
+move_name_0297
+Anti-Air
+move_name_0299
+Hydroblast

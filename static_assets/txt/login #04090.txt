@@ -1,0 +1,178 @@
+age_gate_screen
+Gib dein Geburtdatum ein.
+authentication_revoked_error
+Verbindung zum Server konnte nicht hergestellt werden.
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/de
+banned_player_lockout_1
+Dein Konto wurde gesperrt, weil du die Nutzungsbedingungen verletzt hast.\n\nWeitere Informationen findest du im Hilfe-Center.
+banned_player_lockout_2
+Mehr erfahren
+err_no_internet
+Keine Internetverbindung.
+err_update_now
+Eine neue Version von <i>Pokémon GO</i> ist erhältlich. Möchtest du das Spiel jetzt aktualisieren?
+facebook_login_button
+Facebook
+fb_auth_failed
+Authentifizierung fehlgeschlagen. Versuche es noch mal.
+field_test_lockout
+Vielen Dank für deine Teilnahme am Testlauf von Pokémon GO!\nBis bald!
+general_accept
+Akzeptieren
+general_error
+Fehler
+general_network_error
+Netzwerkfehler
+general_button_select
+Auswählen
+general_cancel
+Abbrechen
+general_no
+Nein
+general_ok
+O. K.
+general_sign_out
+Abmelden
+general_sign_out_confirm
+Bist du sicher, dass du dich abmelden willst?
+general_yes
+Ja
+google_auth_failed
+Authentifizierung fehlgeschlagen. Versuche es noch mal.
+google_login_button
+Google
+login_username
+Benutzernamen eingeben
+login_password
+Passwort eingeben
+privacy_policy_title
+<i>Pokémon GO</i>-Datenschutzrichtlinien
+privacy_policy_button
+Datenschutzrichtlinien
+ptc_auth_failed
+Authentifizierung fehlgeschlagen. Versuche es noch mal.
+ptc_error_activation_required
+Aktiviere dein Konto, um <i>Pokémon GO</i> zu spielen.
+ptc_forgot_password
+Passwort vergessen?
+ptc_forgot_username
+Benutzernamen vergessen?
+ptc_login_button
+Pokémon Trainer Club
+ptc_login_submit
+Anmelden
+ptc_login_title
+Pokémon Trainer Club
+ptc_need_to_register_button
+Registrieren
+registration_choice_screen
+Wähle ein Konto aus, mit dem du dich registrieren möchtest.
+server_lockout
+Unsere Server sind von eurer enormen Reaktion überwältigt.\n\nWir bemühen uns um eine baldige Behebung des Problems. Bitte später erneut versuchen!
+settings_are_you_sure_support_prompt
+Willst du das Spiel verlassen und zur Support-Website gehen?
+submit_age_button
+Absenden
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/de
+unauthorized_device_lockout_1
+Dieses Gerät, Betriebssystem oder diese Software ist nicht mit <i>Pokémon GO</i> kompatibel.
+month_jan
+Jan.
+month_feb
+Febr.
+month_mar
+März
+month_apr
+Apr.
+month_may
+Mai
+month_jun
+Juni
+month_jul
+Juli
+month_aug
+Aug.
+month_sep
+Sept.
+month_oct
+Okt.
+month_nov
+Nov.
+month_dec
+Dez.
+authentication_retry_prompt
+Anmeldung fehlgeschlagen.
+authentication_failed_try_again
+Erneut versuchen
+authentication_failed_sign_out
+Über ein anderes Konto versuchen.
+existing_player_label
+Zurückkehrender Spieler?
+existing_player_button
+Anmelden
+new_player_label
+Neuer Spieler?
+new_player_button
+Konto erstellen
+existing_account_screen
+Anmelden mit
+new_account_screen
+Konto erstellen mit
+non_existent_account
+Anmeldung fehlgeschlagen. Prüfe, ob dieses Konto tatsächlich existiert.
+settings_account_header
+KONTO
+settings_account_linked
+VERKNÜPFT
+settings_account_not_linked
+NICHT VERKNÜPFT
+settings_account_link_tip
+Tipp: Du kannst dich in deinem Spiel mit jedem verknüpften Konto anmelden!
+unlink_account_confirm
+<size=36><b>Verknüpfung dieses Kontos aufheben?</b></size>\n\nDu verlierst eventuell Zugriff auf soziale Funktionen und Anmeldeoptionen.
+unlink_account_failed_active_session
+<size=36><b>Verknüpfung dieses Kontos kann nicht aufgehoben werden!</b></size>\n\nDieses Konto ist mit deiner aktiven Spielsitzung verknüpft.
+link_account_failed
+Verknüpfung mit diesem Konto fehlgeschlagen.
+unlink_account_failed
+Verknüpfung zu diesem Konto konnte nicht getrennt werden.
+link_account_failed_auth
+<size=36><b>{0}-Fehler</b></size>\n\nVerknüpfung zu diesem Konto konnte nicht hergestellt werden.
+link_account_failed_taken
+<size=36><b>Konto existiert bereits</b></size>\n\nDieses Konto ist bereits mit einem vorhandenen Spieler verknüpft.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic für Kinder
+sa_login_title
+Niantic für Kinder
+login_create_player
+Spieler erstellen mit:
+login_sign_in
+Anmelden mit:
+login_username_short
+Benutzername
+login_password_short
+Passwort
+ptc_login_title_short
+Trainer-Club
+login_create_account
+Konto erstellen
+ptc_account_creation_prompt
+Du hast kein Pokémon-Trainer-Club-Konto?
+sa_account_creation_prompt
+Du hast kein Niantic für Kinder-Konto?
+ptc_login_server_unreachable
+Der Pokémon-Trainer-Club ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
+sa_login_server_unreachable
+Niantic für Kinder ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
+sa_auth_failed_permissions
+Um dieses Spiel zu spielen, bitte ein Elternteil oder einen Erziehungsberechtigten, sich bei ihrem Niantic für Kinder-Konto anzumelden und die Berechtigungen für dein Konto zu aktivieren.
+sa_auth_failed
+Authentifizierung fehlgeschlagen. Versuche es noch mal.
+sa_parent_dashboard_url
+https://parents.superawesome.tv/de/login

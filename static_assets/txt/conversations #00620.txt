@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+你好！\n我是維羅博士。
+onboard_welcome_screen|2
+你知道這世上有種叫做寶可夢的奇妙生物嗎？
+onboard_welcome_screen|3
+世界上到處都可以找到寶可夢。
+onboard_welcome_screen|4
+有些在地上奔跑，有些在天空中飛翔，有些棲息在水邊、山林裡……
+onboard_welcome_screen|5
+我這輩子都在研究牠們的生態和分布狀況。
+onboard_welcome_screen|6
+你願意跟我一起做研究嗎？
+onboard_welcome_screen|7
+太棒了！你就是我要找的人！
+onboard_welcome_screen|8
+請你去世界各地收集寶可夢！
+onboard_welcome_screen|9
+選擇你的探險裝備吧。
+first_time_encounter|1
+附近就有寶可夢！
+first_time_encounter|2
+這裡有一些精靈球。用精靈球去捕捉寶可夢吧！
+onboard_caught_pokemon|1
+恭喜！\n你捉到你的第一隻寶可夢了！
+onboard_caught_pokemon|2
+你真是個有潛力的訓練家！\n我該怎麼稱呼你？
+onboard_change_name|1
+訓練家你好！我該怎麼稱呼你？
+onboard_name_registered|1
+真是個好名字！\n以後也請多多指教囉！
+onboard_name_registered|2
+在探險的路上，你會用到精靈球和其他的道具。
+visit_a_pokestop|1
+你可以在寶可補給站得到這些道具。
+visit_a_pokestop|2
+路上的雕像、紀念碑等等，都有可能是寶可補給站喔。
+visit_a_pokestop|3
+接下來，請你去世界各地探險，並把捕捉到的寶可夢登錄在寶可夢圖鑑上！
+visit_a_pokestop|4
+來去尋找寶可夢吧！
+__backup__
+厲害！看來你捉到 {1} 屬性的 {0} 了！
+first_time_gym_low_level|1
+這裡是道館，你可以在此測試寶可夢對戰的技巧。
+first_time_gym_low_level|2
+看來你身為寶可夢訓練家的經驗還不是很豐富。
+first_time_gym_low_level|3
+等你升到 {0} 級的時候再來吧！
+first_time_gym_team_intro|1
+哇！看來你捉了不少寶可夢，而且還累積了不少寶可夢訓練家的經驗值呢。真是太棒了！
+first_time_gym_team_intro|2
+看來你已經做好參加寶可夢對戰的準備了！
+first_time_gym_team_intro|3
+我有3位非常優秀的助手…
+first_time_gym_team_intro|4
+他們各自帶領一支隊伍，在不同領域研究寶可夢。
+first_time_gym_team_intro|5
+在道館裡進行寶可夢對戰，也是他們研究的一環。
+first_time_gym_team_intro|6
+他們非常希望你能成為他們的一員。
+team_yellow_intro|1
+嘿！我的名字是史帕克，我是靈犀隊的隊長。
+team_yellow_intro|2
+寶可夢是擁有優異直覺的生物。
+team_yellow_intro|3
+我想這優越直覺的祕密，一定和牠們誕生的過程有關。
+team_yellow_intro|4
+所以我研究的對象是從蛋孵化的寶可夢。
+team_yellow_intro|5
+相信你的直覺，就能百戰百勝！
+team_blue_intro|1
+我是布蘭雪，叡智隊的隊長。
+team_blue_intro|2
+寶可夢的知識博大精深。
+team_blue_intro|3
+我在研究牠們進化的理由。
+team_blue_intro|4
+我的隊伍？
+team_blue_intro|5
+只要冷靜分析，我們絕對不會輸…！
+team_red_intro|1
+我叫坎迪拉，是武勇隊的隊長！
+team_red_intro|2
+寶可夢比人類還堅強、還熱心！
+team_red_intro|3
+我在研究強化寶可夢能力的方法，尋求牠們真正的力量。
+team_red_intro|4
+我們隊伍訓練出來的寶可夢在對戰中絕對是所向披靡！
+team_red_intro|5
+你準備好了嗎？
+team_yello_welcom|1
+你的選擇是對的！我就知道你會加入我這一隊！一起去參加寶可夢對戰吧！
+team_blue_welcom|1
+加入我這隊這是最符合邏輯的選擇。在對戰中也別忘了保持冷靜。
+quickstart_pokestopfar|1
+這是寶可補給站。
+quickstart_pokestopfar|2
+你可以在這裡找到精靈球和其他道具。
+quickstart_pokestopnear|1
+當你靠近寶可補給站的時候，它的形狀會改變。試著點擊它吧。
+quickstart_pokestopspin|1
+轉動畫面中央的轉盤，就會有道具出現喔。
+quickstart_gymmap|1
+這是道館。
+quickstart_gymmap|2
+3支隊伍會在這裡一決高下，爭奪道館的所有權。
+quickstart_gymbuttons_assign|1
+把1隻寶可夢指派到公開道館後，你的隊伍就可以占領那間道館。把你的寶可夢指派到相同顏色的我方道館，跟隊友一起防禦道館吧。
+quickstart_gymbuttons_train|1
+在我方道館訓練寶可夢，便可提升道館的聲望值和等級。
+quickstart_gymbuttons_battle|1
+挑戰敵方道館，降低該道館的聲望值和等級。
+quickstart_battledodge|1
+對戰時，你可以左右滑動畫面來閃避攻擊。
+appraise_intro_1|1
+嗨，{0}。我來分析一下你的 {1} 吧。
+appraise_size_tiny_1|1
+你的 {0} 是我們有史以來見過最小的。太驚人了。
+appraise_size_small_1|1
+你的 {0} 比一般尺寸小。
+appraise_size_large_1|1
+你的 {0} 比一般尺寸大。
+appraise_size_huge_1|1
+你的 {0} ……真是太巨大了。這個尺寸實在是異常地大。太厲害了！
+appraise_stat_low_1|1
+就我個人而言，我覺得牠算是蠻普通的。
+appraise_stat_mid_1|1
+牠十分地強大，能力仍在成長中。
+appraise_stat_high_1|1
+我必須說，牠的能力讓人驚豔。
+appraise_stat_best_1|1
+牠的能力完全超出我的預測，太不可思議了！
+appraise_overall_low_1|1
+整體而言，你的 {0} 應該很難在對戰中派上用場。
+appraise_overall_mid_1|1
+整體而言，你的 {0} 比平均值好一些。
+appraise_overall_high_1|1
+整體而言，你的 {0} 吸引了我的注意力。
+appraise_overall_best_1|1
+整體而言，你的 {0} 實在太棒了！牠是隻讓人驚豔的寶可夢！
+appraise_outro_1|1
+這就是我的分析。再會。
+appraise_intro_2|1
+你好！{0}！我們來看看你的 {1} 吧！
+appraise_size_tiny_2|1
+你的 {0} 實在太小了，我差點就沒注意到牠的存在呢！
+appraise_size_small_2|1
+天啊，好小一隻 {0}！好可愛喔！
+appraise_size_large_2|1
+我跟你說，你的 {0} 算是蠻大的。
+appraise_size_huge_2|1
+你的 {0} 真是巨大！是我看過最大的！
+appraise_stat_low_2|1
+牠的能力不太適合對戰。
+appraise_stat_mid_2|1
+就牠的能力來看，牠在對戰中應該會有不錯的表現。
+appraise_stat_high_2|1
+牠的能力真是優秀！真叫人興奮！
+appraise_stat_best_2|1
+哇！牠的能力太驚人了！
+appraise_overall_low_2|1
+整體而言，你的 {0} 可能不太適合對戰，但我蠻喜歡牠的！
+appraise_overall_mid_2|1
+整體而言，你的 {0} 算是一隻不錯的寶可夢。
+appraise_overall_high_2|1
+整體而言，你的 {0} 是一隻很強的寶可夢。你應該引以為傲！
+appraise_overall_best_2|1
+整體而言，你的 {0} 實在太有魅力了。牠一定是所向無敵啊！
+appraise_outro_2|1
+希望我有幫上你的忙。冒險路上小心囉！
+appraise_intro_3|1
+嘿！{0}！你要我看看你的 {1} 嗎？
+appraise_size_tiny_3|1
+哇喔！這是我有史以來看過最小的 {0} ！
+appraise_size_small_3|1
+你的 {0} 似乎有點偏小，你不覺得嗎？
+appraise_size_large_3|1
+你的 {0} 真的好大！
+appraise_size_huge_3|1
+你的 {0} 也太巨大了吧！
+appraise_stat_low_3|1
+牠看起來很OK，但感覺就普通了些。
+appraise_stat_mid_3|1
+相信我！牠看起來真的蠻強的！
+appraise_stat_high_3|1
+牠實在是太強了！讓人印象深刻！
+appraise_stat_best_3|1
+這是我見過最強的等級了！無庸置疑！
+appraise_overall_low_3|1
+整體而言，你的 {0} 還有很多進步的空間。
+appraise_overall_mid_3|1
+整體而言，你的 {0} 還算不錯！
+appraise_overall_high_3|1
+整體而言，你的 {0} 真的蠻強的！
+appraise_overall_best_3|1
+整體而言，你的 {0} 在對戰中應該是所向披靡！
+appraise_outro_3|1
+相信我的直覺吧！拜啦！
+appraise_stat_highest_1|1
+牠的 {0} 非常值得期待。
+appraise_stat_highest_tie_1|1
+而且牠的 {0} 也不遑多讓。
+appraise_stat_highest_2|1
+{0} 是牠最強大的武器。
+appraise_stat_highest_tie_2|1
+牠的 {0} 也讓我印象深刻。
+appraise_stat_highest_3|1
+牠的 {0} 極為強大。
+appraise_stat_highest_tie_3|1
+{0} 也非常不錯！

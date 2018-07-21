@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+date
+gymbadge_sort_alphabetical
+nom
+gymbadge_sort_nearby
+proximité
+gymbadge_sort_score
+points
+gymbadge_sort_progress
+progression
+day_abbrev
+j
+hour_abbrev
+h
+minute_abbrev
+m
+second_abbrev
+s
+gymbadge_aboutthisgym
+Infos sur l’Arène
+gymbadge_totalgymactivity
+Activité totale de l’Arène
+gymbadge_statslabel_won
+victoires
+gymbadge_statslabel_defended
+durée de défense
+gymbadge_statslabel_fed
+friandises
+gym_removal_notification_toast
+{0} s’est bien battu et est revenu.
+pokemon_hungry_notification_toast
+{0} veut une friandise.
+pokemon_won_notification_toast
+{0} a défendu l’Arène.
+nearby_raid_notification_toast
+Un Combat de Raid va bientôt commencer à proximité.
+gym_removal_notification_toast|1
+{0} est de retour après un rude combat.
+gym_removal_notification_toast|2
+{0} a été éjecté de l’Arène.
+pokemon_hungry_notification_toast|1
+{0} a besoin de ton attention...
+pokemon_hungry_notification_toast|2
+{0} veut une Baie.
+pokemon_won_notification_toast|1
+{0} a gagné un combat.
+pokemon_won_notification_toast|2
+{0} a vaincu tes adversaires.
+nearby_raid_notification_toast|1
+Un Combat de Raid se prépare pas loin d’ici.
+nearby_raid_notification_toast|2
+Un Combat de Raid va commencer à proximité.
+raid_timer_label1
+En attente de quelques Dresseurs...
+raid_timer_label2
+Choisis tes Pokémon...
+raid_members
+Membres du Raid
+raid_group_code
+Code de groupe
+raid_howto_button
+Comment jouer
+raid_join_button
+Participer
+raid_join_private_button
+Entrer le code de groupe
+raid_leave_lobby_prompt
+Si tu quittes le groupe, c’est définitif.\n\nVeux-tu vraiment le quitter ?
+raid_group_code_intro
+Tu peux combattre avec tes amis en entrant le code de ce groupe.
+raid_join_private_group_button
+Participer
+raid_create_private_group_button
+Créer un groupe
+raid_join_private_lobby_invalid_code
+Ce code de groupe n’est pas valide. Essaye un autre code.
+settings_push_notification_header
+Notifications automatiques
+settings_low_happiness
+Motivation faible
+settings_pokemon_return
+Retour d’un Pokémon
+settings_battle_victory
+Combat gagné
+raid_already_completed
+Tu as déjà fait ce Combat de Raid.
+rare_candy_usage_confirmation
+Veux-tu changer un Super Bonbon en Bonbon {0} ?
+item_rare_candy_name
+Super Bonbon
+item_rare_candy_desc
+Un bonbon mystérieux. Quand tu le donnes à un Pokémon, il devient le Bonbon de ce Pokémon.
+item_move_reroll_fast_attack_name
+CT Attaque Immédiate
+item_move_reroll_fast_attack_desc
+Cette Capsule Technique apprend une Attaque Immédiate à ton Pokémon.
+item_move_reroll_special_attack_desc
+Cette Capsule Technique apprend une Attaque Chargée à ton Pokémon.
+item_move_reroll_special_attack_name
+CT Attaque Chargée
+special_move_reroll_confirm_title
+Veux-tu apprendre une Attaque Chargée à {0} ?
+move_reroll_confirm_desc
+{0} oubliera {1}.
+quick_move_reroll_confirm_title
+Veux-tu apprendre une Attaque Immédiate à {0} ?
+move_reroll_success_message
+{0} a appris une nouvelle attaque.
+raid_team_contribution
+Contribution de l’équipe
+raid_lobby_locked
+RAID COMPLET
+raid_timer_label3
+Temps restant avant le Combat de Raid
+gym_please_buy_raid_ticket
+Tu peux acheter un passe pour participer au Combat de Raid.
+filter_hint1
+Chercher {0}
+filter_hint2
+Filtrer par nom ou surnom
+filter_hint3
+Filtrer par n° de Pokédex, ex : 23–145
+filter_hint4
+Filtrer par {0}, ex : {1}, {2}–{3}
+filter_hint5
+Peut faire évoluer {0} : « {1} »
+filter_hint6
+Évolution de {0}, ex : +{1}
+filter_hint7
+Sépare les filtres par une virgule
+filter_hint8
+Filtrer par type : {0}, {1}
+shop_battle_tickets_title
+Obtenir un passe de Raid.
+item_free_raid_ticket_name
+Passe de Raid
+item_free_raid_ticket_desc
+Passe permettant de participer à un Combat de Raid. Tu peux obtenir un passe gratuit par jour dans une Arène si tu n’en as pas encore.
+item_paid_raid_ticket_name
+Passe de Raid Premium
+item_paid_raid_ticket_desc
+Passe de Raid Premium pour participer à un Combat de Raid. Tu peux utiliser ce passe à tout moment.
+use_raid_ticket_confirmation
+Utilise un passe pour participer au Combat de Raid
+pokecoins_daily_limit_reached
+La limite quotidienne de {0} PokéPièces est atteinte.
+received_free_item_title
+Tu as reçu un objet {0} gratuit.
+gymbadge_timeelapsed
+Temps passé en défense
+raid_private_group
+PRIVÉ
+raid_remove_private_from_lobby_prompt
+Veux-tu ouvrir ce groupe à tous ?\n\nCeci ne peut pas être annulé.
+raid_message_select_your_pokemon
+Choisis un Pokémon pour le combat.
+raid_battle_retreat_confirmation
+Veux-tu vraiment partir ?
+raid_message_get_back_into_battle
+Soigne ton Pokémon et retourne au combat.
+raid_timer_label4
+Temps restant avant la fin du combat
+team_picker_last_team
+Équipe de combat précédente
+team_picker_title_load
+Charger une équipe de combat
+team_picker_title_save
+Enregistrer une équipe de combat
+team_picker_fainted_pokemon_warning
+Ton équipe actuelle ne peut pas participer au combat. Tu dois soigner ton Pokémon.
+battle_intro_battles_won
+{0} combats gagnés
+team_picker_default_team_name
+Équipe {0}
+team_picker_optimize
+Optimiser
+team_picker_set_team_name
+Nom de l’équipe de combat
+team_picker_team_not_set
+Aucun nom défini
+gym_feed_pokemon_full
+{0} est rassasié. Donne des friandises à d’autres Pokémon.
+gym_feed_pokemon_berry_timeout
+{0} n’a plus envie de cette Baie.
+gym_feed_pokemon_timeout
+{0} est très heureux. Donne des friandises à d’autres Pokémon.
+avatar_detail_pokemon_caught
+Pokémon attrapés
+avatar_detail_walking_distance
+Distance marchée
+avatar_detail_battle_won
+Combats gagnés
+avatar_detail_total_activities
+Activités totales
+raid_tut_group_forming_message
+Le groupe de combat t’associe automatiquement à d’autres joueurs.
+gym_out_of_range
+Arène hors de portée.
+general_go_to_shop
+BOUTIQUE
+general_quit
+QUITTER
+raid_tut_group_forming
+FORMATION D’UN GROUPE
+raid_tut_how_to_battle_message
+Touche l’écran pour attaquer le Boss de Raid. Appuie sur le bouton de l'Attaque Chargée lorsque la jauge d’attaque est pleine.
+raid_tut_how_to_battle
+COMBATTRE
+raid_tut_pass_message
+Il te faut un passe de Raid pour rejoindre le combat. Si tu n’en as pas encore, tu peux en obtenir un gratuit par jour. Tu peux également obtenir un passe de Raid Premium dans la Boutique.
+raid_pass_caps
+PASSE DE RAID
+raid_tut_what_is_raid_message
+Un Raid est un combat où jusqu’à 20 Dresseurs peuvent te rejoindre pour vaincre le Boss de Raid, un Pokémon très puissant. Si tu gagnes, tu recevras de belles récompenses et tu auras la possibilité d’attraper des Pokémon plus forts que la normale.
+raid_tut_what_is_raid
+INFOS SUR LES RAIDS
+raid_enter_group_code
+GROUPE PRIVÉ
+raid_public_warning_message
+Si tu rends ce groupe public, tout le monde pourra se joindre à ton combat.\n\nLe fait de rendre ce groupe public ne peut pas être annulé.\nVeux-tu vraiment rendre ce groupe public ?
+raid_change_to_public
+RENDRE PUBLIC
+raid_share_private_code_message
+Partage le code de groupe avec tes amis pour qu’ils puissent se joindre à toi.
+raid_private_lobby_success_message
+Tu as rejoint un groupe !
+raid_rejoin_battle
+RETOURNER AU COMBAT
+battle_summary
+RÉSUMÉ
+raid_defeat_boss
+Boss vaincu
+raid_damage_bonus
+Dégâts
+raid_gym_ownership
+Contrôle d’Arène
+general_total_caps
+TOTAL
+raid_bonus_challenge
+ALLER AU DÉFI BONUS
+profile_gymbadges_recently_visited
+Récemment visité
+profile_category_gymbadges
+Badges d’Arène
+gym_spinner_team_bonus
+Bonus d’équipe
+raid_raid
+Combat de Raid
+raid_level_caps
+NIVEAU DE RAID
+raid_suggested_group_size
+TAILLE DE GROUPE SUGGÉRÉE
+raid_nearby_ongoing
+En cours
+gym_battle_continue_battles_won_stat
+{0} COMBATS GAGNÉS
+gym_battle_victory_subtitle
+Tu as conquis cette Arène.
+gym_battle_defeat_body
+Tous tes Pokémon sont K.O.
+gym_battle_defeat_footer
+Essaye encore.
+raid
+Raid
+gym_pokemon_you_fed_not_there
+Le Pokémon auquel tu as voulu donner une friandise n’est plus là.
+raid_try_again
+Choisis de nouveaux Pokémon, ou ranime et soigne tes Pokémon actuels, puis retourne au combat !
+raid_defeat_message
+Tu n’as pas réussi, cette fois.
+general_battle
+COMBAT
+gym_deployment_time_format
+{0}j {1}h {2}m
+free_raid_ticket_details_desc
+Passe permettant de participer à un Combat de Raid. Tu peux obtenir un passe gratuit par jour dans une Arène si tu n’en as pas encore.\n\nSi tu veux participer à plusieurs Raids par jour, achète des passes dans la Boutique.
+paid_raid_ticket_details_desc
+Passe de Raid Premium permettant de participer à un Combat de Raid. Tu peux utiliser ce passe à tout moment.\n\nPour en obtenir d’autres, visite la Boutique.
+battle_prep_opponents_header
+Adversaires
+gym_feed_pokemon_busy
+Réessaye plus tard.
+gymbadge_sort_defending
+Défense
+raid_finding_players
+Recherche d’autres joueurs
+gym_same_team_deploy_lockout
+L’Arène est attaquée ! Réessaye plus tard.
+screen_title_badge_collection
+Badges d’Arène
+profile_no_gymbadges
+Tu n’as aucun Badge d’Arène.
+free_ticket_bag_full_error
+Ton Sac est plein. Fais de la place pour obtenir un passe de Raid.
+raid_level
+Difficulté
+battle_prep_my_team_header
+Mon équipe de combat
+battle_prep_go
+Au combat !
+raids_no_nearby
+Aucun Raid à proximité.
+gymbadge_you_earned
+Badge d’Arène reçu !
+award_badge_new_badge
+Défends les Arènes de ton équipe et attaque les Arènes rivales pour augmenter le niveau de tes Badges d’Arène.
+gym_feed_raid_active
+Un Boss de Raid a pris possession de l’Arène. Réessaye une fois que le Boss sera parti.
+gym_next_battle
+Combattre
+gym_battle_leave
+Partir
+gym_battle_next
+Suivant :
+error_no_available_lobbies
+Ce code ne correspond à aucun groupe.
+error_lobby_visibility
+Une erreur s’est produite pendant la présentation du Raid.
+error_start_raid_battle
+Une erreur s’est produite lors du lancement du Raid.
+error_pokemon_team_update
+Une erreur s’est produite lors de la mise à jour de l’équipe de combat.
+error_join_lobby
+Une erreur s’est produite alors que tu rejoignais le Raid.
+gym_badge_list_button
+Liste
+raid_defeat_try_again
+Choisis de nouveaux Pokémon ou soigne ceux qui sont K.O., puis retourne au combat !
+raid_time_out_try_again
+Le Boss de Raid n’a pas été battu à temps. Réessaie.
+item_golden_razz_berry_name
+Baie Framby dorée
+item_golden_razz_berry_desc
+Si tu en donnes à manger à un Pokémon, il sera bien plus facile à attraper.
+encounter_raid_pokemon_appeared
+Défi bonus ! Attrape {0} !
+raid_need_a_viable_raid_team
+Tu n’as pas de Pokémon prêt à combattre, essaye de soigner tes Pokémon.
+error_raid_active
+Un Boss de Raid a pris possession de l’Arène !
+badges_tut_description
+Visite une Arène et fais tourner le PhotoDisque pour obtenir un badge d’Arène. Déverrouille des objets de récompense en défendant les Arènes de ton équipe et en attaquant les Arènes adverses !
+profile_gymbadges_help
+En savoir plus
+gym_tut_title_1
+RÉCUPÈRE DES OBJETS
+gym_tut_title_2
+ASSIGNE DES POKÉMON
+gym_tut_title_3
+MOTIVATION
+gym_tut_title_4
+DONNE DES BAIES
+gym_tut_desc_1
+Tu peux faire tourner les PhotoDisques des Arènes pour obtenir des objets.
+gym_tut_desc_2
+Tu peux assigner des Pokémon pour qu’ils défendent une Arène en utilisant le bouton « Assigne des Pokémon » dans une Arène amicale. Lorsque tes Pokémon sont assignés, leur jauge de motivation apparaît.
+gym_tut_desc_3
+La motivation des Pokémon baisse sur la durée et s’ils sont battus au combat. Lorsqu’un Pokémon qui n’a plus de motivation est battu, il arrête de défendre l’Arène et retourne vers son Dresseur.
+gym_tut_desc_4
+Donne des Baies aux Pokémon pour qu’ils restent motivés et forts au combat !
+no_usable_items_error
+Tu n’as aucun objet utilisable
+gym_battle_victory_title
+Excellent travail !
+tm_no_other_moves
+Il ne peut pas apprendre d’autres attaques.
+disabled_low_stamina
+Le Pokémon doit avoir tous ses PV.
+disabled_buddy
+Ton Copain Pokémon ne peut pas être assigné pour défendre une Arène.
+badge_raid_battle_won
+{0} Raids gagnés.
+badge_hours_defended_title
+Champion d’Arène
+badge_hours_defended
+Arène défendue pendant {0} heures.
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+Maître des Baies
+badge_berries_fed
+{0} Baies distribuées dans les Arènes.
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+Maître
+gym_deploy_raid_active
+Un Boss de Raid a pris possession de l’Arène. Lorsqu’il sera parti, réessaye.
+error_too_many_deployed
+Tu as assigné le nombre maximum de Pokémon dans des Arènes.
+disabled_max_same_defender
+Un seul de chaque Pokémon à la fois peut être assigné à la défense d’une Arène.
+error_fort_is_full
+Cette Arène ne peut pas contenir plus de Pokémon.
+award_badge_rank_up
+Défends des Arènes amicales et attaque les Arènes rivales pour augmenter le niveau de tes Badges d’Arène.
+raid_not_yet_available
+Toutes nos excuses, les Combats de Raids ne sont pas encore disponibles pour ton niveau.\nRéessaye plus tard.
+raid_private_lobby_created_success_message
+Bravo, tu as réussi à créer un groupe.
+pokestop_button_read_qr_code
+LIRE LE QR CODE
+pokestop_button_manual_input
+SAISIE MANUELLE
+pokestop_check_in_manual_entry_title
+CODE D’INSCRIPTION
+pokestop_check_in_notice
+Bienvenue à {0} !\nUtilise l’appareil photo pour lire le QR Code et t’enregistrer.
+pokestop_check_in_succeeded
+ENREGISTREMENT RÉUSSI
+disabled_max_same_defenders
+Un seul de chaque Pokémon à la fois peut être assigné à la défense d’une Arène.
+gym_closed_exclusive_raid_not_invited
+Cette Arène est fermée pour un Raid EX.\nElle rouvrira à {0}.
+disabled_legendary
+Les Pokémon légendaires ne peuvent pas être laissés dans une Arène.
+team_picker_title
+Charger ou enregistrer des équipes de combat
+team_picker_load
+Charger
+team_picker_save
+Enregistrer
+battle_prep_create_team
+Choisis tes Pokémon.
+battle_prep_new_team
+Nom
+battle_prep_recommended_team
+Équipe de combat recommandée
+screen_title_pokemon_inventory_party
+ÉQUIPE
+raid_ticket_event
+Évènement
+filter_key_defender
+défenseur
+filter_key_legendary
+légendaire
+filter_key_shiny
+chromatique
+filter_key_mythical
+fabuleux
+filter_key_alola
+Alola

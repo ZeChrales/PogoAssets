@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+Bonjour !\nJe suis le Professeur Willow.
+onboard_welcome_screen|2
+Savais-tu que notre terre est habitée par des créatures appelées Pokémon ?
+onboard_welcome_screen|3
+Les Pokémon se trouvent partout sur notre planète.
+onboard_welcome_screen|4
+Certains vivent dans les plaines, d’autres sillonnent les cieux, et d’autres encore parcourent les montagnes, les forêts ou les lacs...
+onboard_welcome_screen|5
+J’ai passé ma vie à les étudier et à m’intéresser à leur migration.
+onboard_welcome_screen|6
+Tu veux bien m’aider dans mes recherches ?
+onboard_welcome_screen|7
+Super !
+onboard_welcome_screen|8
+Tu dois trouver et collectionner des Pokémon du monde entier.
+onboard_welcome_screen|9
+Choisis ton style pour ces nouvelles aventures.
+first_time_encounter|1
+Il y a un Pokémon pas loin !
+first_time_encounter|2
+Voici quelques Poké Balls. Elles t’aideront à en attraper un.
+onboard_caught_pokemon|1
+Félicitations !\nTu as attrapé ton premier Pokémon.
+onboard_caught_pokemon|2
+Tu as du talent !\nQuel est ton nom ?
+onboard_change_name|1
+Bonjour, Dresseur ! Comment t’appelles-tu ?
+onboard_name_registered|1
+Joli nom !\nC'est un plaisir de te rencontrer.
+onboard_name_registered|2
+Tu auras besoin de Poké Balls et d’autres objets utiles lors de tes explorations.
+visit_a_pokestop|1
+Tu trouveras ces objets dans les PokéStops.
+visit_a_pokestop|2
+Ils se trouvent dans des endroits tels que des créations artistiques publiques ou des monuments.
+visit_a_pokestop|3
+À compter de maintenant, tu vas explorer le monde entier. J’espère que tu sortiras attraper des Pokémon, et que tu rempliras ton Pokédex !
+visit_a_pokestop|4
+À tes marques, prêt, GO !
+__backup__
+Excellent ! On dirait que tu as attrapé {0}, un Pokémon de type {1}.
+first_time_gym_low_level|1
+Ceci est une Arène, un lieu où tu montreras ta valeur dans des combats de Pokémon.
+first_time_gym_low_level|2
+Il te faut plus d’expérience en tant que Dresseur de Pokémon.
+first_time_gym_low_level|3
+Reviens lorsque tu auras atteint le niveau {0} !
+first_time_gym_team_intro|1
+On dirait que tu as gagné de l'expérience en tant que Dresseur.
+first_time_gym_team_intro|2
+Tu es prêt à participer à des combats Pokémon.
+first_time_gym_team_intro|3
+J’ai trois excellents assistants.
+first_time_gym_team_intro|4
+Chacun est le capitaine d’une équipe, mais chacun utilise une méthode différente pour étudier les Pokémon.
+first_time_gym_team_intro|5
+Une partie de ces études consiste à effectuer des combats Pokémon dans des Arènes.
+first_time_gym_team_intro|6
+Ils sont tous enthousiastes à l’idée de t’avoir dans leur équipe.
+team_yellow_intro|1
+Salut ! Je m’appelle Spark, je suis le capitaine de l’équipe Intuition.
+team_yellow_intro|2
+Les Pokémon ont une excellente intuition.
+team_yellow_intro|3
+Je pense que ceci est lié à leur façon d'éclore.
+team_yellow_intro|4
+C’est pour cela que j’étudie des Pokémon que j’ai fait éclore.
+team_yellow_intro|5
+Tu ne perdras pas si tu suis ton instinct !
+team_blue_intro|1
+Je m’appelle Blanche, je suis capitaine de l’équipe Sagesse.
+team_blue_intro|2
+La sagesse des Pokémon est incommensurable.
+team_blue_intro|3
+Je poursuis des recherches sur ce qui les fait évoluer.
+team_blue_intro|4
+Mon équipe ?
+team_blue_intro|5
+Elle est sûre de gagner, grâce à son analyse de toutes les situations !
+team_red_intro|1
+Je m’appelle Candela, je suis capitaine de l’équipe Bravoure.
+team_red_intro|2
+Les Pokémon sont plus forts que les humains, et plus chaleureux aussi...
+team_red_intro|3
+J’étudie une méthode permettant d’améliorer les pouvoirs naturels des Pokémon.
+team_red_intro|4
+C’est sûr, les Pokémon dressés par notre équipe sont les plus costauds au combat.
+team_red_intro|5
+Tu es prêt ?
+team_yello_welcom|1
+Bien ! Très bon choix ! Passons à l’offensive et amusons-nous dans des combats Pokémon !
+team_blue_welcom|1
+Le choix qui s’impose. Pense à rester calme et serein pendant le combat.
+quickstart_pokestopfar|1
+Ceci est un PokéStop.
+quickstart_pokestopfar|2
+Il s’agit d’un endroit réel où tu peux obtenir des Poké Balls et d’autres objets.
+quickstart_pokestopnear|1
+Le PokéStop change de forme lorsque tu t’en approches. Touche-le pour l'ouvrir.
+quickstart_pokestopspin|1
+Fais tourner le PhotoDisque pour générer des objets. Touche les objets pour les prendre.
+quickstart_gymmap|1
+Ceci est une Arène.
+quickstart_gymmap|2
+Les équipes s’affrontent pour prendre le contrôle de ces lieux réels.
+quickstart_gymbuttons_assign|1
+Assigne l’un de tes Pokémon à une Arène vide pour en prendre possession. Renforce une Arène amicale en assignant l’un de tes Pokémon à sa défense.
+quickstart_gymbuttons_train|1
+Dresse les Pokémon présents dans une Arène amicale pour augmenter son prestige et son niveau.
+quickstart_gymbuttons_battle|1
+Défie une Arène rivale pour abaisser son prestige et son niveau.
+quickstart_battledodge|1
+Lors d’un combat, fais glisser ton doigt à gauche ou à droite pour éviter les attaques.
+appraise_intro_1|1
+Bonjour, {0}. Je peux évaluer ton {1}, si tu veux.
+appraise_size_tiny_1|1
+Ton {0} est l’un des plus petits Pokémon existants. Étonnant.
+appraise_size_small_1|1
+Ton {0} est de taille inférieure à la moyenne.
+appraise_size_large_1|1
+Ton {0} est de taille supérieure à la moyenne.
+appraise_size_huge_1|1
+Ton {0} est... colossal. Une vraie anomalie statistique. C’est fascinant !
+appraise_stat_low_1|1
+Ses stats n'ont rien d'anormal, à priori.
+appraise_stat_mid_1|1
+Ses stats s'améliorent à vue d'œil.
+appraise_stat_high_1|1
+Je suis impressionnée par ses stats, à vrai dire.
+appraise_stat_best_1|1
+Ses stats dépassent tous mes calculs, c'est incroyable !
+appraise_overall_low_1|1
+Dans l’ensemble, ton {0} n'ira pas très loin au combat.
+appraise_overall_mid_1|1
+Dans l'ensemble, ton {0} est supérieur à la moyenne.
+appraise_overall_high_1|1
+Dans l'ensemble, ton {0} a retenu toute mon attention.
+appraise_overall_best_1|1
+Dans l'ensemble, ton {0} est une merveille. Un Pokémon captivant !
+appraise_outro_1|1
+Voilà, mon analyse est terminée. Je te laisse.
+appraise_intro_2|1
+Salut, {0} ! Regardons ton {1} de plus près, d’accord ?
+appraise_size_tiny_2|1
+Ton {0} est si petit que j’ai failli ne pas le voir !
+appraise_size_small_2|1
+Ce {0} est tout petit ! Il est si mignon...
+appraise_size_large_2|1
+Ton {0} est plutôt grand !
+appraise_size_huge_2|1
+Ton {0} est gigantesque. Le plus grand que j’ai jamais vu !
+appraise_stat_low_2|1
+Ses stats ne t’aideront pas beaucoup au combat.
+appraise_stat_mid_2|1
+Ses stats indiquent qu'il va faire des dégâts au combat.
+appraise_stat_high_2|1
+Ses stats sont excellentes ! C'est super !
+appraise_stat_best_2|1
+Je suis estomaquée par ses stats. Bravo !
+appraise_overall_low_2|1
+Dans l'ensemble, ton {0} n'est pas un combattant, mais je l'aime bien.
+appraise_overall_mid_2|1
+Dans l’ensemble, ton {0} est un Pokémon solide !
+appraise_overall_high_2|1
+Dans l'ensemble, ton {0} est très fort. Tu dois être fier !
+appraise_overall_best_2|1
+Dans l'ensemble, ton {0} m’étonne beaucoup. Il peut tout faire !
+appraise_outro_2|1
+J’espère que ça t’a aidé. À Bientôt !
+appraise_intro_3|1
+Dis-moi, {0}... Veux-tu que j'évalue ton {1} ?
+appraise_size_tiny_3|1
+Eh bien ! C’est le plus petit des {0} que j’ai jamais vu !
+appraise_size_small_3|1
+Ton {0} est petit pour son type, tu ne trouves pas ?
+appraise_size_large_3|1
+Ton {0} est très imposant !
+appraise_size_huge_3|1
+Ton {0} est énorme !
+appraise_stat_low_3|1
+Ses stats ne sont pas mal, mais un peu basiques, il me semble.
+appraise_stat_mid_3|1
+Il a quelques bonnes stats, c'est sûr !
+appraise_stat_high_3|1
+Ses stats sont super élevées. Impressionnant !
+appraise_stat_best_3|1
+Ses stats sont les meilleures que j'ai jamais vues ! Sans aucun doute !
+appraise_overall_low_3|1
+Dans l'ensemble, ton {0} peut devenir un meilleur combattant.
+appraise_overall_mid_3|1
+Dans l'ensemble, ton {0} est plutôt bien !
+appraise_overall_high_3|1
+Dans l'ensemble, ton {0} est vraiment fort !
+appraise_overall_best_3|1
+Dans l'ensemble, ton {0} semble capable de tenir tête aux meilleurs !
+appraise_outro_3|1
+Voilà, je t’ai donné mon avis... À bientôt !
+appraise_stat_highest_1|1
+Son meilleur atout est son capital {0}.
+appraise_stat_highest_tie_1|1
+Son capital {0} est du même calibre !
+appraise_stat_highest_2|1
+Son capital {0} est son plus fort atout.
+appraise_stat_highest_tie_2|1
+Son capital {0} m'impressionne aussi.
+appraise_stat_highest_3|1
+Son meilleur atout est son capital {0}.
+appraise_stat_highest_tie_3|1
+Son capital {0} est également impressionnant !

@@ -1,0 +1,618 @@
+item_great_ball_desc
+Ein Ball mit guter Erfolgsquote. Dem Pokéball in allen Punkten überlegen.
+item_great_ball_name
+Superball
+item_hyper_potion_desc
+Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf.
+item_hyper_potion_name
+Hypertrank
+item_master_ball_desc
+Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon.
+item_master_ball_name
+Meisterball
+item_max_potion_desc
+Hilft bei Wunden. Füllt die KP eines Pokémon wieder vollständig auf.
+item_max_potion_name
+Top-Trank
+item_revive_desc
+Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die Hälfte der maximalen KP wird wiederhergestellt. 
+item_revive_name
+Beleber
+item_max_revive_desc
+Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die KP werden vollständig wiederhergestellt.
+item_max_revive_name
+Top-Beleber
+item_poke_ball_desc
+Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel.
+item_poke_ball_name
+Pokéball
+item_potion_desc
+Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf.
+item_potion_name
+Trank
+item_razz_berry_desc
+Wenn du sie einem Pokémon zum Essen gibst, lässt es sich leichter fangen.
+item_razz_berry_name
+Himmihbeere
+item_special_camera_name
+Kamera
+item_special_camera_desc
+Wenn du einem wilden Pokémon begegnest, kannst du es mit deiner Kamera fotografieren.
+item_super_potion_desc
+Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf.
+item_super_potion_name
+Supertrank
+item_ultra_ball_desc
+Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen.
+item_ultra_ball_name
+Hyperball
+item_x_attack_desc
+Nicht definiert
+item_x_attack_name
+X-Angriff
+item_x_defense_desc
+Nicht definiert
+item_x_defense_name
+X-Abwehr
+item_x_miracle_desc
+Nicht definiert
+item_x_miracle_name
+Nicht definiert
+item_bluk_berry_desc
+Nicht definiert
+item_bluk_berry_name
+Morbbeere
+item_wepar_berry_desc
+Nicht definiert
+item_wepar_berry_name
+Nirbebeere
+item_nanab_berry_desc
+Wenn du sie einem Pokémon zum Essen gibst, wird es ruhiger und ist nicht so zappelig.
+item_nanab_berry_name
+Nanabbeere
+item_pinap_berry_desc
+Wenn du sie einem Pokémon zum Essen gibst, bekommst du mehr Bonbons, wenn du es fängst.
+item_pinap_berry_name
+Sananabeere
+item_pokemon_bag_name
+Pokémon-Box-Plus
+item_pokemon_bag_desc
+Vergrößert deine Pokémon-Sammlung.
+item_item_pack_name
+Itempack
+item_item_pack_desc
+Vergrößert deinen Beutel.
+pokeball.20_title
+20 Pokébälle
+pokeball.20_description
+20 reguläre Pokébälle zum Fangen wilder Pokémon!
+pokeball.100_title
+100 Pokébälle
+pokeball.100_description
+100 reguläre Pokébälle zum Fangen wilder Pokémon!
+pokeball.200_title
+200 Pokébälle
+pokeball.200_description
+200 reguläre Pokébälle zum Fangen wilder Pokémon!
+pokemonstorageupgrade.1_title
+Pokémon-Aufbewahrung-Plus
+pokemonstorageupgrade.1_description
+Erhöht das Aufbewahrungslimit um {0}.
+itemstorageupgrade.1_title
+Beutel-Plus
+itemstorageupgrade.1_description
+Erhöht den Speicherplatz für Items um {0}.
+item_lucky_egg_name
+Glücks-Ei
+item_lucky_egg_desc
+Ein Ei, das mit Glück gefüllt ist. Der Spieler erhält 30 Minuten lang doppelt so viele EP.
+luckyegg.1_title
+Glücks-Ei
+luckyegg.1_description
+Ein Ei, das mit Glück gefüllt ist. Der Spieler erhält 30 Minuten lang doppelt so viele EP.
+luckyegg.5_title
+5 Glücks-Eier
+luckyegg.5_description
+Eier, die mit Glück gefüllt sind. Für jedes Ei erhält der Spieler 30 Minuten lang doppelt so viele EP.
+luckyegg.8_title
+8 Glücks-Eier
+luckyegg.8_description
+Eier, die mit Glück gefüllt sind. Für jedes Ei erhält der Spieler 30 Minuten lang doppelt so viele EP.
+luckyegg.25_title
+25 Glücks-Eier
+luckyegg.25_description
+Eier, die mit Glück gefüllt sind. Für jedes Ei erhält der Spieler 30 Minuten lang doppelt so viele EP.
+item_incense_ordinary_name
+Rauch
+item_incense_ordinary_desc
+Ein wohlriechender Rauch, der 30 Minuten lang wilde Pokémon zu dir lockt.
+incenseordinary.1_title
+Rauch
+incenseordinary.1_description
+Ein wohlriechender Rauch, der 30 Minuten lang wilde Pokémon zu dir lockt.
+incenseordinary.8_title
+8 × Rauch
+incenseordinary.8_description
+Jeder wohlriechende Rauch lockt 30 Minuten lang wilde Pokémon zu dir.
+incenseordinary.25_title
+25 × Rauch
+incenseordinary.25_description
+Jeder wohlriechende Rauch lockt 30 Minuten lang wilde Pokémon zu dir.
+incubatorbasic.1_title
+Ei-Brutmaschine
+incubatorbasic.1_description
+Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Nach 3 Einsätzen geht sie kaputt.
+item_incubator_basic_name
+Ei-Brutmaschine
+item_incubator_basic_desc
+Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Nach 3 Einsätzen geht sie kaputt.
+item_incubator_basic_unlimited_name
+Ei-Brutmaschine ∞
+item_incubator_basic_unlimited_desc
+Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Unbegrenzt einsetzbar!
+pokecoin.1000_title
+1.000 PokéMünzen, ausschließlich zum Testen
+pokecoin.1000_description
+
+pokecoin.100_title
+100 PokéMünzen
+pokecoin.100_description
+
+pokecoin.550_title
+550 PokéMünzen
+pokecoin.550_description
+
+pokecoin.1200_title
+1.200 PokéMünzen
+pokecoin.1200_description
+
+pokecoin.2500_title
+2.500 PokéMünzen
+pokecoin.2500_description
+
+pokecoin.5200_title
+5.200 PokéMünzen
+pokecoin.5200_description
+
+pokecoin.14500_title
+14.500 PokéMünzen
+pokecoin.14500_description
+
+item_troy_disk_name
+Lockmodul
+item_troy_disk_desc
+Es lockt 30 Minuten lang Pokémon zu einem PokéStop. Spieler in der Nähe profitieren auch.
+troydisk.1_title
+Lockmodul
+troydisk.1_description
+Es lockt 30 Minuten lang Pokémon zu einem PokéStop. Spieler in der Nähe profitieren auch.
+troydisk.8_title
+8 Lockmodule
+troydisk.8_description
+Es lockt 30 Minuten lang Pokémon zu einem PokéStop. Spieler in der Nähe profitieren auch.
+item_sun_stone_name
+Sonnenstein
+item_sun_stone_desc
+Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Abendsonne.
+item_kings_rock_name
+King-Stein
+item_kings_rock_desc
+Dieser Stein löst bei bestimmten Pokémon die Entwicklung aus. Er sieht wie eine Krone aus.
+item_metal_coat_name
+Metallmantel
+item_metal_coat_desc
+Diese Beschichtung löst bei bestimmten Pokémon-Arten die Entwicklung aus. Es handelt sich um einen besonderen metallenen Belag.
+item_dragon_scale_name
+Drachenhaut
+item_dragon_scale_desc
+Diese Haut löst bei bestimmten Pokémon-Arten die Entwicklung aus. Sie ist sehr dick und stark.
+item_up_grade_name
+Up-Grade
+item_up_grade_desc
+Dieses durchsichtige Gerät löst bei bestimmten Pokémon die Entwicklung aus. Hergestellt von Silph Co.
+avatar_f_backpack_cute_bundle_icon
+Schleifen- Rucksack
+avatar_f_backpack_default_bundle_icon
+City-Rucksack
+avatar_f_backpack_empty_bundle_icon
+Kein Rucksack
+avatar_f_belt_simple_bundle_icon
+Flache Schnalle
+avatar_f_belt_default_bundle_icon
+Schnalle mit Ball
+avatar_f_belt_empty_bundle_icon
+Kein Gürtel
+avatar_f_glasses_mask_bundle_icon
+Maske
+avatar_f_glasses_3d_bundle_icon
+Futuristisch
+avatar_f_glasses_thick_bundle_icon
+Fokus-Brille
+avatar_f_glasses_empty_bundle_icon
+Keine Brille
+avatar_f_gloves_default_bundle_icon
+Fingerlos
+avatar_f_gloves_empty_bundle_icon
+Keine Handschuhe
+avatar_f_hat_knitted_bundle_icon
+Pudelmütze
+avatar_f_hat_fedora_bundle_icon
+Filz-Fedora
+avatar_f_hat_tophat_bundle_icon
+Zylinder
+avatar_f_hat_casket_bundle_icon
+Ballonmütze
+avatar_f_hat_default_a_bundle_icon
+Ball-Kappe
+avatar_f_hat_default_b_bundle_icon
+Sport-Kappe
+avatar_f_hat_empty_bundle_icon
+Kein Hut
+avatar_f_necklace_heart_bundle_icon
+Herzband
+avatar_f_necklace_star_bundle_icon
+Superband
+avatar_f_necklace_default_bundle_icon
+Samtband
+avatar_f_necklace_empty_bundle_icon
+Keine Halskette
+avatar_f_pants_neon_bundle_icon
+Neon-Leggings
+avatar_f_pants_skinnyjeans_bundle_icon
+Skinny Jeans
+avatar_f_pants_shorts_bundle_icon
+Sprinter- Shorts
+avatar_f_pants_miniskirt_wave_bundle_icon
+Wellenrock
+avatar_f_pants_miniskirt_bundle_icon
+Streifenrock
+avatar_f_pants_miniskirt_turbine_bundle_icon
+Turbinenrock
+avatar_f_pants_default_bundle_icon
+Einteiler
+avatar_f_shirt_tshirt_pikachu_bundle_icon
+Pikachu-Shirt
+avatar_f_shirt_tanktop_pikachu_bundle_icon
+Pikachu- Tanktop
+avatar_f_shirt_tanktop_charizard_bundle_icon
+Glurak- Tanktop
+avatar_f_shirt_sweater_valor_bundle_icon
+Team Wagemut
+avatar_f_shirt_sweater_mystic_bundle_icon
+Team Weisheit
+avatar_f_shirt_sweater_instinct_bundle_icon
+Team Intuition
+avatar_f_shirt_sweater_30_bundle_icon
+The Thirty
+avatar_f_shirt_tshirt_cycling_bundle_icon
+Aktiv-Top
+avatar_f_shirt_buttondown_bundle_icon
+Bluse
+avatar_f_shirt_tanktop_bundle_icon
+Trainer- Tanktop
+avatar_f_shirt_default_bundle_icon
+Jäckchen
+avatar_f_shoes_default_bundle_icon
+Turboschuhe
+avatar_f_shoes_empty_bundle_icon
+Keine Schuhe
+avatar_f_socks_thighhighs_bundle_icon
+Wollstrümpfe
+avatar_f_socks_default_bundle_icon
+Beinwärmer
+avatar_f_socks_empty_bundle_icon
+Keine Socken
+avatar_m_backpack_default_bundle_icon
+Trainer- Rucksack
+avatar_m_backpack_empty_bundle_icon
+Kein Rucksack
+avatar_m_glasses_mask_bundle_icon
+Maske
+avatar_m_glasses_3d_bundle_icon
+Futuristisch
+avatar_m_glasses_thick_bundle_icon
+Fokus-Brille
+avatar_m_glasses_empty_bundle_icon
+Keine Brille
+avatar_m_gloves_default_bundle_icon
+Fingerlos
+avatar_m_gloves_empty_bundle_icon
+Keine Handschuhe
+avatar_m_hat_fedora_bundle_icon
+Filz-Fedora
+avatar_m_hat_tophat_bundle_icon
+Zylinder
+avatar_m_hat_casket_bundle_icon
+Ballonmütze
+avatar_m_hat_default_bundle_icon
+Trainer-Kappe
+avatar_m_hat_empty_bundle_icon
+Kein Hut
+avatar_m_pants_sweats_bundle_icon
+Trainingshose
+avatar_m_pants_skinnyjeans_bundle_icon
+Skinny Jeans
+avatar_m_pants_default_bundle_icon
+Trainer-Shorts
+avatar_m_shirt_blazer_bundle_icon
+Business-Blazer
+avatar_m_shirt_longsleeves_charizard_bundle_icon
+Glurak-Hemd
+avatar_m_shirt_longsleeves_pikachu_bundle_icon
+Pikachu-Hemd
+avatar_m_shirt_tshirt_instinct_bundle_icon
+Team Intuition
+avatar_m_shirt_tshirt_mystic_bundle_icon
+Team Weisheit
+avatar_m_shirt_tshirt_valor_bundle_icon
+Team Wagemut
+avatar_m_shirt_turtleneck_30_bundle_icon
+The Thirty
+avatar_m_shirt_tshirt_geometric_bundle_icon
+Schräg-Shirt
+avatar_m_shirt_sweatshirt_sporty_bundle_icon
+Sport-Hoodie
+avatar_m_shirt_sweatshirt_streak_bundle_icon
+Streifen-Hoodie
+avatar_m_shirt_default_2_bundle_icon
+Einfarbiges Hoodie
+avatar_m_shirt_default_1_bundle_icon
+Säulen-Hoodie
+avatar_m_shirt_default_0_bundle_icon
+Diagonal- Hoodie
+avatar_m_shirt_default_3_bundle_icon
+Winkel-Hoodie
+avatar_m_shoes_default_bundle_icon
+Turboschuhe
+avatar_m_shoes_empty_bundle_icon
+Keine Schuhe
+avatar_m_socks_default_bundle_icon
+Beinwärmer
+avatar_m_socks_empty_bundle_icon
+Keine Socken
+avatar_m_hat_magikarp_bundle_icon
+Karpador- Mütze
+avatar_f_hat_magikarp_bundle_icon
+Karpador- Mütze
+avatar_m_hat_adventure_bundle_icon
+Expeditionshut
+avatar_f_hat_adventure_bundle_icon
+Expeditionshut
+paidraidticket.1_title
+Premium-Raid-Pass
+paidraidticket.1_description
+Mit einem Raid-Pass kannst du an einem Raid-Kampf teilnehmen.
+maxrevive.6_title
+6 Top-Beleber
+maxrevive.6_description
+Jeder Top-Beleber belebt ein kampfunfähiges Pokémon wieder. Die KP werden vollständig wiederhergestellt.
+oneyearanniversary.1_title
+Jubiläumsbox
+maxpotion.10_title
+10 Top-Tränke
+maxpotion.10_description
+Jeder Top-Trank füllt die KP eines Pokémon wieder vollständig auf.
+f_shirt_tshirt_fest_chicago_2017_bundle_icon
+GO-Fest-T-Shirt
+m_shirt_tshirt_fest_chicago_2017_bundle_icon
+GO-Fest-T-Shirt
+bundle.general1.small.1_title
+Spezialbox
+bundle.general1.medium.1_title
+Superbox
+bundle.general1.large.1_title
+Hyperbox
+avatar_m_hat_mimikyu_icon
+Mimigma-Kostüm-Mütze
+avatar_f_hat_mimikyu_icon
+Mimigma-Kostüm-Mütze
+f_hat_ultra_bundle_icon
+Ultramond-Hut
+f_shirt_ultra_bundle_icon
+Ultramond-Top
+f_backpack_ultra_bundle_icon
+Ultramond-Tasche
+f_pants_ultra_bundle_icon
+Ultramond-Shorts
+f_shoes_ultra_bundle_icon
+Ultramond-Sandalen
+m_hat_ultra_bundle_icon
+Ultrasonne-Hut
+m_shirt_ultra_bundle_icon
+Ultrasonne-Shirt
+m_backpack_ultra_bundle_icon
+Ultrasonne-Tasche
+m_pants_ultra_bundle_icon
+Ultrasonne-Shorts
+m_shoes_ultra_bundle_icon
+Ultrasonne-Schuhe
+item_star_piece_name
+Sternenstück
+item_star_piece_desc
+Teil eines hübschen Edelsteins. Der Spieler erhält 30 Minuten lang 50 % mehr Sternenstaub.
+starpiece.1_description
+Teil eines hübschen Edelsteins. Der Spieler erhält 30 Minuten lang 50 % mehr Sternenstaub.
+starpiece.8_description
+Für jedes Sternenstück erhält der Spieler 30 Minuten lang 50 % mehr Sternenstaub.
+starpiece.25_description
+Für jedes Sternenstück erhält der Spieler 30 Minuten lang 50 % mehr Sternenstaub.
+starpiece.1_title
+Sternenstück
+starpiece.8_title
+8 Sternenstücke
+starpiece.25_title
+25 Sternenstücke
+bundle.general2.small.1_title
+Winterbox
+bundle.general3.small.1_title
+Winterbox
+bundle.general2.medium.1_title
+Superbox
+bundle.general3.medium.1_title
+Superbox
+bundle.general2.large.1_title
+Hyperbox
+bundle.general3.large.1_title
+Hyperbox
+m_shoes_fisher_bundle_icon
+Angler-Stiefel
+m_hat_jogger_bundle_icon
+Jogger-Visor
+m_glasses_jogger_bundle_icon
+Jogger-Sonnen-Brille
+m_shirt_jogger_bundle_icon
+Jogger-Tanktop
+m_pants_jogger_bundle_icon
+Jogger-Shorts
+m_shoes_jogger_bundle_icon
+Jogger-Schuhe
+m_gloves_jogger_bundle_icon
+Jogger-Uhr
+f_shirt_battlegirl_bundle_icon
+Kämpferin-Top
+f_gloves_battlegirl_bundle_icon
+Kämpferin-Hand-\nschuhe
+f_pants_battlegirl_bundle_icon
+Kämpferin-\nShorts
+f_shoes_battlegirl_bundle_icon
+Kämpferin-\nSchuhe
+avatar_f_pants_battlegirl_bundle_icon
+Kämpferin-\nShorts
+avatar_f_shoes_battlegirl_bundle_icon
+Kämpferin-\nSchuhe
+avatar_m_gloves_jogger_bundle_icon
+Jogger-Uhr
+avatar_m_pants_jogger_bundle_icon
+Jogger-Shorts
+avatar_f_gloves_battlegirl_bundle_icon
+Kämpferin-Hand-\nschuhe
+avatar_f_shirt_battlegirl_bundle_icon
+Kämpferin-Top
+avatar_m_shirt_jogger_bundle_icon
+Jogger-Tanktop
+avatar_m_shoes_jogger_bundle_icon
+Jogger-Schuhe
+avatar_m_glasses_jogger_bundle_icon
+Jogger-Sonnen-Brille
+avatar_m_shoes_fisher_bundle_icon
+Angler-Stiefel
+avatar_m_hat_jogger_bundle_icon
+Jogger-Visor
+avatar_m_pants_fisher_bundle_icon
+Angler-Hose
+avatar_m_shirt_fisher_bundle_icon
+Angler-Weste
+avatar_m_hat_fisher_bundle_icon
+Angler-Kappe
+avatar_f_hat_teamrocket_bundle_icon
+Team Rocket-Mütze
+avatar_f_shirt_teamrocket_0_bundle_icon
+Team Rocket-Shirt
+avatar_f_shirt_teamrocket_1_bundle_icon
+Team Rainbow Rocket-Shirt
+avatar_f_gloves_teamrocket_bundle_icon
+Team Rocket-Hand-\nschuhe
+avatar_f_belt_teamrocket_1_bundle_icon
+Team Rainbow Rocket-Gürtel
+avatar_f_pants_teamrocket_bundle_icon
+Team Rocket-Rock
+avatar_f_shoes_teamrocket_0_bundle_icon
+Team Rocket-Stiefel
+avatar_f_shoes_teamrocket_1_bundle_icon
+Team Rainbow Rocket-Stiefel
+avatar_m_hat_teamrocket_bundle_icon
+Team Rocket-Mütze
+avatar_m_shirt_teamrocket_0_bundle_icon
+Team Rocket-Shirt
+avatar_m_shirt_teamrocket_1_bundle_icon
+Team Rainbow Rocket-Shirt
+avatar_m_gloves_teamrocket_bundle_icon
+Team Rocket-Hand-\nschuhe
+avatar_m_pants_teamrocket_bundle_icon
+Team Rocket-Hose
+avatar_m_shoes_teamrocket_0_bundle_icon
+Team Rocket-Stiefel
+avatar_m_shoes_teamrocket_1_bundle_icon
+Team Rainbow Rocket-Stiefel
+avatar_f_belt_teamrocket_0_bundle_icon
+Team Rocket-Gürtel
+avatar_m_hat_frlg_bundle_icon
+Feuerrote Kappe
+avatar_m_shirt_frlg_bundle_icon
+Feuerrotes Oberteil
+avatar_m_backpack_frlg_bundle_icon
+Feuerroter Rucksack
+avatar_m_gloves_frlg_bundle_icon
+Feuerrote Armbänder
+avatar_m_pants_frlg_bundle_icon
+Feuerrote Hose
+avatar_m_shoes_frlg_bundle_icon
+Feuerrote Schuhe
+avatar_f_hat_frlg_bundle_icon
+Blattgrüner Hut
+avatar_f_shirt_frlg_bundle_icon
+Blattgrünes Oberteil
+avatar_f_backpack_frlg_bundle_icon
+Blattgrüne Tasche
+avatar_f_gloves_frlg_bundle_icon
+Blattgrüne Armbänder
+avatar_f_pants_frlg_bundle_icon
+Blattgrüner Rock
+avatar_f_shoes_frlg_bundle_icon
+Blattgrüne Schuhe
+avatar_f_shirt_gymleader_bundle_icon
+Arenaleiter-\nOberteil
+avatar_f_gloves_gymleader_bundle_icon
+Arenaleiter-\nHandschuhe
+avatar_f_pants_gymleader_bundle_icon
+Arenaleiter-\nRock
+avatar_f_shoes_gymleader_bundle_icon
+Arenaleiter-\nSchuhe
+avatar_m_shirt_gymleader_bundle_icon
+Arenaleiter-\nOberteil
+avatar_m_gloves_gymleader_bundle_icon
+Arenaleiter-Handschuhe
+avatar_m_pants_gymleader_bundle_icon
+Arenaleiter-\nShorts
+avatar_m_shoes_gymleader_bundle_icon
+Arenaleiter-\nSchuhe
+bundle.general4.small.1_title
+Community Day-Box
+avatar_f_shirt_earthday_2018_bundle_icon
+Blue Surfer-Shirt
+avatar_m_shirt_earthday_2018_bundle_icon
+Blue Surfer-Shirt
+bundle.general2.small.1.itembox_title
+Itembox (Beta)
+bundle.general2.medium.1.itembox_title
+Silber-Itembox (Beta)
+bundle.general2.large.1.itembox_title
+Gold-Itembox (Beta)
+avatar_m_shirt_mew_bundle_icon
+Mew-T-Shirt
+avatar_f_shirt_mew_bundle_icon
+Mew-T-Shirt
+avatar_m_shirt_latias_latios_bundle_icon
+Latias & Latios-\nShirt
+avatar_f_shirt_latias_latios_bundle_icon
+Latias & Latios-\nShirt
+avatar_f_hat_pikachufan_bundle_icon
+Pikachu-Fan-Kopfschmuck
+avatar_f_shirt_pikachufan_bundle_icon
+Pikachu-Fan-Shirt
+avatar_f_pants_pikachufan_bundle_icon
+Pikachu-Fan-Shorts
+avatar_f_shoes_pikachufan_bundle_icon
+Pikachu-Fan-Schuhe
+avatar_m_hat_pikachufan_bundle_icon
+Pikachu-Fan-Kopfschmuck
+avatar_m_shirt_pikachufan_bundle_icon
+Pikachu-Fan-Shirt
+avatar_m_pants_pikachufan_bundle_icon
+Pikachu-Fan-Shorts
+avatar_m_shoes_pikachufan_bundle_icon
+Pikachu-Fan-Schuhe
+avatar_f_glasses_teardrop_bundle_icon
+Flieger-\nSonnenbrille
+m_glasses_teardrop_bundle_icon
+Flieger-\nSonnenbrille

@@ -1,0 +1,178 @@
+age_gate_screen
+Merci d’entrer ta date de naissance.
+authentication_revoked_error
+Erreur de connexion au serveur.
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/fr
+banned_player_lockout_1
+Ton compte a été suspendu pour infraction aux Conditions d’utilisation.\n\nConsulte le Point Assistance pour obtenir plus d’informations.
+banned_player_lockout_2
+Plus d'informations
+err_no_internet
+Aucune connectivité Internet.
+err_update_now
+Une nouvelle version de Pokémon GO est disponible. Veux-tu faire la mise à jour ?
+facebook_login_button
+Facebook
+fb_auth_failed
+Authentification impossible. Essaye à nouveau.
+field_test_lockout
+Merci d’avoir participé au test de Pokémon GO.\nNous reviendrons bientôt.
+general_accept
+Accepter
+general_error
+Erreur
+general_network_error
+Erreur de réseau
+general_button_select
+Sélectionner
+general_cancel
+Annuler
+general_no
+Non
+general_ok
+OK
+general_sign_out
+Fermer la session
+general_sign_out_confirm
+Veux-tu vraiment fermer ta session ?
+general_yes
+Oui
+google_auth_failed
+Authentification impossible. Essaye à nouveau.
+google_login_button
+Google
+login_username
+Nom d’utilisateur
+login_password
+Mot de passe
+privacy_policy_title
+Politique de confidentialité de Pokémon GO
+privacy_policy_button
+Politique de confidentialité
+ptc_auth_failed
+Authentification impossible. Essaye à nouveau.
+ptc_error_activation_required
+Active ton compte afin de jouer à Pokémon GO.
+ptc_forgot_password
+J'ai oublié mon mot de passe
+ptc_forgot_username
+J'ai oublié mon nom d'utilisateur
+ptc_login_button
+Club des Dresseurs Pokémon
+ptc_login_submit
+Te connecter
+ptc_login_title
+Club des Dresseurs Pokémon
+ptc_need_to_register_button
+T’inscrire
+registration_choice_screen
+Choisis le compte avec lequel tu souhaites t’enregistrer.
+server_lockout
+Hélas, nos serveurs sont à saturation, merci de réessayer plus tard.
+settings_are_you_sure_support_prompt
+Quitter le jeu et aller sur le site d’assistance ?
+submit_age_button
+Envoyer
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/fr
+unauthorized_device_lockout_1
+Cet appareil, OS ou logiciel n’est pas compatible avec Pokémon GO.
+month_jan
+JAN
+month_feb
+FÉV
+month_mar
+MAR
+month_apr
+AVR
+month_may
+MAI
+month_jun
+JUN
+month_jul
+JUL
+month_aug
+AOÛ
+month_sep
+SEP
+month_oct
+OCT
+month_nov
+NOV
+month_dec
+DÉC
+authentication_retry_prompt
+Échec de la connexion.
+authentication_failed_try_again
+Réessayer
+authentication_failed_sign_out
+Essaye un autre compte
+existing_player_label
+Ancien joueur
+existing_player_button
+Te connecter
+new_player_label
+Nouveau joueur
+new_player_button
+Créer un compte
+existing_account_screen
+Te connecter avec :
+new_account_screen
+Créer un compte avec :
+non_existent_account
+Connexion impossible. Vérifie que ce compte Pokémon GO existe, et que tu as bien sélectionné Nouveau ou Ancien joueur.
+settings_account_header
+COMPTE
+settings_account_linked
+LIÉ
+settings_account_not_linked
+NON LIÉ
+settings_account_link_tip
+Astuce : tu peux te connecter au jeu avec un compte lié.
+unlink_account_confirm
+<size=36><b>Annuler le lien de ce compte ?</b></size>\n\nTu ne pourras plus te connecter avec ce compte.
+unlink_account_failed_active_session
+<size=36><b>Le lien ne peut pas être annulé.</b></size>\n\nCe compte est lié à une session active du jeu.
+link_account_failed
+Impossible de créer un lien vers ce compte.
+unlink_account_failed
+Impossible d’annuler le lien vers ce compte.
+link_account_failed_auth
+<size=36><b>Erreur {0}</b></size>\n\nImpossible de lier ce compte.
+link_account_failed_taken
+<size=36><b>Ce compte existe déjà</b></size>\n\nCe compte est déjà lié à un joueur.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic pour enfants
+sa_login_title
+Niantic pour enfants
+login_create_player
+Créer un compte avec :
+login_sign_in
+Te connecter avec :
+login_username_short
+Nom d’utilisateur
+login_password_short
+Mot de passe
+ptc_login_title_short
+Club des Dresseurs
+login_create_account
+En créer un
+ptc_account_creation_prompt
+Tu n’as pas de compte au Club des Dresseurs Pokémon ?
+sa_account_creation_prompt
+Tu n’as pas de compte Niantic pour enfants ?
+ptc_login_server_unreachable
+Nous sommes désolés, mais le Club des Dresseurs Pokémon n’est pas disponible pour le moment.
+sa_login_server_unreachable
+Nous sommes désolés, mais Niantic pour enfants n’est pas disponible pour le moment.
+sa_auth_failed_permissions
+Pour accéder au jeu, un parent ou tuteur doit se connecter à son compte Niantic pour enfants et activer les permissions de ton compte.
+sa_auth_failed
+Authentification impossible. Essaye à nouveau.
+sa_parent_dashboard_url
+https://parents.superawesome.tv/fr/login

@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+Cammina ancora per {0} km con il tuo compagno.
+weather_weather
+Condizioni atmosferiche
+weather_clear
+Sereno
+weather_rainy
+Pioggia
+weather_partly_cloudy
+Parzialmente nuvoloso
+weather_overcast
+Coperto
+weather_windy
+Vento
+weather_snow
+Neve
+weather_fog
+Nebbia
+weather_boosted_types
+Tipi potenziati
+weather_boosted_types_desciption
+I Pokémon di questi tipi sono più forti e compaiono più spesso. Alla cattura forniscono più polvere di stelle.
+weather_extreme
+Condizioni estreme
+weather_extreme_description
+Ai Pokémon non piacciono queste condizioni atmosferiche che possono essere potenzialmente pericolose. Fai attenzione all’ambiente circostante!
+weather_alert_warning
+Avviso di condizioni atmosferiche avverse. Per dettagli consulta il servizio metereologico locale.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+Cammina con {0} come compagno per farlo evolvere.
+weather_sunny
+Sole
+weather_boost_active_1
+La mossa {1} di {0} è stata potenziata dalle condizioni atmosferiche!
+weather_boost_active_2
+Le mosse {1} e {2} di {0} sono state potenziate dalle condizioni atmosferiche!
+weather_alert_safety_button
+Tutto bene
+weather_careful_description
+Allerta meteo: presta la massima attenzione! Controlla le previsioni del tempo locali per tutti i dettagli.
+weather_careful
+Attenzione!
+form_normal
+Normale
+form_sun
+Sole
+form_rain
+Pioggia
+form_snow
+Nuvola di Neve
+form_defense
+Difesa
+form_attack
+Attacco
+form_speed
+Velocità
+form_deoxys_normal
+Normale
+general_send
+INVIA
+general_report_title
+Segnala un problema
+weather_report_option_1
+Le previsioni del tempo non sono molto accurate!
+weather_report_option_2
+Le previsioni del tempo sembrano accurate, ma non aggiornate.

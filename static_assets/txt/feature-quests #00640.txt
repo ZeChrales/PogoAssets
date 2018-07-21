@@ -1,0 +1,564 @@
+quests_quest
+課題
+quests_list_gui_title
+研究進度
+quests_list_gui_tab_challenges
+田野調查
+quests_list_gui_tab_special
+特殊調查
+quests_claim_reward
+領取獎勵
+quests_professor_willow
+維羅博士
+quests_mobile_calling
+來電
+quests_remove_challenge_prompt
+要移除這個課題嗎？
+quests_remove_challenge_desc
+拜訪寶可補給站，取得其他課題
+quests_daily_challenge_reset
+每日工作卡將在 <color=cyan>{0}</color> 後重設
+quests_new_challenge_received
+收到新的課題了！
+quests_get_new_challenge_prompt
+拜訪寶可補給站，取得新的課題！
+quests_step_complete
+課題完成！
+quest_pokemon_appears
+寶可夢出現！
+quests_claim_field_research_first
+請先領取突破性進展的獎勵！
+quest_breakthrough_completed
+完成田野調查！
+quests_log_complete_quest
+完成的課題：{0}
+quests_log_research_breakthrough
+達成突破性進展
+quests_collect_stamps
+收集圖章！
+quests_collect_stamps_message
+幫助博士完成田野調查，收集圖章！每天最多可以收集1個。
+quest_battle_gym_plural
+參加 {0} 次道館對戰
+quest_battle_gym_singular
+參加1次道館對戰
+quest_battle_raid_plural
+參加 {0} 場團體戰
+quest_battle_raid_singular
+參加1場團體戰
+quest_battle_supereffective_charge_plural
+在 {0} 場對戰中使出效果絕佳的特殊招式
+quest_battle_supereffective_charge_singular
+在1場對戰中使出效果絕佳的特殊招式
+quest_catch_feed_plural
+捕捉寶可夢時使用 {0} 個樹果
+quest_catch_feed_singular
+捕捉寶可夢時使用1個樹果
+quest_catch_pokemon_plural
+捕捉 {0} 隻寶可夢
+quest_catch_pokemon_singular
+捕捉1隻寶可夢
+quest_catch_special0_plural
+捕捉 {0} 隻百變怪
+quest_catch_special0_singular
+捕捉1隻百變怪
+quest_catch_special1_plural
+捕捉 {0} 隻走路草或喇叭芽
+quest_catch_special1_singular
+捕捉1隻走路草或喇叭芽
+quest_catch_special2_plural
+捕捉 {0} 隻青綿鳥
+quest_catch_special2_singular
+捕捉1隻青綿鳥
+quest_catch_special3_plural
+捕捉 {0} 隻波波或黑暗鴉
+quest_catch_special3_singular
+捕捉1隻波波或黑暗鴉
+quest_catch_special4_plural
+捕捉 {0} 隻木守宮或水躍魚
+quest_catch_special4_singular
+捕捉1隻木守宮或水躍魚
+quest_catch_special5_plural
+捕捉 {0} 隻喵喵或向尾喵
+quest_catch_special5_singular
+捕捉1隻喵喵或向尾喵
+quest_catch_type_bug_plural
+捕捉 {0} 隻蟲屬性的寶可夢
+quest_catch_type_bug_singular
+捕捉1隻蟲屬性的寶可夢
+quest_catch_type_dark_plural
+捕捉 {0} 隻惡屬性的寶可夢
+quest_catch_type_dark_singular
+捕捉1隻惡屬性的寶可夢
+quest_catch_type_dragon_plural
+捕捉 {0} 隻龍屬性的寶可夢
+quest_catch_type_dragon_singular
+捕捉1隻龍屬性的寶可夢
+quest_catch_type_electric_plural
+捕捉 {0} 隻電屬性的寶可夢
+quest_catch_type_electric_singular
+捕捉1隻電屬性的寶可夢
+quest_catch_type_fairy_plural
+捕捉 {0} 隻妖精屬性的寶可夢
+quest_catch_type_fairy_singular
+捕捉1隻妖精屬性的寶可夢
+quest_catch_type_fighting_plural
+捕捉 {0} 隻格鬥屬性的寶可夢
+quest_catch_type_fighting_singular
+捕捉1隻格鬥屬性的寶可夢
+quest_catch_type_fire_plural
+捕捉 {0} 隻火屬性的寶可夢
+quest_catch_type_fire_singular
+捕捉1隻火屬性的寶可夢
+quest_catch_type_flying_plural
+捕捉 {0} 隻飛行屬性的寶可夢
+quest_catch_type_flying_singular
+捕捉1隻飛行屬性的寶可夢
+quest_catch_type_ghost_plural
+捕捉 {0} 隻幽靈屬性的寶可夢
+quest_catch_type_ghost_singular
+捕捉1隻幽靈屬性的寶可夢
+quest_catch_type_grass_plural
+捕捉 {0} 隻草屬性的寶可夢
+quest_catch_type_grass_singular
+捕捉1隻草屬性的寶可夢
+quest_catch_type_ground_plural
+捕捉 {0} 隻地面屬性的寶可夢
+quest_catch_type_ground_singular
+捕捉1隻地面屬性的寶可夢
+quest_catch_type_ice_plural
+捕捉 {0} 隻冰屬性的寶可夢
+quest_catch_type_ice_singular
+捕捉1隻冰屬性的寶可夢
+quest_catch_type_normal_plural
+捕捉 {0} 隻一般屬性的寶可夢
+quest_catch_type_normal_singular
+捕捉1隻一般屬性的寶可夢
+quest_catch_type_poison_plural
+捕捉 {0} 隻毒屬性的寶可夢
+quest_catch_type_poison_singular
+捕捉1隻毒屬性的寶可夢
+quest_catch_type_psychic_plural
+捕捉 {0} 隻超能力屬性的寶可夢
+quest_catch_type_psychic_singular
+捕捉1隻超能力屬性的寶可夢
+quest_catch_type_rock_plural
+捕捉 {0} 隻岩石屬性的寶可夢
+quest_catch_type_rock_singular
+捕捉1隻岩石屬性的寶可夢
+quest_catch_type_steel_plural
+捕捉 {0} 隻鋼屬性的寶可夢
+quest_catch_type_steel_singular
+捕捉1隻鋼屬性的寶可夢
+quest_catch_type_water_plural
+捕捉 {0} 隻水屬性的寶可夢
+quest_catch_type_water_singular
+捕捉1隻水屬性的寶可夢
+quest_catch_types_sunny_plural
+捕捉 {0} 隻草、火或地面屬性的寶可夢
+quest_catch_types_sunny_singular
+捕捉1隻草、火或地面屬性的寶可夢
+quest_catch_weather_boost_plural
+捕捉 {0} 隻擁有天氣優勢的寶可夢
+quest_catch_weather_boost_singular
+捕捉1隻擁有天氣優勢的寶可夢
+quest_evolve_singular
+讓1隻寶可夢進化
+quest_evolve_plural
+讓 {0} 隻寶可夢進化
+quest_evolve_type_fire_plural
+讓 {0} 隻火屬性的寶可夢進化
+quest_evolve_type_fire_singular
+讓1隻火屬性的寶可夢進化
+quest_hatch_egg_plural
+孵化 {0} 顆蛋
+quest_hatch_egg_singular
+孵化1顆蛋
+quest_land_excellent_plural
+投出 {0} 次Excellent
+quest_land_excellent_singular
+投出1次Excellent Throw
+quest_land_great_curveball_plural
+用曲球投出 {0} 次Great
+quest_land_great_curveball_singular
+用曲球投出1次Great
+quest_land_great_plural
+投出 {0} 次Great
+quest_land_great_singular
+投出1次Great
+quest_land_inarow_curveball_plural
+連續投出 {0} 次曲球
+quest_land_inarow_excellent_curveball_plural
+連續用曲球投出 {0} 次Excellent
+quest_land_inarow_great_curveball_plural
+連續用曲球投出 {0} 次Great
+quest_land_inarow_great_plural
+連續投出 {0} 次Great
+quest_land_inarow_nice_curveball_plural
+連續用曲球投出 {0} 次Nice
+quest_land_inarow_nice_plural
+連續投出 {0} 次Nice
+quest_land_nice_plural
+投出 {0} 次Nice
+quest_land_nice_singular
+投出1次Nice
+quest_power_up_plural
+強化寶可夢 {0} 次
+quest_power_up_singular
+強化1隻寶可夢
+quest_visit_pokestop_new_plural
+拜訪 {0} 個從未去過的寶可補給站
+quest_visit_pokestop_new_singular
+拜訪1個從未去過的寶可補給站
+quest_visit_pokestops_plural
+拜訪 {0} 個寶可補給站
+quest_visit_pokestops_singular
+旋轉1次寶可補給站的轉盤
+quest_win_gym_plural
+在道館對戰中獲勝 {0} 次
+quest_win_gym_singular
+在道館對戰中獲勝1次
+quest_win_raid_3_singular
+在等級3以上的團體戰中獲勝1次
+quest_win_raid_3_plural
+在等級3以上的團體戰中獲勝 {0} 次
+quest_win_raid_plural
+在團體戰中獲勝 {0} 次
+quest_win_raid_singular
+在團體戰中獲勝1次
+quest_reach_level
+升至 {0} 級
+quest_reach_kanto_silver
+獲得銀關都獎牌
+quest_reach_kanto_gold
+獲得金關都獎牌
+quest_walk_buddy_plural
+和夥伴一起走路，取得 {0} 顆糖果
+quest_walk_buddy_singular
+和夥伴一起走路，取得1顆糖果
+quest_evolve_special0_singular
+讓1隻鯉魚王進化
+quest_catch_special_mew
+捕捉夢幻！
+quest_title_mew
+幻之寶可夢現蹤！？
+quest_title_mew_0
+幻之寶可夢現蹤！？ (1/8)
+quest_title_mew_1
+幻之寶可夢現蹤！？ (2/8)
+quest_title_mew_2
+幻之寶可夢現蹤！？ (3/8)
+quest_title_mew_3
+幻之寶可夢現蹤！？ (4/8)
+quest_title_mew_4
+幻之寶可夢現蹤！？ (5/8)
+quest_title_mew_5
+幻之寶可夢現蹤！？ (6/8)
+quest_title_mew_6
+幻之寶可夢現蹤！？ (7/8)
+quest_title_mew_7
+幻之寶可夢現蹤！？ (8/8)
+quest_complete_mew
+幻之寶可夢現蹤！？
+quest_special_dialogue_mew_0_0
+%PLAYERNAME%\n好久不見了！你最近好嗎？\n聽說你已經是個很厲害的訓練家了呢！
+quest_special_dialogue_mew_0_1
+我有件事想請你幫忙\n你知道我一直在研究寶可夢和牠們的棲息地\n這些年來 我的研究獲得了不少成果\n但我最近發現了一些不可思議的事情
+quest_special_dialogue_mew_0_2
+你願意幫我做些調查\n解開這個謎團嗎？
+quest_special_dialogue_mew_0_3
+真的嗎？那真是太好了！
+quest_special_dialogue_mew_0_4
+首先\n請你幫我收集一些數據來校正器材
+quest_special_dialogue_mew_0_5
+可以麻煩你幫我完成以下這幾個課題嗎？\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_1_0
+%PLAYERNAME%\n謝謝你！\n這樣我就能偵測到異常現象了
+quest_special_dialogue_mew_1_1
+我們發現這些現象\n似乎和幻之寶可夢有關！\n幻之寶可夢是非常罕見的寶可夢\n很多人認為牠只存在於傳說之中
+quest_special_dialogue_mew_1_2
+可以請你幫我\n在你住的地方附近安裝器材嗎？\n這是個帶夥伴出門走走\n並孵蛋的好機會
+quest_special_dialogue_mew_1_3
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_2_0
+太好了！\n看來我的推測是正確的\n一切都跟夢幻有關！
+quest_special_dialogue_mew_2_1
+牠在遙遠南方叢林被發現\n很多人都說牠已經絕種\n人們稱牠是幻之寶可夢\n這世界上沒有幾個人見過牠！%BREAK%據說只有心靈純真\n並一心想見牠的人\n才能一睹牠的身影
+quest_special_dialogue_mew_2_2
+我的指導教授大木博士\n和其他在關都地區的學者朋友們\n長年以來都在研究夢幻的生態\n看來我們找到的資訊符合他們的學說！
+quest_special_dialogue_mew_2_3
+我們的研究結果顯示\n夢幻會使用所有的招式\n也因為這樣\n部分學者認為夢幻是所有寶可夢的祖先
+quest_special_dialogue_mew_2_4
+如果去研究對戰時的寶可夢\n或許就能獲得更多數據！
+quest_special_dialogue_mew_2_5
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_3_0
+%PLAYERNAME%\n你太棒了！\n看來我們的研究正朝正確的方向前進
+quest_special_dialogue_mew_3_1
+據說夢幻擁有所有寶可夢的基因\n所以牠或許就是\n解開寶可夢生態和進化之謎的關鍵！
+quest_special_dialogue_mew_3_2
+我們來研究寶可夢的進化\n看是不是能藉此解開\n更多有關夢幻的謎團！
+quest_special_dialogue_mew_3_3
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_4_0
+天啊，這真是太驚人了！\n你不覺得進化實在是太奇妙了嗎？\n寶可夢每一次進化\n都能讓我有新發現！
+quest_special_dialogue_mew_4_1
+根據我們目前收集到的數據\n我應該能特定出夢幻的所在位置…！\n嗯？等等…
+quest_special_dialogue_mew_4_2
+沒錯 看來夢幻最近的確\n有在你住的地方出沒過！\n嗯…這就有趣了\n如果真的是這樣\n那應該會有相關的目擊情報啊…
+quest_special_dialogue_mew_4_3
+也許夢幻躲起來了？\n還是牠變身成其他寶可夢了！？\n我們去捕捉其他能變身的寶可夢\n研究研究牠們的生態吧
+quest_special_dialogue_mew_4_4
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_5_0
+%PLAYERNAME%\n謝謝你！\n看來夢幻平常都隱藏起自己的行蹤！
+quest_special_dialogue_mew_5_1
+我想做個特殊裝置來偵測夢幻的存在\n不過我需要一些數據…\n我想請你就近觀察一些強大的寶可夢！
+quest_special_dialogue_mew_5_2
+可以麻煩你幫我完成以下這幾個課題嗎？\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_6_0
+很好！測試機的狀況看起來很不錯\n我已經幫你把AR照相機升級\n現在你可以看到隱形的寶可夢了！
+quest_special_dialogue_mew_6_1
+最後一步就是要把夢幻誘出來\n據說只有心靈純真\n而且一心想見到夢幻的人才能見到牠…
+quest_special_dialogue_mew_6_2
+我們要讓夢幻知道我們多想見牠\n而且要讓牠看到\n你是一個多麼厲害的訓練家！
+quest_special_dialogue_mew_6_3
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_7_0
+我們找到夢幻了！太棒了！\n這會是我們一輩子都忘不了的回憶！
+quest_special_dialogue_mew_7_1
+你知道我為什麼\n會這麼喜歡研究寶可夢了吧！\n這整個世界都在等著我們去探索！\n一起出門去冒險吧！
+quest_special_dialogue_mew_7_2
+我們接下來可能還會要請你\n幫忙做一些特殊的調查\n記得保持聯絡！
+quest_transfer_pokemon_plural
+傳送 {0} 隻寶可夢
+quest_land_excellent_curveball_singular
+用曲球投出1次Excellent
+quest_land_excellent_curveball_plural
+用曲球投出 {0} 次Excellent
+quests_come_back_soon
+明天也要繼續做調查！
+quests_come_back_soon_message
+一天只能蓋1個調查圖章
+quest_more_reseach_coming_soon
+敬請期待下次的調查！
+quest_reward_desc_1
+收集圖章，讓維羅博士的研究\n能有突破性的進展！
+quest_reward_desc_2
+距離下次突破性進展
+quest_reward_desc_3_plural
+需要再收集 {0} 個圖章！
+quest_reward_desc_3_singular
+需要再收集 {0} 個圖章！
+quest_breakthrough_reward_stardust
+星星沙子
+quest_breakthrough_reward_mystery
+神秘道具
+quest_land_inarow_excellent_plural
+連續投出 {0} 次Excellent
+quest_reward_mysterious_pokemon_appeared
+謎樣的寶可夢出現了！
+quest_reward_encounter_uses_ar
+你必須開啟AR模式，才能捕捉這隻寶可夢
+quest_reward_start_encounter
+開始捕捉
+quest_reward_encounter_later
+稍後再說
+pokemon_mythic_info_transfer_to_professor_impossible
+無法傳送幻之寶可夢 {0}
+quests_when_to_collect_next_stamp
+明天可獲得新圖章！
+quests_streak_broken
+失敗！
+badge_challenge_quests
+完成 {0} 個田野調查課題
+badge_challenge_quests_title
+寶可夢巡護員
+badge_challenge_quests_value_format
+N0
+quests_stamp_date_format
+M月 d日
+quests_breakthrough_major_reward_header
+突破性進展！
+quests_story_major_reward_header
+完成特殊調查！
+pokemon_info_multi_transfer_mythic_pokemon_error
+無法選擇幻之寶可夢
+disabled_mythic
+不能將幻之寶可夢指派至道館
+quests_breakthrough_conversation_1
+謝謝你幫我做調查！\n看來我們獲得了不少成果！
+quests_breakthrough_conversation_2
+接下來也請你好好加油囉\n我們來看看你找到了什麼吧！
+quest_catch_special6_plural
+捕捉 {0} 隻咩利羊
+quests_field_research_task
+田野調查課題
+quests_field_research_task_desc
+你已經完成這個寶可補給站今天的田野調查課題了
+quests_completed_story_quests_header
+已完成
+quest_evolve_type_electric_plural
+讓 {0} 隻電屬性的寶可夢進化
+quest_evolve_type_electric_singular
+讓1隻電屬性的寶可夢進化
+quest_evolve_type_flying_plural
+讓 {0} 隻飛行屬性的寶可夢進化
+quest_evolve_type_flying_singular
+讓1隻飛行屬性的寶可夢進化
+quest_evolve_type_ice_plural
+讓 {0} 隻冰屬性的寶可夢進化
+quest_evolve_type_ice_singular
+讓1隻冰屬性的寶可夢進化
+quest_evolve_type_water_plural
+讓 {0} 隻水屬性的寶可夢進化
+quest_evolve_type_water_singular
+讓1隻水屬性的寶可夢進化
+quest_land_nice_electric_plural
+用Nice Throw捕捉 {0} 隻電屬性的寶可夢
+quest_catch_types_rainy_plural
+捕捉 {0} 隻水、電或蟲屬性的寶可夢
+quest_catch_types_rainy_singular
+捕捉1隻水、電或蟲屬性的寶可夢
+quest_catch_types_snowy_plural
+捕捉 {0} 隻冰或鋼屬性的寶可夢
+quest_catch_types_snowy_singular
+捕捉1隻冰或鋼屬性的寶可夢
+quest_catch_types_windy_plural
+捕捉 {0} 隻飛行、龍或超能力屬性的寶可夢
+quest_catch_types_windy_singular
+捕捉1隻飛行、龍或超能力屬性的寶可夢
+quest_catch_special7_plural
+捕捉 {0} 隻小火龍
+quest_adventure_hatch_egg_plural
+驚奇冒險週：孵化 {0} 顆蛋
+quest_adventure_walk_buddy_plural
+驚奇冒險週：和夥伴一起走路，取得 {0} 顆糖果
+quest_adventure_visit_pokestop_new_plural
+驚奇冒險週：拜訪 {0} 個從未去過的寶可補給站
+quest_adventure_evolve_singular
+驚奇冒險週：讓1隻菊石獸或化石盔進化
+quest_evolve_special1_singular
+讓1隻墨海馬進化
+quest_catch_special8_plural
+捕捉 {0} 隻幼基拉斯
+quest_waterfestival_win_raid_singular
+潑水節：在1場團體戰中獲勝
+quest_waterfestival_catch_special9_plural
+潑水節：捕捉 {0} 隻鯉魚王或吼吼鯨
+quest_waterfestival_catch_type_water_plural
+潑水節：捕捉 {0} 隻水屬性的寶可夢
+quest_waterfestival_catch_feed_plural
+潑水節：捕捉寶可夢時使用 {0} 顆樹果來輔助
+quest_waterfestival_hatch_egg_singular
+潑水節：孵化1顆蛋
+quest_waterfestival_evolve_plural
+潑水節：讓 {0} 隻大舌貝進化
+quest_gofest_0
+GO Fest：捕捉 {0} 隻寶可夢
+quest_gofest_1
+GO Fest：拜訪 {0} 個寶可補給站
+quest_gofest_2
+GO Fest：和夥伴一起走路，獲得1顆糖果
+quest_gofest_3
+GO Fest：孵化1顆蛋
+quest_title_gofest
+GO Fest 2018
+quest_title_gofest_0
+GO Fest 2018 (1/5)
+quest_title_gofest_1
+GO Fest 2018 (2/5)
+quest_title_gofest_2
+GO Fest 2018 (3/5)
+quest_title_gofest_3
+GO Fest 2018 (4/5)
+quest_title_gofest_4
+GO Fest 2018 (5/5)
+quest_catch_special9_plural
+捕捉 {0} 隻未知圖騰
+quest_catch_special10_plural
+捕捉 {0} 隻正電拍拍
+quest_catch_special11_plural
+捕捉 {0} 隻負電拍拍
+quest_special_dialogue_gofest_0_0
+%PLAYERNAME%！你來得正好！
+quest_special_dialogue_gofest_0_1
+我原本打算要和寶可夢們度過一個充實的週末，但正如你所見，這間公園出現了一些不尋常的地質現象！
+quest_special_dialogue_gofest_0_2
+我們必須找出原因並解決這個問題。可以請你幫忙嗎？
+quest_special_dialogue_gofest_0_3
+既然你都來了，那就加入我的菁英研究小組吧！
+quest_special_dialogue_gofest_0_4
+首先請你去調查一下公園，並調度一些東西回來好嗎？
+quest_special_dialogue_gofest_0_5
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_1_0
+天啊！我想你應該也發現了，這間公園今天發生了許多不可思議的現象！
+quest_special_dialogue_gofest_1_1
+我不知道這些現象是什麼原因造成的……而且影響範圍還越來越大！
+quest_special_dialogue_gofest_1_2
+不論這些現象是什麼原因造成的，它們帶給寶可夢棲息地的影響非常巨大。
+quest_special_dialogue_gofest_1_3
+當地的寶可夢們都感到十分困惑……牠們拒絕人類進入牠們的棲息地，而且變得極具攻擊性！
+quest_special_dialogue_gofest_1_4
+我們試著去捕捉一些寶可夢，看能不能讓現在的狀況穩定下來。
+quest_special_dialogue_gofest_1_5
+請去捕捉屬性是火、鋼、水、草、岩石或是冰的寶可夢，一共要捕捉120隻！
+quest_special_dialogue_gofest_2_0
+看來這些異常現象是某些強力的寶可夢造成的。謝謝你把牠們捉來，我想你跟牠們一定能成為好朋友的。
+quest_special_dialogue_gofest_2_1
+然而，我們還沒把問題解決。寶可夢棲息地的異常現象仍然沒有沉靜下來的傾向，寶可夢們看起來也很焦慮的樣子。我們需要找出真正的幕後黑手！
+quest_special_dialogue_gofest_2_2
+我看到一些名叫未知圖騰的寶可夢在附近飄浮……
+quest_special_dialogue_gofest_2_3
+這些寶可夢看起來像是古代的文字……牠們是不是想要向我們傳達什麼訊息呢？我想牠們是要我們去找森林的守護者幫忙？只要跟著公園裡的未知圖騰走，就一定能找到那隻寶可夢！
+quest_special_dialogue_gofest_2_4
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_3_0
+真是太不可思議了！我從沒想過會在這裡遇見時拉比！
+quest_special_dialogue_gofest_3_1
+時拉比能穿越時空，牠的能力一定可以幫助我們解決眼前的問題。
+quest_special_dialogue_gofest_3_2
+也就是說，我們要讓時拉比回到異常現象仍然輕微的時間點，請牠幫我們解決問題！
+quest_special_dialogue_gofest_3_3
+這個任務非常困難……我們必須確保時拉比擁有所有必要的資源。
+quest_special_dialogue_gofest_3_4
+公園裡的正電拍拍和負電拍拍應該會是我們的好幫手。
+quest_special_dialogue_gofest_3_5
+牠們熱愛團隊合作，而且會用火花彩球來為夥伴加油！
+quest_special_dialogue_gofest_3_6
+我們要收集火花彩球送給時拉比，幫牠加油打氣！
+quest_special_dialogue_gofest_3_7
+如此一來，時拉比就能專心穿越時空，回到過去為我們解決問題！
+quest_special_dialogue_gofest_3_8
+%PLAYERNAME%，你要加快腳步，完成這些課題！\n{0}\n{1}
+quest_special_dialogue_gofest_4_0
+成功了！寶可夢們的棲息地慢慢恢復正常了。
+quest_special_dialogue_gofest_4_1
+時拉比完成任務，從過去回來了！看來你們之間的羈絆很深啊！
+quest_special_dialogue_gofest_4_2
+我相信公園下週末之前就會恢復原狀。話又說回來，時拉比真是一隻不可思議的寶可夢！
+quest_special_dialogue_gofest_4_3
+沒有你，我就沒辦法解決這些問題。我真的非常感謝你！
+quest_special_dialogue_gofest_4_4
+真是個難忘的週末！
+quest_catch_special12_plural
+捕捉 {0} 隻傑尼龜
+quests_claim_story_quest_encounter_first
+還沒捕捉上次特殊調查的寶可夢！
+quest_catch_special13_plural
+捕捉 {0} 隻毒薔薇
+quest_evolve_type_grass_plural
+讓 {0} 隻草屬性的寶可夢進化
+quest_evolve_type_grass_singular
+讓1隻草屬性的寶可夢進化
+quest_catch_basic_types_plural
+捕捉 {0} 隻草、水或火屬性的寶可夢
+quest_evolve_eevee_types_singular
+讓1隻電、水或火屬性的寶可夢進化
+quest_evolve_eevee_types_plural
+讓 {0} 隻電、水或火屬性的寶可夢進化
+quest_land_nice_curve_singular
+用曲球投出1次Nice
+quest_land_nice_curve_plural
+用曲球投出 {0} 次Nice

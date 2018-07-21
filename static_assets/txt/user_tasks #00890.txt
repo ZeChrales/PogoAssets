@@ -1,0 +1,4 @@
+catch_a_pokemon_short_title
+Catch a Pokémon
+visit_a_pokestop_short_title
+Check out a PokéStop

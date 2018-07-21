@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+Ciao!\nIo sono il Professor Willow.
+onboard_welcome_screen|2
+Lo sapevi che questo mondo è abitato da creature chiamate Pokémon?
+onboard_welcome_screen|3
+Puoi trovarne in ogni angolo del globo.
+onboard_welcome_screen|4
+Alcuni corrono liberi nelle valli, altri volano in alto nei cieli e poi ci sono quelli che dimorano sulle montagne, nelle foreste e in prossimità dell’acqua.
+onboard_welcome_screen|5
+Ho trascorso la mia vita a studiarli e a comprenderne la distribuzione geografica.
+onboard_welcome_screen|6
+Che ne dici di darmi una mano nella mia ricerca?
+onboard_welcome_screen|7
+Ottimo! Ero appunto alla ricerca di un aiutante.
+onboard_welcome_screen|8
+Non dovrai far altro che trovare e catturare Pokémon in giro per il mondo!
+onboard_welcome_screen|9
+Ora, scegli un look per la tua avventura.
+first_time_encounter|1
+C’è un Pokémon nei dintorni!
+first_time_encounter|2
+Ecco delle Poké Ball. Con queste potrai catturarlo!
+onboard_caught_pokemon|1
+Complimenti!\nHai catturato il tuo primo Pokémon!
+onboard_caught_pokemon|2
+Si vede che hai la stoffa dell’Allenatore!\nCome ti chiami?
+onboard_change_name|1
+Ciao, Allenatore! Come hai detto che ti chiami?
+onboard_name_registered|1
+Wow! Che bel nome!\nPiacere di conoscerti!
+onboard_name_registered|2
+Durante le tue esplorazioni ti occorreranno più Poké Ball e altri strumenti.
+visit_a_pokestop|1
+Puoi trovarne presso i Pokéstop.
+visit_a_pokestop|2
+Troverai i Pokéstop presso luoghi d’interesse storico e monumenti.
+visit_a_pokestop|3
+Ora tocca a te esplorare il mondo che ti circonda. Non perdere tempo e inizia a catturare tanti Pokémon per registrarli nel tuo Pokédex!
+visit_a_pokestop|4
+Pronti... GO!
+__backup__
+Grande! A quanto pare, hai catturato {0}, un Pokémon di tipo {1}!
+first_time_gym_low_level|1
+Questa è una Palestra, il luogo dove metterai alla prova la tua abilità nelle lotte Pokémon.
+first_time_gym_low_level|2
+Non hai molta esperienza come Allenatore, vero?
+first_time_gym_low_level|3
+Ritorna quando avrai raggiunto il livello {0}!
+first_time_gym_team_intro|1
+Wow! Hai catturato un bel po’ di Pokémon e accumulato un sacco di esperienza come Allenatore. Complimenti!
+first_time_gym_team_intro|2
+Vorrà dire che hai tutte le carte in regola per affrontare delle lotte Pokémon!
+first_time_gym_team_intro|3
+Ho tre magnifici assistenti.
+first_time_gym_team_intro|4
+Gestiscono tre squadre differenti e ciascuno di essi ha un approccio particolare alla ricerca Pokémon.
+first_time_gym_team_intro|5
+Ho chiesto loro di condurre delle lotte Pokémon presso delle Palestre come parte della mia ricerca.
+first_time_gym_team_intro|6
+E non vedono l’ora che tu entri a far parte di una delle loro squadre.
+team_yellow_intro|1
+Ciao, io sono Spark, il capo della Squadra Istinto.
+team_yellow_intro|2
+I Pokémon sono delle creature dall’intuito eccezionale!
+team_yellow_intro|3
+Scommetto che il segreto del loro intuito ha a che fare con il modo in cui nascono.
+team_yellow_intro|4
+Per questo motivo, preferisco studiare i Pokémon che ho fatto io stesso schiudere da un Uovo.
+team_yellow_intro|5
+Non puoi mai perdere quando segui l’istinto!
+team_blue_intro|1
+Io sono Blanche, il capo della squadra Saggezza.
+team_blue_intro|2
+La saggezza dei Pokémon è incommensurabile.
+team_blue_intro|3
+Io studio il motivo per cui si evolvono.
+team_blue_intro|4
+Il punto di forza della mia squadra?
+team_blue_intro|5
+Se analizzi con calma ogni situazione, non potrai mai perdere!
+team_red_intro|1
+Mi chiamo Candela e sono a capo della Squadra Coraggio!
+team_red_intro|2
+I Pokémon sono più forti degli esseri umani. Non solo, sono anche più coraggiosi.
+team_red_intro|3
+La mia ricerca ha a che fare con l’innato potere dei Pokémon e la loro vera forza.
+team_red_intro|4
+I Pokémon allenati dalla mia squadra sono sicuramente i più forti, non ci sono dubbi!
+team_red_intro|5
+Te la senti?
+team_yello_welcom|1
+Evviva! Miriamo alla vetta e sconfiggiamo più Palestre possibili, d’accordo?
+team_blue_welcom|1
+La scelta più logica, chiaramente. Ricorda di mantenere sempre il sangue freddo durante la lotta.
+quickstart_pokestopfar|1
+Questo è un Pokéstop.
+quickstart_pokestopfar|2
+È un luogo del mondo reale dove puoi trovare Poké Ball e altri strumenti.
+quickstart_pokestopnear|1
+Il Pokéstop cambierà aspetto quando ti avvicini. Prova a toccarlo!
+quickstart_pokestopspin|1
+Fai girare il centro della struttura per generare strumenti. Tocca gli strumenti per raccoglierli.
+quickstart_gymmap|1
+Questa è una Palestra.
+quickstart_gymmap|2
+Ogni Palestra è contesa da tre squadre diverse.
+quickstart_gymbuttons_assign|1
+Assegna uno dei tuoi Pokémon a una Palestra vuota per rivendicarla per la tua squadra. Rinforza una Palestra amica assegnandogli uno dei tuoi Pokémon per aiutare a difenderla.
+quickstart_gymbuttons_train|1
+Allena i tuoi Pokémon presso una Palestra amica per aumentarne il grado di prestigio e il livello.
+quickstart_gymbuttons_battle|1
+Sfida una Palestra rivale per diminuirne il grado di prestigio e il livello.
+quickstart_battledodge|1
+Durante una lotta, fai scivolare il dito a destra o sinistra per schivare gli attacchi in arrivo.
+appraise_intro_1|1
+Ciao {0}. Se vuoi posso analizzare il tuo {1}.
+appraise_size_tiny_1|1
+Questo {0} è il più piccolo mai visto prima. Incredibile.
+appraise_size_small_1|1
+Le dimensioni del tuo {0} sono sotto la media.
+appraise_size_large_1|1
+Le dimensioni del tuo {0} sono sopra la media.
+appraise_size_huge_1|1
+Le dimensioni di questo {0} sono... colossali. Un’anomalia statistica, non c’è dubbio!
+appraise_stat_low_1|1
+Credo che le sue statistiche non siano fuori dell’ordinario.
+appraise_stat_mid_1|1
+La sue statistiche sono piuttosto buone.
+appraise_stat_high_1|1
+Devo dire che le sue statistiche sono eccellenti.
+appraise_stat_best_1|1
+Delle statistiche così non si sono mai viste. Incredibile.
+appraise_overall_low_1|1
+Nel complesso, il tuo {0} non avrà grande successo nelle lotte.
+appraise_overall_mid_1|1
+Nel complesso, il tuo {0} è sopra la media.
+appraise_overall_high_1|1
+Nel complesso, il tuo {0} ha attirato la mia attenzione.
+appraise_overall_best_1|1
+Nel complesso, il tuo {0} è una meraviglia assoluta. Che esemplare unico!
+appraise_outro_1|1
+E con questo ho concluso la mia analisi. A presto!
+appraise_intro_2|1
+Ciao {0}! Che ne dici di dare un’occhiata al tuo {1}?
+appraise_size_tiny_2|1
+Il tuo {0} è così piccolo che non l’avevo nemmeno visto!
+appraise_size_small_2|1
+Oh, che {0} piccolino! Più carino di così...
+appraise_size_large_2|1
+Il tuo {0} è bello grosso, non c’è che dire!
+appraise_size_huge_2|1
+Il tuo {0} è gigantesco, il più grande che abbia mai visto!
+appraise_stat_low_2|1
+Delle statistiche del genere non gli saranno di grande aiuto nella lotta.
+appraise_stat_mid_2|1
+Delle statistiche del genere dovrebbero bastare nelle lotte.
+appraise_stat_high_2|1
+Ha delle statistiche eccellenti. Forte!
+appraise_stat_best_2|1
+Che statistiche sbalorditive. Non riesco a credere ai miei occhi!
+appraise_overall_low_2|1
+Nel complesso, il tuo {0} potrebbe non essere forte nella lotta, ma mi piace lo stesso!
+appraise_overall_mid_2|1
+Nel complesso, il tuo {0} non è niente male.
+appraise_overall_high_2|1
+Nel complesso, il tuo {0} è molto forte. Devi esserne orgoglioso!
+appraise_overall_best_2|1
+Nel complesso, il tuo {0} è semplicemente stupefacente. Non ha rivali!
+appraise_outro_2|1
+Sono felice di averti potuto aiutare. A presto!
+appraise_intro_3|1
+Ehi, {0}! Vuoi che dia un’occhiata al tuo {1}?
+appraise_size_tiny_3|1
+Accidenti! Questo {0} è il più piccolo che abbia mai visto!
+appraise_size_small_3|1
+Il tuo {0} è un po’ piccolo per la sua specie, non credi?
+appraise_size_large_3|1
+Il tuo {0} è bello GRANDE!
+appraise_size_huge_3|1
+Il tuo {0} è... è... ENORME!!!
+appraise_stat_low_3|1
+Credo che le sue statistiche non siano il massimo, ma possono andare.
+appraise_stat_mid_3|1
+C’è certamente qualcosa di valido nelle sue statistiche.
+appraise_stat_high_3|1
+Che statistiche forti! Incredibile!
+appraise_stat_best_3|1
+Le sue statistiche sono senza dubbio le migliori che abbia mai visto!
+appraise_overall_low_3|1
+Nel complesso, il tuo {0} potrebbe migliorare nelle lotte.
+appraise_overall_mid_3|1
+Nel complesso, il tuo {0} non è malaccio.
+appraise_overall_high_3|1
+Nel complesso, il tuo {0} è molto forte!
+appraise_overall_best_3|1
+Nel complesso, il tuo {0} sembra potercela fare contro i migliori!
+appraise_outro_3|1
+Io la penso così! Ciaooo!
+appraise_stat_highest_1|1
+Vedo che la statistica {0} è il suo punto forte.
+appraise_stat_highest_tie_1|1
+Non è male neanche la sua statistica {0}.
+appraise_stat_highest_2|1
+Il suo punto forte è la statistica {0}.
+appraise_stat_highest_tie_2|1
+Anche la sua statistica {0} è notevole.
+appraise_stat_highest_3|1
+La sua statistica {0} è eccellente.
+appraise_stat_highest_tie_3|1
+Non è da sottovalutare neanche la statistica {0}!

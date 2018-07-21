@@ -1,0 +1,178 @@
+age_gate_screen
+생년월일을 입력해 주십시오
+authentication_revoked_error
+서버에 접속하지 못했습니다.
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/en
+banned_player_lockout_1
+이용규약 위반이 확인되어 계정이 정지되었습니다.\n\n계정 정지 처분에 대한 자세한 내용은 헬프센터에서 확인해 주십시오.
+banned_player_lockout_2
+헬프센터로 가기
+err_no_internet
+인터넷에 접속할 수 없습니다
+err_update_now
+스토어에서 최신 버전으로 갱신해 주십시오
+facebook_login_button
+Facebook
+fb_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+field_test_lockout
+필드 테스트에 참가 감사합니다!\n곧 만날 수 있길 바랍니다!
+general_accept
+동의한다
+general_error
+Error
+general_network_error
+네트워크 에러
+general_button_select
+결정
+general_cancel
+취소
+general_no
+No
+general_ok
+OK
+general_sign_out
+로그아웃
+general_sign_out_confirm
+로그아웃하시겠습니까?
+general_yes
+Yes
+google_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+google_login_button
+Google
+login_username
+유저명
+login_password
+비밀번호
+privacy_policy_title
+Pokémon GO 개인정보 보호
+privacy_policy_button
+개인정보보호
+ptc_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+ptc_error_activation_required
+유효한 계정을 사용해 주십시오
+ptc_forgot_password
+패스워드를 잊어버렸으면 여기
+ptc_forgot_username
+유저명을 잊어버렸을 때는 여기
+ptc_login_button
+포켓몬 트레이너 클럽
+ptc_login_submit
+로그인
+ptc_login_title
+포켓몬 트레이너 클럽
+ptc_need_to_register_button
+등록하기
+registration_choice_screen
+등록할 계정을 선택해주십시오
+server_lockout
+불편을 드려 죄송합니다.\n현재 접속이 집중되어 연결이 어렵습니다. \n잠시 후에 다시 시도해주십시오.
+settings_are_you_sure_support_prompt
+서포트 web 사이트에 이동하겠습니까?
+submit_age_button
+송신
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/en
+unauthorized_device_lockout_1
+사용하고 있는 단말기 OS 버전이 미대응 또는 특정 조작(ROOT화 등)이 검출되어 Pokémon GO를 구동할 수 없습니다.
+month_jan
+1
+month_feb
+2
+month_mar
+3
+month_apr
+4
+month_may
+5
+month_jun
+6
+month_jul
+7
+month_aug
+8
+month_sep
+9
+month_oct
+10
+month_nov
+11
+month_dec
+12
+authentication_retry_prompt
+로그인에 실패했습니다
+authentication_failed_try_again
+다시 시도
+authentication_failed_sign_out
+다른 계정으로 시도한다
+existing_player_label
+다시 로그인하겠습니까?
+existing_player_button
+로그인
+new_player_label
+신규 플레이어입니까?
+new_player_button
+계정 만들기
+existing_account_screen
+사용할 계정
+new_account_screen
+신규로 만들 계정
+non_existent_account
+로그인할 수 없습니다. 계정 정보를 확인해 주십시오.
+settings_account_header
+계정
+settings_account_linked
+연결됨
+settings_account_not_linked
+연결 안 됨
+settings_account_link_tip
+SNS 계정을 연결하면 외부 계정정보를 사용하여 로그인할 수 있습니다.
+unlink_account_confirm
+<size=36>계정 연결을 해제하겠습니까?</size>\n\n소셜 기능을 사용할 수 없거나 로그인 정보에 접속할 수 없게 됩니다.
+unlink_account_failed_active_session
+<size=36>해제할 수 없습니다!</size>\n\n이 계정은 진행 중인 게임 미션이 있습니다.
+link_account_failed
+이 계정과 연결할 수 없었습니다.
+unlink_account_failed
+계정 연결을 해제할 수 없었습니다.
+link_account_failed_auth
+<size=36><b>{0} Error</b></size>\n\n이 계정과 연결이 되지 않았습니다
+link_account_failed_taken
+<size=36>계정은 이미 존재합니다</size>\n\n이 계정은 기존 계정과 연결되어 사용되고 있습니다
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic for Kids
+sa_login_title
+Niantic for Kids
+login_create_player
+계정 작성:
+login_sign_in
+사용 계정:
+login_username_short
+유저명
+login_password_short
+패스워드
+ptc_login_title_short
+트레이너 클럽
+login_create_account
+신규작성
+ptc_account_creation_prompt
+포켓몬 트레이너 클럽 계정이 없습니까?
+sa_account_creation_prompt
+Niantic for Kids 계정이 없습니까?
+ptc_login_server_unreachable
+죄송합니다. 포켓몬 트레이너 클럽은 현재 이용할 수 없습니다.
+sa_login_server_unreachable
+죄송합니다. Niantic for Kids는 현재 이용할 수 없습니다.
+sa_auth_failed_permissions
+보호자 분에게 Niantic for Kids 계정에 로그인 하여 주니어 계정 사용 허가를 받으면 이 게임을 플레이할 수 있습니다.
+sa_auth_failed
+인증 확인할 수 없습니다. 다시 시도해 주십시오.
+sa_parent_dashboard_url
+https://parents.superawesome.tv/en/login

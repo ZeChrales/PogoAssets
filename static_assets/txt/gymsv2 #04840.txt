@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+날짜
+gymbadge_sort_alphabetical
+이름
+gymbadge_sort_nearby
+거리
+gymbadge_sort_score
+랭크
+gymbadge_sort_progress
+진척
+day_abbrev
+일
+hour_abbrev
+시간
+minute_abbrev
+분
+second_abbrev
+초
+gymbadge_aboutthisgym
+이 체육관에 대해
+gymbadge_totalgymactivity
+활동
+gymbadge_statslabel_won
+쓰러뜨린 수
+gymbadge_statslabel_defended
+방어시간
+gymbadge_statslabel_fed
+나무열매
+gym_removal_notification_toast
+{0}(이)가 체육관에서 돌아왔다!
+pokemon_hungry_notification_toast
+{0}(이)가 지친것 같다!
+pokemon_won_notification_toast
+{0} (이)가 체육관을 지켰다!
+nearby_raid_notification_toast
+근처에서 레이드배틀이 시작할 것 같다!
+gym_removal_notification_toast|1
+{0}(이)가 체육관에서 돌아왔다!
+gym_removal_notification_toast|2
+{0}(이)가 체육관에서 돌아왔다!
+pokemon_hungry_notification_toast|1
+{0}의 모습을 살펴보자
+pokemon_hungry_notification_toast|2
+{0}(이)가 나무열매를 원한다
+pokemon_won_notification_toast|1
+{0}(이)가 체육관 배틀에 이겼다!
+pokemon_won_notification_toast|2
+{0}(이)가 체육관 배틀에서 상대를 쓰러뜨렸다!
+nearby_raid_notification_toast|1
+근처에서 레이드배틀이 시작할 것 같다!
+nearby_raid_notification_toast|2
+근처에서 레이드배틀이 시작합니다!
+raid_timer_label1
+다른 플레이어 참가를 기다리고 있습니다
+raid_timer_label2
+참가할 포켓몬을 결정해 주세요
+raid_members
+참가인원
+raid_group_code
+그룹 코드
+raid_howto_button
+플레이 방법
+raid_join_button
+참가한다
+raid_join_private_button
+그룹코드 입력
+raid_leave_lobby_prompt
+그룹에서 탈퇴하겠습니까?\n\n 탈퇴 후 다시 참가할 수 없습니다.
+raid_group_code_intro
+그룹코드를 입력하면 친구와 같이 배틀에 참가할 수 있습니다
+raid_join_private_group_button
+참가한다
+raid_create_private_group_button
+신규 그룹 만들기
+raid_join_private_lobby_invalid_code
+그룹코드가 무효합니다. 올바른 코드를 입력해 주세요.
+settings_push_notification_header
+알림 설정
+settings_low_happiness
+의욕이 떨어졌을 때
+settings_pokemon_return
+포켓몬의 귀환
+settings_battle_victory
+체육관을 지켜냈을 때
+raid_already_completed
+이 레이드배틀에는 다시 참가할 수 없습니다
+rare_candy_usage_confirmation
+이상한사탕을 {0}의 사탕으로 바꾸겠습니까?
+item_rare_candy_name
+이상한사탕
+item_rare_candy_desc
+에너지가 담긴 사탕. 모든 포켓몬의 사탕으로 변할 수 있다.
+item_move_reroll_fast_attack_name
+기술머신노말
+item_move_reroll_fast_attack_desc
+포켓몬이 새로 노말 어택을 배우게 할 수 있는 장치.
+item_move_reroll_special_attack_desc
+포켓몬이 새로운 스페셜 어택을 배우게 할 수 있는 장치.
+item_move_reroll_special_attack_name
+기술머신스페셜
+special_move_reroll_confirm_title
+{0}에게 스페셜 어택을 배우게 하겠습니까?
+move_reroll_confirm_desc
+{0}(은)는 <b>{1}</b>(을)를 잊어버립니다
+quick_move_reroll_confirm_title
+{0}에게 노말어택을 배우게 하겠습니까?
+move_reroll_success_message
+{0}은(는) 새로운 기술을 배웠다!
+raid_team_contribution
+팀 공헌도
+raid_lobby_locked
+잠겼습니다
+raid_timer_label3
+시작까지
+gym_please_buy_raid_ticket
+프리미엄 레이드패스를 구매해 주세요
+filter_hint1
+{0} 검색 힌트
+filter_hint2
+이름을 입력해서 검색하기
+filter_hint3
+도감번호 검색 (예) 23-145
+filter_hint4
+{0}로 검색 (예) {1} {2}-{3}
+filter_hint5
+「{1}」(으)로 입력해서 진화할 수 있는 포켓몬 검색
+filter_hint6
+{0} 진화형 검색 (예) +{1}
+filter_hint7
+","로 구분해서 복수 조건을 지정
+filter_hint8
+타입 입력 (예) {0}, {1} 등
+shop_battle_tickets_title
+레이드패스가 없습니다
+item_free_raid_ticket_name
+레이드패스
+item_free_raid_ticket_desc
+레이드배틀 참가에 필요한 패스. 체육관 포토디스크를 회전하면 1일 1장 손에 넣을 수 있다. 1장만 가질 수 있다.
+item_paid_raid_ticket_name
+프리미엄 레이드패스
+item_paid_raid_ticket_desc
+레이드배틀 참가에 필요한 패스.
+use_raid_ticket_confirmation
+레이드패스를 사용한다
+pokecoins_daily_limit_reached
+1일 {0} 포켓코인 획득 상한에 도달했습니다.
+received_free_item_title
+{0} (을)를 받았다!
+gymbadge_timeelapsed
+경과시간
+raid_private_group
+개인
+raid_remove_private_from_lobby_prompt
+그룹을 공개하겠습니까?\n\n 변경할 수 없습니다.
+raid_message_select_your_pokemon
+배틀할 포켓몬을 선택해주세요!
+raid_battle_retreat_confirmation
+배틀에서 나가겠습니까?
+raid_message_get_back_into_battle
+포켓몬을 회복시켜 배틀에 복귀!
+raid_timer_label4
+종료까지
+team_picker_last_team
+이전과 동일하게
+team_picker_title_load
+파티 불러오기
+team_picker_title_save
+파티 등록
+team_picker_fainted_pokemon_warning
+배틀할 수 있는 포켓몬이 없습니다. 기절한 포켓몬을 회복해주세요.
+battle_intro_battles_won
+승리기록 : {0} 승
+team_picker_default_team_name
+파티 {0}
+team_picker_optimize
+자동선택
+team_picker_set_team_name
+이름 정하기
+team_picker_team_not_set
+세트되지 않았습니다
+gym_feed_pokemon_full
+{0}(은)는 의욕이 넘친다! 다른 포켓못에게도 줘보자.
+gym_feed_pokemon_berry_timeout
+{0}(은)는 그 나무열매가 지겨운 것 같다...
+gym_feed_pokemon_timeout
+{0}(은)는 만족하고 있다. 다른 포켓몬에게 나무열매를 주자.
+avatar_detail_pokemon_caught
+잡은 포켓몬
+avatar_detail_walking_distance
+걸은 거리
+avatar_detail_battle_won
+배틀 승리 수
+avatar_detail_total_activities
+활동
+raid_tut_group_forming_message
+같이 레이드배틀 할 그룹입니다. 자동으로 만들어집니다.
+gym_out_of_range
+체육관이 범위 밖에 있습니다
+general_go_to_shop
+숍으로
+general_quit
+도망간다
+raid_tut_group_forming
+그룹이란?
+raid_tut_how_to_battle_message
+탭 해서 보스 포켓몬을 공격합시다. 게이지가 가득 차면 길게 눌러 스페셜 어택을 할 수 있습니다!
+raid_tut_how_to_battle
+배틀 방법
+raid_tut_pass_message
+레이드배틀에 참가하려면 레이드패스가 필요합니다. 체육관 위에 있는 포토디스크를 돌리면 1일 1장까지 손에 넣을 수 있으나 1장만 가질 수 있습니다. 제한 없이 가질 수 있는 프리미엄 레이드패스는 숍에서 포켓코인과 교환으로 손에 넣을 수 있습니다.
+raid_pass_caps
+레이드패스
+raid_tut_what_is_raid_message
+레이드배틀이란, 트레이너끼리(1그룹 20명까지) 협력하여 아주 강한 보스 포켓몬에게 도전하는 배틀입니다. 모두와 힘을 합쳐 쓰러뜨리면 여러 도구가 손에 들어오며 보스 포켓몬을 잡을 수 있는 찬스를 얻을 수 있습니다.
+raid_tut_what_is_raid
+레이드배틀이란?
+raid_enter_group_code
+그룹코드 입력
+raid_public_warning_message
+그룹을 공개로 변경하면 개인으로는 돌아갈 수 없습니다. 정말로 공개로 하겠습니까?
+raid_change_to_public
+공개로 변경
+raid_share_private_code_message
+이 그룹코드를 입력하면 친구와 같이 레이드배틀에 참가할 수 있습니다.「그룹코드 입력」버튼을 누르고 코드를 입력합니다.
+raid_private_lobby_success_message
+그룹 참가에 성공했습니다!
+raid_rejoin_battle
+다시 참가한다
+battle_summary
+결과
+raid_defeat_boss
+레이드배틀 참가상
+raid_damage_bonus
+데미지
+raid_gym_ownership
+체육관의 소속
+general_total_caps
+TOTAL
+raid_bonus_challenge
+GO TO BONUS CHALLENGE
+profile_gymbadges_recently_visited
+최근에 간 체육관
+profile_category_gymbadges
+체육관 배지
+gym_spinner_team_bonus
+동료팀 보너스
+raid_raid
+레이드배틀
+raid_level_caps
+레이드레벨
+raid_suggested_group_size
+추천 인원수
+raid_nearby_ongoing
+진 행 중
+gym_battle_continue_battles_won_stat
+{0} 승
+gym_battle_victory_subtitle
+체육관을 격파했다!
+gym_battle_defeat_body
+싸울 수 있는 포켓몬이 없다...
+gym_battle_defeat_footer
+다시 도전해 보자
+raid
+레이드
+gym_pokemon_you_fed_not_there
+이미 체육관에서 없어졌습니다
+raid_try_again
+포켓몬을 다시 선택하거나 기절한 포켓몬을 회복해서 배틀에 복귀한다!
+raid_defeat_message
+싸울 수 있는 포켓몬이 없다...
+general_battle
+배틀
+gym_deployment_time_format
+{0}일 {1}시간 {2}분
+free_raid_ticket_details_desc
+레이드배틀 참가에 필요한 패스. 체육관 위에 있는 포토디스크를 돌리면 1일 1장까지 손에 넣을 수 있으나 1장만 가질 수 있습니다.\n\n제한 없이 가질 수 있는 프리미엄 레이드패스는 숍에서 포켓코인과 교환해서 손에 넣을 수 있습니다.
+paid_raid_ticket_details_desc
+레이드배틀 참가에 필요한 패스. 여러 장 가질 수 있습니다.\n\n숍에서 포켓코인과 교환할 수 있습니다.
+battle_prep_opponents_header
+배틀 상대
+gym_feed_pokemon_busy
+잠시 후 시도해 주세요.
+gymbadge_sort_defending
+자신의 포켓몬이 있는 체육관
+raid_finding_players
+참가자를 찾고 있습니다
+gym_same_team_deploy_lockout
+체육관에서 배틀이 끝날 때까지 잠시 기다려 주세요
+screen_title_badge_collection
+체육관 배지
+profile_no_gymbadges
+배지가 없습니다
+free_ticket_bag_full_error
+도구가 가득 찼습니다. 레이드패스를 받을 수 없습니다.
+raid_level
+강함
+battle_prep_my_team_header
+나의 배틀 파티
+battle_prep_go
+배틀 시작!
+raids_no_nearby
+근처에서 레이드배틀은 일어나지 않습니다.
+gymbadge_you_earned
+체육관 배지를 손에 넣었다!
+award_badge_new_badge
+동료팀의 체육관으로 만들고 배지 랭크를 올리자!
+gym_feed_raid_active
+체육관을 보스 포켓몬이 점령했습니다. 잠시 후에 와주세요.
+gym_next_battle
+배틀을 계속한다
+gym_battle_leave
+도망간다
+gym_battle_next
+다음 배틀
+error_no_available_lobbies
+이 코드를 가진 그룹을 발견할 수 없습니다
+error_lobby_visibility
+로비 표시 에러
+error_start_raid_battle
+레이드배틀 개시 에러
+error_pokemon_team_update
+포켓몬 구성 갱신 에러
+error_join_lobby
+로비에 들어가지 못했습니다
+gym_badge_list_button
+리스트
+raid_defeat_try_again
+포켓몬을 선택하고(또는 회복하고) 배틀에 복귀!
+raid_time_out_try_again
+시간 내에 보스 포켓몬을 쓰러뜨리지 못했습니다.
+item_golden_razz_berry_name
+황금 라즈열매
+item_golden_razz_berry_desc
+포켓몬에게 주면 상당히 잡기 쉬워지는 나무열매.
+encounter_raid_pokemon_appeared
+{0} 잡기 도전!
+raid_need_a_viable_raid_team
+레이드배틀에 참가할 수 있는 포켓몬이 없습니다. 회복해주세요.
+error_raid_active
+보스 포켓몬이 체육관을 점령하고 있습니다!
+badges_tut_description
+체육관을 방문하여 포토디스크를 회전시키면 체육관 배지를 손에 넣을 수 있습니다. 그 체육관을 지키거나 되찾기 위한 배틀을 함으로써 배지의 랭크를 올릴 수 있습니다.
+profile_gymbadges_help
+배지란?
+gym_tut_title_1
+도구를 손에 넣는다
+gym_tut_title_2
+포켓몬을 배치
+gym_tut_title_3
+의욕
+gym_tut_title_4
+나무열매를 주자!
+gym_tut_desc_1
+체육관 위에도 포토디스크가 있습니다. 회전시키면 도구를 손에 넣을 수 있습니다.
+gym_tut_desc_2
+동료팀의 체육관에서는 포켓몬을 1마리 배치할 수 있습니다. 하트모양 게이지는 포켓몬의 의욕을 나타내며 체육관을 지키는 모습을 확인할 수 있습니다.
+gym_tut_desc_3
+시간의 경과나 배틀을 할 때마다 포켓몬의 의욕은 떨어집니다. 의욕이 0인 상태에서 배틀에 지면 체육관을 떠나 트레이너 곁으로 돌아갑니다.
+gym_tut_desc_4
+동료팀의 체육관에서는 포켓몬에게 나무열매를 줄 수 있습니다. 나무열매를 받으면 포켓몬의 의욕이 올라갑니다.
+no_usable_items_error
+사용할 수 있는 도구가 없습니다
+gym_battle_victory_title
+훌륭해!
+tm_no_other_moves
+다른 기술을 배울 수 없습니다!
+disabled_low_stamina
+HP가 줄었습니다
+disabled_buddy
+파트너 포켓몬을 배치할 수 없습니다
+badge_raid_battle_won
+레이드배틀에 {0} 번 승리했다!
+badge_hours_defended_title
+체육관 리더
+badge_hours_defended
+체육관을 {0}시간 방어했다!
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+나무열매 마스터
+badge_berries_fed
+포켓몬에게 {0}개 나무열매를 줬다!
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+챔피언
+gym_deploy_raid_active
+체육관을 보스 포켓몬이 점령했습니다. 잠시 후에 와주세요.
+error_too_many_deployed
+이미 6마리가 배치되어 있습니다!
+disabled_max_same_defender
+1종류 포켓몬만 체육관에 배치할 수 있습니다
+error_fort_is_full
+이 체육관에는 배치할 수 있는 슬롯이 없습니다
+award_badge_rank_up
+동료팀 체육관으로 만들어 배지 랭크를 올리자
+raid_not_yet_available
+레이드배틀에 참가할 수 없습니다.\n트레이너 레벨을 올리고 시도해 주십시오.
+raid_private_lobby_created_success_message
+그룹 작성에 성공했습니다!
+pokestop_button_read_qr_code
+QR 코드 스캔하기
+pokestop_button_manual_input
+코드넘버 입력
+pokestop_check_in_manual_entry_title
+레지스트레이션 코드를 입력
+pokestop_check_in_notice
+어서 오세요 {0}님!\n단말기 카메라를 사용하여 QR 코드를 스캔해서 체크인할 수 있습니다.
+pokestop_check_in_succeeded
+체크인 완료
+disabled_max_same_defenders
+1종류 포켓몬만 체육관에 배치할 수 있습니다
+gym_closed_exclusive_raid_not_invited
+특별한 레이드배틀이 진행되고 있습니다.\n{0}시에 다시 열립니다.
+disabled_legendary
+전설의 포켓몬은 체육관에 배치할 수 없습니다
+team_picker_title
+배틀 파티를 불러내서 보존
+team_picker_load
+불러내기
+team_picker_save
+등록하기
+battle_prep_create_team
+참가할 포켓몬을 선택해주세요
+battle_prep_new_team
+새로운 배틀파티
+battle_prep_recommended_team
+추천 배틀파티
+screen_title_pokemon_inventory_party
+배틀 파티
+raid_ticket_event
+이벤트
+filter_key_defender
+방어 포켓몬
+filter_key_legendary
+전설의 포켓몬
+filter_key_shiny
+색이 다른
+filter_key_mythical
+환상
+filter_key_alola
+알로라

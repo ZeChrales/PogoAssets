@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+앞으로 {0} km 같이 걸어보자
+weather_weather
+날씨
+weather_clear
+맑음
+weather_rainy
+비
+weather_partly_cloudy
+약간 구름
+weather_overcast
+구름
+weather_windy
+강풍
+weather_snow
+눈
+weather_fog
+안개
+weather_boosted_types
+부스트 되는 타입
+weather_boosted_types_desciption
+이 타입 포켓몬은 평소보다 강해지고 쉽게 출현합니다. 잡으면 별의모래를 많이 받을 수 있습니다.
+weather_extreme
+거친 날씨
+weather_extreme_description
+위험한 날씨 조건에 있습니다. 주변에 한층 더 주의해 주십시오.
+weather_alert_warning
+사시는 지역의 각종 경보, 주의보를 확인해 주십시오.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+{0} (은)는 같이 다니기 알맞다!
+weather_sunny
+맑음
+weather_boost_active_1
+{0}의 {1} (이)가 부스트됩니다!
+weather_boost_active_2
+{0}의 {1}(와)과 {2}(이)가 부스트됩니다.
+weather_alert_safety_button
+확인했습니다
+weather_careful_description
+날씨가 나쁠때는 특히 주변에 주의해 주십시오! 거주하는 지역의 각종 주의보, 경보도 확인해 주십시오.
+weather_careful
+먼저 안전을 확인!
+form_normal
+캐스퐁의 모습
+form_sun
+태양의 모습
+form_rain
+빗방울의 모습
+form_snow
+설운의 모습
+form_defense
+디펜스폼
+form_attack
+어택폼
+form_speed
+스피드폼
+form_deoxys_normal
+노말폼
+general_send
+보내기
+general_report_title
+피드백
+weather_report_option_1
+날씨가 정확하게 반영되지 않았습니다
+weather_report_option_2
+날씨는 정확하지만, 최신 상황을 반영하지 못했습니다

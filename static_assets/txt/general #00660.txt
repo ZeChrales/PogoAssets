@@ -1,0 +1,1616 @@
+badge_capture_total
+捉到 {0} 隻寶可夢
+badge_capture_total_title
+收藏家
+badge_capture_total_value_format
+N0
+badge_defeated_fort
+在 {0} 場對戰中獲勝
+badge_defeated_fort_title
+對戰
+badge_defeated_fort_value_format
+N0
+badge_encountered_total
+遇見 {0} 隻寶可夢
+badge_encountered_total_title
+遭遇
+badge_encountered_total_value_format
+N0
+badge_evolved_total
+讓 {0} 隻寶可夢進化
+badge_evolved_total_title
+研究員
+badge_evolved_total_value_format
+N0
+badge_hatched_total
+孵化 {0} 顆蛋
+badge_hatched_total_title
+培育家
+badge_hatched_total_value_format
+N0
+badge_pokedex_entries
+在寶可夢圖鑑裡登錄 {0} 隻關都地區的寶可夢！
+badge_pokedex_entries_title
+關都
+badge_pokedex_entries_value_format
+N0
+badge_pokestops_visited
+拜訪 {0} 個寶可補給站
+badge_pokestops_visited_title
+背包客
+badge_pokestops_visited_value_format
+N0
+badge_travel_km
+行走 {0:0.#} km
+badge_travel_km_title
+慢跑者
+badge_travel_km_value_format
+N1
+badge_unique_pokestops
+拜訪 {0} 個獨特的寶可補給站
+badge_unique_pokestops_title
+獨特的寶可補給站
+badge_unique_pokestops_value_format
+N0
+badge_you_earned
+恭喜你！得到獎牌了！
+badge_big_magikarp
+捉到 {0} 隻巨大的鯉魚王
+badge_big_magikarp_title
+釣魚者
+badge_big_magikarp_value_format
+N0
+badge_small_rattata
+捉到 {0} 迷你的小拉達
+badge_small_rattata_title
+短褲小子
+badge_small_rattata_value_format
+N0
+badge_pikachu
+捉到 {0} 隻皮卡丘
+badge_pikachu_title
+皮卡丘粉絲
+badge_pikachu_value_format
+N0
+badge_deployed_total
+將 {0} 隻寶可夢指派到道館！
+badge_deployed_total_title
+道館裡的寶可夢
+badge_deployed_total_value_format
+N0
+badge_battle_attack_won
+贏得 {0} 場道館對戰
+badge_battle_attack_won_title
+對戰女孩
+badge_battle_attack_won_value_format
+N0
+badge_battle_training_won
+訓練 {0} 隻寶可夢
+badge_battle_training_won_title
+精英訓練家
+badge_battle_training_won_value_format
+N0
+badge_battle_defend_won
+成功防禦道館 {0} 次！
+badge_battle_defend_won_title
+成功防禦道館的次數
+badge_battle_defend_won_value_format
+N0
+badge_prestige_raised
+將道館聲望值提升了 {0} ！
+badge_prestige_raised_title
+道館聲望上揚
+badge_prestige_raised_value_format
+N0
+badge_prestige_dropped
+讓道館聲望值減少了 {0} ！
+badge_prestige_dropped_title
+道館聲望下降
+badge_prestige_dropped_value_format
+N0
+badge_type_normal
+捉到 {0} 隻一般屬性的寶可夢
+badge_type_normal_title
+小學生
+badge_type_normal_value_format
+N0
+badge_type_fighting
+捉到 {0} 隻格鬥屬性的寶可夢
+badge_type_fighting_title
+空手道王
+badge_type_fighting_value_format
+N0
+badge_type_flying
+捉到 {0} 隻飛行屬性的寶可夢
+badge_type_flying_title
+養鳥人
+badge_type_flying_value_format
+N0
+badge_type_poison
+捉到 {0} 隻毒屬性的寶可夢
+badge_type_poison_title
+壞女孩
+badge_type_poison_value_format
+N0
+badge_type_ground
+捉到 {0} 隻地面屬性的寶可夢
+badge_type_ground_title
+遺跡迷
+badge_type_ground_value_format
+N0
+badge_type_rock
+捉到 {0} 隻岩石屬性的寶可夢
+badge_type_rock_title
+登山男
+badge_type_rock_value_format
+N0
+badge_type_bug
+捉到 {0} 隻蟲屬性的寶可夢
+badge_type_bug_title
+捕蟲少年
+badge_type_bug_value_format
+N0
+badge_type_ghost
+捉到 {0} 隻幽靈屬性的寶可夢
+badge_type_ghost_title
+靈異迷
+badge_type_ghost_value_format
+N0
+badge_type_steel
+捉到 {0} 隻鋼屬性的寶可夢
+badge_type_steel_title
+鐵路員工
+badge_type_steel_value_format
+N0
+badge_type_fire
+捉到 {0} 隻火屬性的寶可夢
+badge_type_fire_title
+營火專家
+badge_type_fire_value_format
+N0
+badge_type_water
+捉到 {0} 隻水屬性的寶可夢
+badge_type_water_title
+泳褲小伙子
+badge_type_water_value_format
+N0
+badge_type_grass
+捉到 {0} 隻草屬性的寶可夢
+badge_type_grass_title
+園藝家
+badge_type_grass_value_format
+N0
+badge_type_electric
+捉到 {0} 隻電屬性的寶可夢
+badge_type_electric_title
+電氣搖滾團
+badge_type_electric_value_format
+N0
+badge_type_psychic
+捉到 {0} 隻超能力屬性的寶可夢
+badge_type_psychic_title
+超能力者
+badge_type_psychic_value_format
+N0
+badge_type_ice
+捉到 {0} 隻冰屬性的寶可夢
+badge_type_ice_title
+滑雪者
+badge_type_ice_value_format
+N0
+badge_type_dragon
+捉到 {0} 隻龍屬性的寶可夢
+badge_type_dragon_title
+馴龍師
+badge_type_dragon_value_format
+N0
+badge_type_dark
+捉到 {0} 隻惡屬性的寶可夢
+badge_type_dark_title
+大姐頭
+badge_type_dark_value_format
+N0
+badge_type_fairy
+捉到 {0} 隻妖精屬性的寶可夢
+badge_type_fairy_title
+童話少女
+badge_type_fairy_value_format
+N0
+battle_pokemon_already_in_list
+已在同行隊伍中
+boot_loading
+LOADING...
+boot_beta_warning
+本軟體目前仍在開發中，所有資訊不得公開。請勿向他人展示或分享軟體中的資訊。
+boot_safety_warning
+請隨時注意四周環境，小心安全
+boot_safety_warning_1
+請勿邊玩遊戲邊走路或開車
+boot_safety_warning_2
+請勿擅闖禁止進入的區域
+boot_safety_warning_3
+請勿進入危險的地區
+confirm_use_effective
+{0} 有效
+confirm_use_ineffective
+{0} 無效
+confirm_use_tap_to_use
+點擊道具來使用
+date_format
+yyyy年 M月 d日
+egg_anticipation
+會孵出什麼呢！？
+egg_hatching
+哦？
+egg_received
+得到了1顆蛋！你真是太幸運了！
+egg_walk_to_hatch
+走 {0} 公里來孵化這顆蛋！
+egg_confirm
+概要
+encounter_gotcha
+太好了！
+encounter_pokemon_was_caught
+捉到 {0} 了！
+encounter_pokemon_broke_free
+寶可夢逃出來了！
+encounter_pokemon_ran_away
+喔不！野生的 {0} 逃走了！
+encounter_received_evolution_shard
+得到了 {0} 個進化碎片！
+encounter_no_pokeball
+沒有精靈球
+encounter_score_curveball
+曲球
+encounter_score_excellent_throw
+Excellent Throw
+encounter_score_first_catch
+今天的第1隻
+encounter_score_great_throw
+Great Throw
+encounter_score_milestone
+獎勵
+encounter_score_new_pokemon
+新的寶可夢
+encounter_score_nice_throw
+Nice Throw
+encounter_score_one_shot
+一擊中的
+encounter_score_pokemon_caught
+捕捉寶可夢
+encounter_score_total_exp
+{0} XP
+encounter_miss_throw
+Miss...
+encounter_nice_throw
+Nice!
+encounter_excellent_throw
+Excellent!
+encounter_great_throw
+Great!
+encounter_wild_pokemon_appeared
+野生的 <b>{0}</b> 出現了！
+encounter_pokeball_inventory_empty
+沒有精靈球了！
+encounter_score_total
+TOTAL
+encounter_berry_already_used
+你已經用過樹果了
+encounter_unknown_cp
+？？？
+err_get_bundle
+無法自伺服器取得遊戲資料
+err_get_digest
+無法自伺服器取得遊戲資料
+err_get_player
+無法自伺服器取得玩家資訊
+err_go_settings
+設定
+err_gps_off
+GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
+err_gps_silent
+無法取得GPS訊號
+err_location_not_measured
+無法偵側目前位置
+err_no_internet
+無法連線至網路
+err_retry
+重試
+err_skip
+稍後
+err_update
+更新
+err_update_now
+有新版本的Pokémon GO可以下載了。要現在更新嗎？
+err_taking_you_to_app_store
+更新
+feedback_added_xp
++{0} XP
+general_accept
+同意
+general_error
+錯誤
+general_network_error
+網路錯誤
+general_button_select
+確定
+general_cancel
+取消
+general_no
+No
+general_ok
+OK
+general_pokemon
+寶可夢
+general_pokemon_inventory_full
+你的同行隊伍已經滿了
+general_sign_out
+登出
+general_sign_out_confirm
+確定要登出嗎？
+general_yes
+Yes
+gym_approach_battles_won
+BATTLES WIN：
+gym_defeated
+道館被人攻佔了！
+gym_gym_is_too_far
+這間道館太遠了
+gym_leader_defeated
+道館館主被打敗了！
+gym_level
+道館等級
+gym_lose_prestige
+聲望值下降了 {0}
+gym_no_more_slots
+道館成員已達上限
+gym_player_is_already_member
+你已經是這間道館的成員了
+gym_prestige
+聲望
+gym_win_prestige
+聲望值提升了 {0}
+gym_results_pokemon_defeated
+打敗的寶可夢：
+gym_results_xp_awarded
+XP
+gym_results_prestige_change
+道館聲望：
+gym_results_victory
+You win!
+gym_results_defeat
+You lose!
+gym_results_timed_out
+Time's up!
+gym_level_too_low
+先把等級提升到 {0} 再回來對戰吧！
+gym_under_construction
+道館施工中
+gym_start_battle_error
+無法開始對戰
+item_bag_deployed
+寶可夢已被指派至道館，無法使用道具
+item_bag_irrelevant
+無法在此使用這個道具
+item_bag_no_items
+沒有可用的道具
+item_bag_potion_fainted
+無法對瀕死的寶可夢使用傷藥
+item_bag_potion_full_health
+這隻寶可夢的體力是全滿的
+item_bag_revive_not_fainted
+只能給瀕死的寶可夢使用
+item_use
+使用
+buff_already_applied
+正在使用中
+onboard_accept_tos
+同意
+onboard_decline_tos
+不同意
+onboard_short_tos
+Pokémon GO是一款使用行動定位服務的遊戲，系統將會收集你的位置資訊。當你在遊戲中進行特定操作時，其他玩家有可能會看到你的位置資訊。
+onboard_link_tos
+請詳細閱讀服務條款
+onboard_tos_title
+Pokémon GO 服務條款
+onboard_are_you_sure_decline_tos
+真的不同意嗎？
+onboard_terms_of_service
+服務條款
+onboard_select_your_avatar
+請選擇你的造型
+onboard_done_customization
+都準備好了嗎？
+onboard_select_a_name
+我跟其他訓練家該怎麼稱呼你？
+onboard_name_too_short_error
+可以再長一點嗎？
+onboard_name_invalid_characters_error
+只能使用英文字母和數字
+onboard_name_too_long_error
+可以再短一點嗎？
+onboard_name_not_available
+無法使用這個暱稱
+onboard_name_not_valid
+這個暱稱無效
+onboard_name_owned
+這個暱稱已被其他訓練家使用
+onboard_name_cannot_change
+伺服器錯誤
+onboard_name_fail
+發生錯誤，請輸入其他暱稱
+onboard_enter_name_prompt
+你希望別的訓練家怎麼稱呼你呢？
+onboard_enter_name_hint
+暱稱
+onboard_name_are_you_sure
+確定要用 <b>{0}</b> 這個暱稱嗎？
+pokedex_all_types
+所有屬性
+pokedex_notencountered
+還沒遇見的寶可夢
+pokedex_page_all
+所有
+pokedex_page_caught
+已捕捉：
+pokedex_page_seen
+已找到：
+pokedex_page_name_not_seen
+？？？？？
+pokedex_details_seen
+已找到：
+pokedex_details_caught
+已捕捉：
+pokedex_details_type
+屬性：
+pokedex_details_type_not_caught
+ーーー
+pokedex_details_weight
+體重：
+pokedex_details_weight_not_caught
+？？？
+pokedex_details_height
+身高：
+pokedex_details_height_not_caught
+？？？
+pokedex_details_category_not_caught
+？？？？？寶可夢
+pokedex_details_evolution
+進化
+pokedex_sort_alphabet
+名稱
+pokedex_sort_date
+時間
+pokedex_sort_hp
+HP
+pokedex_sort_level
+攻擊力
+pokedex_sort_number
+編號
+pokedex_sort_favorite
+我的最愛
+pokedex_registered_to_pokedex
+已登錄至寶可夢圖鑑
+pokemon_info_type
+屬性
+pokemon_info_weight
+體重
+pokemon_info_height
+身高
+pokemon_info_cp
+CP
+pokemon_info_powerup_section
+強化
+pokemon_info_powerup_button
+強化
+pokemon_info_powerup_need_candies
+{0} 的糖果不夠
+pokemon_info_powerup_need_stardusts
+需要更多星星沙子
+pokemon_info_powerup_player_lv_too_low
+訓練家等級不足，無法強化
+pokemon_info_powerup_pokemon_deployed
+{0} 已被指派至道館
+pokemon_info_powerup_confirmation
+要強化 {0} 嗎？
+pokemon_info_evolve_button
+進化
+pokemon_info_evolve_need_candies
+{0} 的糖果不夠
+pokemon_info_evolve_pokemon_deployed
+{0} 已被指派至道館
+pokemon_info_evolve_need_stardusts
+需要更多星星沙子
+pokemon_info_transfer_favorite_error
+不能傳送設為「我的最愛」的寶可夢！
+pokemon_info_pokemon_is_released
+{0} 再見！
+pokemon_info_candy_label
+{0}的糖果
+pokemon_info_stardust_label
+星星沙子
+pokemon_info_transfer_to_professor
+傳送
+pokemon_info_heal
+治療
+pokemon_info_transfer_to_professor_confirmation
+<size=36><b>確定要將 {0} 傳送給博士？</b></size>\n\n傳送後將無法取消
+pokemon_info_transfer_to_professor_result
+傳送成功！博士送來 {0} 顆糖果。
+pokemon_info_transfer_failed
+發生不明錯誤，無法傳送 {0} 。
+pokemon_info_release_deployed
+已被指派
+pokemon_type_normal
+一般
+pokemon_type_fighting
+格鬥
+pokemon_type_flying
+飛行
+pokemon_type_poison
+毒
+pokemon_type_ground
+地面
+pokemon_type_rock
+岩石
+pokemon_type_bug
+蟲
+pokemon_type_ghost
+幽靈
+pokemon_type_steel
+鋼
+pokemon_type_fire
+火
+pokemon_type_water
+水
+pokemon_type_grass
+草
+pokemon_type_electric
+電
+pokemon_type_psychic
+超能力
+pokemon_type_ice
+冰
+pokemon_type_dragon
+龍
+pokemon_type_dark
+惡
+pokemon_type_fairy
+妖精
+pokestop_item_inventory_full
+你的包包已經裝滿了
+pokestop_no_items_found
+請稍後再試
+pokestop_pokestop_is_too_far
+這個寶可補給站太遠了
+profile_player_level
+等級
+profile_start_date
+開始日：
+profile_button_activity_log
+冒險筆記
+profile_button_customize
+換裝
+recycle_dialog_prefix
+丟棄
+recycle_dialog_suffix
+{0}？
+screen_title_item_bag
+道具
+screen_title_pokedex
+寶可夢圖鑑
+screen_title_pokemon_inventory
+寶可夢
+screen_title_pokemon_inventory_egg
+蛋
+screen_title_settings
+設定
+screen_title_tips
+小秘訣
+team_name_team0
+未選擇隊伍
+team_name_team1
+叡智隊
+team_name_team2
+武勇隊
+team_name_team3
+靈犀隊
+pick_team_intro
+歡迎來到道館！
+pick_team_desc
+訓練家們分做3支隊伍，以對戰方式爭奪各地的道館。選擇你要加入的隊伍，和成員們一起訓練寶可夢、參加道館對戰吧！
+pick_team1_desc
+歡迎加入叡智隊！
+pick_team2_desc
+歡迎加入武勇隊！
+pick_team3_desc
+歡迎加入靈犀隊！
+pick_team_title
+選擇你要加入的隊伍
+pick_team_confirmation
+歡迎加入 {0} 隊！
+pick_team_rejection
+發生錯誤，無法加入
+pokemon_info_evolution_confirmation
+你要讓 {0} 進化嗎？
+pokemon_info_evolution_failed
+發生不明錯誤，無法讓 {0} 進化
+settings_music
+音樂
+settings_sound_effects
+音效
+settings_vibration
+震動
+settings_battery_saver
+省電設定
+settings_sfida
+Pokémon GO Plus
+settings_sfida_about_link
+關於 Pokémon GO Plus
+inventory_egg
+蛋
+pokemon_info_evolution_crystals
+進化碎片
+pokemon_info_evolution_crystals_remaining
+還差 {0} 個！
+pokemon_evolution_tap_to_evolve
+點擊牠來進化！
+about_screen_tos_btn
+服務條款
+about_screen_licenses_btn
+授權
+about_screen_btn
+關於 Pokémon GO
+about_screen_title
+關於 Pokémon GO
+about_screen_copyright1
+©2016-2017 Niantic, Inc.
+about_screen_copyright2
+©2016-2017 Pokémon.
+about_screen_copyright3
+©1995–2017 Nintendo / Creatures Inc. / GAME FREAK inc.
+settings_go_to_support
+常見問題
+settings_are_you_sure_support_prompt
+確定要結束遊戲，前往常見問題的網頁嗎？
+levelup_items_unlocked
+開放新道具了
+levelup_sequence_text
+升級！
+pokenav_nearby
+附近的寶可夢
+pokenav_my_pokedex
+我的寶可夢圖鑑
+admin_name_was_banned
+此暱稱無法使用，請重新輸入
+encounter_pokemon_not_in_range
+這隻寶可夢太遠了
+super_effective
+效果絕佳！
+not_very_effective
+效果不太好……
+attack_dodge
+閃躲成功！
+gym_deploy_confirmation
+確定要將 {0} 指派到道館嗎？在別人踢館成功之前，牠將無法回到你的同行隊伍
+shop_screen_title
+商店
+shop_category_bundles
+套組
+shop_category_items
+道具
+shop_category_upgrades
+升級
+shop_category_pokecoins
+寶可幣
+shop_confirm_coins_title
+確定購買
+shop_confirm_coins_details
+你要用 {1:C} 買1個 {0} 嗎？
+shop_confirm_buy
+購買
+shop_confirm_item_purchase
+你要用 {0} 枚寶可幣交換 {1} 嗎？
+shop_exchange_for_prefix
+以寶可幣交換
+shop_exchange_for_suffix
+ 
+shop_purchase_failure
+無法購買。請再試一次。
+shop_need_more_coins
+你需要更多寶可幣！
+shop_need_more_get_coins
+取得 {0}
+shop_need_more_go_to_coins
+購買寶可幣
+screen_title_shop
+商店
+shop_inventory_full
+你的包包已經滿了！
+shop_inventory_full_visit_shop
+去商店擴充包包的容量吧
+quickstart_title
+玩法
+quickstart_pokestopfar_0
+這是寶可補給站。
+quickstart_pokestopfar_1
+你可以在這裡找到精靈球和其他道具。
+quickstart_pokestopnear_0
+當你靠近寶可補給站的時候，它的形狀會改變。試著點擊它吧。
+quickstart_pokestopspin_0
+滑動畫面中央的轉盤，就會有道具出現喔。
+quickstart_gymmap_0
+這是道館。
+quickstart_gymmap_1
+3支隊伍在這裡一決高下，爭奪道館的所有權。
+quickstart_gymbuttons_0
+把1隻寶可夢指派至公開道館後，你的隊伍即可占領該道館。把你的寶可夢指派到相同顏色的我方道館，跟隊友一起防禦道館吧。
+quickstart_gymbuttons_1
+在我方道館訓練寶可夢，便可提升道館的聲望值和等級。
+quickstart_gymbuttons_2
+挑戰敵方道館，降低該道館的聲望值和等級。
+quickstart_battledodge_0
+對戰時，你可以左右滑動畫面來閃避攻擊。
+shop_inventory_full_go_to_upgrades
+前往升級選單
+encounter_too_many_pokemon
+你的寶可夢盒子已經滿了。請到商店擴充盒子容量。
+pokestop_too_many_items
+你的包包已經滿了。請到商店擴充包包容量。
+iap_category_items
+道具
+iap_category_upgrades
+升級
+iap_category_bundle
+套組
+iap_category_pokecoins
+寶可幣
+iap_category_none
+其他
+shop_something_went_wrong
+發生錯誤。請再試一次。
+shop_daily_bonus_amount
+{0} 枚寶可幣
+age_gate_screen
+請輸入你的出生年月日
+month_jan
+1
+month_feb
+2
+month_mar
+3
+month_apr
+4
+month_may
+5
+month_jun
+6
+month_jul
+7
+month_aug
+8
+month_sep
+9
+month_oct
+10
+month_nov
+11
+month_dec
+12
+submit_age_button
+確定
+registration_choice_screen
+請選擇你要註冊的帳號
+login_choice_screen
+請選擇登入方式
+ptc_login_button
+寶可夢訓練家俱樂部
+google_login_button
+Google
+ptc_login_title
+寶可夢訓練家俱樂部
+ptc_forgot_username
+忘了你的用戶名稱？
+ptc_forgot_password
+忘了你的密碼？
+privacy_policy_title
+Pokémon GO 隱私權政策
+privacy_policy_button
+隱私權政策
+login_username
+輸入用戶名稱
+login_password
+輸入密碼
+facebook_login_button
+Facebook
+ptc_login_submit
+登入
+ptc_need_to_register_button
+註冊
+ptc_error_activation_required
+請先啟動你的帳號
+google_auth_failed
+無法進行認證，請再試一次。
+ptc_auth_failed
+無法進行認證，請再試一次。
+fb_auth_failed
+無法進行認證，請再試一次。
+fb_auth_error_no_email
+請使用已登錄電子郵件地址的Facebook帳號。
+authentication_revoked_error
+無法連線至伺服器。
+shop_daily_bonus_header
+博士送來了特別的禮物！
+shop_daily_bonus_button
+太棒了，謝啦！
+shop_coming_soon
+敬請期待
+shop_fully_upgraded
+你的 {0} 已經升到最高等級了！
+incubator_selector_header
+孵化器
+incubator_selector_uses_left
+可用 {0} 次
+incubator_choose_egg
+請選擇要孵化的蛋
+egg_detail_put_in_incubator
+可用孵化器來孵蛋
+egg_detail_hatch_walk
+帶著蛋走路，就可以讓它孵化喔
+egg_detail_start_incubation
+開始孵蛋
+inventory_no_eggs
+去收集蛋吧！
+incubator_selector_infinite_uses
+∞
+pokestop_disk_empty_title
+空模組插槽
+pokestop_disk_empty_desc
+可插入寶可補給站模組
+pokestop_disk_inventory_title
+寶可補給站模組
+pokestop_out_of_disks
+去收集更多寶可補給站模組吧！
+pokestop_disk_activate_error_already_has_disk
+你需要寶可補給站模組
+pokestop_disk_activate_error
+無法插入模組
+pokestop_disk_error_out_of_range
+這個寶可補給站太遠了
+pokemon_favorite_error
+無法將寶可夢設為我的最愛
+pokemon_unfavorite_error
+無法移除我的最愛
+defender_bonus_header
+訓練家已指派 {0} 隻寶可夢
+defender_bonus_title
+防禦獎勵
+defender_bonus_timer
+請在 {0} 內領取
+defender_bonus_collect_now
+領取獎勵！
+defender_bonus_nothing_deployed
+要將寶可夢指派到道館，才可領取防禦獎勵
+first_time_ar_mode_prompt_title
+透過鏡頭，在真實世界中尋找寶可夢吧！
+first_time_ar_mode_prompt_description
+試試看吧。你隨時都可以用AR鍵關閉這個功能。
+first_time_ar_mode_prompt_ar_on_btn
+好，打開照相機！
+first_time_ar_mode_prompt_ar_off_btn
+等會再說
+nickname_set_nickname
+設定暱稱
+battle_no_pokemon_left
+沒有可以對戰的寶可夢
+battle_round_number
+BATTLE {0}
+battle_round_victory
+WIN！
+battle_special_toast
+{0} 使出了{1}！
+battle_surrender_confirmation
+確定要投降嗎？
+pgp_unpaired
+Pokémon GO Plus 的配對已被解除
+pgp_connection_lost
+連線已結束。請點擊按鈕，重新連線。
+pgp_click_to_connect
+請按下Pokémon GO Plus的按鈕，建立連線
+pgp_connected
+已連線至Pokémon GO Plus
+pgp_log_dowser_start
+開始搜尋 {0}
+pgp_log_dowser_lost
+{0} 的搜尋失敗了
+pgp_log_dowser_stop
+停止搜尋 {0}
+pgp_log_received_items
+在寶可補給站 {1} 得到 {0} 個道具
+pgp_log_pokemon_caught
+捉到 {0} 了！
+pgp_log_pokemon_fled
+{0} 逃走了
+pgp_low_battery
+Pokémon GO Plus 剩餘電量不足
+pgp_bluetooth_is_off
+尚未開啟藍牙
+activity_log_title
+冒險筆記
+activity_log_clear
+清除紀錄
+activity_log_clear_confirmation
+確定要清除紀錄嗎？清除紀錄後將無法回復
+activity_log_show_more
+顯示更多
+activity_log_remove
+刪除
+activity_log_remove_confirmation
+確定要刪除嗎？
+pgp_weak_signal
+訊號微弱。請將Pokémon GO Plus移至行動裝置附近
+pgp_install_pgp_app
+安裝Pokémon GO Plus應用程式
+pgp_error_auth
+無法認證行動裝置
+pgp_error_cannot_connect
+無法連線至行動裝置
+pgp_disconnected
+已結束與Pokémon GO Plus的連線
+pgp_caught_pokemon
+捉到寶可夢了！
+pgp_retrieved_no_items
+未能從寶可補給站得到任何道具
+server_lockout
+感謝各位玩家的熱烈支持\n\n我們會盡快解決伺服器的問題，請稍後再試一次！
+field_test_lockout
+感謝你來參加Pokémon GO的測試！\n我們很快就會再見面的！
+ar_encounter_no_gyro_err
+我們無法偵測到行動裝置的定向。要關閉AR模式嗎？
+ar_encounter
+AR
+first_time_walk_title
+該去走路了！
+first_time_walk_description
+當你在現實世界移動時，畫面中的訓練家也會一起移動
+first_time_walk_button
+Let's GO!
+pokemon_nickname_error
+請輸入別的暱稱
+general_hp
+HP
+general_cp
+CP
+general_xp
+XP
+settings_email_marketing
+接收Pokémon GO的活動、優惠、促銷內容等最新訊息。
+help_center_link
+https://support.pokemongo.nianticlabs.com/hc/en-us
+settings_report_issues
+回報重要問題
+report_issues_link
+https://pokemongo.nianticlabs.com/support/contact/en
+settings_are_you_sure_report_prompt
+確定要離開遊戲去回報問題嗎？
+authentication_retry_prompt
+無法登入
+authentication_failed_try_again
+再試一次
+authentication_failed_sign_out
+以其他帳號登入
+general_attack
+攻擊
+general_defense
+防禦
+general_stamina
+HP
+safety_warning_yes
+我不是駕駛
+codename_warning_message
+<size=36><b>確定要更改暱稱嗎？</b></size>\n\n暱稱只能變更一次。其他的訓練家也會看到你的暱稱，請好好考慮後再做決定。
+codename_already_yours
+這是你現在的暱稱！
+codename_are_you_sure
+<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱只能變更一次。
+codename_reassign_success
+你的暱稱已變更為 {0}
+speed_modal_too_fast
+你移動的速度太快了！
+speed_modal_slow_down
+請不要在開車時玩Pokémon GO
+settings_change_nickname
+更改暱稱
+pokemon_info_appraise
+調查寶可夢
+gym_sponsored
+SPONSORED
+pgp_log_pokemon_hatched
+孵出 {0} 了！
+nearby_pokemon_poi_title
+附近的寶可夢
+nearby_pokemon_grass_title
+目擊紀錄
+nearby_pokemon_find_grass_info
+也許牠就在附近！
+nearby_pokemon_missing_poi
+附近沒有寶可夢。去別的地方看看吧！
+nearby_pokemon_missing_grass
+尚未有目擊紀錄
+nearby_pokemon_tracking_lost_title
+寶可夢逃走了！
+nearby_pokemon_tracking_lost
+去尋找附近的寶可夢吧
+nearby_pokemon_view_button
+尋找
+nearby_pokemon_clear_button
+取消
+settings_sfida_icon_toggle
+顯示Pokémon GO Plus的圖示
+settings_sfida_bluetooth_disabled
+尚未開啟藍牙功能。請在行動裝置的設定中開啟藍牙功能。
+settings_sfida_device_name
+Pokémon GO Plus
+settings_sfida_about_url
+https://support.pokemon.com/hc/articles/360000954814
+settings_sfida_devices
+可用的裝置
+settings_sfida_howto_pair
+配對出現問題時
+settings_sfida_howto_pair_url
+https://support.pokemon.com/hc/articles/360000955374
+pgp_bluetooth_unauthorized
+尚未允許開啟藍牙功能。請在行動裝置的設定中開啟藍牙功能。
+pgp_bluetooth_enabling
+正在開啟藍牙功能…
+pgp_bluetooth_not_supported
+此行動裝置不支援Bluetooth Smart
+pgp_pokestop_in_range
+發現寶可補給站了！
+pgp_pokemon_in_range
+找到寶可夢了！
+pgp_start_session
+正在連線至Pokémon GO Plus…
+pgp_stop_session
+正在結束與Pokémon GO Plus的連線…
+pgp_scaning
+正在搜尋Pokémon GO Plus…\n請按下Pokémon GO Plus的按鈕
+pgp_registering
+正在登錄Pokémon GO Plus…
+buddy_set
+夥伴
+pokemon_info_transfer_pokemon_buddy
+不能傳送設為夥伴的寶可夢！
+buddy_walked_found_candy
+{0} 找到1顆糖果！
+buddy_walk
+和你的夥伴一起走路吧！
+buddy_title
+我的夥伴
+buddy_chosen
+<b>{0}</b>！就決定是你了！
+pgp_error_failed_to_register
+無法登錄
+pgp_error_device_not_found
+未能搜尋到裝置
+buddy_swap1
+確定要更換夥伴嗎？
+buddy_swap2
+之前累積的步行距離將會歸零
+general_and
+& {0}
+buddy_total_walked
+總共走了 {0:0.#} 公里！
+banned_player_lockout_1
+你的帳號已因違反服務條款而被停權。\n\n關於帳號停權處分，請參閱常見問題。
+banned_player_lockout_2
+詳細資訊
+pokemon_info_address_format
+{2}, {1} {0}
+settings_sfida_store
+購買Pokémon GO Plus
+settings_sfida_store_url
+https://www.nintendo.co.jp/pokemongoplus/
+unauthorized_device_lockout_1
+你的裝置、作業系統或軟體與Pokémon GO不相容
+unauthorized_device_lockout
+你的裝置、作業系統或軟體與Pokémon GO不相容
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/en
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/en
+pgp_tip_title
+Pokémon GO Plus
+pgp_tips_1_text_1
+當寶可夢出現在附近時，裝置將會震動並閃爍
+pgp_tips_1_text_2
+如果是以前有捉過的寶可夢，將會亮起綠燈
+pgp_tips_1_text_3
+如果是沒有捉過的寶可夢，將會亮起黃燈
+pgp_tips_1_text_4
+按下按鈕，捕捉寶可夢！
+pgp_tips_next
+Next
+pgp_tips_2_text_1
+按下按鈕之後
+pgp_tips_2_text_2
+成功捕捉時，將會亮起七彩的光芒
+pgp_tips_2_text_3
+如果寶可夢逃走了，將會亮起紅燈
+pgp_tips_3_text_1
+當你靠近寶可補給站時，Pokémon GO Plus將會震動，並亮起藍燈
+pgp_tips_3_text_2
+按下按鈕後，若亮起七彩燈光，便代表已收到道具；若亮起紅燈，則代表寶可補給站太遠，無法接收道具。
+pgp_tips_got_it
+OK
+player_cheating_warning
+我們偵測到你或是正在使用你帳號的人正以改造過的用戶端軟體，或是未許可的第三方軟體連線至Pokémon GO。請注意，這樣的行為違反我們的服務條款，並可能會導致你失去帳號。如果你正在使用這樣的軟體，我們強烈建議你停止使用。如果你曾經使用未經許可的第三方應用程式，或是前往特定網站，你的帳號有可能已被盜用。我們建議你立刻更換密碼。
+training_round_number
+Match {0}
+badge_capture_bonus_reward
+{1} 屬性的捕捉獎勵 ＋ {0}
+settings_sfida_notifications
+通知
+settings_sfida_pokemon
+附近的寶可夢
+settings_sfida_pokestops
+附近的寶可補給站
+badge_detail_reward_header
+Rewards
+profile_category_medals
+獎牌
+quest_first_catch_of_the_day
+今天捉到的第1隻
+quest_streak_format
+連續第 {0} 天！
+quest_daily_bonus_title
+每日獎勵
+encounter_score_catch_streak
+連續獎勵
+quest_first_pokestop_of_the_day
+今天拜訪的第1個寶可補給站
+encounter_caught_metamon
+哦？
+app_exit_confirmation_message
+要結束Pokémon GO嗎？
+gym_deploy_lockout
+對戰贏家擁有優先權
+gym_battle_lockout
+請稍後再試一次
+batch_transfer_confirm
+<size=36><b>確定要將這 {0} 隻寶可夢傳送給博士嗎？</b></size>\n\n傳送開始後將無法取消。
+batch_transfer_header
+選擇寶可夢
+batch_transfer_result
+收到博士送來的糖果
+shop_category_holiday_special
+假日特惠
+shop_limited_time
+限時搶購！
+shop_sale
+Sale
+shop_contents
+內含：
+bundle.xmas.small.1_title
+特別禮盒
+bundle.xmas.medium.1_title
+超級禮盒
+bundle.xmas.large.1_title
+高級禮盒
+bundle.newyears.small.1_title
+銅禮盒
+bundle.newyears.medium.1_title
+銀禮盒
+bundle.newyears.large.1_title
+週年慶禮盒
+privacy_policy_update_notice
+請閱讀更新後的Pokémon GO隱私權政策，確認用戶使用朋友功能時遊戲系統將如何處理個人資料。
+privacy_policy_url
+https://www.nianticlabs.com/privacy/pokemongo/en
+screen_title_news
+快訊
+evolution_item_use
+對寶可夢用用看這個道具吧！
+shop_quick_coins_get_them_here
+你可以在這裡或到商店購買寶可幣
+avatar_equip_item
+確定
+avatar_hair
+頭髮
+avatar_eyes
+眼睛
+avatar_skin
+膚色
+badge_pokedex_entries_gen2_value_format
+N0
+badge_pokedex_entries_gen2
+在寶可夢圖鑑裡登錄 {0} 隻城都地區的寶可夢！
+badge_pokedex_entries_gen2_title
+城都
+badge_unown_title
+未知圖騰
+badge_unown_value_format
+N0
+badge_unown
+捉到 {0} 隻未知圖騰
+avatar_award_new_style
+追加了新的服飾！
+avatar_award_show_me
+前往商店
+general_more
+More
+shop_quick_coins_title
+寶可幣不夠！
+avatar_lock_level
+將在等級 {0} 開放
+avatar_lock_badge
+將在 {1} 獎牌的第 {0} 階段開放
+encounter_item_berries
+樹果
+encounter_item_pokeballs
+精靈球
+avatar_wearing_item
+目前的造型
+shop_exchange
+交換
+onboard_change_anytime
+隨時都可以變更
+avatar_edit_appearance_title
+造型
+pokemon_shiny_info_transfer_to_professor_confirmation
+確定要傳送這隻異色寶可夢嗎？
+pokemon_info_multi_transfer_shiny_pokemon_error
+不能選擇異色寶可夢
+shop_quick_balls_title
+沒有精靈球了！
+shop_quick_balls_get_them_here
+請用寶可金幣交換，或到寶可補給站收集。
+encounter_out_of_berries
+沒有樹果了
+avatar_hats
+帽子
+avatar_glasses
+眼鏡
+avatar_necklaces
+項鍊
+avatar_tops
+上衣
+avatar_bags
+包包
+avatar_gloves
+手套
+avatar_belts
+皮帶
+avatar_bottoms
+下身
+avatar_outfits
+服裝
+avatar_socks
+襪子
+avatar_shoes
+鞋子
+avatar_style_unlocked
+有新服飾囉！
+pokemon_info_evolve_need_key_item
+需要特殊道具
+pokedex_sort_family
+進化
+pokestop_unavailable
+目前無法使用此寶可補給站
+gym_poi_unavailable
+目前無法使用此道館
+promo_enter_code_prompt
+請輸入促銷代碼
+promo_enter_code_success_response
+成功！
+promo_enter_code_title
+促銷活動
+promo_enter_code_failure_response
+此代碼無效
+promo_enter_code_already_redeemed_response
+已兌換過此代碼
+promo_redeem_button
+兌換
+profile_total_xp
+總XP
+profile_category_stats
+狀態
+shop_coin_iap_unavailable
+你需要更多寶可幣！
+pokestop_disk_error_closed_soon
+寶可補給站即將關閉。無法使用誘餌模組。
+pokestop_unavailable_soon
+此寶可補給站即將關閉
+item_move_reroll_no_other_moves
+{0} 無法學會其他招式！
+gyms_disabled_update
+道館施工中
+gym_feed_too_frequent
+寶可夢不想再吃樹果了。稍後再試一次吧。
+get_directions_action
+規劃路徑
+congratulations_exclusive_raid_ticket
+{0}，恭喜你！
+raids_invite_only_event
+*僅限受邀的訓練家參加
+raid_exclusive_description
+這是紀念你在 {0} 的團體戰中獲勝的獎品！\n請在上述時間前往道館，參加VIP團體戰！
+raid_exclusive_general_info
+收到VIP團體戰的邀請了。\n這是你的入場券。
+raid_exclusive_invitation
+邀請函
+pokemon_info_goto_gym_button
+前往道館
+pokemon_info_panel_defended_gym_raid_active_message
+團體戰開打中！你的寶可夢會在團體戰結束後回到同行隊伍。
+gym_remote_view_info_desc
+遠距餵食樹果的效果沒有那麼好。請盡量在道館附近餵寶可夢吃樹果！
+screen_title_exclusive_tickets
+VIP團體戰入場券
+pokemon_info_remote_gym_closed
+道館目前並未開放。
+pokemon_info_multi_transfer_legendary_pokemon_error
+不能選擇傳說的寶可夢。
+pokemon_legendary_info_transfer_to_professor_confirmation
+你真的要傳送這隻傳說的寶可夢嗎？
+webcam_setup_problem
+無法啟動照相機
+qr_decode_problem
+無法辨識二維條碼。請嘗試以手動輸入。
+event_registration_success
+成功登入 {0} 了！
+qr_code_title
+掃描二維條碼
+pokestop_button_manual_input_2
+切換至手動輸入
+badge_chicago_fest_july_2017_title
+Pokémon GO Fest
+badge_chicago_fest_july_2017
+2017/7/22 @ 芝加哥
+chicago_fest_july_2017_title
+Pokémon GO Fest
+title_raid_has_ended
+這場團體戰已經結束了
+journal_received_raid_ticket
+收到 {0} 的VIP團體戰邀請函了
+players_in_lobby_count
+訓練家數：{0}
+pikachu_outbreak_yokohama_title
+Pokémon GO STADIUM
+badge_pikachu_outbreak_yokohama_2017
+2017/8 @ 横浜
+passcode_rpc_error
+兌換代碼時發生錯誤
+passcode_rpc_timeout
+未能在時間內兌換代碼，請確認網路狀態並再試一次。
+badge_pikachu_outbreak_yokohama_2017_title
+皮卡丘大量發生中2017
+badge_legendary_battle_won_value_format
+N0
+badge_legendary_battle_won_title
+對戰傳奇
+badge_legendary_battle_won
+在 {0} 場傳說團體戰中獲勝
+item_legendary_raid_ticket_name
+VIP團體戰入場券
+item_legendary_raid_ticket_desc
+用來參加特別團體戰的VIP團體戰入場券。只限在特定時間舉辦的活動中使用。
+incubatorsuper.1_title
+超級孵化器
+incubatorsuper.1_description
+一種更強大的孵化器，可以讓蛋更快孵化。使用3次後就會壞掉。
+item_incubator_super_name
+超級孵化器
+item_incubator_super_desc
+一種更強大的孵化器，可以讓蛋更快孵化。使用3次後就會壞掉。
+raid_log_received_items
+在團體戰中得到 {0} 個道具！
+exclusive_raid_log_received_items
+在VIP團體戰中得到 {0} 個道具！
+pgp_log_received_items_gym
+在道館的寶可補給站中得到 {0} 個道具！
+pokemon_info_multi_transfer_costume_pokemon_error
+無法選擇特殊的寶可夢！
+pokemon_costume_info_transfer_to_professor_confirmation
+確定要傳送\n這隻特殊的寶可夢嗎？
+badge_safari_zone_europe_2017_title
+GO Safari Zone - Europe 2017
+badge_safari_zone_europe_2017
+2017年9月16日 歐洲
+safari_event
+GO Safari Zone - Europe 2017
+raid_error_never_joined_battle
+你嘗試參加的團體戰已經結束了。請參加其他團體戰。
+settings_sfida_howto_pair_prompt
+無法連線至Pokémon GO Plus。\n要開啟常見問題的網頁嗎？
+badge_safari_zone_europe_2017_10_07_title
+GO Safari Zone - 2017年歐洲
+badge_safari_zone_europe_2017_10_07
+2017年10月7日 歐洲
+badge_safari_zone_europe_2017_10_14_title
+GO Safari Zone - 2017年歐洲
+badge_safari_zone_europe_2017_10_14
+2017年10月14日 歐洲
+exclusive_raid_log_cancelled
+原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
+passcode_log_received_items
+以代碼 {1} 獲得了 {0} 個道具
+passcode_log_received_badge
+以代碼 {0} 獲得了獎牌
+cancelled_ex_raid_message
+原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
+cancelled_ex_raid_items_prompt
+請收下這些道具，繼續訓練寶可夢們吧！
+cancelled_ex_raid_ticket_title
+已取消的VIP團體戰入場券
+blacklisted_app_found_lockout
+我們偵測到此裝置上安裝了違反Pokémon GO服務條款的應用程式。請移除該應用程式後再開始遊戲。
+badge_pokedex_entries_gen3_value_format
+N0
+badge_pokedex_entries_gen3
+在寶可夢圖鑑裡登錄 {0} 隻豐緣地區的寶可夢！
+badge_pokedex_entries_gen3_title
+豐緣
+deploy_battle_party_member_prompt
+警告： {0} 是對戰小組的成員。如果你把牠指派到道館，牠將會從對戰小組中被移除。
+party_creation_error_max_hit
+對戰小組已無空間
+delete_battle_party_prompt
+要刪除 {0} 這個對戰小組嗎？
+ar_plus_prompt_title
+用全新AR+來捉寶可夢，享受前所未有的樂趣！
+ar_plus_prompt_description
+你隨時都可以在設定選單更改設定。
+ar_plus_show_me
+用用看
+ar_plus_no_thanks
+不用了，謝謝
+ar_plus_safety_prompt
+使用AR+前請先確認四周安全。
+ar_plus_change_anytime_from_settings
+你可以在設定選單開啟或關閉AR+。
+ar_plus_got_it
+OK
+ar_plus_look_around_toast
+在平坦開放的地方\n慢慢改變照相機的角度
+ar_plus_safety_toast
+請務必確保\n在安全的地方使用AR+。
+ar_plus_tap_bush_toast
+點擊草叢來尋找寶可夢吧！
+settings_ar_plus
+AR+
+encounter_score_ar_plus_bonus
+專家
+ar_plus_tutorial_0
+請在確認四周安全後，在平坦開放的地方移動裝置，讓照相機辨識出平坦的表面。
+ar_plus_tutorial_1
+點擊螢幕上的草叢來尋找寶可夢。
+ar_plus_tutorial_2
+捕捉時距離寶可夢越近，就能獲得越多獎勵。
+login_failure_wrong_credentials
+使用者名稱或密碼不正確。
+news_see_details
+閱讀全文
+news_today
+今天
+news_yesterday
+昨天
+news_days_ago
+{0} 天前
+error_device_unsupported
+不支援的裝置
+view_supported_devices
+開啟常見問題
+device_unsupported_explanation
+很抱歉，Pokémon GO不再支援你所使用的裝置。請至常見問題確認Pokémon GO支援的裝置。
+new_arrivals
+NEW！
+avatar_shop_description
+新品上架！
+style_shop
+服飾商店
+iap_category_avatar
+服飾商店
+privacy_policy_text
+Niantic隱私權政策<br>自西元2018年6月18日起生效<br><br>我們是美商Niantic股份有限公司（Niantic, Inc.）。我們提供於真實世界中擴增實境的平台服務，旨在讓您於共享的世界中進行互動，並與現實世界無縫融合，為此，我們需要您的資訊。保護您的隱私對我們而言至關重要，我們僅於有法律依據之情況下使用您的資訊。本隱私權政策將幫助您了解我們所蒐集之資訊、我們如何使用該等資訊及當您玩任何一款我們的遊戲、使用我們的網站、自此處購買商品或參加現場或促銷活動時（以下稱「服務」）擁有的選擇。<br><br>請注意，除了以下的一般資訊外，關於特定服務如何使用您個人資訊之特定資訊將於本隱私權政策末端之「遊戲特別聲明」中提供。<br><br>您亦應詳閱我們的服務條款，服務條款構成您與Niantic間的契約內容。<br><br>誰決定如何使用您的資訊？<br><br>Niantic, Inc.是決定如何使用您個人資訊的數據控制者。若您對本政策有任何疑問或意見，您可以選擇：<br><br>發送電子郵件至privacy@nianticlabs.com<br>寫信給我們，地址為1 Ferry Building Suite 200, San Francisco, CA 94111<br>發送電子郵件至dpo@nianticlabs.com聯繫我們的資料保護主管（Data Protection Officer）<br><br>我們蒐集關於您之資訊與我們使用該等資訊之方式<br><br>本隱私權政策涵蓋我們對於任何可用於識別您身分的資訊（下稱「個人資料」）之使用。惟並不涵蓋無法識別您身分的資訊（下稱「匿名資料」）之使用。<br><br>為了向您提供服務並履行我們於服務條款中向您作出的承諾，我們需要蒐集與使用特定個人資料：<br><br>當您註冊我們的服務時，例如，註冊一個帳號時，即視為您自願提供我們個人資料。我們蒐集與使用這些資訊，以便在您登入帳戶並使用服務時對您進行身份驗證，以確保您有資格且能夠接收服務，並使您收到正確版本的服務。該資訊包括您為了在我們的服務中使用而選擇之遊戲使用者名稱，以及我們分配予您的內部帳號。<br><br>您必須擁有可支援第三方單一登錄服務之帳戶才能使用我們的服務。因此，我們所蒐集的個人資料亦取決於您選擇使用之第三方帳戶、其隱私權政策及您於第三方之隱私權設定中允許我們可以在您使用第三方提供之服務以獲取Niantic服務時所看見之資訊。<br><br>若您選擇以Google帳戶連結到服務，我們會蒐集您的Google電子郵件地址及Google提供的身份驗證代碼。<br>若您選擇將您的Facebook帳戶與服務進行連結，我們將蒐集由Facebook提供的唯一使用者身分（user ID），如獲得您許可，亦包括您於Facebook註冊的電子郵件地址。<br><br>根據您所註冊的特定服務，我們可能會支持其他第三方單一登錄服務，並從中蒐集更多個人資料。欲知更多詳情，請閱讀本隱私權政策末端部分之遊戲特別聲明。<br><br>某些第三方服務提供者可能會通知您，他們將於您使用其單一登錄服務時提供額外資訊，例如，您的公開個人資訊予我們，然而，我們並不從他們那邊蒐集該等資訊。<br><br>當您使用我們的服務時，我們將蒐集並使用您的裝置位置資訊，包括遊戲過程中您的移動路徑與發生之事件。我們的服務包含以玩家所在地為基礎的遊戲，其核心特色在於提供與您真實世界為置中相互連結之遊戲體驗，因此我們必須知道您在哪裡以為您操作遊戲，並計畫遊戲中資源分配的位置（例如PokémonGO中的寶可夢補給站（PokéStops））。我們使用各種技術以識別您的位置，包括GPS、您為獲取服務而連結之WiFi熱點及手機基地台之三角定位測量法。<br><br>為了提供您服務並確保依據服務條款（包括反欺詐和反作弊措施）我們可為所有玩家提供公平的遊戲體驗，我們還會蒐集與使用您於遊戲內的操作行為及成就，以及於遊戲過程中所蒐集到有關您行動裝置的某些資訊（包括：設備辨識碼、設備作業系統、型號、設定以及裝置上所安裝的第三方應用程式之相關資訊）。<br><br>我們亦將使用上述資訊以顯示鄰近您的遊戲內贊助地點，作為您遊戲體驗的一部分。<br><br>我們將進一步使用上述資訊，以為您提供技術與客戶支援。<br><br>當您於向我們購買商品、訂閱我們的刊物、參加比賽、促銷活動、抽獎活動、調查或與我們聯絡時，代表您已同意提供我們您的個人資料。該個人資料之範圍取決於您使用哪些服務，可能包括您的姓名、郵寄地址、電話號碼、居住國家、出生日期（驗證資格所必須）以及電子郵件地址。我們將使用這些資訊來為您提供服務與相關客戶支援。<br><br>除此之外，就您的個人資料之使用，我們係具有且基於下述合法權益之目的：<br><br>使用您的IP位置、瀏覽器類型、作業系統、獲取您之前瀏覽我們服務的頁面資訊、您瀏覽過有關於我們的服務頁面或您使用過的功能，以及在這些頁面或功能上花費的時間、您於服務中點擊的連結、設備辨識碼，以及為了了解誰在使用我們的服務與如何使用我們的服務，亦包含您在遊戲過程中採取的操作行為、遊戲中的使用者設定與偏好設定及於應用程式內的購買行為。<br><br>為了與您溝通以提供技術和客戶支援，將使用您的聯繫資訊，即您的電子郵件地址。<br><br>為了於遊戲中或藉由電子郵件與您分享與服務有關的更新及新聞，將使用您的電子郵件地址和裝置資訊。您可以隨時於裝置設定或應用程式內設定取消訂閱。<br><br>為了在我們的遊戲中提供您可以與其他玩家互動及遊戲之社交功能，包括：儲存您與這些玩家的溝通訊息、搜尋您的朋友及被您的朋友搜尋到、以及與您的朋友分享您的遊戲體驗及成就。<br><br>為了提供服務之新的功能或額外的功能。<br><br>為了規畫和舉辦以我們遊戲為基礎或特色之現場活動。請注意，當您參與現場活動時，您於遊戲中的操作行為及成就、遊戲中的使用者名稱和您的頭像將被其他活動參與者及公眾看見（例如：活動中和線上所顯示的排行榜）。<br><br>為了執行反欺詐和反作弊措施，並確保您和其他使用者遵守我們的服務條款。<br><br>為了依法進行揭露。<br><br>若我們取得您的同意，我們只會為以下目的使用您的個人資料：<br><br>若您選擇在我們的部分遊戲中允許我們取用您的Facebook好友名單（Facebook User Friends），我們將從您連結的Facebook帳號中匯入您的好友名單中，也在玩該款遊戲且允許取用好友名單的好友。若您開啟允許取用，您在遊戲中的朋友們都可以看得到您在Facebook上的大頭照及顯示的名稱。您可以在任何時候改變心意而從您的應用程式中的朋友設定將其他玩家解除好友設定。您也可以直接從您的Facebook帳號設定中撤銷對於我們遊戲的取用允許。<br>透過電子郵件或應用程式內通知向您發送行銷資料。您可隨時於裝置設定或應用程式內設定取消訂閱。<br>當我們使用cookie或類似技術時，我們需要您的同意。請參閱我們的cookie (https://www.nianticlabs.com/cookies/zh_hant) 政策以進一步了解我們如何使用cookie。以cookie蒐集個人資料時，我們只會於您明示同意之情況下，以匿名或以假名形式處理之。<br><br>儘管您可能會藉由瀏覽器設定禁用cookie，但Niantic目前不會對來自瀏覽器或手機應用程式之HTTP標頭（header）中「不要追蹤」（Do Not Track）的信號有所反應，因目前仍缺乏如何解釋該信號之產業標準。<br><br>與我們共享資訊的對象<br><br>除非有下述情形，否則我們不會分享自您蒐集的或與您有關的任何個人資料：<br><br>與我們的服務提供者分享資訊。我們邀請第三方服務提供者與我們一起管理及提供服務。第三方作為提供服務之成員，他們將代表我們處理您的個人資料。第三方服務提供者僅於代表我們提供服務或依循本隱私權政策為的目的之情形下，始可接觸您的個人資料。此外，我們確保每個第三方服務提供者都有義務不揭露或使用您的個人資料於任何其他目的。我們使用的服務提供者將幫助我們：<br><br>藉由第三方平台和軟體工具，經營、管理和維護我們的手機遊戲；<br>執行內容檢測和故障分析；<br>經營電子郵件和手機簡訊活動；<br>執行遊戲和行銷分析；<br>管理現場活動、比賽、抽獎和促銷活動，包括玩家報名、簽到和出席情況之管理、確認參加資格及獎品發放；<br>提供技術和客戶支援。<br><br>與其他玩家分享的資訊。當您使用服務時，特別是當您玩我們的遊戲、在這些遊戲中使用社交功能、或參加現場活動時，我們將與其他玩家分享某些個人資料。此等個人資料包括您在遊戲中的簡介（如：您的使用者名稱、您的頭像以及您的團隊）、您在遊戲中的操作和成就、您在遊戲中所互動的遊戲資源其所對應到的真實世界的位置（例如PokémonGO中的寶可夢補給站（PokéStops）或是Ingress中的能量塔（Portals））以及您於遊戲中的公開資訊。欲了解更多詳情，請閱讀本隱私權政策末尾的遊戲特別聲明。<br><br>與第三方分享的資訊。我們與第三方分享匿名資料以進行產業和市場分析。只有當我們獲得您的明示同意，我們才可能與我們處理發布資訊之第三方合作夥伴基於直接營銷之目的分享您的個人資料。我們不會向任何第三方分享您的個人資料以用於直接營銷之目的。<br><br>為保護我們和保護他人而揭露之資訊。我們與政府和執法官員或私人單位合作，執行和遵守法律。我們僅在合理相信必要或適當的情況下，向政府或執法官員或私人單位分享您的資訊：（a）為回應法律主張、法律程序（包括傳票和權利證明）;（b）為保護我們的財產、權利和安全以及第三方或一般公眾的財產、權利和安全；以及（c）調查和阻止任何我們認為非法、不道德或可以合法行動之活動。<br><br>與商業交易有關之資訊揭露。我們從使用者蒐集的資訊（包括個人資料）是一項商業資產。如果我們由於合併、收購或資產出售等交易而被第三方收購，或者如果在我們倒閉或破產的情況下，我們的資產被第三方收購，我們部分或全部資產（包括您的個人資料）將在交易中揭露或移轉予收購方。<br><br>個人資料之移轉方式<br><br>Niantic於全球提供服務。出於本隱私權政策中列出之目的，您的個人資料很可能會被移轉並存儲於您本國以外的國家，包括美國。這些國家的資料保護法可能與您本國的資料保護法不一樣。<br><br>如果我們將您的個人資料自歐洲經濟區（EEA）移轉至其他國家（包括美國），我們確保實施以下保障措施中至少一項，以為您的個人資料提供與歐洲經濟區近似程度之保護：<br><br>您個人資料移轉到的國家是一個提供了歐盟執行委員會認為具適當資訊保護程度且該資訊保護程度與歐洲經濟區相當之國家。<br><br>當我們與服務提供者合作時，我們與服務提供者簽訂歐盟執行委員會批准的特定合約，這些合約將提供個人資料與在歐洲時相同程度的保護。<br><br>我們與美國服務提供者合作時，該服務提供者為歐盟-美國隱私護盾（EU-US Privacy Shield）的成員，歐盟-美國隱私護盾（EU-US Privacy Shield）要求該服務提供者為您的個人資料提供與在歐洲經濟區中相同程度的保護。<br><br>個人資料安全維護<br><br>我們有適當的安全措施以防止您的個人資料被意外遺失、使用或未經授權地獲取、不適當地更改或揭露。我們亦限制提供您個人資料予員工、代理商、承包商和其他有業務需要之第三方。前述人員將依我們的指示處理您的個人資料，並負有保密義務。我們已制定任何涉嫌違反個人資料保護的處理程序，並會在法律要求的情況下通知您以及負責的監管機構。<br><br>個人資料保存期限<br><br>在我們需要向您提供服務並履行本隱私權政策中規定之目的期間內，我們將會保留您的個人資料。其亦適用於我們分享您個人資料的對象以及代表我們提供服務之人。<br><br>當我們不再需要使用您的個人資料，並且不需要為遵守法令義務而保存您的個人資料時，我們會將其從我們的系統中刪除或將其匿名，以使其不再與您相關。<br><br>您得行使之權利及選擇<br><br>您對於您的個人資料有特定之權利。為了行使這些權利，請透過以下方式與我們聯繫：<br><br>有關Pokémon GO，請點這裡 (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667)。<br>有關Ingress，請點這裡 (https://support.ingress.com/hc/)。<br>有關其他服務，請聯繫privacy@nianticlabs.com。<br><br>如果您是位於歐洲經濟區（或賦與類似權利的國家）的使用者，則可以：<br><br>要求我們提供我們所持有之您的個人資料。<br>刪除或更正您的個人資料。更新您帳戶資訊最簡單的方式係透過您應用軟體內的設置。您也可以透過我們的支援網站提出客戶支援需求；對於Pokémon GO，請點這裡 (https://support.pokemongo.nianticlabs.com/hc/articles/222060687)；對於Ingress，請點這裡 (https://support.ingress.com/hc/articles/206618198)。<br>反對我們處理您的個人資料。我們所持有的部分個人資料，是我們向您提供服務並履行我們在服務條款中向您作出的承諾的必要資料。<br>要求我們停止使用您的個人資料，包括用於行銷和推銷之目的（請注意，有時我們需要使用您的個人資料以提供服務）。<br>將您的個人資料移轉到其他組織（在技術可行範圍內）。<br>向監管機構投訴。我們希望有機會直接處理您的疑慮，因此我們希望您先與我們聯繫。但若您位於歐洲經濟區，並且認為我們沒有遵守資訊保護法，您可以向我們的監管機構、英國資訊委員辦公室（UK Information Commissioner’s Office）或您當地的監管機構投訴。<br><br>法律規定，在某些情況下，上述權利存有例外情形。當您因前開例外規定而發生無法行使上述權利時，我們會向您解釋原因。<br><br>我們為您提供關於個人資料蒐集、使用和分享方面的選擇，且我們會尊重您的選擇。請注意，若您決定不向我們提供我們要求的個人資料，可能造成無法向您提供全部的服務。<br><br>我們致力於30天內提供相關資訊或完成您的需求。<br><br>兒童<br><br>一般來說，如果您不在歐洲經濟區，13歲以下的兒童不得使用服務。如果您居住在歐洲經濟區，您必須超過16歲的，或者超過在您居住的國家所定須要得他人同意始能處理個人資料之年齡，始得使用服務。不過，我們確實允許兒童們使用Pokémon GO服務，只要我們取得必要之家長同意。欲了解更多詳情，請閱讀本隱私權政策末端之遊戲特別聲明。<br><br>如果我們了解到我們蒐集了13歲以下兒童的個人資料，或者在歐洲經濟區16歲以下或須要得他人同意始能處理個人資料之年齡以下之人的個人資料，且我們未取得父母同意時，我們將盡快從我們的文件中刪除該資訊。<br><br>本隱私權政策之更改<br><br>我們蒐集的任何個人資料都被蒐集該資訊時有效之隱私權政策所涵蓋。我們可能會不時更改本隱私權政策。任何重大變更將提供您合理通知。<br><br>第三方<br><br>在使用我們的服務時，您可以瀏覽第三方擁有或經營之網站和服務的連結（下稱「第三方服務」）。您提供給第三方服務或由第三方服務蒐集的任何資訊均直接提供給第三方服務的所有者或經營者，並適用該所有者或經營者的隱私權政策。我們不對任何第三方服務的內容、隱私或安全措施和政策負責。為保護您的資訊，我們建議您仔細閱讀您所瀏覽的所有第三方服務的隱私權政策。<br><br>遊戲特別聲明<br><br>Pokémon GO額外隱私權資訊<br><br>寶可夢訓練師俱樂部帳號。您可以使用由寶可夢公司（TPCI）管理的第三方寶可夢訓練師俱樂部（PTC）帳號註冊Pokémon GO。如果您選擇這樣做，我們將從TPCI蒐集您的PTC註冊電子郵件地址、您的PTC使用者名稱和唯一的PTC使用者身分（ID）。如果您代表您的授權兒童註冊您的PTC帳戶，我們還會蒐集一些關於您兒童的個人資料。欲了解更多詳情，請參閱下方「兒童帳戶」一節。<br><br>兒童帳戶。我們依據美國兒童線上隱私權保護法（U.S. Children’s Online Privacy Protection Act ，COPPA）和歐洲資訊保護法規（包括但不限於歐盟資料保護規範（General Data Protection Regulation，GDPR）），透過TPCI處理的驗證和同意程序，遵守取得父母同意的規定。如Pokémon GO服務條款所述，每個13歲以下之兒童、或歐洲經濟區中16歲以下或者須要得他人同意始能處理個人資料之年齡以下之兒童（下稱「兒童」）之父母或法定監護人（下稱「家長」），必須先透過PTC帳戶向TPCI註冊，然後其兒童才能獲取和使用遊戲。家長必須根據TPCI隱私權政策向TPCI提供有關兒童的特定個人資料。其中，Niantic只會從TPCI蒐集兒童的個人電子郵件地址，以及兒童超過上述年齡限制的日期。<br><br>對於美國居民，在家長註冊PTC帳戶後，TPCI將通過要求家長的社會安全號碼的第一位數字和最後一位數字之總合以及家長的姓名、出生日期和街道地址來驗證家長的身份。TPCI不會與我們分享這些訊息。TPCI驗證家長的身份後，會要求家長同意兒童存取或使用Pokémon GO。如果家長不同意兒童存取和使用Pokémon GO或未透過同意程序驗證其身份，Niantic將禁止該兒童註冊Pokémon GO並阻止該兒童訪問和使用遊戲。<br><br>家長有權通知我們拒絕進一步蒐集、使用和（或）揭露他們的兒童的個人資料。作為家長，您了解Niantic有合法權益將透過服務所蒐集到的您的兒童的資訊提供予第三方服務提供者，惟僅用於管理或提供服務，詳如本隱私權政策第3點所述。<br><br>與其他玩家分享的訊息。當您在Pokémon GO中採取某些行動並佔領一個道館時，您的（或您的授權兒童的）使用者名稱將透過遊戲道館與其他玩家公開分享有關該道館位置之相關資訊。。<br><br>Apple Watch和Apple健康應用程式數據。如果您在Apple Watch上使用Pokémon GO，並取得您的同意，我們將使用Apple HealthKit APIs讀取和（或）寫入您的健身活動數據（步數、卡路里消耗和步行距離）於您裝置上的健康應用程式數據資料庫（下稱「健康應用程式數據」）。我們可能會將健康應用程式數據儲存於與您的Pokémon GO帳戶連結之伺服器中。我們使用健康應用程式數據為您提供遊戲中的某些功能（例如：孵蛋的步行距離），並確保您在Apple健康應用程式中獲得於玩Pokémon GO時所有您步行之「積分」。我們不會將健康應用程式數據用於行銷或廣告目的。我們不會將健康應用程式數據儲存於iCloud中。未經您的同意，Pokémon GO無法讀取或寫入健康應用程式數據資料庫。<br><br>Ingress額外隱私權資訊<br><br>資訊公開分享。當您玩Ingress時，作為遊戲的一部分，您將透過遊戲分享以下有關您的資訊（包括直接在應用程式中與其他玩家分享、透過電子郵件發送遊戲通知給其他玩家作為遊戲的一部分、以及於Ingress英特爾地圖網站上線），因此您的資訊將可被公眾取得，例如：您的遊戲使用者名稱、發送給COMMS中其他使用者的訊息、您所互動的遊戲傳送門，以及您在遊戲中採取行動時的裝置位置。<br>
+err_incense_already_active
+目前已在使用薰香
+err_incense_no_items
+包包裡沒有薰香
+err_lucky_egg_no_items
+包包裡沒有幸運蛋
+err_lucky_egg_cannot_use
+目前無法使用幸運蛋
+err_tm_cannot_use
+目前無法使用招式學習器
+err_berry_cannot_feed
+目前無法使用莓果
+err_pokemon_could_not_evolve
+這隻寶可夢無法進化
+err_pokemon_could_not_be_found
+沒找到這隻寶可夢
+err_item_cannot_use
+目前無法使用這個道具
+err_pokemon_already_encountered
+已經遇過這隻寶可夢了
+err_cannot_change_buddy
+目前無法替換夥伴
+err_gym_battle_completed
+已經完成這場道館對戰了！
+err_gym_battle_ended
+這場道館對戰已經結束了！
+err_fetch_raid_details
+無法讀取團體戰細節
+err_cannot_join_raid_group
+無法參加團體戰
+err_leave_raid_lobby
+無法離開這場團體戰
+err_avatar_incorrect
+虛擬人偶出現錯誤
+err_raid_unavailable
+這場團體戰已結束
+err_raid_lobby_not_found
+團體戰入口不存在！
+err_gym_deploy
+無法指派這隻寶可夢
+err_bundle_request
+自伺服器下載時出現錯誤
+alola_pokedex_header
+阿羅拉的樣子
+privacy_policy_short_button
+隱私權
+pokemon_info_caught
+捕捉
+pokemon_info_hatched
+孵化
+pokemon_info_trade
+交換
+terms_of_service_url
+https://www.nianticlabs.com/terms/pokemongo/zh_hant/
+no_news_message
+沒有快訊
+view_in_map
+在地圖中查看
+badge_chicago_fest_july_2018_sat_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_north
+2018年7月14日 芝加哥（北）
+badge_chicago_fest_july_2018_sat_south
+2018年7月14日 芝加哥（南）
+badge_chicago_fest_july_2018_sun_south
+2018年7月15日 芝加哥（南）
+badge_chicago_fest_july_2018_sun_north
+2018年7月15日 芝加哥（北）
+error_contains_bad_text
+此名稱內含不恰當的文字
+pokestop_item_passcode_inventory_full
+包包已滿，或是距離可登入的地點太遠
+error_weak_network
+網路狀況不穩定，請稍後再試一次
+badge_apac_partner_july_2018_1
+July 26, 2018
+badge_apac_partner_july_2018_2
+July 27, 2018
+badge_apac_partner_july_2018_3
+July 28, 2018
+badge_apac_partner_july_2018_4
+July 29, 2018
+badge_apac_partner_july_2018_5
+July 30, 2018
+badge_apac_partner_july_2018_1_title
+Pokémon GO Special Weekend
+badge_apac_partner_july_2018_2_title
+Pokémon GO Special Weekend
+badge_apac_partner_july_2018_3_title
+Pokémon GO Special Weekend
+badge_apac_partner_july_2018_4_title
+Pokémon GO Special Weekend
+badge_apac_partner_july_2018_5_title
+Pokémon GO Special Weekend

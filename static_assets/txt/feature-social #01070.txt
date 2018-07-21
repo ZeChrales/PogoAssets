@@ -1,0 +1,536 @@
+test_key
+Test
+screen_you_title
+toi
+screen_friends_title
+amis
+social_add_friends
+Ajouter des amis
+friend_code_title
+Code de Dresseur
+enter_friend_code_prompt
+Pour ajouter quelqu’un à ta Liste d’amis, saisis son Code de Dresseur.
+your_friend_code_title
+Ton Code de Dresseur
+other_section_title
+Divers
+send_gift_action
+Envoyer un Cadeau
+trade_action
+Échanger
+incoming_friend_request_prompt
+{0} personnes souhaitent t’ajouter à leur Liste d’amis.
+incoming_friend_request_prompt_singular
+Une personne souhaite t’ajouter à sa Liste d’amis.
+screen_title_friend_requests
+Invitations d’amis
+accept_friend_request_prompt
+Invitation d’ami reçue.
+became_friends_prompt
+{0} est désormais ton ami.
+sent_friend_request_prompt
+Tu as envoyé une Invitation.
+share_title
+Partager
+your_friend_code_desc
+D’autres Dresseurs peuvent utiliser ce Code de Dresseur pour t’ajouter comme ami.
+social_add_friend_qr
+QR code
+social_add_friend_facebook
+Importer des amis de Facebook
+friend_sent_you_gift_notification
+{0} t’a envoyé un Cadeau !
+select_giftbox_to_send_prompt
+Quel Cadeau veux-tu envoyer ?
+send_giftbox_prompt
+Envoyer ce Cadeau
+gift_from_prompt
+Bonjour de
+friend_request_accepted_prompt
+{0} est désormais ton ami.
+error_opened_daily_max_number_of_gifts
+La limite quotidienne est atteinte. Reviens demain pour ouvrir d’autres Cadeaux.
+remove_friend_confirmation
+Veux-tu vraiment enlever cet ami de ta liste ?
+error_already_sent_gift_today
+Tu as déjà envoyé un Cadeau à ce Dresseur aujourd'hui.
+error_friend_has_unopened_gift
+Ton ami a encore un Cadeau non ouvert.
+error_player_not_found
+Code de Dresseur invalide. Joueur non trouvé.
+error_friend_request_does_not_exist
+Invitation inexistante
+error_senders_friends_list_full
+La Liste d’amis de {0} est pleine.
+error_friends_list_full
+Ta Liste d’amis est pleine.
+friend_request_declined_prompt
+Invitation refusée.
+error_get_friends_requests_failed
+Impossible de recevoir des Invitations. Réessaye plus tard.
+error_get_friends_list_failed
+Impossible d’obtenir la Liste d’amis. Réessaye plus tard.
+error_send_friend_request_title
+Impossible d’envoyer une invitation à {0}.
+error_player_already_friend
+Ce Dresseur est déjà un ami.
+error_friend_request_max_friends
+Ta Liste d’amis est pleine.
+error_friend_request_friend_inbox_full
+Ce Dresseur a trop d’Invitations d’amis en attente.
+error_max_friend_requests_sent
+Le nombre maximal d’Invitations envoyées est atteint.
+sent_you_a_gift
+{0} t’a envoyé un Cadeau !
+item_friend_gift_box_name
+Cadeau
+item_friend_gift_box_desc
+Une boîte que tu peux envoyer à un ami. Elle contient divers objets utiles.
+sent_friend_request_success
+Invitation envoyée à {0} !
+friendslist_sort_lastactivity
+Dernière activité
+friendslist_sort_level
+Niveau d’amitié
+friendslist_sort_alphabet
+Nom
+giftbox_log_opened
+Cadeau offert par {0} ouvert.
+today
+Aujourd’hui
+yesterday
+Hier
+two_plus_days_ago
+Il y a 2 jours ou plus
+manage_items_button
+Gestion des objets
+upgrade_item_bag_button
+Agrandir le Sac d’objets
+error_open_gift_bag_full
+S’il te plaît, fais de la place ou agrandis ton Sac d’objets avant d’ouvrir le cadeau.
+friend_opened_your_gift
+{0} a reçu {1} objets de ton Cadeau.
+friend_opened_your_gift_singular
+{0} a reçu 1 objet de ton Cadeau.
+social_remove_friend
+Retirer cet ami
+send_gift_prompt
+Envoyer un Cadeau
+friendship_strengthened
+Niveau d’amitié renforcé avec {0}.
+trade_select_header
+Pokémon à échanger
+trade_exclusion_reason_mythical
+Tu ne peux pas échanger un Pokémon fabuleux.
+trade_exclusion_reason_slashed
+Tu ne peux pas échanger ce Pokémon.
+trade_exclusion_reason_disabled
+Une erreur empêche l’échange de ce Pokémon.
+share_my_friend_code_message
+Soyons amis dans Pokémon GO ! Mon Code de Dresseur est : {0}.
+friendship_milestone_notification_toast
+{0} est désormais un Bon ami.
+friendship_detail_unlock_reqs_singular
+Si vous jouez ensemble pendant {0} jour, il pourra devenir ton {1} !
+friendship_detail_unlock_reqs_plural
+Si vous jouez ensemble pendant {0} jours, il pourra devenir ton {1} !
+friendship_detail_capabilities
+Bonus
+friendship_detail_just_friends
+Si tu augmentes ton Niveau d’amitié, tu obtiendras des bonus. Touche un cœur pour en savoir plus.
+friendship_detail_trade
+Échange
+friendship_detail_battle
+Combat d’Arène/de Raid
+raid_friendship_bonus
+Amitié
+friendship_strengthened_header
+Niveau d’amitié renforcé
+friendship_detail_attack_bonus
+Bonus d’attaque
+friendship_detail_raid_bonus
+Bonus de Raid
+gym_battle_victory_subtitle_alone
+Tu as conquis cette Arène
+gym_battle_victory_subtitle_with_friend
+Tu as conquis cette Arène avec
+friendship_level_0
+Ami
+friendship_level_1
+Bon ami
+friendship_level_2
+Grand ami
+friendship_level_3
+Excellent ami
+friendship_level_4
+Meilleur ami
+friendship_detail_ball_singular
++{0} Poké Ball
+friendship_detail_ball_plural
++{0} Poké Balls
+friendship_milestone_notification_toast_3
+{0} est désormais un Grand ami.
+friendship_milestone_notification_toast_4
+{0} est désormais un Excellent ami.
+friendship_milestone_notification_toast_5
+{0} est désormais ton Meilleur ami.
+friend_singular
+ami
+friend_plural
+amis
+see_details
+DÉTAILS
+sent_gift_to_friend
+Cadeau envoyé à {0}.
+settings_gift_received
+Cadeau reçu
+error_no_gifts_in_inventory
+Tu n’as aucun Cadeau dans ton inventaire. Visite des PokéStops pour en trouver.
+trade_detail_appraisal
+Évaluation :
+trade_exclusion_reason_friend_level
+Ton Niveau d’amitié avec ton ami est insuffisant pour compléter cet échange.
+trade_exclusion_reason_traded
+Ce Pokémon ne peut plus être échangé.
+trade_exclusion_reason_gym_deployed
+Ce Pokémon est assigné à une Arène.
+trade_exclusion_reason_buddy
+Ce Pokémon est ton Copain Pokémon.
+trade_exclusion_reason_stamina
+Ce Pokémon n’est pas en pleine santé.
+attack_bonus
+Bonus d’attaque
+raid_bonus_ball
+Poké Ball Bonus de Raids
+new_feature_unlocked
+Nouveaux bonus déverrouillés
+error_cannot_invite_yourself
+Tu ne peux pas t’ajouter à ta Liste d’amis.
+change_your_code_button
+CHANGER DE CODE
+change_your_code_title
+Changer de Code de Dresseur
+change_your_code_message
+Veux-tu vraiment changer ton Code de Dresseur ? Tu ne pourras plus recevoir d’Invitations d’amis avec ton Code de Dresseur actuel. Ceci n’aura aucun effet sur tes amis existants.
+your_code_changed
+Ton Code de Dresseur a été changé.
+badge_max_level_friends
+Atteins le rang de « Meilleur ami » avec {0} Dresseurs.
+badge_max_level_friends_value_format
+N0
+error_invite_already_sent
+Tu as déjà envoyé une invitation à ce Dresseur.
+badge_max_level_friends_singular
+Atteins le rang de « Meilleur ami » avec {0} Dresseur.
+screen_title_notification
+Notifications
+badge_max_level_friends_title
+Star
+badge_trading_distance_title
+Pilote
+badge_trading_title
+Gentleman
+trade_exclusion_reason_egg
+Les Œufs ne peuvent pas être échangés.
+trade_tut_stardust_needed
+Échanger avec de la Poussière Étoile
+trade_tut_stardust_needed_message
+La quantité de Poussières Étoiles nécessaire pour effectuer un échange peut varier. Certains Pokémon font partie des Échanges spéciaux, qui requièrent davantage de Poussières Étoiles. Il est possible de réduire la quantité de Poussières Étoiles nécessaire pour effectuer des Échanges spéciaux en augmentant ton Niveau d’amitié.
+trade_tut_special_trade
+Échanges spéciaux
+trade_tut_special_trade_message
+Les Pokémon légendaires, les variations chromatiques de Pokémon, et les Pokémon qui ne se trouvent pas dans ton Pokédex requièrent un Échange spécial, qui ne peut être effectué qu’une fois par jour.
+trade_tut_candy_bonus
+Bonus de Bonbons
+trade_tut_candy_bonus_message
+Bien que tu ne puisses pas être à plus de 100 mètres de ton ami pour effectuer un échange, tu peux obtenir un bonus qui dépendra de l’emplacement des Pokémon échangés. Plus la distance des lieux de capture des Pokémon est grande (100 km maximum) plus tu gagneras de Bonbons !
+trade_tut_strength_adjust
+Les PC et les PV d’un Pokémon échangé
+trade_tut_strength_adjust_message
+Lorsque tu échanges un Pokémon avec un ami, tu verras la gamme de PC et de PV de ce Pokémon. Cette gamme sera ajustée en fonction du niveau de ton ami, et de ton Niveau d’amitié. Une fois l’échange effectué, les deux statistiques de base du Pokémon changeront de façon aléatoire.
+error_gift_invalid_state
+Le Cadeau ne peut être envoyé en raison d'une erreur.
+trade_activity_log
+Tu as échangé {0} contre {1} avec {2}.
+error_generate_friendcode_failed
+Échec de la réception du Code de Dresseur.
+error_invite_already_received
+Ce Dresseur t’a déjà envoyé une Invitation.
+add_friends_privacy_prompt
+Tes amis peuvent voir ton profil de Dresseur, tes prouesses et les Pokémon que tu as attrapés. Ils peuvent également voir ton emplacement lorsque tu leur envoies un Cadeau ou échanges un Pokémon.
+visit_help_center_prompt
+Pour plus d’informations, consulte le Point Assistance.
+friendship_detail_no_bonus
+Aucun bonus.
+social_no_friends
+Joue avec tes amis pour déverrouiller des échanges, des Honor Balls et des améliorations pour les combats !
+gift_sent_toast
+Cadeau envoyé.
+friends_list_level_format
+Niv. {0}
+badge_trading
+Échange {0} Pokémon.
+badge_trading_value_format
+N0
+badge_trading_distance
+Échange des Pokémon sur une distance de {0} kilomètres.
+badge_trading_distance_value_format
+N0
+log_player_sent_you_a_friend_request
+{0} t’a envoyé une Invitation !
+log_player_accepted_your_friend_request
+{0} a accepté ton Invitation.
+trading_confirm
+Confirmer
+trading_cancel
+Annuler
+trading_me
+Moi
+trade_player_me
+Moi
+trading_player_level
+Niv. {0}
+trading_details_warning
+Le niveau de Dresseur de ton ami est inférieur, les PC et les PV sont réduits.
+social_player_level_too_low
+La fonctionnalité d’amis n’est disponible pour le moment que pour les Dresseurs de niveau {0} ou plus. Reviens régulièrement pour vérifier si cette fonctionnalité t’est disponible.
+error_social_player_banned
+Tu n’as pas accès à cette fonctionnalité.
+trade_friend_is_selecting
+{0} est en train de choisir un Pokémon...
+trading_confirmed
+Confirmé
+trading_waiting
+En attente...
+friend_invite_accepted_toast
+{0} est désormais ton ami.
+friend_invite_received_toast
+{0} t’a envoyé une Invitation.
+trade_friend_left_title
+Cet échange est arrivé à expiration.
+trade_friend_left_message
+Cet échange est annulé.
+trade_cannot_confirm
+Impossible de confirmer pour le moment
+trade_friend_not_present
+{0} n'est pas encore disponible pour un échange.
+trade_confirm_quit_title
+Veux-tu vraiment annuler cet échange ?
+trade_confirm_quit_message
+Si tu quittes cet écran d’échange, tu ne pourras pas échanger avec {0}.
+friendship_detail_unlocked_trading
+Tu peux échanger les Pokémon suivants :
+friendship_detail_stardust_discount
+Rabais sur les Poussières Étoiles
+trade_regular_in_pokedex
+Les Pokémon normaux du Pokédex
+trade_regular_non_pokedex
+Tous les Pokémon normaux
+trade_regional_non_pokedex
+Tous les Pokémon régionaux
+trade_form_non_pokedex
+Toutes les formes d’un Pokémon
+trade_legendary_non_pokedex
+Tous les Pokémon légendaires
+trade_shiny_non_pokedex
+Tous les Pokémon chromatiques
+trading_canceled
+Annulé
+trade_special_in_pokedex
+Les Pokémon légendaires ou chromatiques du Pokédex
+trade_exclusion_reason_player_cannot_afford
+Tu n’as pas assez de Poussières Étoiles.
+trade_exclusion_reason_friend_cannot_afford
+Ton ami n’a pas assez de Poussières Étoiles.
+trade_exclusion_reason_player_reached_daily_limit
+Tu as atteint la limite quotidienne d’Échanges spéciaux.
+trade_exclusion_reason_friend_reached_daily_limit
+Ton ami a atteint la limite quotidienne d’Échanges spéciaux.
+trade_error_unknown
+Le service d’échanges est inaccessible pour le moment. Réessaye plus tard.
+trade_error_friend_not_found
+Impossible de trouver {0} pour effectuer un échange.
+trade_error_open_expired
+Cet échange avec {0} est arrivé à expiration.
+trade_error_out_of_range
+{0} est trop loin pour effectuer un échange.
+trade_error_below_min_level
+Le niveau de {0} est trop bas pour effectuer un échange.
+trade_error_reached_daily_limit
+Tu as atteint la limite quotidienne d’échanges ; réessaye plus tard.
+trade_error_friend_reached_daily_limit
+{0} a atteint la limite quotidienne d’échanges pour aujourd’hui.
+trade_error_not_enough_stardust
+Tu n’as pas assez de Poussières Étoiles pour échanger avec {0} pour le moment.
+trade_error_friend_not_enough_stardust
+{0} n’a pas assez de Poussières Étoiles pour échanger avec toi pour le moment.
+trade_error_select_expired
+Cette session d’échange est arrivée à expiration.
+trade_error_confirm_expired
+Cette session d’échange est arrivée à expiration.
+trade_error_confirm_daily_limit
+Tu as atteint la limite quotidienne d’échanges de ce Pokémon.
+trade_error_get
+Erreur lors du rapport d’échange
+trade_appraise_low_1
+Dans l’ensemble, {0} n’ira pas très loin au combat.
+trade_appraise_mid_1
+Dans l’ensemble, {0} est supérieur à la moyenne.
+trade_appraise_high_1
+Dans l’ensemble, {0} a retenu toute mon attention.
+trade_appraise_best_1
+Dans l’ensemble, {0} est une merveille. Un Pokémon captivant !
+trade_appraise_low_2
+Dans l’ensemble, {0} n’est pas un très bon combattant, mais je l’aime bien.
+trade_appraise_mid_2
+Dans l’ensemble, {0} est un Pokémon solide !
+trade_appraise_high_2
+Dans l’ensemble, {0} est un Pokémon fort !
+trade_appraise_best_2
+Dans l’ensemble, {0} m’étonne beaucoup. Il peut tout faire !
+trade_appraise_low_3
+Dans l’ensemble, {0} peut devenir un meilleur combattant.
+trade_appraise_mid_3
+Dans l’ensemble, {0} est plutôt bien !
+trade_appraise_high_3
+Dans l’ensemble, {0} est vraiment fort !
+trade_appraise_best_3
+Dans l’ensemble, {0} semble capable de tenir tête aux meilleurs !
+settings_friend_request_accepted
+Demande d’ami acceptée
+settings_friend_request_received
+Demande d’ami reçue
+copy_friend_code_title
+COPIER MON CODE
+copy_friend_code_toast
+Ton Code de Dresseur a été copié.
+trade_error_minimum_level
+Tu dois avoir au moins le niveau {0} pour pouvoir échanger.
+friend_caught_a_pokemon
+{0} a attrapé un {1} !
+trade_friend_joined
+Tu peux échanger tes Pokémon avec {0}.
+special_trade_confirm_title
+Veux-tu effectuer un Échange spécial ?
+special_trade_confirm_message
+Tu ne peux effectuer qu’un Échange spécial par jour.
+trade_error_cooldown_time
+Rafraîchissement des échanges pendant encore {0}
+trade_friend_connected_toast
+{0} s’est connecté !
+trade_all_except_mythical
+Tous les Pokémon sauf les Pokémon fabuleux
+trade_tips_p0
+Tu ne peux effectuer des échanges qu’avec les amis qui sont à proximité.
+trade_tips_p1|0
+Les Échanges spéciaux ne peuvent être effectués qu’une fois par jour.
+trade_tips_p1|1
+Tu ne peux pas échanger un Pokémon qui a été échangé auparavant.
+trade_tips_p1|2
+Les statistiques des Pokémon échangés changeront de façon aléatoire suite à l’échange.
+trade_tips_p1|3
+Utilise le bouton d’aide ci-dessus pour en apprendre plus sur les échanges.
+trade_tips_p1|4
+Si le niveau de Dresseur de ton ami est plus bas que le tien, les PC et PV potentiels du Pokémon échangés seront ajustés.
+trade_tips_p2|0
+Les Pokémon non enregistrés dans ton Pokédex requièrent un Échange spécial.
+trade_tips_p2|1
+Tu dois atteindre le Niveau d’amitié « Bon ami » pour pouvoir effectuer un Échange spécial.
+trade_tips_p2|2
+Si les lieux de capture des Pokémon échangés sont éloignés dans un rayon maximal de 100 km, tu recevras un bonus de Bonbons.
+trade_tips_p2|3
+La quantité de Poussières Étoiles nécessaire pour effectuer un échange réduit d’autant plus que ton Niveau d’amitié augmente.
+trade_tips_p2|4
+Les formes chromatiques des Pokémon, les Pokémon légendaires et les Pokémon qui ne se trouvent pas dans ton Pokédex requièrent un Échange spécial.
+trade_tips_p2|5
+Effectuer un Échange spécial requiert une grande quantité de Poussières Étoiles.
+trade_tips_p2|6
+Plus tu échanges des Pokémon avec ton ami, plus ton Niveau d’amitié avec celui-ci augmente.
+trade_tips_p2|7
+Les Pokémon fabuleux ne peuvent pas être échangés.
+trade_warning_your_level_lower
+Si ton niveau de Dresseur est inférieur à celui de ton ami, les PC et PV seront réduits.
+trade_warning_friend_level_lower
+Si le niveau de Dresseur de ton ami est inférieur au tien, les PC et PV seront réduits.
+trade_ending_prompt|0
+{0} a envoyé {1}.
+trade_ending_prompt|1
+Prends bien soin de {0}.
+trade_exclusion_favorite
+Ce Pokémon est un Pokémon préféré.
+social_my_code
+MON CODE DE DRESSEUR
+decline_friend_request_confirmation
+Veux-tu vraiment refuser cette Invitation d’ami ?
+decline_friend_request_confirmation_message
+Si tu refuses cette Invitation d’ami, ce Dresseur ne pourra pas t’en envoyer une nouvelle.
+friend_request_deleted_confirmation
+Invitation d’ami refusée
+send_gift_button
+Envoyer
+open_gift_button
+Ouvrir
+next_button
+Suivant
+trade_error_rpc
+Erreur d’échange inconnue
+trade_tut_proximity
+Échanger avec des amis
+trade_tut_proximity_message
+Tu ne peux échanger avec un ami que si vous vous trouvez à proximité.
+social_send_my_code
+PARTAGER MON CODE
+social_send_code_prompt
+Envoie une Invitation d’ami en saisissant le Code de Dresseur de ton ami.
+trainer_name_label
+Nom de Dresseur
+trainer_code_label
+Code de Dresseur
+trade_toast_must_cancel_first
+Annule d'abord ta confirmation.
+trade_toast_must_connect_first
+Attends que ton ami soit connecté.
+trade_bonus
+Bonus d'échange
+accept
+Accepter
+delete
+Refuser
+filter_key_traded
+échangé
+no_notifications_message
+Aucune notification.
+social_qr_code_prompt
+Scanne ce QR code avec le scanner d'un autre Dresseur.
+social_qr_scan_prompt
+Scanne le QR code d'un Dresseur
+social_qr_code_header
+MON CODE
+social_qr_scan_header
+SCANNER
+social_other_friend_add_title
+AUTRES
+set_friend_nickname
+Choisis un surnom
+select_gift_to_delete_prompt
+Choisis les Cadeaux à défausser
+delete_gift_confirmation
+Veux-tu vraiment défausser ce Cadeau ?
+social_my_qr_code
+Mon QR Code
+social_lucky_pokemon_label
+Pokémon Chance
+friendslist_sort_gift
+Cadeau
+error_set_friend_nickname
+Erreur lors du changement de surnom.
+error_set_friend_nickname_length
+Ce surnom est trop long.
+friendslist_sort_nickname
+Surnom
+pokedex_details_lucky
+Chance :
+pokemon_info_multi_transfer_lucky_pokemon_error
+Tu ne peux pas choisir un Pokémon Chance.
+pokemon_lucky_info_transfer_to_professor_confirmation
+Veux-tu vraiment transférer ce Pokémon Chance ?

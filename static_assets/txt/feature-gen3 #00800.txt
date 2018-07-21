@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+Walk {0} more km with this buddy.
+weather_weather
+Weather
+weather_clear
+Clear
+weather_rainy
+Rain
+weather_partly_cloudy
+Partly Cloudy
+weather_overcast
+Cloudy
+weather_windy
+Windy
+weather_snow
+Snow
+weather_fog
+Fog
+weather_boosted_types
+Boosted Types
+weather_boosted_types_desciption
+These Pokémon types are stronger, appear more frequently, and give bonus Stardust when caught.
+weather_extreme
+Extreme
+weather_extreme_description
+Weather conditions are potentially dangerous—be aware of your surroundings!  Check your local weather service for details.
+weather_alert_warning
+Hazardous weather alert! Check your local weather service for details.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+Walk with your buddy {0} to evolve this Pokémon.
+weather_sunny
+Sunny
+weather_boost_active_1
+{0}'s {1} is boosted by the weather!
+weather_boost_active_2
+{0}'s {1} and {2} are boosted by the weather!
+weather_alert_safety_button
+I AM SAFE
+weather_careful_description
+Weather conditions are potentially dangerous—be aware of your surroundings!  Check your local weather service for details.
+weather_careful
+Careful!
+form_normal
+Normal
+form_sun
+Sunny
+form_rain
+Rainy
+form_snow
+Snowy
+form_defense
+Defense
+form_attack
+Attack
+form_speed
+Speed
+form_deoxys_normal
+Normal
+general_send
+SEND
+general_report_title
+Report Issue
+weather_report_option_1
+The weather is not accurate at all!
+weather_report_option_2
+The weather seems accurate, just not up to date.

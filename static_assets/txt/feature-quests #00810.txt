@@ -1,0 +1,564 @@
+quests_quest
+Tasks
+quests_list_gui_title
+Research Progress
+quests_list_gui_tab_challenges
+Field
+quests_list_gui_tab_special
+Special
+quests_claim_reward
+CLAIM REWARD!
+quests_professor_willow
+Professor Willow
+quests_mobile_calling
+mobile
+quests_remove_challenge_prompt
+Remove Field Research?
+quests_remove_challenge_desc
+You can visit a PokéStop to find another.
+quests_daily_challenge_reset
+Daily challenge card resets in <color=cyan>{0}</color>.
+quests_new_challenge_received
+New Field Research!
+quests_get_new_challenge_prompt
+Visit PokéStops to find more Field Research!
+quests_step_complete
+Tasks completed!
+quest_pokemon_appears
+Pokémon appears!
+quests_claim_field_research_first
+You must claim your Research Breakthrough first!
+quest_breakthrough_completed
+Field Research completed!
+quests_log_complete_quest
+Completed Research: {0}.
+quests_log_research_breakthrough
+Research Breakthrough achieved.
+quests_collect_stamps
+Collect Stamps!
+quests_collect_stamps_message
+Complete Field Research to collect stamps toward rewards! You can earn one research stamp per day.
+quest_battle_gym_plural
+Battle in a Gym {0} times
+quest_battle_gym_singular
+Battle in a Gym
+quest_battle_raid_plural
+Battle in {0} raids
+quest_battle_raid_singular
+Battle in a raid
+quest_battle_supereffective_charge_plural
+Use a supereffective Charged Attack in {0} Gym battles
+quest_battle_supereffective_charge_singular
+Use a supereffective Charged Attack in a Gym battle
+quest_catch_feed_plural
+Use {0} Berries to help catch Pokémon
+quest_catch_feed_singular
+Use a Berry to help catch a Pokémon
+quest_catch_pokemon_plural
+Catch {0} Pokémon
+quest_catch_pokemon_singular
+Catch a Pokémon
+quest_catch_special0_plural
+Catch {0} Ditto
+quest_catch_special0_singular
+Catch a Ditto
+quest_catch_special1_plural
+Catch {0} Oddish or Bellsprout
+quest_catch_special1_singular
+Catch an Oddish or Bellsprout
+quest_catch_special2_plural
+Catch {0} Swablu
+quest_catch_special2_singular
+Catch a Swablu
+quest_catch_special3_plural
+Catch {0} Pidgey or Murkrow
+quest_catch_special3_singular
+Catch a Pidgey or Murkrow
+quest_catch_special4_plural
+Catch {0} Treecko or Mudkip
+quest_catch_special4_singular
+Catch a Treecko or Mudkip
+quest_catch_special5_plural
+Catch {0} Meowth or Skitty
+quest_catch_special5_singular
+Catch a Meowth or Skitty
+quest_catch_type_bug_plural
+Catch {0} Bug-type Pokémon
+quest_catch_type_bug_singular
+Catch a Bug-type Pokémon
+quest_catch_type_dark_plural
+Catch {0} Dark-type Pokémon
+quest_catch_type_dark_singular
+Catch a Dark-type Pokémon
+quest_catch_type_dragon_plural
+Catch {0} Dragon-type Pokémon
+quest_catch_type_dragon_singular
+Catch a Dragon-type Pokémon
+quest_catch_type_electric_plural
+Catch {0} Electric-type Pokémon
+quest_catch_type_electric_singular
+Catch an Electric-type Pokémon
+quest_catch_type_fairy_plural
+Catch {0} Fairy-type Pokémon
+quest_catch_type_fairy_singular
+Catch a Fairy-type Pokémon
+quest_catch_type_fighting_plural
+Catch {0} Fighting-type Pokémon
+quest_catch_type_fighting_singular
+Catch a Fighting-type Pokémon
+quest_catch_type_fire_plural
+Catch {0} Fire-type Pokémon
+quest_catch_type_fire_singular
+Catch a Fire-type Pokémon
+quest_catch_type_flying_plural
+Catch {0} Flying-type Pokémon
+quest_catch_type_flying_singular
+Catch a Flying-type Pokémon
+quest_catch_type_ghost_plural
+Catch {0} Ghost-type Pokémon
+quest_catch_type_ghost_singular
+Catch a Ghost-type Pokémon
+quest_catch_type_grass_plural
+Catch {0} Grass-type Pokémon
+quest_catch_type_grass_singular
+Catch a Grass-type Pokémon
+quest_catch_type_ground_plural
+Catch {0} Ground-type Pokémon
+quest_catch_type_ground_singular
+Catch a Ground-type Pokémon
+quest_catch_type_ice_plural
+Catch {0} Ice-type Pokémon
+quest_catch_type_ice_singular
+Catch an Ice-type Pokémon
+quest_catch_type_normal_plural
+Catch {0} Normal-type Pokémon
+quest_catch_type_normal_singular
+Catch a Normal-type Pokémon
+quest_catch_type_poison_plural
+Catch {0} Poison-type Pokémon
+quest_catch_type_poison_singular
+Catch a Poison-type Pokémon
+quest_catch_type_psychic_plural
+Catch {0} Psychic-type Pokémon
+quest_catch_type_psychic_singular
+Catch a Psychic-type Pokémon
+quest_catch_type_rock_plural
+Catch {0} Rock-type Pokémon
+quest_catch_type_rock_singular
+Catch a Rock-type Pokémon
+quest_catch_type_steel_plural
+Catch {0} Steel-type Pokémon
+quest_catch_type_steel_singular
+Catch a Steel-type Pokémon
+quest_catch_type_water_plural
+Catch {0} Water-type Pokémon
+quest_catch_type_water_singular
+Catch a Water-type Pokémon
+quest_catch_types_sunny_plural
+Catch {0} Grass-, Fire-, or Ground-type Pokémon
+quest_catch_types_sunny_singular
+Catch a Grass-, Fire-, or Ground-type Pokémon
+quest_catch_weather_boost_plural
+Catch {0} Pokémon with Weather Boost
+quest_catch_weather_boost_singular
+Catch a Pokémon with Weather Boost
+quest_evolve_singular
+Evolve a Pokémon
+quest_evolve_plural
+Evolve {0} Pokémon
+quest_evolve_type_fire_plural
+Evolve {0} Fire-type Pokémon
+quest_evolve_type_fire_singular
+Evolve a Fire-type Pokémon
+quest_hatch_egg_plural
+Hatch {0} Eggs
+quest_hatch_egg_singular
+Hatch an Egg
+quest_land_excellent_plural
+Make {0} Excellent Throws
+quest_land_excellent_singular
+Make an Excellent Throw
+quest_land_great_curveball_plural
+Make {0} Great Curveball Throws
+quest_land_great_curveball_singular
+Make a Great Curveball Throw
+quest_land_great_plural
+Make {0} Great Throws
+quest_land_great_singular
+Make a Great Throw
+quest_land_inarow_curveball_plural
+Make {0} Curveball Throws in a row
+quest_land_inarow_excellent_curveball_plural
+Make {0} Excellent Curveball Throws in a row
+quest_land_inarow_great_curveball_plural
+Make {0} Great Curveball Throws in a row
+quest_land_inarow_great_plural
+Make {0} Great Throws in a row
+quest_land_inarow_nice_curveball_plural
+Make {0} Nice Curveball Throws in a row
+quest_land_inarow_nice_plural
+Make {0} Nice Throws in a row
+quest_land_nice_plural
+Make {0} Nice Throws
+quest_land_nice_singular
+Make a Nice Throw
+quest_power_up_plural
+Power up Pokémon {0} times
+quest_power_up_singular
+Power up a Pokémon
+quest_visit_pokestop_new_plural
+Spin {0} PokéStops you haven't visited before
+quest_visit_pokestop_new_singular
+Spin a PokéStop you haven't visited before
+quest_visit_pokestops_plural
+Spin {0} PokéStops or Gyms
+quest_visit_pokestops_singular
+Spin a PokéStop or Gym
+quest_win_gym_plural
+Win {0} Gym battles
+quest_win_gym_singular
+Win a Gym battle
+quest_win_raid_3_singular
+Win a level 3 or higher raid
+quest_win_raid_3_plural
+Win {0} level 3 or higher raids
+quest_win_raid_plural
+Win {0} raids
+quest_win_raid_singular
+Win a raid
+quest_reach_level
+Reach level {0}
+quest_reach_kanto_silver
+Earn a silver Kanto medal
+quest_reach_kanto_gold
+Earn a gold Kanto medal
+quest_walk_buddy_plural
+Earn {0} Candies walking with your buddy
+quest_walk_buddy_singular
+Earn a Candy walking with your buddy
+quest_evolve_special0_singular
+Evolve a Magikarp
+quest_catch_special_mew
+Catch Mew!
+quest_title_mew
+A Mythical Discovery
+quest_title_mew_0
+A Mythical Discovery (1/8)
+quest_title_mew_1
+A Mythical Discovery (2/8)
+quest_title_mew_2
+A Mythical Discovery (3/8)
+quest_title_mew_3
+A Mythical Discovery (4/8)
+quest_title_mew_4
+A Mythical Discovery (5/8)
+quest_title_mew_5
+A Mythical Discovery (6/8)
+quest_title_mew_6
+A Mythical Discovery (7/8)
+quest_title_mew_7
+A Mythical Discovery (8/8)
+quest_complete_mew
+A Mythical Discovery
+quest_special_dialogue_mew_0_0
+%PLAYERNAME%, how are you? It’s been a while, hasn’t it? You’ve become quite the Trainer!
+quest_special_dialogue_mew_0_1
+I wanted to ask for your help. As you know, I study Pokémon and their habitats. I’ve learned a lot over the years, but recently, I’ve found some hints of something mysterious.
+quest_special_dialogue_mew_0_2
+I was wondering if you would help me investigate what's going on.
+quest_special_dialogue_mew_0_3
+You will? That’s great!
+quest_special_dialogue_mew_0_4
+First things first, let’s calibrate my instruments to your area.
+quest_special_dialogue_mew_0_5
+Could you please complete the following research tasks?\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_1_0
+Great. Thanks, %PLAYERNAME%! Now I should be able to detect anything out of the ordinary.
+quest_special_dialogue_mew_1_1
+I believe we need to be on the lookout for a Mythical Pokémon! Mythical Pokémon are extremely rare and unique, and many consider their existence to be mere rumor.
+quest_special_dialogue_mew_1_2
+Could you help get my equipment set up around your local habitat? This’ll be a great time to take your buddy out to explore a bit and hatch some Eggs!
+quest_special_dialogue_mew_1_3
+Please complete the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_2_0
+Incredible! This confirms my initial suspicion. I think we’re seeing evidence of Mew!
+quest_special_dialogue_mew_2_1
+A Pokémon found in a jungle far to the south that was thought to have been extinct. It is so rare that many experts say that it is a myth. %BREAK%Only a few people have seen it worldwide. Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.
+quest_special_dialogue_mew_2_2
+My colleagues in Kanto, including my instructor, Professor Oak, spent a long time studying Mew. It looks like our findings match theirs!
+quest_special_dialogue_mew_2_3
+According to our research, Mew was said to be observed using moves of all kinds. This observation has led some of us to say that Mew is the ancestor of all Pokémon!
+quest_special_dialogue_mew_2_4
+Perhaps by studying Pokémon in battle, we’ll learn more!
+quest_special_dialogue_mew_2_5
+Please perform the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_3_0
+Great work, %PLAYERNAME%! This will help point us in the right direction.
+quest_special_dialogue_mew_3_1
+Did you know Mew is said to hold the genetic codes of all Pokémon? Mew’s secrets could be a link to understanding the mystery of Pokémon growth and Evolution!
+quest_special_dialogue_mew_3_2
+Let's study some Pokémon Evolution to learn more about Mew!
+quest_special_dialogue_mew_3_3
+Please perform these research tasks for me.\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_4_0
+Amazing. Just amazing! Isn’t Evolution wondrous? I learn something new every time I see it!
+quest_special_dialogue_mew_4_1
+With the data we’ve collected so far, I should be able to pinpoint Mew’s location! It looks like...
+quest_special_dialogue_mew_4_2
+Yes, it looks like Mew has visited your area recently! Hmm... Interesting. If that's the case, someone should have reported a sighting...
+quest_special_dialogue_mew_4_3
+Maybe Mew is hiding or disguised as another Pokémon? Let's study some other Pokémon that use these tricks and the best ways to catch them!
+quest_special_dialogue_mew_4_4
+Please perform the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_5_0
+Thank you, %PLAYERNAME%! With your help, I’ve determined that Mew is invisible!
+quest_special_dialogue_mew_5_1
+Let's collect some data to build a tool to find it. I have an idea... I’ll need you to study some powerful Pokémon up close to help me out!
+quest_special_dialogue_mew_5_2
+Could you complete the following research tasks?\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_6_0
+Nice! My prototype is functioning well. I’ve upgraded your AR camera with the new ability to see invisible Pokémon!
+quest_special_dialogue_mew_6_1
+The final step is to lure out Mew. Mew is said only to appear to those who are pure of heart and have a strong desire to meet it...
+quest_special_dialogue_mew_6_2
+Let’s show Mew what a great Trainer you are and how excited we are to see it!
+quest_special_dialogue_mew_6_3
+Please carry out the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_7_0
+We found Mew! Awesome! This is an experience to remember forever.
+quest_special_dialogue_mew_7_1
+Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
+quest_special_dialogue_mew_7_2
+My assistants and I will request some Special Research from you in the future. Stay in touch!
+quest_transfer_pokemon_plural
+Transfer {0} Pokémon
+quest_land_excellent_curveball_singular
+Make an Excellent Curveball Throw
+quest_land_excellent_curveball_plural
+Make {0} Excellent Curveball Throws
+quests_come_back_soon
+Come back tomorrow!
+quests_come_back_soon_message
+Come back tomorrow for another opportunity to collect a research stamp!
+quest_more_reseach_coming_soon
+More research requests will be coming soon!
+quest_reward_desc_1
+Collect stamps to unlock Research Breakthroughs from Professor Willow!
+quest_reward_desc_2
+Next Breakthrough in
+quest_reward_desc_3_plural
+{0} more stamps!
+quest_reward_desc_3_singular
+{0} more stamp!
+quest_breakthrough_reward_stardust
+Stardust
+quest_breakthrough_reward_mystery
+Mystery items
+quest_land_inarow_excellent_plural
+Make {0} Excellent Throws in a row
+quest_reward_mysterious_pokemon_appeared
+A mysterious Pokémon has appeared!
+quest_reward_encounter_uses_ar
+You must be in AR mode to catch this Pokémon.
+quest_reward_start_encounter
+Start Encounter
+quest_reward_encounter_later
+Later
+pokemon_mythic_info_transfer_to_professor_impossible
+{0} is a Mythical Pokémon and cannot be transferred.
+quests_when_to_collect_next_stamp
+You can earn another research stamp tomorrow!
+quests_streak_broken
+Streak Broken!
+badge_challenge_quests
+Complete {0} Field Research tasks.
+badge_challenge_quests_title
+Pokémon Ranger
+badge_challenge_quests_value_format
+N0
+quests_stamp_date_format
+MMM d
+quests_breakthrough_major_reward_header
+Breakthrough!
+quests_story_major_reward_header
+Special Research Complete!
+pokemon_info_multi_transfer_mythic_pokemon_error
+You can't select Mythical Pokémon.
+disabled_mythic
+Mythical Pokémon can't be left at Gyms.
+quests_breakthrough_conversation_1
+Hey!  Good job with your Field Research, it looks like we've learned a lot!
+quests_breakthrough_conversation_2
+Keep up the great work.  Now...let's see what we've discovered!
+quest_catch_special6_plural
+Catch {0} Mareep
+quests_field_research_task
+FIELD RESEARCH TASK
+quests_field_research_task_desc
+You have completed the Field Research task from this PokéStop for today.
+quests_completed_story_quests_header
+COMPLETED
+quest_evolve_type_electric_plural
+Evolve {0} Electric-type Pokémon
+quest_evolve_type_electric_singular
+Evolve an Electric-type Pokémon
+quest_evolve_type_flying_plural
+Evolve {0} Flying-type Pokémon
+quest_evolve_type_flying_singular
+Evolve a Flying-type Pokémon
+quest_evolve_type_ice_plural
+Evolve {0} Ice-type Pokémon
+quest_evolve_type_ice_singular
+Evolve an Ice-type Pokémon
+quest_evolve_type_water_plural
+Evolve {0} Water-type Pokémon
+quest_evolve_type_water_singular
+Evolve a Water-type Pokémon
+quest_land_nice_electric_plural
+Catch {0} Electric-type Pokémon with Nice Throws
+quest_catch_types_rainy_plural
+Catch {0} Water-, Electric-, or Bug-type Pokémon
+quest_catch_types_rainy_singular
+Catch a Water-, Electric-, or Bug-type Pokémon
+quest_catch_types_snowy_plural
+Catch {0} Ice- or Steel-type Pokémon
+quest_catch_types_snowy_singular
+Catch an Ice- or Steel-type Pokémon
+quest_catch_types_windy_plural
+Catch {0} Flying-, Psychic-, or Dragon-type Pokémon
+quest_catch_types_windy_singular
+Catch a Flying-, Psychic-, or Dragon-type Pokémon
+quest_catch_special7_plural
+Catch {0} Charmander
+quest_adventure_hatch_egg_plural
+Adventure Week: Hatch {0} Eggs
+quest_adventure_walk_buddy_plural
+Adventure Week: Earn {0} Candies walking with your buddy
+quest_adventure_visit_pokestop_new_plural
+Adventure Week: Spin {0} PokéStops you haven't visited before
+quest_adventure_evolve_singular
+Adventure Week: Evolve an Omanyte or Kabuto
+quest_evolve_special1_singular
+Evolve a Horsea
+quest_catch_special8_plural
+Catch {0} Larvitar
+quest_waterfestival_win_raid_singular
+Water Festival: Win a raid
+quest_waterfestival_catch_special9_plural
+Water Festival: Catch {0} Magikarp or Wailmer
+quest_waterfestival_catch_type_water_plural
+Water Festival: Catch {0} Water-type Pokémon
+quest_waterfestival_catch_feed_plural
+Water Festival: Use {0} Berries to help catch Pokémon
+quest_waterfestival_hatch_egg_singular
+Water Festival: Hatch an Egg
+quest_waterfestival_evolve_plural
+Water Festival: Evolve {0} Shellder
+quest_gofest_0
+GO Fest: Catch {0} Pokémon
+quest_gofest_1
+GO Fest: Visit {0} PokéStops
+quest_gofest_2
+GO Fest: Earn a Buddy Candy
+quest_gofest_3
+GO Fest: Hatch an Egg
+quest_title_gofest
+GO Fest 2018
+quest_title_gofest_0
+GO Fest 2018 (1/5)
+quest_title_gofest_1
+GO Fest 2018 (2/5)
+quest_title_gofest_2
+GO Fest 2018 (3/5)
+quest_title_gofest_3
+GO Fest 2018 (4/5)
+quest_title_gofest_4
+GO Fest 2018 (5/5)
+quest_catch_special9_plural
+Catch {0} Unown
+quest_catch_special10_plural
+Catch {0} Plusle
+quest_catch_special11_plural
+Catch {0} Minun
+quest_special_dialogue_gofest_0_0
+%PLAYERNAME%! Thank goodness you made it.
+quest_special_dialogue_gofest_0_1
+I was ready for a fun-filled day of playing with Pokémon, but as you may have seen, the park has all sorts of unusual geological phenomena occurring!
+quest_special_dialogue_gofest_0_2
+We need to figure out what’s happening and set it right, so I'm asking for your help.
+quest_special_dialogue_gofest_0_3
+Now that you’re here, I need you to be part of my Elite Research team.
+quest_special_dialogue_gofest_0_4
+First things first—could you help survey the park and get some supplies?
+quest_special_dialogue_gofest_0_5
+Please complete the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_1_0
+Yowzers! As you may have noticed, the park has all sorts of unusual geological phenomena going on today!
+quest_special_dialogue_gofest_1_1
+I’m not sure what could have caused it—they just appeared out of nowhere...and they seem to be getting bigger and bigger!
+quest_special_dialogue_gofest_1_2
+Whatever is causing it, the local park habitat here is quite disrupted by all the changes.
+quest_special_dialogue_gofest_1_3
+The local Pokémon have become confused… It looks like they’re acting more aggressive and territorial!
+quest_special_dialogue_gofest_1_4
+Let's see if we can help out by catching some Pokémon to make the situation a bit more stable.
+quest_special_dialogue_gofest_1_5
+Please catch 20 Fire-, Steel-, Water-, Grass-, Rock-, or Ice-type Pokémon!
+quest_special_dialogue_gofest_2_0
+Well, it looks like there were some pretty powerful Pokémon causing the ruckus. Thanks for taking care of them! I'm sure they'll make great friends.
+quest_special_dialogue_gofest_2_1
+However, I'm not sure that was sufficient—the strange habitats are just as active as before. The local park and all the Pokémon here seem worried. We need to get to the bottom of this!
+quest_special_dialogue_gofest_2_2
+I've been seeing some unusual Pokémon called Unown floating around the area...
+quest_special_dialogue_gofest_2_3
+This Pokémon is shaped like ancient writing…and I think they may be trying to tell us something! I think they want us to call on a powerful Pokémon—the Guardian of the Forest? I'll bet if we follow the Unown around the park, they'll lead us to this Pokémon!
+quest_special_dialogue_gofest_2_4
+Let's do the following research tasks.\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_3_0
+Amazing! Never thought I would see Celebi here.
+quest_special_dialogue_gofest_3_1
+I think Celebi's time travel abilities may be exactly what we need to fix the situation.
+quest_special_dialogue_gofest_3_2
+Celebi can go back in time and stop these distortions while they're still small!
+quest_special_dialogue_gofest_3_3
+It's a difficult task… We need to ensure Celebi has all the support it needs!
+quest_special_dialogue_gofest_3_4
+The Plusle and Minun in the park would be perfect to help us out.
+quest_special_dialogue_gofest_3_5
+These Pokémon are famous for loving teamwork and cheering on their partners with their pom-poms made of sparks!
+quest_special_dialogue_gofest_3_6
+If we collect a bunch, I think they'll be able to work together to get Celebi really pumped up!
+quest_special_dialogue_gofest_3_7
+Then Celebi can focus its power to return to the past and prevent this problem before it starts!
+quest_special_dialogue_gofest_3_8
+Quickly, %PLAYERNAME%, let's complete these research tasks!\n{0}\n{1}
+quest_special_dialogue_gofest_4_0
+That did it! It seems like the strange habitats are slowly returning to normal.
+quest_special_dialogue_gofest_4_1
+It appears that Celebi has safely returned from the past to stay with you. Looks like you two have formed a bond!
+quest_special_dialogue_gofest_4_2
+I'll bet by next weekend the park will have returned to its old self! Celebi is truly a wondrous Pokémon!
+quest_special_dialogue_gofest_4_3
+Thanks for all your help today! We couldn't have done it without you.
+quest_special_dialogue_gofest_4_4
+This weekend will be one to remember!
+quest_catch_special12_plural
+Catch {0} Squirtle
+quests_claim_story_quest_encounter_first
+You must complete your Special Research encounter first!
+quest_catch_special13_plural
+Catch {0} Roselia
+quest_evolve_type_grass_plural
+Evolve {0} Grass-type Pokémon
+quest_evolve_type_grass_singular
+Evolve a Grass-type Pokémon
+quest_catch_basic_types_plural
+Catch {0} Grass-, Water-, or Fire-type Pokémon
+quest_evolve_eevee_types_singular
+Evolve an Electric-, Water-, or Fire-type Pokémon
+quest_evolve_eevee_types_plural
+Evolve {0} Electric-, Water-, or Fire-type Pokémon
+quest_land_nice_curve_singular
+Land a Nice Curveball Throw
+quest_land_nice_curve_plural
+Land {0} Nice Curveball Throws

@@ -1,0 +1,536 @@
+test_key
+Test
+screen_you_title
+Du
+screen_friends_title
+Freunde
+social_add_friends
+Freund hinzufügen
+friend_code_title
+Trainercode
+enter_friend_code_prompt
+Gib den Trainercode eines Trainers ein, um ihn als Freund hinzuzufügen.
+your_friend_code_title
+Dein Trainercode
+other_section_title
+Sonstiges
+send_gift_action
+Geschenk schicken
+trade_action
+Tauschen
+incoming_friend_request_prompt
+{0} Freundschaftsanfragen erhalten.
+incoming_friend_request_prompt_singular
+1 Freundschaftsanfrage erhalten.
+screen_title_friend_requests
+Freundschaftsanfragen
+accept_friend_request_prompt
+Hat dir eine Freundschaftsanfrage geschickt!
+became_friends_prompt
+{0} und du seid jetzt Freunde.
+sent_friend_request_prompt
+Du hast eine Freundschaftsanfrage geschickt.
+share_title
+Teilen
+your_friend_code_desc
+Andere Trainer können diesen Trainercode eingeben, um dich als Freund hinzuzufügen.
+social_add_friend_qr
+QR Code
+social_add_friend_facebook
+Freunde von Facebook importieren
+friend_sent_you_gift_notification
+{0} hat dir ein Geschenk geschickt!
+select_giftbox_to_send_prompt
+Welches Geschenk möchtest du schicken?
+send_giftbox_prompt
+Geschenk schicken
+gift_from_prompt
+Grüße von
+friend_request_accepted_prompt
+{0} und du seid jetzt Freunde!
+error_opened_daily_max_number_of_gifts
+Tageslimit erreicht. Komm morgen wieder, um mehr Geschenke zu öffnen.
+remove_friend_confirmation
+Möchtest du diesen Freund wirklich entfernen?
+error_already_sent_gift_today
+Du hast diesem Trainer heute schon ein Geschenk geschickt.
+error_friend_has_unopened_gift
+Dein Freund hat noch ein ungeöffnetes Geschenk von dir.
+error_player_not_found
+Spieler nicht gefunden
+error_friend_request_does_not_exist
+Freundschaftsanfrage existiert nicht.
+error_senders_friends_list_full
+Die Freundesliste von {0} ist voll.
+error_friends_list_full
+Deine Freundesliste ist voll.
+friend_request_declined_prompt
+Du hast diese Freundschaftsanfrage abgelehnt.
+error_get_friends_requests_failed
+Freundschaftsanfragen konnten nicht aufgerufen werden. Versuche es später noch mal.
+error_get_friends_list_failed
+Freundesliste konnte nicht aufgerufen werden. Versuche es später noch mal.
+error_send_friend_request_title
+Freundschaftsanfrage an {0} konnte nicht verschickt werden.
+error_player_already_friend
+Dieser Trainer ist bereits dein Freund.
+error_friend_request_max_friends
+Deine Freundesliste ist voll.
+error_friend_request_friend_inbox_full
+Dieser Trainer hat zu viele ausstehende Freundschaftsanfragen.
+error_max_friend_requests_sent
+Du hast momentan die maximale Anzahl an Freundschaftsanfragen verschickt.
+sent_you_a_gift
+{0} hat dir ein Geschenk geschickt!
+item_friend_gift_box_name
+Geschenk
+item_friend_gift_box_desc
+Eine Box, die nur von einem Freund geöffnet werden kann. Enthält eine Auswahl nützlicher Items.
+sent_friend_request_success
+Du hast eine Freundschaftsanfrage an {0} verschickt!
+friendslist_sort_lastactivity
+Letzte Aktivität
+friendslist_sort_level
+Freundschaftslevel
+friendslist_sort_alphabet
+Name
+giftbox_log_opened
+Geschenk von {0} geöffnet.
+today
+Heute
+yesterday
+Gestern
+two_plus_days_ago
+Vor mehr als 2 Tagen
+manage_items_button
+Items verwalten
+upgrade_item_bag_button
+Beutel erweitern
+error_open_gift_bag_full
+Mach Platz oder erweitere den Platz mit Beutel-Plus, bevor du das Geschenk öffnest.
+friend_opened_your_gift
+{0} hat {1} Items aus deinem Geschenk erhalten!
+friend_opened_your_gift_singular
+{0} hat 1 Item aus deinem Geschenk erhalten.
+social_remove_friend
+Freund entfernen
+send_gift_prompt
+Geschenk schicken
+friendship_strengthened
+Freundschaftslevel mit {0} wurde erhöht!
+trade_select_header
+Pokémon zum Tauschen
+trade_exclusion_reason_mythical
+Mysteriöse Pokémon können nicht getauscht werden.
+trade_exclusion_reason_slashed
+Dieses Pokémon kann nicht getauscht werden.
+trade_exclusion_reason_disabled
+Dieses Pokémon kann aufgrund eines Fehlers nicht getauscht werden.
+share_my_friend_code_message
+Lass uns Freunde in Pokémon GO sein! Mein Trainercode ist {0}!
+friendship_milestone_notification_toast
+{0} und du seid jetzt Gute Freunde!
+friendship_detail_unlock_reqs_singular
+Wenn ihr noch {0} Tag länger zusammenspielt, werdet ihr {1}!
+friendship_detail_unlock_reqs_plural
+Wenn ihr noch {0} Tage länger zusammenspielt, wird dieser Trainer dein {1}!
+friendship_detail_capabilities
+Vorteile
+friendship_detail_just_friends
+Wenn ihr euer Freundschaftslevel erhöht, könnt ihr bestimmte Vorteile freischalten! Tippe auf ein Herz, um mehr zu erfahren.
+friendship_detail_trade
+Tauschen
+friendship_detail_battle
+Arenakampf/Raid-Kampf
+raid_friendship_bonus
+Freundschaft
+friendship_strengthened_header
+Freundschaftslevel erhöht
+friendship_detail_attack_bonus
+Angriffsbonus
+friendship_detail_raid_bonus
+Raid-Bonus
+gym_battle_victory_subtitle_alone
+Du hast diese Arena besiegt.
+gym_battle_victory_subtitle_with_friend
+Du hast diese Arena besiegt mit
+friendship_level_0
+Freund
+friendship_level_1
+Guter Freund
+friendship_level_2
+Superfreund
+friendship_level_3
+Hyperfreund
+friendship_level_4
+Bester Freund
+friendship_detail_ball_singular
++{0} Ball
+friendship_detail_ball_plural
++{0} Bälle
+friendship_milestone_notification_toast_3
+{0} und du seid jetzt Superfreunde!
+friendship_milestone_notification_toast_4
+{0} und du seid jetzt Hyperfreunde!
+friendship_milestone_notification_toast_5
+{0} und du seid jetzt Beste Freunde!
+friend_singular
+Freund
+friend_plural
+Freunde
+see_details
+DETAILS ANSEHEN
+sent_gift_to_friend
+Geschenk geschickt an {0}.
+settings_gift_received
+Geschenk erhalten
+error_no_gifts_in_inventory
+Du hast keine Geschenke in deinem Beutel. Besuche einen PokéStop, um welche zu finden!
+trade_detail_appraisal
+Bewertung:
+trade_exclusion_reason_friend_level
+Dein Freundschaftslevel mit diesem Freund ist zu niedrig für diesen Tausch.
+trade_exclusion_reason_traded
+Dieses Pokémon kann nicht noch einmal getauscht werden.
+trade_exclusion_reason_gym_deployed
+Dieses Pokémon ist einer Arena zugewiesen.
+trade_exclusion_reason_buddy
+Diese Pokémon ist dein Kumpel-Pokémon.
+trade_exclusion_reason_stamina
+Dieses Pokémon ist nicht bei voller Gesundheit.
+attack_bonus
+Angriffsbonus
+raid_bonus_ball
+Raid-Bonus-Bälle
+new_feature_unlocked
+Neue Vorteile freigeschaltet
+error_cannot_invite_yourself
+Du kannst dich nicht selbst als Freund hinzufügen!
+change_your_code_button
+MEINEN CODE ÄNDERN
+change_your_code_title
+Deinen Trainercode ändern
+change_your_code_message
+Bist du sicher, dass du deinen Trainercode ändern möchtest? Danach kannst du mit deinem bisherigen Trainercode keine Freundschaftsanfragen mehr erhalten. Die Änderung wirkt sich nicht auf deine aktuellen Freunde aus.
+your_code_changed
+Dein Trainercode wurde geändert.
+badge_max_level_friends
+Werde Beste Freunde mit {0} Trainern.
+badge_max_level_friends_value_format
+N0
+error_invite_already_sent
+Du hast diesem Trainer bereits eine Einladung geschickt.
+badge_max_level_friends_singular
+Werde Beste Freunde mit {0} Trainer.
+screen_title_notification
+Benachrichtigungen
+badge_max_level_friends_title
+Bühnenstar
+badge_trading_distance_title
+Pilot
+badge_trading_title
+Gentleman
+trade_exclusion_reason_egg
+Eier können nicht getauscht werden.
+trade_tut_stardust_needed
+Tauschen mit Sternenstaub
+trade_tut_stardust_needed_message
+Die für einen Tausch erforderliche Menge von Sternenstaub variiert. Der Tausch bestimmter Pokémon wird Spezial-Tausch genannt und erfordert mehr Sternenstaub. Du kannst die für einen Spezial-Tausch erforderliche Menge von Sternenstaub verringern, indem du deinen Freundschaftslevel erhöhst.
+trade_tut_special_trade
+Spezial-Tausch
+trade_tut_special_trade_message
+Legendäre Pokémon, Schillernde Pokémon und Pokémon, die derzeit nicht in deinem Pokédex registriert sind, können nur per Spezial-Tausch getauscht werden. Du kannst pro Tag nur einen Spezial-Tausch ausführen.
+trade_tut_candy_bonus
+Bonbon-Bonusse
+trade_tut_candy_bonus_message
+Du darfst nicht weiter als 100 Meter von einem Freund entfernt sein, um mit ihm tauschen zu können. Je nachdem, wo die getauschten Pokémon gefangen wurden, kannst du einen Bonus erhalten. Je weiter weg voneinander die Pokémon gefangen wurden (bis zu 100 km), desto mehr Bonbons erhältst du! 
+trade_tut_strength_adjust
+WP und KP der Pokémon beim Tauschen
+trade_tut_strength_adjust_message
+Wenn du ein Pokémon mit einem Freund tauschst, kannst du sehen, in welchem Bereich sich die WP und KP des Pokémon bewegen werden. Diese Werte werden dem Level deines Freundes und eurem Freundschaftslevel entsprechend angepasst. Nach dem Tausch ändern sich die Statuswerte des Pokémon innerhalb des neuen Bereichs zufällig.
+error_gift_invalid_state
+Geschenk kann aufgrund eines Fehlers nicht verschickt werden.
+trade_activity_log
+{0} für {1} mit {2} getauscht.
+error_generate_friendcode_failed
+Fehler beim Abrufen des Trainercodes.
+error_invite_already_received
+Dieser Trainer hat dir bereits eine Freundschaftsanfrage geschickt.
+add_friends_privacy_prompt
+Freunde können das Freundprofil und die letzten Pokémon-Fänge des anderen ansehen.
+visit_help_center_prompt
+Weitere Informationen findest du im Hilfe-Center.
+friendship_detail_no_bonus
+Keine Vorteile.
+social_no_friends
+Spiele mit deinen Freunden, um Tauschmöglichkeiten, Premierbälle und Power-ups freizuschalten!
+gift_sent_toast
+Geschenk verschickt!
+friends_list_level_format
+Level {0}
+badge_trading
+Tausche {0} Pokémon.
+badge_trading_value_format
+N0
+badge_trading_distance
+Tausche Pokémon über insgesamt {0} Kilometer Distanz.
+badge_trading_distance_value_format
+N0
+log_player_sent_you_a_friend_request
+{0} hat dir eine Freundschaftsanfrage geschickt!
+log_player_accepted_your_friend_request
+{0} hat deine Freundschaftsanfrage angenommen!
+trading_confirm
+Bestätigen
+trading_cancel
+Abbrechen
+trading_me
+Du
+trade_player_me
+Du
+trading_player_level
+Level {0}
+trading_details_warning
+Der Trainer-Level deines Freundes ist niedriger, WP und KP werden herabgesetzt.
+social_player_level_too_low
+Die Freundschaftsfunktion ist derzeit für Level {0} und höher verfügbar. Schau bald wieder vorbei, um herauszufinden, ob sie für dich verfügbar ist.
+error_social_player_banned
+Du kannst auf diese Funktion nicht zugreifen.
+trade_friend_is_selecting
+Warten auf Pokémon-Auswahl von {0} ...
+trading_confirmed
+Bestätigt
+trading_waiting
+Warten ...
+friend_invite_accepted_toast
+{0} und du seid jetzt Freunde!
+friend_invite_received_toast
+{0} hat dir eine Freundschaftsanfrage geschickt!
+trade_friend_left_title
+Tausch ist abgelaufen.
+trade_friend_left_message
+Dieser Tausch wurde abgebrochen.
+trade_cannot_confirm
+Noch nicht bestätigt
+trade_friend_not_present
+Warten, bis {0} zum Tauschen bereit ist ...
+trade_confirm_quit_title
+Möchtest du diesen Tausch abbrechen?
+trade_confirm_quit_message
+Wenn du jetzt gehst, wird der Tausch mit {0} abgebrochen. 
+friendship_detail_unlocked_trading
+Du kannst folgende Pokémon tauschen:
+friendship_detail_stardust_discount
+Sternenstaub-Rabatt
+trade_regular_in_pokedex
+Reguläre Pokémon im Pokédex
+trade_regular_non_pokedex
+Alle regulären Pokémon
+trade_regional_non_pokedex
+Alle regionalen Pokémon
+trade_form_non_pokedex
+Alle Pokémon-Formvarianten
+trade_legendary_non_pokedex
+Alle Legendären Pokémon
+trade_shiny_non_pokedex
+Alle Schillernden Pokémon
+trading_canceled
+Abgebrochen
+trade_special_in_pokedex
+Legendäre oder Schillernde Pokémon im Pokédex
+trade_exclusion_reason_player_cannot_afford
+Du hast nicht genug Sternenstaub.
+trade_exclusion_reason_friend_cannot_afford
+Dein Freund hat nicht genug Sternenstaub.
+trade_exclusion_reason_player_reached_daily_limit
+Du hast heute schon einen Spezial-Tausch ausgeführt.
+trade_exclusion_reason_friend_reached_daily_limit
+Dein Freund hat sein tägliches Tauschlimit erreicht.
+trade_error_unknown
+Tauschen vorübergehend nicht verfügbar. Versuche es später noch einmal.
+trade_error_friend_not_found
+Konnte Tauschpartner {0} nicht finden.
+trade_error_open_expired
+Dieser Tausch mit {0} ist abgelaufen.
+trade_error_out_of_range
+{0} ist außer Tausch-Reichweite.
+trade_error_below_min_level
+Level von {0} ist zu niedrig, um zu tauschen.
+trade_error_reached_daily_limit
+Tägliches Tauschlimit erreicht. Komm morgen wieder, um mehr zu tauschen.
+trade_error_friend_reached_daily_limit
+{0} hat sein tägliches Tauschlimit für heute erreicht.
+trade_error_not_enough_stardust
+Du hast nicht genug Sternenstaub, um jetzt mit {0} zu tauschen.
+trade_error_friend_not_enough_stardust
+{0} hat nicht genug Sternenstaub, um jetzt mit dir zu tauschen.
+trade_error_select_expired
+Das Zeitfenster für diesen Tausch ist abgelaufen.
+trade_error_confirm_expired
+Das Zeitfenster für diesen Tausch ist abgelaufen.
+trade_error_confirm_daily_limit
+Du hast das tägliche Tauschlimit für dieses Pokémon erreicht.
+trade_error_get
+Fehler beim Abrufen des Tauschstatus
+trade_appraise_low_1
+Dieses {0} wird im Kampf insgesamt wahrscheinlich keine großen Fortschritte machen.
+trade_appraise_mid_1
+Dieses {0} ist insgesamt ein gutes Pokémon.
+trade_appraise_high_1
+Dieses {0} ist mir insgesamt wirklich aufgefallen.
+trade_appraise_best_1
+Dieses {0} ist insgesamt einfach erstaunlich. Wirklich ein atemberaubendes Exemplar!
+trade_appraise_low_2
+Dieses {0} ist zwar insgesamt im Kampf nicht allzu beeindruckend, aber ich mag es trotzdem!
+trade_appraise_mid_2
+Dieses {0} ist insgesamt ganz gut.
+trade_appraise_high_2
+Dieses {0} ist insgesamt sehr stark.
+trade_appraise_best_2
+Von diesem {0} bin ich insgesamt total beeindruckt. Es kann einfach alles!
+trade_appraise_low_3
+Dieses {0} kann sich im Kampf noch verbessern.
+trade_appraise_mid_3
+Dieses {0} ist insgesamt ganz gut!
+trade_appraise_high_3
+Dieses {0} ist insgesamt wirklich stark!
+trade_appraise_best_3
+Dieses {0} kann es im Kampf mit allen aufnehmen!
+settings_friend_request_accepted
+Freundschaftsanfrage angenommen
+settings_friend_request_received
+Freundschaftsanfrage erhalten
+copy_friend_code_title
+DEINEN TRAINERCODE KOPIEREN
+copy_friend_code_toast
+Dein Trainercode wurde kopiert!
+trade_error_minimum_level
+Du must mindestens Level {0} haben, um zu tauschen.
+friend_caught_a_pokemon
+{0} hat ein {1} gefangen!
+trade_friend_joined
+Du kannst mit {0} Pokémon tauschen!
+special_trade_confirm_title
+Möchtest du einen Spezial-Tausch ausführen?
+special_trade_confirm_message
+Du kannst nur einmal am Tag einen Spezial-Tausch ausführen.
+trade_error_cooldown_time
+Tausch-Abklingzeit: noch {0}
+trade_friend_connected_toast
+{0} hat sich verbunden!
+trade_all_except_mythical
+Alle Pokémon außer Mysteriöse
+trade_tips_p0
+Du kannst nur mit Freunden in deiner Nähe tauschen.
+trade_tips_p1|0
+Ein Spezial-Tausch kann nur einmal am Tag ausgeführt werden.
+trade_tips_p1|1
+Du kannst ein Pokémon, das bereits getauscht wurde, nicht noch mal tauschen.
+trade_tips_p1|2
+Die Statuswerte des getauschten Pokémon ändern sich nach dem Tausch zufällig.
+trade_tips_p1|3
+Die Regeln für den Tausch kannst du über die Schaltfläche „Hilfe“ oben anzeigen.
+trade_tips_p1|4
+Wenn der Trainer-Level deines Freundes niedriger ist als deiner, werden die potenziellen WP und KP des getauschten Pokémon angepasst.
+trade_tips_p2|0
+Pokémon, die noch nicht in deinem Pokédex registriert sind, erfordern einen Spezial-Tausch. 
+trade_tips_p2|1
+Euer Freundschaftslevel muss mindestens bei Gute Freunde liegen, um einen Spezial-Tausch ausführen zu können.
+trade_tips_p2|2
+Du erhältst einen Bonbon-Bonus, wenn die getauschten Pokémon weit weg voneinander gefangen wurden (bis zu 100 km).
+trade_tips_p2|3
+Die für einen Tausch erforderliche Menge von Sternenstaub verringert sich drastisch, wenn sich euer Freundschaftslevel erhöht.
+trade_tips_p2|4
+Schillernde Pokémon, Legendäre Pokémon und Pokémon, die derzeit nicht in deinem Pokédex enthalten sind, erfordern einen Spezial-Tausch. 
+trade_tips_p2|5
+Für einen Spezial-Tausch sind große Mengen Sternenstaub erforderlich.
+trade_tips_p2|6
+Der Freundschaftslevel mit einem Freund erhöht sich, wenn ihr häufig Pokémon miteinander tauscht.
+trade_tips_p2|7
+Mysteriöse Pokémon können nicht getauscht werden.
+trade_warning_your_level_lower
+Dein Trainer-Level ist niedriger als der deines Freundes, WP und KP werden herabgesetzt.
+trade_warning_friend_level_lower
+Der Trainer-Level deines Freundes ist niedriger als deiner, WP und KP werden herabgesetzt.
+trade_ending_prompt|0
+{0} versandte {1}.
+trade_ending_prompt|1
+Kümmere dich gut um {0}!
+trade_exclusion_favorite
+Dieses Pokémon ist als Favorit markiert.
+social_my_code
+DEIN TRAINERCODE
+decline_friend_request_confirmation
+Möchtest du diese Freundschaftsanfrage wirklich entfernen?
+decline_friend_request_confirmation_message
+Wenn du diese Freundschaftsanfrage entfernst, kann dieser Trainer dir keine neue Freundschaftsanfrage schicken.
+friend_request_deleted_confirmation
+Freundschaftsanfrage entfernt
+send_gift_button
+Verschicken
+open_gift_button
+Öffnen
+next_button
+Weiter
+trade_error_rpc
+Unbekannter Fehler beim Tauschen
+trade_tut_proximity
+Tauschen mit Freunden
+trade_tut_proximity_message
+Du kannst nur mit einem Freund tauschen, der sich in deiner Nähe befindet.
+social_send_my_code
+DEINEN TRAINERCODE TEILEN
+social_send_code_prompt
+Schicke eine Freundschaftsanfrage, indem du den Trainercode deines Freundes eingibst.
+trainer_name_label
+Trainername
+trainer_code_label
+Trainercode
+trade_toast_must_cancel_first
+Du musst zuerst deine Bestätigung abbrechen.
+trade_toast_must_connect_first
+Bitte warte, bis dein Freund eine Verbindung hergestellt hat.
+trade_bonus
+Tauschbonus
+accept
+Annehmen
+delete
+Entfernen
+filter_key_traded
+Getauscht
+no_notifications_message
+Keine Benachrichtigungen.
+social_qr_code_prompt
+Scanne diesen QR Code mit dem Scanner eines anderen Trainers.
+social_qr_scan_prompt
+Scanne den QR Code eines Trainers
+social_qr_code_header
+DEIN CODE
+social_qr_scan_header
+SCANNEN
+social_other_friend_add_title
+ANDERE
+set_friend_nickname
+Spitznamen eingeben
+select_gift_to_delete_prompt
+Wähle Geschenke zum Entfernen aus.
+delete_gift_confirmation
+Möchtest du dieses Geschenk wirklich entfernen?
+social_my_qr_code
+Dein QR Code
+social_lucky_pokemon_label
+Glücks-Pokémon
+friendslist_sort_gift
+Geschenk
+error_set_friend_nickname
+Fehler beim Festlegen des Spitznamens
+error_set_friend_nickname_length
+Spitzname ist zu lang.
+friendslist_sort_nickname
+Spitzname
+pokedex_details_lucky
+Lucky:
+pokemon_info_multi_transfer_lucky_pokemon_error
+You can't select Lucky Pokémon.
+pokemon_lucky_info_transfer_to_professor_confirmation
+Do you really want to transfer this Lucky Pokémon?

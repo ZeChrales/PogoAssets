@@ -1,0 +1,564 @@
+quests_quest
+Tâches
+quests_list_gui_title
+Progrès dans tes recherches
+quests_list_gui_tab_challenges
+Terrain
+quests_list_gui_tab_special
+Spéciales
+quests_claim_reward
+RÉCUPÈRE TA RÉCOMPENSE
+quests_professor_willow
+Professeur Willow
+quests_mobile_calling
+mobile
+quests_remove_challenge_prompt
+Veux-tu supprimer cette Étude de terrain ?
+quests_remove_challenge_desc
+Rends-toi à un PokéStop pour en recevoir une autre.
+quests_daily_challenge_reset
+Carte des défis quotidiens réinitialisée dans <color=cyan>{0}</color>.
+quests_new_challenge_received
+Nouvelle Étude de terrain !
+quests_get_new_challenge_prompt
+Visite les PokéStops pour trouver davantage d’Études de terrain.
+quests_step_complete
+Tâche terminée.
+quest_pokemon_appears
+Un Pokémon apparaît !
+quests_claim_field_research_first
+Tu dois d’abord prendre ta récompense pour ta Phase d’Étude.
+quest_breakthrough_completed
+Étude de terrain terminée.
+quests_log_complete_quest
+Étude terminée : {0}.
+quests_log_research_breakthrough
+Phase d’Étude complétée.
+quests_collect_stamps
+Collectionne les tampons !
+quests_collect_stamps_message
+Termine des Études de terrain pour obtenir des tampons et gagner des récompenses. Tu peux recevoir un tampon de recherche par jour.
+quest_battle_gym_plural
+Combats {0} fois dans une Arène
+quest_battle_gym_singular
+Combats dans une Arène
+quest_battle_raid_plural
+Combats dans {0} Raids
+quest_battle_raid_singular
+Combats dans un Raid
+quest_battle_supereffective_charge_plural
+Utilise une Attaque Chargée très efficace dans {0} combats
+quest_battle_supereffective_charge_singular
+Utilise une Attaque Chargée très efficace en combat
+quest_catch_feed_plural
+Utilise {0} Baies pour t’aider à attraper des Pokémon
+quest_catch_feed_singular
+Utilise une Baie pour t’aider à attraper un Pokémon
+quest_catch_pokemon_plural
+Attrape {0} Pokémon
+quest_catch_pokemon_singular
+Attrape un Pokémon
+quest_catch_special0_plural
+Attrape {0} Métamorph
+quest_catch_special0_singular
+Attrape un Métamorph
+quest_catch_special1_plural
+Attrape {0} Mystherbe ou Chétiflor
+quest_catch_special1_singular
+Attrape un Mystherbe ou un Chétiflor
+quest_catch_special2_plural
+Attrape {0} Tylton
+quest_catch_special2_singular
+Attrape un Tylton
+quest_catch_special3_plural
+Attrape {0} Roucool ou Cornèbre
+quest_catch_special3_singular
+Attrape un Roucool ou un Cornèbre
+quest_catch_special4_plural
+Attrape {0} Arcko ou Gobou
+quest_catch_special4_singular
+Attrape un Arcko ou un Gobou
+quest_catch_special5_plural
+Attrape {0} Miaouss ou Skitty
+quest_catch_special5_singular
+Attrape un Miaouss ou un Skitty
+quest_catch_type_bug_plural
+Attrape {0} Pokémon de type Insecte
+quest_catch_type_bug_singular
+Attrape un Pokémon de type Insecte
+quest_catch_type_dark_plural
+Attrape {0} Pokémon de type Ténèbres
+quest_catch_type_dark_singular
+Attrape un Pokémon de type Ténèbres
+quest_catch_type_dragon_plural
+Attrape {0} Pokémon de type Dragon
+quest_catch_type_dragon_singular
+Attrape un Pokémon de type Dragon
+quest_catch_type_electric_plural
+Attrape {0} Pokémon de type Électrik
+quest_catch_type_electric_singular
+Attrape un Pokémon de type Électrik
+quest_catch_type_fairy_plural
+Attrape {0} Pokémon de type Fée
+quest_catch_type_fairy_singular
+Attrape un Pokémon de type Fée
+quest_catch_type_fighting_plural
+Attrape {0} Pokémon de type Combat
+quest_catch_type_fighting_singular
+Attrape un Pokémon de type Combat
+quest_catch_type_fire_plural
+Attrape {0} Pokémon de type Feu
+quest_catch_type_fire_singular
+Attrape un Pokémon de type Feu
+quest_catch_type_flying_plural
+Attrape {0} Pokémon de type Vol
+quest_catch_type_flying_singular
+Attrape un Pokémon de type Vol
+quest_catch_type_ghost_plural
+Attrape {0} Pokémon de type Spectre
+quest_catch_type_ghost_singular
+Attrape un Pokémon de type Spectre
+quest_catch_type_grass_plural
+Attrape {0} Pokémon de type Plante
+quest_catch_type_grass_singular
+Attrape un Pokémon de type Plante
+quest_catch_type_ground_plural
+Attrape {0} Pokémon de type Sol
+quest_catch_type_ground_singular
+Attrape un Pokémon de type Sol
+quest_catch_type_ice_plural
+Attrape {0} Pokémon de type Glace
+quest_catch_type_ice_singular
+Attrape un Pokémon de type Glace
+quest_catch_type_normal_plural
+Attrape {0} Pokémon de type Normal
+quest_catch_type_normal_singular
+Attrape un Pokémon de type Normal
+quest_catch_type_poison_plural
+Attrape {0} Pokémon de type Poison
+quest_catch_type_poison_singular
+Attrape un Pokémon de type Poison
+quest_catch_type_psychic_plural
+Attrape {0} Pokémon de type Psy
+quest_catch_type_psychic_singular
+Attrape un Pokémon de type Psy
+quest_catch_type_rock_plural
+Attrape {0} Pokémon de type Roche
+quest_catch_type_rock_singular
+Attrape un Pokémon de type Roche
+quest_catch_type_steel_plural
+Attrape {0} Pokémon de type Acier
+quest_catch_type_steel_singular
+Attrape un Pokémon de type Acier
+quest_catch_type_water_plural
+Attrape {0} Pokémon de type Eau
+quest_catch_type_water_singular
+Attrape un Pokémon de type Eau
+quest_catch_types_sunny_plural
+Attrape {0} Pokémon de type Plante, Feu ou Sol
+quest_catch_types_sunny_singular
+Attrape un Pokémon de type Plante, Feu ou Sol
+quest_catch_weather_boost_plural
+Attrape {0} Pokémon boostés par la météo
+quest_catch_weather_boost_singular
+Attrape un Pokémon boosté par la météo
+quest_evolve_singular
+Fais évoluer un Pokémon
+quest_evolve_plural
+Fais évoluer {0} Pokémon
+quest_evolve_type_fire_plural
+Fais évoluer {0} Pokémon de type Feu
+quest_evolve_type_fire_singular
+Fais évoluer un Pokémon de type Feu
+quest_hatch_egg_plural
+Fais éclore {0} Œufs
+quest_hatch_egg_singular
+Fais éclore un Œuf
+quest_land_excellent_plural
+Fais {0} excellents lancers
+quest_land_excellent_singular
+Fais un excellent lancer
+quest_land_great_curveball_plural
+Fais {0} superbes lancers à effet
+quest_land_great_curveball_singular
+Fais un superbe lancer à effet
+quest_land_great_plural
+Fais {0} superbes lancers
+quest_land_great_singular
+Fais un superbe lancer
+quest_land_inarow_curveball_plural
+Fais {0} lancers à effet à la suite
+quest_land_inarow_excellent_curveball_plural
+Fais {0} excellents lancers à effet à la suite
+quest_land_inarow_great_curveball_plural
+Fais {0} superbes lancers à effet à la suite
+quest_land_inarow_great_plural
+Fais {0} superbes lancers à la suite
+quest_land_inarow_nice_curveball_plural
+Fais {0} jolis lancers à effet à la suite
+quest_land_inarow_nice_plural
+Fais {0} jolis lancers à la suite
+quest_land_nice_plural
+Fais {0} jolis lancers
+quest_land_nice_singular
+Fais un joli lancer
+quest_power_up_plural
+Recharge un Pokémon {0} fois
+quest_power_up_singular
+Recharge un Pokémon
+quest_visit_pokestop_new_plural
+Fais tourner {0} nouveaux PokéStops
+quest_visit_pokestop_new_singular
+Fais tourner un nouveau PokéStop
+quest_visit_pokestops_plural
+Fais tourner {0} PokéStops ou Arènes
+quest_visit_pokestops_singular
+Fais tourner un PokéStop ou Arène
+quest_win_gym_plural
+Gagne {0} combats d’Arènes
+quest_win_gym_singular
+Gagne un combat d’Arène
+quest_win_raid_3_singular
+Gagne un Raid de niveau 3 ou plus
+quest_win_raid_3_plural
+Gagne {0} Raids de niveau 3 ou plus
+quest_win_raid_plural
+Gagne {0} Raids
+quest_win_raid_singular
+Gagne un Raid
+quest_reach_level
+Atteins le niveau {0}
+quest_reach_kanto_silver
+Gagne une médaille argent de Kanto
+quest_reach_kanto_gold
+Gagne une médaille or de Kanto
+quest_walk_buddy_plural
+Gagne {0} Bonbons en marchant avec ton copain
+quest_walk_buddy_singular
+Gagne un Bonbon en marchant avec ton copain
+quest_evolve_special0_singular
+Fais évoluer un Magicarpe
+quest_catch_special_mew
+Attrape Mew !
+quest_title_mew
+Une découverte fabuleuse
+quest_title_mew_0
+Une découverte fabuleuse (1/8)
+quest_title_mew_1
+Une découverte fabuleuse (2/8)
+quest_title_mew_2
+Une découverte fabuleuse (3/8)
+quest_title_mew_3
+Une découverte fabuleuse (4/8)
+quest_title_mew_4
+Une découverte fabuleuse (5/8)
+quest_title_mew_5
+Une découverte fabuleuse (6/8)
+quest_title_mew_6
+Une découverte fabuleuse (7/8)
+quest_title_mew_7
+Une découverte fabuleuse (8/8)
+quest_complete_mew
+Une découverte fabuleuse
+quest_special_dialogue_mew_0_0
+%PLAYERNAME%, comment vas-tu ? Quelle amélioration depuis notre dernière rencontre !
+quest_special_dialogue_mew_0_1
+Accepterais-tu de m’aider ? Comme tu le sais, j’étudie les Pokémon et leur environnement. J’ai beaucoup appris durant ces années, mais récemment j’ai remarqué des faits étranges.
+quest_special_dialogue_mew_0_2
+Pourrais-tu m’apporter tes lumières ?
+quest_special_dialogue_mew_0_3
+Tu es d’accord ? Super !
+quest_special_dialogue_mew_0_4
+Tout d’abord, commençons par calibrer mes appareils pour ta région.
+quest_special_dialogue_mew_0_5
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_1_0
+Parfait. Merci, %PLAYERNAME% ! Maintenant je devrais pouvoir détecter tout fait étrange.
+quest_special_dialogue_mew_1_1
+Nous devons trouver un Pokémon fabuleux. Les Pokémon fabuleux sont rares et puissants ; nombreux sont ceux qui croient qu’ils ne sont que légendes.
+quest_special_dialogue_mew_1_2
+Pourrais-tu m’aider à installer mon équipement dans ton environnement ? Le moment est idéal pour explorer les environs avec ton copain et faire éclore quelques Œufs.
+quest_special_dialogue_mew_1_3
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_2_0
+Incroyable ! Cela confirme mes soupçons. Je crois que Mew n’est pas loin !
+quest_special_dialogue_mew_2_1
+Un Pokémon originaire des jungles australes, et que l’on croyait disparu. Il est tellement rare que les experts pensent que c’est une légende.%BREAK%Seules quelques personnes ont pu le voir. On dit qu’il ne se montre qu’à ceux qui ont le cœur pur et qui sont vraiment désireux de le rencontrer...
+quest_special_dialogue_mew_2_2
+Mes collègues de Kanto, et mon instructeur, Professeur Chen, ont passé beaucoup de temps à étudier Mew. Il semble que nos résultats soient les mêmes que les leurs.
+quest_special_dialogue_mew_2_3
+D’après nos études, Mew aurait été aperçu utilisant des attaques très diverses. Cette observation semble indiquer que Mew serait l’ancêtre de tous les Pokémon.
+quest_special_dialogue_mew_2_4
+Nous en saurons peut-être plus en étudiant les Pokémon en cours de combat.
+quest_special_dialogue_mew_2_5
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_3_0
+Bien joué %PLAYERNAME% ! Ceci nous mettra sur la bonne voie.
+quest_special_dialogue_mew_3_1
+Il paraît que Mew posséderait le code génétique de tous les Pokémon. Les secrets de Mew pourraient nous aider à comprendre la croissance et l’Évolution des Pokémon.
+quest_special_dialogue_mew_3_2
+Étudions l’Évolution de certains Pokémon afin d’en savoir plus sur Mew.
+quest_special_dialogue_mew_3_3
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_4_0
+Incroyable. Absolument incroyable ! L’Évolution est un phénomène magnifique ! J’apprends quelque chose de nouveau à chaque fois que j’en vois une.
+quest_special_dialogue_mew_4_1
+Avec toutes les données que nous avons réunies, je devrais pouvoir localiser Mew. On dirait que...
+quest_special_dialogue_mew_4_2
+Oui, il semble que Mew ait visité ta région récemment. Hum... Intéressant. Si cela est vraiment le cas, quelqu’un aurait déjà dû signaler sa présence...
+quest_special_dialogue_mew_4_3
+Serait-il possible que Mew se cache ou se déguise en un autre Pokémon ? Observons d’autres Pokémon qui utilisent ces astuces, et voyons comment les attraper.
+quest_special_dialogue_mew_4_4
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_5_0
+Merci %PLAYERNAME% ! Grâce à ton aide, je pense pouvoir confirmer que Mew est invisible !
+quest_special_dialogue_mew_5_1
+Recueillons des données pour construire un outil qui nous permettra de le trouver. J’ai une idée... Si tu pouvais étudier de près certains Pokémon puissants, ça m’aiderait bien.
+quest_special_dialogue_mew_5_2
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_6_0
+Magnifique ! Mon prototype fonctionne parfaitement. J’ai actualisé ta caméra RA pour que tu puisses détecter les Pokémon invisibles !
+quest_special_dialogue_mew_6_1
+L’étape finale est de faire sortir Mew de sa cachette. On dit qu’il ne se montre qu’à ceux qui ont le cœur pur et qui sont vraiment désireux de le rencontrer...
+quest_special_dialogue_mew_6_2
+Montrons à Mew tes qualités de Dresseur et notre joie de le voir.
+quest_special_dialogue_mew_6_3
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_mew_7_0
+Nous avons attrapé Mew ! Extraordinaire ! Quel souvenir mémorable !
+quest_special_dialogue_mew_7_1
+Tu comprends maintenant pourquoi j’aime tant étudier les Pokémon. Le monde entier est un terrain de jeu ! Vas-y, amuse-toi !
+quest_special_dialogue_mew_7_2
+Mes assistants et moi-même allons te demander dans le futur de participer à une Étude spéciale. Garde le contact !
+quest_transfer_pokemon_plural
+Transfère {0} Pokémon
+quest_land_excellent_curveball_singular
+Fais un excellent lancer à effet
+quest_land_excellent_curveball_plural
+Fais {0} excellents lancers à effet
+quests_come_back_soon
+Reviens demain !
+quests_come_back_soon_message
+Reviens demain pour obtenir un nouveau tampon de recherche.
+quest_more_reseach_coming_soon
+Des études supplémentaires te seront bientôt proposées.
+quest_reward_desc_1
+Collectionne les tampons pour déverrouiller les Phases d’Études du Professeur Willow.
+quest_reward_desc_2
+Phase d’Étude complétée avec
+quest_reward_desc_3_plural
+{0} tampons de plus.
+quest_reward_desc_3_singular
+{0} tampon de plus.
+quest_breakthrough_reward_stardust
+Poussière Étoile
+quest_breakthrough_reward_mystery
+Objets mystère
+quest_land_inarow_excellent_plural
+Fais {0} excellents lancers à la suite
+quest_reward_mysterious_pokemon_appeared
+Un Pokémon mystérieux est apparu.
+quest_reward_encounter_uses_ar
+Tu dois être en mode RA pour attraper ce Pokémon.
+quest_reward_start_encounter
+Aller à sa rencontre
+quest_reward_encounter_later
+Plus tard
+pokemon_mythic_info_transfer_to_professor_impossible
+{0} est un Pokémon fabuleux et ne peut pas être transféré.
+quests_when_to_collect_next_stamp
+Tu pourras gagner un autre tampon de recherche demain.
+quests_streak_broken
+Série interrompue !
+badge_challenge_quests
+Termine {0} tâches d’Études de terrain
+badge_challenge_quests_title
+Pokémon Ranger
+badge_challenge_quests_value_format
+N0
+quests_stamp_date_format
+d MMM
+quests_breakthrough_major_reward_header
+Progrès !
+quests_story_major_reward_header
+Étude spéciale terminée.
+pokemon_info_multi_transfer_mythic_pokemon_error
+Tu ne peux pas choisir un Pokémon fabuleux.
+disabled_mythic
+Les Pokémon fabuleux ne peuvent pas être laissés dans les Arènes.
+quests_breakthrough_conversation_1
+Bravo pour tes Études de terrain ! On a appris beaucoup de choses grâce à toi.
+quests_breakthrough_conversation_2
+Continue comme ça. Voyons maintenant ce que nous avons découvert...
+quest_catch_special6_plural
+Attrape {0} Wattouat
+quests_field_research_task
+TÂCHE D’ÉTUDE DE TERRAIN
+quests_field_research_task_desc
+Tu as terminé la tâche d’Étude de terrain de ce PokéStop pour aujourd’hui.
+quests_completed_story_quests_header
+TERMINÉ
+quest_evolve_type_electric_plural
+Fais évoluer {0} Pokémon de type Électrik
+quest_evolve_type_electric_singular
+Fais évoluer un Pokémon de type Électrik
+quest_evolve_type_flying_plural
+Fais évoluer {0} Pokémon de type Vol
+quest_evolve_type_flying_singular
+Fais évoluer un Pokémon de type Vol
+quest_evolve_type_ice_plural
+Fais évoluer {0} Pokémon de type Glace
+quest_evolve_type_ice_singular
+Fais évoluer un Pokémon de type Glace
+quest_evolve_type_water_plural
+Fais évoluer {0} Pokémon de type Eau
+quest_evolve_type_water_singular
+Fais évoluer un Pokémon de type Eau
+quest_land_nice_electric_plural
+Attrape {0} Pokémon de type Électrik avec de Jolis lancers
+quest_catch_types_rainy_plural
+Attrape {0} Pokémon de type Eau, Électrik ou Insecte
+quest_catch_types_rainy_singular
+Attrape un Pokémon de type Eau, Électrik ou Insecte
+quest_catch_types_snowy_plural
+Attrape {0} Pokémon de type Glace ou Acier
+quest_catch_types_snowy_singular
+Attrape un Pokémon de type Glace ou Acier
+quest_catch_types_windy_plural
+Attrape {0} Pokémon de type Vol, Psy ou Dragon
+quest_catch_types_windy_singular
+Attrape un Pokémon de type Vol, Psy ou Dragon
+quest_catch_special7_plural
+Attrape {0} Salamèche
+quest_adventure_hatch_egg_plural
+Semaine de l’aventure : fais éclore {0} Œufs
+quest_adventure_walk_buddy_plural
+Semaine de l’aventure : gagne {0} Bonbons en marchant avec ton copain
+quest_adventure_visit_pokestop_new_plural
+Semaine de l’aventure : fais tourner {0} nouveaux PokéStops
+quest_adventure_evolve_singular
+Semaine de l’aventure : fais évoluer un Amonita ou un Kabuto
+quest_evolve_special1_singular
+Fais évoluer un Hypotrempe
+quest_catch_special8_plural
+Attrape {0} Embrylex
+quest_waterfestival_win_raid_singular
+Festival Aquatique : remporte un Raid
+quest_waterfestival_catch_special9_plural
+Festival Aquatique : attrape {0} Magicarpe ou Wailmer
+quest_waterfestival_catch_type_water_plural
+Festival Aquatique : attrape {0} Pokémon de type Eau
+quest_waterfestival_catch_feed_plural
+Festival Aquatique : utilise {0} Baies pour attraper des Pokémon
+quest_waterfestival_hatch_egg_singular
+Festival Aquatique : fais éclore un Œuf
+quest_waterfestival_evolve_plural
+Festival Aquatique : fais évoluer {0} Kokiyas
+quest_gofest_0
+Festival GO : attrape {0} Pokémon
+quest_gofest_1
+Festival GO : visite {0} PokéStops
+quest_gofest_2
+Festival GO : gagne un Bonbon Copain
+quest_gofest_3
+Festival GO : fais éclore un Œuf
+quest_title_gofest
+Festival GO 2018
+quest_title_gofest_0
+Festival GO 2018 (1/5)
+quest_title_gofest_1
+Festival GO 2018 (2/5)
+quest_title_gofest_2
+Festival GO 2018 (3/5)
+quest_title_gofest_3
+Festival GO 2018 (4/5)
+quest_title_gofest_4
+Festival GO 2018 (5/5)
+quest_catch_special9_plural
+Attrape {0} Zarbi
+quest_catch_special10_plural
+Attrape {0} Posipi
+quest_catch_special11_plural
+Attrape {0} Négapi
+quest_special_dialogue_gofest_0_0
+%PLAYERNAME% ! Heureusement que tu es là.
+quest_special_dialogue_gofest_0_1
+Je me préparais pour une journée de détente avec les Pokémon, mais comme tu peux le voir, toutes sortes de phénomènes géologiques se déroulent dans le parc !
+quest_special_dialogue_gofest_0_2
+Nous cherchons à savoir ce qui s’est passé pour pouvoir remettre les choses en ordre ; ton aide est indispensable.
+quest_special_dialogue_gofest_0_3
+Maintenant que tu es là, j’aimerai que tu fasses partie de mon équipe d’Études d’élite.
+quest_special_dialogue_gofest_0_4
+Tout d’abord, peux-tu faire un tour du parc et récupérer quelques provisions ?
+quest_special_dialogue_gofest_0_5
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_1_0
+Houla ! Comme tu l’as sans doute remarqué, toutes sortes de phénomènes géologiques se déroulent dans le parc aujourd’hui !
+quest_special_dialogue_gofest_1_1
+Je ne suis pas sûr de leur cause... Ils sont apparus d’un seul coup, et ils semblent gagner en taille !
+quest_special_dialogue_gofest_1_2
+Quelle qu’en soit la cause, l’habitat de ce parc local est bouleversé par tous ces changements.
+quest_special_dialogue_gofest_1_3
+Les Pokémon des environs sont confus... ils se montrent plus agressifs et territoriaux !
+quest_special_dialogue_gofest_1_4
+Essayons d’attraper quelques Pokémon pour tenter de stabiliser la situation.
+quest_special_dialogue_gofest_1_5
+Attrape 20 Pokémon de type Feu, Acier, Eau, Plante, Roche ou Glace.
+quest_special_dialogue_gofest_2_0
+Quelques puissants Pokémon étaient à la source de ce raffut. Merci pour ton aide ! Ils feront de très bons amis.
+quest_special_dialogue_gofest_2_1
+Par contre, ça ne semble pas suffire... les habitats anormaux semblent toujours aussi actifs. Le parc local et tous les Pokémon des environs semblent inquiets. Nous devons savoir pourquoi !
+quest_special_dialogue_gofest_2_2
+J’ai aperçu d’étranges Pokémon appelés Zarbi qui flottent dans les environs...
+quest_special_dialogue_gofest_2_3
+Ce Pokémon a la forme d’un caractère d’écriture antique... et je pense qu’ils cherchent à nous dire quelque chose ! Je crois qu’ils veulent que l’on fasse appel à un puissant Pokémon... le Gardien de la forêt ? Peut-être que nous rencontrerons ce Pokémon en suivant les Zarbi qui se trouvent dans le parc !
+quest_special_dialogue_gofest_2_4
+Si possible : \n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_3_0
+Incroyable ! Je n’aurais jamais pensé rencontrer Celebi ici.
+quest_special_dialogue_gofest_3_1
+La capacité de Celebi à voyager dans le temps est exactement ce qu’il nous faut pour arranger la situation.
+quest_special_dialogue_gofest_3_2
+Celebi peut voyager dans le passé et arrêter ces distorsions avant qu’elles ne grossissent !
+quest_special_dialogue_gofest_3_3
+C’est une tâche difficile... Il faut absolument que Celebi ait tout le soutien nécessaire !
+quest_special_dialogue_gofest_3_4
+Les Posipi et les Négapi dans le parc devraient faire l’affaire.
+quest_special_dialogue_gofest_3_5
+Ces Pokémon aiment faire équipe et encourager leurs partenaires avec leurs pompons électriques.
+quest_special_dialogue_gofest_3_6
+Si nous en récupérons assez, je pense qu’ils pourront travailler ensemble pour gonfler Celebi à bloc !
+quest_special_dialogue_gofest_3_7
+Ensuite, Celebi concentrera sa puissance pour voyager dans le passé et détourner ce problème avant qu’il ne soit trop tard.
+quest_special_dialogue_gofest_3_8
+Vite, %PLAYERNAME%, si possible : \n{0}\n{1}
+quest_special_dialogue_gofest_4_0
+Ça a marché ! Les habitats anormaux semblent revenir à la normale.
+quest_special_dialogue_gofest_4_1
+Celebi est revenu sain et sauf du passé pour rester à tes côtés. Le lien qui vous unit est maintenant très fort !
+quest_special_dialogue_gofest_4_2
+Je pense que ce parc sera revenu à la normale d’ici le week-end prochain. Celebi est vraiment un Pokémon extraordinaire !
+quest_special_dialogue_gofest_4_3
+Je te remercie pour toute ton aide aujourd’hui ; nous n’y serions pas arrivés sans toi !
+quest_special_dialogue_gofest_4_4
+Quel week-end mémorable !
+quest_catch_special12_plural
+Attrape {0} Carapuce
+quests_claim_story_quest_encounter_first
+Tu dois d’abord compléter ta rencontre d’Étude spéciale.
+quest_catch_special13_plural
+Attrape {0} Rosélia
+quest_evolve_type_grass_plural
+Fais évoluer {0} Pokémon de type Plante
+quest_evolve_type_grass_singular
+Fais évoluer un Pokémon de type Plante
+quest_catch_basic_types_plural
+Attrape {0} Pokémon de type Plante, Eau ou Feu
+quest_evolve_eevee_types_singular
+Fais évoluer un Pokémon de type Électrik, Eau ou Feu
+quest_evolve_eevee_types_plural
+Fais évoluer {0} Pokémon de type Électrik, Eau ou Feu
+quest_land_nice_curve_singular
+Effectue un joli lancer à effet
+quest_land_nice_curve_plural
+Effectue {0} jolis lancers à effet

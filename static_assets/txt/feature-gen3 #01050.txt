@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+Marche {0} km de plus avec ton copain.
+weather_weather
+Météo
+weather_clear
+Temps clair
+weather_rainy
+Pluvieux
+weather_partly_cloudy
+Quelques nuages
+weather_overcast
+Couvert
+weather_windy
+Vent
+weather_snow
+Neige
+weather_fog
+Brouillard
+weather_boosted_types
+Types renforcés
+weather_boosted_types_desciption
+Ces types de Pokémon sont plus forts et apparaissent plus souvent. Ils te donnent des Poussières Étoiles en plus si tu les attrapes.
+weather_extreme
+Conditions extrêmes
+weather_extreme_description
+Les conditions météo sont dangereuses. Fais très attention !
+weather_alert_warning
+Alerte de météo dangereuse : reste à l’écoute des services météorologiques pour plus de détails.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+Marche avec ton copain {0} pour le faire évoluer !
+weather_sunny
+Ensoleillé
+weather_boost_active_1
+La météo renforce {1} de {0} !
+weather_boost_active_2
+La météo renforce {1} et {2} de {0} !
+weather_alert_safety_button
+AUCUN DANGER
+weather_careful_description
+Les conditions météo sont potentiellement dangereuses, reste en alerte. Consulte ton service de météo locale pour plus de détails.
+weather_careful
+Attention !
+form_normal
+Normale
+form_sun
+Solaire
+form_rain
+Eau de Pluie
+form_snow
+Blizzard
+form_defense
+Défense
+form_attack
+Attaque
+form_speed
+Vitesse
+form_deoxys_normal
+Normale
+general_send
+ENVOYER
+general_report_title
+Signaler un problème
+weather_report_option_1
+La météo n’est pas la bonne.
+weather_report_option_2
+La météo semble bonne, mais pas à jour.

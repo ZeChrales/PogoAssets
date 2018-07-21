@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+Data
+gymbadge_sort_alphabetical
+Nome
+gymbadge_sort_nearby
+Vicinanze
+gymbadge_sort_score
+Punti
+gymbadge_sort_progress
+Progressi
+day_abbrev
+g
+hour_abbrev
+h
+minute_abbrev
+m
+second_abbrev
+s
+gymbadge_aboutthisgym
+Info sulla Palestra
+gymbadge_totalgymactivity
+Attività generale della Palestra
+gymbadge_statslabel_won
+Vittorie
+gymbadge_statslabel_defended
+Difesa (giorni)
+gymbadge_statslabel_fed
+Snack
+gym_removal_notification_toast
+{0} ha lottato con tutte le sue forze e ha fatto ritorno!
+pokemon_hungry_notification_toast
+{0} ha bisogno di uno snack!
+pokemon_won_notification_toast
+{0} ha difeso la Palestra!
+nearby_raid_notification_toast
+Raid in preparazione nei dintorni!
+gym_removal_notification_toast|1
+{0} è tornato dopo una lotta estenuante!
+gym_removal_notification_toast|2
+{0} è stato sconfitto e scacciato dalla Palestra!
+pokemon_hungry_notification_toast|1
+{0} ha bisogno di cure...
+pokemon_hungry_notification_toast|2
+{0} vuole una bacca!
+pokemon_won_notification_toast|1
+{0} è stato vittorioso nella lotta!
+pokemon_won_notification_toast|2
+{0} ha trionfato contro i tuoi avversari!
+nearby_raid_notification_toast|1
+Un raid sta per iniziare nei dintorni!
+nearby_raid_notification_toast|2
+Un raid sta per cominciare nelle vicinanze!
+raid_timer_label1
+In attesa dell’altro Allenatore...
+raid_timer_label2
+Scegli i tuoi Pokémon...
+raid_members
+Partecipanti al raid
+raid_group_code
+Codice gruppo
+raid_howto_button
+Come giocare
+raid_join_button
+Partecipa
+raid_join_private_button
+Inserisci il codice del gruppo
+raid_leave_lobby_prompt
+Non potrai più unirti a questo gruppo se lo abbandoni adesso.\n\n Vuoi davvero abbandonarlo?
+raid_group_code_intro
+Se inserisci il codice del loro gruppo, puoi lottare insieme ai tuoi amici.
+raid_join_private_group_button
+PARTECIPA
+raid_create_private_group_button
+Crea gruppo
+raid_join_private_lobby_invalid_code
+Questo codice di gruppo non è valido. Inserisci un altro codice.
+settings_push_notification_header
+Notifiche Push
+settings_low_happiness
+Motivazione bassa
+settings_pokemon_return
+Ritorno di un Pokémon
+settings_battle_victory
+Vittoria in una lotta
+raid_already_completed
+Hai già completato questo raid.
+rare_candy_usage_confirmation
+Vuoi trasformare una Caramella Rara in una caramella {0}?
+item_rare_candy_name
+Caramella Rara
+item_rare_candy_desc
+Una caramella misteriosa. Se usata su un Pokémon, si trasforma in una caramella di quella specie.
+item_move_reroll_fast_attack_name
+MT attacco veloce
+item_move_reroll_fast_attack_desc
+Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco veloce.
+item_move_reroll_special_attack_desc
+Questa Macchina Tecnica insegna a un Pokémon un nuovo attacco caricato.
+item_move_reroll_special_attack_name
+MT attacco caricato
+special_move_reroll_confirm_title
+Vuoi insegnare a {0} un nuovo attacco caricato?
+move_reroll_confirm_desc
+{0} dimenticherà {1}.
+quick_move_reroll_confirm_title
+Vuoi insegnare a {0} un nuovo attacco veloce?
+move_reroll_success_message
+{0} ha imparato un nuovo attacco!
+raid_team_contribution
+Contributo della squadra
+raid_lobby_locked
+RAID AL COMPLETO
+raid_timer_label3
+Il conto alla rovescia del raid è iniziato.
+gym_please_buy_raid_ticket
+Per partecipare a questo raid occorre acquistare prima un biglietto.
+filter_hint1
+Per {0}
+filter_hint2
+Per nome/soprannome
+filter_hint3
+Per N. Pokédex (es. 23–145)
+filter_hint4
+Per {0}/{1}, (es. {2}/{3})
+filter_hint5
+{0} evolvibili con “{1}”
+filter_hint6
+Evoluzione {0} (es. +{1})
+filter_hint7
+Per più filtri, usa “,”.
+filter_hint8
+Per tipo: {0}, {1}
+shop_battle_tickets_title
+Acquista un biglietto raid.
+item_free_raid_ticket_name
+Biglietto raid
+item_free_raid_ticket_desc
+Un biglietto per partecipare a un raid. Se non hai già un biglietto raid, puoi ottenerne gratuitamente uno al giorno presso una Palestra.
+item_paid_raid_ticket_name
+Biglietto raid premium
+item_paid_raid_ticket_desc
+Un biglietto speciale per partecipare a un raid. Puoi usare questo biglietto quando vuoi.
+use_raid_ticket_confirmation
+Usa un biglietto raid per partecipare a questo raid
+pokecoins_daily_limit_reached
+La quota limite giornaliera di {0} Pokémonete è stata raggiunta.
+received_free_item_title
+Hai ricevuto in regalo lo strumento {0}!
+gymbadge_timeelapsed
+Difesa (tempo)
+raid_private_group
+PRIVATO
+raid_remove_private_from_lobby_prompt
+Vuoi rendere questo gruppo aperto al pubblico?\n\nQuest’azione non potrà essere annullata.
+raid_message_select_your_pokemon
+Scegli i Pokémon con cui lottare!
+raid_battle_retreat_confirmation
+Vuoi davvero abbandonare?
+raid_message_get_back_into_battle
+Cura i tuoi Pokémon prima di continuare a lottare!
+raid_timer_label4
+Conto alla rovescia per la fine della lotta
+team_picker_last_team
+Squadra usata nella lotta precedente
+team_picker_title_load
+Carica squadra lotta
+team_picker_title_save
+Salva squadra lotta
+team_picker_fainted_pokemon_warning
+La tua squadra non può partecipare alla lotta. Cura prima i tuoi Pokémon.
+battle_intro_battles_won
+Lotte vinte: {0}
+team_picker_default_team_name
+Squadra: {0}
+team_picker_optimize
+Ottimizzata
+team_picker_set_team_name
+Scegli un nome per questa squadra lotta
+team_picker_team_not_set
+Senza nome
+gym_feed_pokemon_full
+{0} non ha più fame! Prova a dare uno snack a un altro Pokémon.
+gym_feed_pokemon_berry_timeout
+{0} non ne vuole più sapere di questa bacca.
+gym_feed_pokemon_timeout
+{0} è a posto. Prova a dare snack agli altri Pokémon.
+avatar_detail_pokemon_caught
+Pokémon catturati
+avatar_detail_walking_distance
+Distanza percorsa
+avatar_detail_battle_won
+Lotte vinte
+avatar_detail_total_activities
+Riepilogo attività
+raid_tut_group_forming_message
+I giocatori del gruppo lotta verranno abbinati in modo automatico.
+gym_out_of_range
+Palestra troppo distante!
+general_go_to_shop
+VAI AL NEGOZIO
+general_quit
+ESCI
+raid_tut_group_forming
+FORMAZIONE DEL GRUPPO
+raid_tut_how_to_battle_message
+Tocca lo schermo per attaccare il boss di questo raid! Tieni premuto per usare il tuo attacco caricato quando l’indicatore è pieno!
+raid_tut_how_to_battle
+LOTTA
+raid_tut_pass_message
+Per partecipare alla lotta ti occorre un biglietto raid. Puoi riceverne gratuitamente uno ogni giorno, ma puoi sempre e solo averne uno alla volta. In alternativa, puoi acquistare dei biglietti raid premium al negozio.
+raid_pass_caps
+BIGLIETTO RAID
+raid_tut_what_is_raid_message
+Un raid è una lotta dove potrai collaborare con un massimo di altri 20 Allenatori per sconfiggere un boss, ovvero un Pokémon estremamente potente. Se vincete, ogni giocatore riceverà fantastici premi e la possibilità di catturare un Pokémon più forte del normale.
+raid_tut_what_is_raid
+COS’È UN RAID?
+raid_enter_group_code
+GRUPPO PRIVATO
+raid_public_warning_message
+Se rendi pubblico questo gruppo, qualsiasi giocatore potrà parteciparvi e unirsi alla lotta.\n\nUna volta reso pubblico un gruppo, non è più possibile farlo diventare nuovamente privato.\nVuoi davvero rendere questo gruppo pubblico?
+raid_change_to_public
+RENDI PUBBLICO
+raid_share_private_code_message
+Condividi questo codice gruppo con i tuoi amici. In questo modo potranno unirsi a te nella lotta.
+raid_private_lobby_success_message
+Ora fai parte di un gruppo!
+raid_rejoin_battle
+RIUNISCITI ALLA LOTTA
+battle_summary
+RIEPILOGO
+raid_defeat_boss
+Boss sconfitto
+raid_damage_bonus
+Danni
+raid_gym_ownership
+Controllo della Palestra
+general_total_caps
+TOTALE
+raid_bonus_challenge
+VAI ALLA SFIDA BONUS
+profile_gymbadges_recently_visited
+Visitate di recente
+profile_category_gymbadges
+Medaglie
+gym_spinner_team_bonus
+Bonus squadra
+raid_raid
+Raid
+raid_level_caps
+LIVELLO RAID
+raid_suggested_group_size
+DIMENSIONE DEL GRUPPO SUGGERITA
+raid_nearby_ongoing
+In corso
+gym_battle_continue_battles_won_stat
+LOTTE VINTE: {0}
+gym_battle_victory_subtitle
+Hai sconfitto questa Palestra!
+gym_battle_defeat_body
+I tuoi Pokémon sono tutti esausti!
+gym_battle_defeat_footer
+Riprova.
+raid
+raid
+gym_pokemon_you_fed_not_there
+Il Pokémon al quale hai provato a dare uno snack non c’è più!
+raid_try_again
+Seleziona nuovi Pokémon, oppure cura o rianima quelli attuali, per tornare a lottare!
+raid_defeat_message
+I tuoi Pokémon sono tutti esausti.
+general_battle
+LOTTA
+gym_deployment_time_format
+{0} g {1} h {2} m
+free_raid_ticket_details_desc
+Biglietto per partecipare a un raid. Se non ne hai già uno, puoi ottenere un biglietto raid al giorno da una Palestra.\n\nSe desideri partecipare a più di un raid al giorno, puoi acquistare dei biglietti raid al negozio.
+paid_raid_ticket_details_desc
+Biglietto raid premium per partecipare a un raid. Puoi usare questo biglietto quando vuoi.\n\nPer ottenerne altri, visita il negozio.
+battle_prep_opponents_header
+Avversari
+gym_feed_pokemon_busy
+Riprova più tardi.
+gymbadge_sort_defending
+In difesa
+raid_finding_players
+Ricerca di altri giocatori in corso
+gym_same_team_deploy_lockout
+Questa Palestra è sotto attacco! Riprova più tardi.
+screen_title_badge_collection
+Medaglie
+profile_no_gymbadges
+Nessuna
+free_ticket_bag_full_error
+La tua Borsa è piena. Fai spazio se desideri avere un biglietto raid.
+raid_level
+Difficoltà
+battle_prep_my_team_header
+La mia squadra lotta
+battle_prep_go
+Attacca!
+raids_no_nearby
+Non ci sono raid da queste parti.
+gymbadge_you_earned
+Hai ricevuto una Medaglia!
+award_badge_new_badge
+Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
+gym_feed_raid_active
+Un boss ha assunto il controllo di questa Palestra. Riprova quando il boss sarà andato via.
+gym_next_battle
+Lotta
+gym_battle_leave
+Abbandona
+gym_battle_next
+Prossimo sfidante:
+error_no_available_lobbies
+Non è stato trovato alcun gruppo con quel codice.
+error_lobby_visibility
+Si è verificato un errore durante la presentazione del raid.
+error_start_raid_battle
+Si è verificato un errore nel processo di avviamento del raid.
+error_pokemon_team_update
+Si è verificato un errore nel processo di aggiornamento della tua squadra lotta.
+error_join_lobby
+Si è verificato un errore nel processo di iscrizione al raid.
+gym_badge_list_button
+Lista
+raid_defeat_try_again
+Seleziona altri Pokémon oppure cura quelli esausti per continuare a lottare!
+raid_time_out_try_again
+Non hai sconfitto il boss in tempo. Riprova più tardi.
+item_golden_razz_berry_name
+Baccalampon dorata
+item_golden_razz_berry_desc
+Dalla a un Pokémon e sarà molto più facile catturarlo.
+encounter_raid_pokemon_appeared
+Sfida bonus! Cattura {0}!
+raid_need_a_viable_raid_team
+Nessuno dei tuoi Pokémon è in grado di lottare. Devi prima curarli.
+error_raid_active
+Un boss ha assunto il controllo di questa Palestra!
+badges_tut_description
+Visita le Palestre e fai girare i dischi foto per aggiudicarti delle Medaglie. Guadagna strumenti e premi difendendo le Palestre della tua squadra e attaccando Palestre rivali.
+profile_gymbadges_help
+Per saperne di più
+gym_tut_title_1
+Ottieni Strumenti
+gym_tut_title_2
+Assegna Pokémon
+gym_tut_title_3
+Motivazione
+gym_tut_title_4
+Dai bacche
+gym_tut_desc_1
+Adesso puoi trovare strumenti nelle Palestre facendo girare i loro dischi foto.
+gym_tut_desc_2
+Puoi assegnare i tuoi Pokémon a difesa di una Palestra usando il pulsante “Assegna Pokémon” in una Palestra della tua squadra. L’indicatore della motivazione apparirà solo dopo l’assegnazione del Pokémon.
+gym_tut_desc_3
+La motivazione dei Pokémon diminuisce lentamente o quando vengono sconfitti. Se un Pokémon che ha perso completamente la motivazione viene sconfitto, smetterà di difendere la Palestra e tornerà dal suo Allenatore.
+gym_tut_desc_4
+Dai le bacche ai tuoi Pokémon per mantenere alta la loro motivazione e la loro forza durante la lotta.
+no_usable_items_error
+Strumenti non utilizzabili
+gym_battle_victory_title
+Grande!
+tm_no_other_moves
+Non può imparare altre mosse.
+disabled_low_stamina
+Il Pokémon deve avere tutti i PS.
+disabled_buddy
+Non puoi assegnare il tuo compagno a difesa di una Palestra.
+badge_raid_battle_won
+Raid vinti: {0}
+badge_hours_defended_title
+Capopalestra
+badge_hours_defended
+Tempo difesa Palestre: {0}
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+Asso delle bacche
+badge_berries_fed
+Bacche date nelle Palestre: {0}
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+Campione
+gym_deploy_raid_active
+Il boss di un raid ha preso il controllo della Palestra. Riprova quando se ne sarà andato.
+error_too_many_deployed
+Hai raggiunto il numero massimo di Pokémon assegnati a una Palestra.
+disabled_max_same_defender
+Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
+error_fort_is_full
+La Palestra ha raggiunto il numero massimo di Pokémon assegnati.
+award_badge_rank_up
+Difendi le Palestre della tua squadra e attacca le Palestre rivali per aumentare il livello delle tue Medaglie.
+raid_not_yet_available
+Ci dispiace, ma i raid non sono disponibili al tuo livello.\nRiprova più avanti.
+raid_private_lobby_created_success_message
+Hai creato un gruppo!
+pokestop_button_read_qr_code
+LEGGI CODICE QR
+pokestop_button_manual_input
+INSERIMENTO MANUALE
+pokestop_check_in_manual_entry_title
+INSERISCI CODICE ISCRIZIONE
+pokestop_check_in_notice
+Benvenuto all’evento {0}!\nUsa la tua fotocamera per leggere il codice QR per l’accettazione.
+pokestop_check_in_succeeded
+ACCETTAZIONE COMPLETATA
+disabled_max_same_defenders
+Solo un esemplare per specie allo stesso tempo può essere assegnato a difesa di una Palestra.
+gym_closed_exclusive_raid_not_invited
+Questa Palestra è chiusa per un raid EX.\nRiaprirà alle {0}.
+disabled_legendary
+I Pokémon leggendari non possono essere lasciati nelle Palestre.
+team_picker_title
+Carica/salva squadre lotta
+team_picker_load
+Carica
+team_picker_save
+Salva
+battle_prep_create_team
+Scegli i tuoi Pokémon...
+battle_prep_new_team
+Nome squadra
+battle_prep_recommended_team
+Squadra lotta consigliata
+screen_title_pokemon_inventory_party
+SQUADRA
+raid_ticket_event
+Evento
+filter_key_defender
+difensore
+filter_key_legendary
+leggendario
+filter_key_shiny
+cromatico
+filter_key_mythical
+misterioso
+filter_key_alola
+di Alola
