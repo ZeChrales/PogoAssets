@@ -519,18 +519,20 @@ delete_gift_confirmation
 social_my_qr_code
 My QR Code
 social_lucky_pokemon_label
-Lucky Pokemon
+반짝반짝 포켓몬
 friendslist_sort_gift
-Gift
+선물
 error_set_friend_nickname
-Error setting nickname.
+닉네임 설정 에러
 error_set_friend_nickname_length
-Nickname length is too long.
+닉네임이 너무 깁니다.
 friendslist_sort_nickname
-Nickname
+닉네임
 pokedex_details_lucky
-Lucky:
+반짝반짝 포켓몬 수:
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+반짝반짝 포켓몬은 선택할 수 없습니다!
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+정말로 반짝반짝 포켓몬을 보내겠습니까?
+filter_key_lucky
+반짝반짝

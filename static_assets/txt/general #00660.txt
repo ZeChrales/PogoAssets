@@ -1009,11 +1009,11 @@ HP
 safety_warning_yes
 我不是駕駛
 codename_warning_message
-<size=36><b>確定要更改暱稱嗎？</b></size>\n\n暱稱只能變更一次。其他的訓練家也會看到你的暱稱，請好好考慮後再做決定。
+<size=36><b>確定要更改暱稱嗎？</b></size>\n\n其他的訓練家會看到你的暱稱，而且暱稱可變更的次數有限。請好好考慮後再做決定。
 codename_already_yours
 這是你現在的暱稱！
 codename_are_you_sure
-<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱只能變更一次。
+<size=36><b>確定要更改成 {0} 嗎？</b></size>\n\n暱稱能變更的次數有限，敬請留意。
 codename_reassign_success
 你的暱稱已變更為 {0}
 speed_modal_too_fast
@@ -1595,22 +1595,22 @@ pokestop_item_passcode_inventory_full
 error_weak_network
 網路狀況不穩定，請稍後再試一次
 badge_apac_partner_july_2018_1
-July 26, 2018
+日本 2018年7月28日
 badge_apac_partner_july_2018_2
-July 27, 2018
+日本 2018年7月26日
 badge_apac_partner_july_2018_3
-July 28, 2018
+日本 2018年7月27日
 badge_apac_partner_july_2018_4
-July 29, 2018
+日本 2018年7月29日
 badge_apac_partner_july_2018_5
-July 30, 2018
+韓國 2018年7月29日
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/28
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/26
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/27
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/29
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018//7/29

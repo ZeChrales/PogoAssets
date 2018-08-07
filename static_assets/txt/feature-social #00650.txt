@@ -519,7 +519,7 @@ delete_gift_confirmation
 social_my_qr_code
 我的二維條碼
 social_lucky_pokemon_label
-閃亮亮寶可夢
+亮晶晶寶可夢
 friendslist_sort_gift
 友情禮物
 error_set_friend_nickname
@@ -529,8 +529,10 @@ error_set_friend_nickname_length
 friendslist_sort_nickname
 暱稱
 pokedex_details_lucky
-Lucky:
+亮晶晶寶可夢：
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+不能選擇亮晶晶寶可夢
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+確定要傳送這隻亮晶晶寶可夢嗎？
+filter_key_lucky
+亮晶晶

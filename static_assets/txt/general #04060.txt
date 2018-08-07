@@ -1009,11 +1009,11 @@ KP-Wert
 safety_warning_yes
 Ich bin Mitfahrer
 codename_warning_message
-<size=36><b>Willst du deinen Spitznamen ändern?</b></size>\n\nDu kannst deinen Spitznamen nur ein Mal ändern. Andere Trainer können ihn sehen, wähle ihn mit Sorgfalt!
+<size=36><b>Möchtest du deinen Spitznamen ändern?</b></size>\n\nDu kannst deinen Spitznamen nur eine begrenzte Anzahl von Malen ändern, einschließlich des Zurückwechselns zu einem alten Spitznamen. Andere Trainer können ihn sehen, wähle ihn mit Sorgfalt!
 codename_already_yours
 Du heißt bereits so!
 codename_are_you_sure
-<size=36><b>Bist du sicher, dass du {0} genannt werden möchtest?</b></size>\n\nDu kannst deinen Spitznamen nur ein Mal ändern.
+<size=36><b>Bist du sicher, dass du {0} genannt werden möchtest?</b></size>\n\nDu kannst deinen Spitznamen nur eine begrenzte Anzahl von Malen ändern, einschließlich des Zurückwechselns zu einem alten Spitznamen.
 codename_reassign_success
 Jetzt heißt du {0}.
 speed_modal_too_fast
@@ -1595,22 +1595,22 @@ Dein Beutel ist voll oder du befindest dich außerhalb der Reichweite des Check-
 error_weak_network
 Deine Netzwerkverbindung ist derzeit nicht stabil. Versuche es später noch mal.
 badge_apac_partner_july_2018_1
-26. Juli 2018
+Japan, 28. Juli 2018
 badge_apac_partner_july_2018_2
-27. Juli 2018
+Japan, 26. Juli 2018
 badge_apac_partner_july_2018_3
-28. Juli 2018
+Japan, 27. Juli 2018
 badge_apac_partner_july_2018_4
-29. Juli 2018
+Japan, 29. Juli 2018
 badge_apac_partner_july_2018_5
-30. Juli 2018
+Südkorea, 29. Juli 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO-Spezialwochenende
+Pokémon GO-Spezialwochenende, 28. Juli 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO-Spezialwochenende
+Pokémon GO-Spezialwochenende, 26. Juli 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO-Spezialwochenende
+Pokémon GO-Spezialwochenende, 27. Juli 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO-Spezialwochenende
+Pokémon GO-Spezialwochenende, 29. Juli 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO-Spezialwochenende
+Pokémon GO-Spezialwochenende, 29. Juli 2018

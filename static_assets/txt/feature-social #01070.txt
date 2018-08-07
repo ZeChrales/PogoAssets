@@ -519,7 +519,7 @@ Veux-tu vraiment défausser ce Cadeau ?
 social_my_qr_code
 Mon QR Code
 social_lucky_pokemon_label
-Pokémon Chance
+Pokémon Chanceux
 friendslist_sort_gift
 Cadeau
 error_set_friend_nickname
@@ -529,8 +529,10 @@ Ce surnom est trop long.
 friendslist_sort_nickname
 Surnom
 pokedex_details_lucky
-Chance :
+Chanceux :
 pokemon_info_multi_transfer_lucky_pokemon_error
-Tu ne peux pas choisir un Pokémon Chance.
+Tu ne peux pas choisir un Pokémon Chanceux.
 pokemon_lucky_info_transfer_to_professor_confirmation
-Veux-tu vraiment transférer ce Pokémon Chance ?
+Veux-tu vraiment transférer ce Pokémon Chanceux ?
+filter_key_lucky
+chanceux

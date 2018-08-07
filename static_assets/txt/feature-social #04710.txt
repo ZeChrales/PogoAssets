@@ -521,16 +521,18 @@ social_my_qr_code
 social_lucky_pokemon_label
 キラポケモン
 friendslist_sort_gift
-ぎふと
+ギフト
 error_set_friend_nickname
 ニックネーム設定エラー
 error_set_friend_nickname_length
 ニックネームが長すぎます
 friendslist_sort_nickname
-にっくねーむ
+ニックネーム
 pokedex_details_lucky
-捕まえたキラの数：
+キラポケモンの数：
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+キラポケモンは選択できません！
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+本当にキラポケモンを送ってもいいですか？
+filter_key_lucky
+キラ

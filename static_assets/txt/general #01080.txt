@@ -1009,11 +1009,11 @@ PV
 safety_warning_yes
 Je suis passager
 codename_warning_message
-Veux-tu changer de nom ?\n\nTu ne peux le faire qu’une seule fois, et il sera visible par tous les Dresseurs, alors choisis bien !
+<size=36><b>Veux-tu changer de nom ?</b></size>\n\nTu ne peux le changer qu’un nombre limité de fois, même si tu utilises un ancien nom. Il sera visible par tous les Dresseurs, alors choisis bien !
 codename_already_yours
 Tu as déjà choisi ce nom.
 codename_are_you_sure
-Tu confirmes <b>{0}</b> ?\n\nTu ne peux changer qu’une seule fois de nom.
+<size=36><b>Tu confirmes {0} ?</b></size>\n\nTu ne peux changer de nom qu’un nombre limité de fois, même si tu utilises un ancien nom.
 codename_reassign_success
 Ton nom est désormais « {0} ».
 speed_modal_too_fast
@@ -1593,24 +1593,24 @@ Ce nom contient du texte inapproprié.
 pokestop_item_passcode_inventory_full
 Ton Sac est plein, ou tu es hors de portée du lieu d'enregistrement.
 error_weak_network
-Currently, your network connection is unstable. Please try again later.
+Ta connexion au réseau est actuellement instable. Réessaye plus tard.
 badge_apac_partner_july_2018_1
-July 26, 2018
+Japon 28 juillet 2018
 badge_apac_partner_july_2018_2
-July 27, 2018
+Japon, 26 juillet 2018
 badge_apac_partner_july_2018_3
-July 28, 2018
+Japon, 27 juillet 2018
 badge_apac_partner_july_2018_4
-July 29, 2018
+Japon, 29 juillet 2018
 badge_apac_partner_july_2018_5
-July 30, 2018
+Corée du sud, 29 juillet 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Week-end spécial Pokémon GO, 28 juillet 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Week-end spécial Pokémon GO, 26 juillet 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Week-end spécial Pokémon GO, 27 juillet 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Week-end spécial Pokémon GO, 29 juillet 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Week-end spécial Pokémon GO, 29 juillet 2018

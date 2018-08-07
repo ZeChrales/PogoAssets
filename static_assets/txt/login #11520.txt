@@ -1,0 +1,178 @@
+age_gate_screen
+Introduce tu fecha de nacimiento.
+authentication_revoked_error
+No se puede conectar al servidor.
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/es
+banned_player_lockout_1
+Tu cuenta ha sido suspendida por violar las condiciones de servicio.\n\nConsulta con el Centro de ayuda para obtener más información.
+banned_player_lockout_2
+Más información
+err_no_internet
+No hay conexión a internet.
+err_update_now
+Hay disponible una nueva versión de Pokémon GO. ¿Quieres actualizar tu versión ahora?
+facebook_login_button
+Facebook
+fb_auth_failed
+No se puede autenticar. Vuelve a intentarlo.
+field_test_lockout
+¡Gracias por realizar pruebas de campo de Pokémon GO!\n¡Hasta pronto!
+general_accept
+Aceptar
+general_error
+Error
+general_network_error
+Error
+general_button_select
+Seleccionar
+general_cancel
+Cancelar
+general_no
+No
+general_ok
+Vale
+general_sign_out
+Salir
+general_sign_out_confirm
+¿Seguro que quieres salir?
+general_yes
+Sí
+google_auth_failed
+No se puede autenticar. Vuelve a intentarlo.
+google_login_button
+Google
+login_username
+Introduce tu nombre de usuario
+login_password
+Introduce tu contraseña
+privacy_policy_title
+Política de privacidad de Pokémon GO
+privacy_policy_button
+Política de privacidad
+ptc_auth_failed
+No se puede autenticar. Vuelve a intentarlo.
+ptc_error_activation_required
+Activa tu cuenta para jugar a Pokémon GO.
+ptc_forgot_password
+¿Has olvidado tu contraseña?
+ptc_forgot_username
+¿Has olvidado tu nombre de usuario?
+ptc_login_button
+Club de Entrenadores Pokémon
+ptc_login_submit
+Iniciar sesión
+ptc_login_title
+Club de Entrenadores Pokémon
+ptc_need_to_register_button
+Registrarse
+registration_choice_screen
+Selecciona una cuenta con la que registrarte.
+server_lockout
+Estamos experimentando problemas con nuestros servidores. Por favor, vuelve más tarde.
+settings_are_you_sure_support_prompt
+¿Quieres salir del juego e ir a la página web de asistencia?
+submit_age_button
+Enviar
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/es
+unauthorized_device_lockout_1
+Este dispositivo, sistema operativo o software no es compatible con Pokémon GO.
+month_jan
+Ene.
+month_feb
+Feb.
+month_mar
+Mar.
+month_apr
+Abr.
+month_may
+Mayo
+month_jun
+Jun.
+month_jul
+Jul.
+month_aug
+Ago.
+month_sep
+Sep.
+month_oct
+Oct.
+month_nov
+Nov.
+month_dec
+Dic.
+authentication_retry_prompt
+No se ha podido iniciar sesión.
+authentication_failed_try_again
+Reintentar
+authentication_failed_sign_out
+Intentar con otra cuenta
+existing_player_label
+¿Jugador que regresa?
+existing_player_button
+Iniciar sesión
+new_player_label
+¿Jugador nuevo?
+new_player_button
+Crear una cuenta
+existing_account_screen
+Inicia sesión con
+new_account_screen
+Crear una cuenta con
+non_existent_account
+No se puede iniciar sesión. Asegúrate de que esta cuenta de Pokémon GO existe y de que has seleccionado correctamente qué tipo de jugador eres, nuevo o que regresa.
+settings_account_header
+CUENTA
+settings_account_linked
+VINCULADO
+settings_account_not_linked
+NO VINCULADO
+settings_account_link_tip
+Consejo: ¡Puedes iniciar sesión en tu juego a través de cualquier cuenta vinculada!
+unlink_account_confirm
+<size=36><b>¿Desvincular esta cuenta?</b></size>\n\nEs posible que pierdas el acceso a las funciones sociales y a las opciones de inicio de sesión.
+unlink_account_failed_active_session
+<size=36><b>¡No se puede desvincular esta cuenta!</b></size>\n\nEsta cuenta está vinculada a tu sesión de juego activa.
+link_account_failed
+No se puede vincular a esta cuenta.
+unlink_account_failed
+No se puede desvincular de esta cuenta.
+link_account_failed_auth
+<size=36><b>{0} Error</b></size>\n\nNo se puede vincular esta cuenta.
+link_account_failed_taken
+<size=36><b>Cuenta existente</b></size>\n\nEsta cuenta ya está vinculada a un jugador.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic para niños
+sa_login_title
+Niantic para niños
+login_create_player
+Crear cuenta con:
+login_sign_in
+Iniciar sesión con:
+login_username_short
+Nombre de usuario
+login_password_short
+Contraseña
+ptc_login_title_short
+Club de Entrenadores
+login_create_account
+Crear una aquí
+ptc_account_creation_prompt
+¿No tienes una cuenta del Club de Entrenadores Pokémon?
+sa_account_creation_prompt
+¿No tienes una cuenta de Niantic para niños?
+ptc_login_server_unreachable
+El Club de Entrenadores Pokémon no está disponible en estos momentos. Sentimos las molestias.
+sa_login_server_unreachable
+Niantic para niños no está disponible en estos momentos. Sentimos las molestias.
+sa_auth_failed_permissions
+Para poder jugar, haz que uno de tus padres o tutores inicie sesión en su cuenta de Niantic para niños y autorice tu cuenta.
+sa_auth_failed
+No se puede autenticar. Vuelve a intentarlo.
+sa_parent_dashboard_url
+https://parents.superawesome.tv/es/login

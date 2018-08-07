@@ -1009,11 +1009,11 @@ HP
 safety_warning_yes
 私は運転者ではありません
 codename_warning_message
-<size=36>ニックネームを変更しますか？</size>\n\n１回だけ変更できます。ニックネームは他のトレーナーからも見られることがあります。よく考えて決めてください。
+<size=36>ニックネームを変更しますか？</size>\n\n元のニックネームに戻すことを含め、限られた数だけ変更できます。ニックネームは他のトレーナーからも見られることがあります。よく考えて決めてください。
 codename_already_yours
 現在使っているニックネームです
 codename_are_you_sure
-<size=36>{0} に変更してもいいですか？</size>\n\nニックネームを変更できるのは１回だけです。
+<size=36>{0} に変更してもいいですか？</size>\n\nニックネームを変更できる回数は、元のニックネームに戻すことを含め、限られています。
 codename_reassign_success
 あなたのニックネームは {0} に変更されました。
 speed_modal_too_fast
@@ -1361,7 +1361,7 @@ qr_decode_problem
 event_registration_success
 {0} チェックインに成功しました！
 qr_code_title
-二次元バーコード読み取り
+二次元バーコード読取
 pokestop_button_manual_input_2
 手動で入力する
 badge_chicago_fest_july_2017_title
@@ -1595,22 +1595,22 @@ pokestop_item_passcode_inventory_full
 error_weak_network
 通信状態が不安定です。通信状態が良い場所でもう一度お試しください。
 badge_apac_partner_july_2018_1
-July 26, 2018
+日本 2018/7/28
 badge_apac_partner_july_2018_2
-July 27, 2018
+日本 2018/7/26
 badge_apac_partner_july_2018_3
-July 28, 2018
+日本 2018/7/27
 badge_apac_partner_july_2018_4
-July 29, 2018
+日本 2018/7/29
 badge_apac_partner_july_2018_5
-July 30, 2018
+韓国 2018/7/29
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/28
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/26
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/27
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/29
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend 2018/7/29

@@ -529,8 +529,10 @@ O apelido está longo demais.
 friendslist_sort_nickname
 Apelido
 pokedex_details_lucky
-Lucky:
+Sortudo:
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+Você não pode selecionar Pokémon sortudo.
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+Quer mesmo transferir este Pokémon sortudo?
+filter_key_lucky
+sortudo

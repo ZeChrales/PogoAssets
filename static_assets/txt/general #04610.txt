@@ -1009,11 +1009,11 @@ PS
 safety_warning_yes
 Sono un passeggero
 codename_warning_message
-<size=36><b>Vuoi cambiare il tuo soprannome?</b></size>\n\nPuoi farlo solo una volta, poi tutti gli altri Allenatori potranno vederlo, quindi scegli con calma!
+<size=36><b>Vuoi cambiare il tuo soprannome?</b></size>\n\nPuoi modificarlo solo un numero limitato di volte, incluso se decidi di riadottare un vecchio soprannome. Tutti gli altri Allenatori potranno vederlo, quindi scegli con calma!
 codename_already_yours
 Questo è già il tuo soprannome!
 codename_are_you_sure
-<size=36><b> Vuoi che il soprannome associato al tuo avatar sia {0}?</b></size>\n\nPuoi cambiarlo solo una volta.
+<size=36><b> Vuoi che il soprannome associato al tuo avatar sia {0}?</b></size>\n\nPuoi modificarlo solo un numero limitato di volte, incluso se decidi di riadottare un vecchio soprannome.
 codename_reassign_success
 Il tuo soprannome adesso è {0}.
 speed_modal_too_fast
@@ -1589,28 +1589,28 @@ Chicago, 15 luglio 2018 - Sud
 badge_chicago_fest_july_2018_sun_north
 Chicago, 15 luglio 2018 - Nord
 error_contains_bad_text
-Testo invalido
+Questo nome contiene testo inappropriato.
 pokestop_item_passcode_inventory_full
 La tua Borsa è piena o sei troppo distante.
 error_weak_network
 Al momento la tua connessione non sembra stabile. Riprova più tardi.
 badge_apac_partner_july_2018_1
-July 26, 2018
+Giappone, 28 luglio 2018
 badge_apac_partner_july_2018_2
-July 27, 2018
+Giappone, 26 luglio 2018
 badge_apac_partner_july_2018_3
-July 28, 2018
+Giappone, 27 luglio 2018
 badge_apac_partner_july_2018_4
-July 29, 2018
+Giappone, 29 luglio 2018
 badge_apac_partner_july_2018_5
-July 30, 2018
+Corea, 29 luglio 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Weekend speciale di Pokémon GO, 28 luglio 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Weekend speciale di Pokémon GO, 26 luglio 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Weekend speciale di Pokémon GO, 27 luglio 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Weekend speciale di Pokémon GO, 29 luglio 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Weekend speciale di Pokémon GO, 29 luglio 2018

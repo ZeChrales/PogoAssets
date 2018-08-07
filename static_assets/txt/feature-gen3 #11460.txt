@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+Camina {0} km más con este compañero.
+weather_weather
+Tiempo atmosférico
+weather_clear
+Despejado
+weather_rainy
+Lluvioso
+weather_partly_cloudy
+Parcialmente nublado
+weather_overcast
+Cielo cubierto
+weather_windy
+Viento
+weather_snow
+Nieve
+weather_fog
+Niebla
+weather_boosted_types
+Tipos potenciados
+weather_boosted_types_desciption
+Estos tipos de Pokémon son más fuertes y aparecen con más frecuencia. Cuando son atrapados, dan más Polvos Estelares.
+weather_extreme
+Condiciones extremas
+weather_extreme_description
+Las condiciones climáticas son peligrosas. ¡Presta atención a tus alrededores! Consulta tu servicio meteorológico local para obtener más información.
+weather_alert_warning
+Alerta meteorológica de peligro. Consulta los servicios meteorológicos de tu zona para obtener más información.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+¡Camina con tu compañero {0} para que evolucione!
+weather_sunny
+Soleado
+weather_boost_active_1
+¡El tiempo atmosférico potencia el movimiento {1} de {0}!
+weather_boost_active_2
+¡El tiempo atmosférico potencia los movimientos {1} y {2} de {0}!
+weather_alert_safety_button
+ESTOY A SALVO
+weather_careful_description
+Las condiciones climáticas son peligrosas. ¡Presta atención a tus alrededores! Consulta tu servicio meteorológico local para obtener más información.
+weather_careful
+¡Cuidado!
+form_normal
+Normal
+form_sun
+Sol
+form_rain
+Lluvia
+form_snow
+Nieve
+form_defense
+Defensa
+form_attack
+Ataque
+form_speed
+Velocidad
+form_deoxys_normal
+Normal
+general_send
+ENVIAR
+general_report_title
+Informar de un problema
+weather_report_option_1
+¡El tiempo atmosférico no es para nada preciso!
+weather_report_option_2
+El tiempo atmosférico parece preciso, simplemente no está actualizado.

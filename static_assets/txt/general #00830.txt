@@ -1009,11 +1009,11 @@ HP
 safety_warning_yes
 I'm a passenger
 codename_warning_message
-<size=36><b>Do you want to change your nickname?</b></size>\n\nYou can change your nickname only once. It will be displayed to other Trainers, so please choose wisely!
+<size=36><b>Do you want to change your nickname?</b></size>\n\nYou can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!
 codename_already_yours
 That's already your name!
 codename_are_you_sure
-<size=36><b>Are you sure you want to be called {0}?</b></size>\n\nYou can only change your nickname once.
+<size=36><b>Are you sure you want to be called {0}?</b></size>\n\n You can only change your nickname a limited number of times, including changing back to an old nickname.
 codename_reassign_success
 You're now known as {0}.
 speed_modal_too_fast
@@ -1595,22 +1595,22 @@ Your Bag is full or you are out of range of the check in location.
 error_weak_network
 Currently, your network connection is unstable. Please try again later.
 badge_apac_partner_july_2018_1
-July 26, 2018
+Japan, July 28, 2018
 badge_apac_partner_july_2018_2
-July 27, 2018
+Japan, July 26, 2018
 badge_apac_partner_july_2018_3
-July 28, 2018
+Japan, July 27, 2018
 badge_apac_partner_july_2018_4
-July 29, 2018
+Japan, July 29, 2018
 badge_apac_partner_july_2018_5
-July 30, 2018
+South Korea, July 29, 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend, July 28, 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend, July 26, 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend, July 27, 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend, July 29, 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Pokémon GO Special Weekend, July 29, 2018

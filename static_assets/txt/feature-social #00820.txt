@@ -131,9 +131,9 @@ Let's be friends in Pokémon GO! My Trainer Code is {0}!
 friendship_milestone_notification_toast
 You and {0} are now Good Friends!
 friendship_detail_unlock_reqs_singular
-If you keep playing together for {0} more day, you can become {1}s!
+Play together for {0} more days to become {1}s!
 friendship_detail_unlock_reqs_plural
-If you keep playing together for {0} more days, you can become {1}s!
+Play together for {0} more days to become {1}s!
 friendship_detail_capabilities
 Bonus
 friendship_detail_just_friends
@@ -513,13 +513,13 @@ OTHERS
 set_friend_nickname
 Set Nickname
 select_gift_to_delete_prompt
-Select Gifts to discard
+Select Gift to discard
 delete_gift_confirmation
 Are you sure you want to discard this Gift?
 social_my_qr_code
 My QR Code
 social_lucky_pokemon_label
-Lucky Pokemon
+Lucky Pokémon
 friendslist_sort_gift
 Gift
 error_set_friend_nickname
@@ -534,3 +534,5 @@ pokemon_info_multi_transfer_lucky_pokemon_error
 You can't select Lucky Pokémon.
 pokemon_lucky_info_transfer_to_professor_confirmation
 Do you really want to transfer this Lucky Pokémon?
+filter_key_lucky
+lucky

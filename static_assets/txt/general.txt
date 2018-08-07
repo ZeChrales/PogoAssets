@@ -1,5 +1,5 @@
 badge_capture_total
-Pegue {0} Pokémon.
+Pokémon pegos: {0}
 badge_capture_total_title
 Colecionador
 badge_capture_total_value_format
@@ -41,7 +41,7 @@ Mochileiro
 badge_pokestops_visited_value_format
 N0
 badge_travel_km
-Km percorridos: {0}
+Km percorridos: {0:0.#}
 badge_travel_km_title
 Corredor
 badge_travel_km_value_format
@@ -55,19 +55,19 @@ N0
 badge_you_earned
 Parabéns! Você ganhou uma insígnia!
 badge_big_magikarp
-Magikarp grandes conseguidos: {0}
+Magikarp grandes pegos: {0}
 badge_big_magikarp_title
 Pescador
 badge_big_magikarp_value_format
 N0
 badge_small_rattata
-Rattata pequenos conseguidos: {0}
+Rattata pequenos pegos: {0}
 badge_small_rattata_title
 Jovem
 badge_small_rattata_value_format
 N0
 badge_pikachu
-Pikachu conseguidos: {0}
+Pikachu pegos: {0}
 badge_pikachu_title
 Fã de Pikachu
 badge_pikachu_value_format
@@ -1009,11 +1009,11 @@ PS
 safety_warning_yes
 Sou um passageiro
 codename_warning_message
-<size=36><b>Quer trocar seu apelido?</b></size>\n\nVocê só pode trocar seu apelido uma vez. Ele será visto por outros Treinadores, então escolha bem!
+<size=36><b>Quer trocar seu apelido?</b></size>\n\nVocê só pode trocar seu apelido um número limitado de vezes, incluindo voltar para um apelido antigo. Ele será visto por outros Treinadores, então escolha bem!
 codename_already_yours
 Este já é o seu apelido!
 codename_are_you_sure
-<size=36><b>Tem certeza de que quer se chamar {0}?</b></size>\n\nSeu apelido só pode ser trocado uma vez.
+<size=36><b>Tem certeza de que quer se chamar {0}?</b></size>\n\nVocê só pode trocar seu apelido um número limitado de vezes, incluindo voltar para um apelido antigo.
 codename_reassign_success
 Seu apelido agora é {0}.
 speed_modal_too_fast
@@ -1233,7 +1233,7 @@ Unown
 badge_unown_value_format
 N0
 badge_unown
-Pegue {0} Unown.
+Unown pegos: {0}
 avatar_award_new_style
 Novo estilo disponível!
 avatar_award_show_me
@@ -1595,22 +1595,22 @@ Sua Bolsa está cheia ou você está fora de alcance do local de registro.
 error_weak_network
 Sua conexão de rede está instável no momento. Tente de novo mais tarde.
 badge_apac_partner_july_2018_1
-July 26, 2018
+28 julho 2018
 badge_apac_partner_july_2018_2
-July 27, 2018
+Japão, 26 de julho de 2018
 badge_apac_partner_july_2018_3
-July 28, 2018
+Japão, 27 de julho de 2018
 badge_apac_partner_july_2018_4
-July 29, 2018
+Japão, 29 de julho de 2018
 badge_apac_partner_july_2018_5
-July 30, 2018
+Coreia do Sul, 29 de julho de 2018
 badge_apac_partner_july_2018_1_title
-Pokémon GO Special Weekend
+Fim de semana especial de Pokémon GO, 28 de julho de 2018
 badge_apac_partner_july_2018_2_title
-Pokémon GO Special Weekend
+Fim de semana especial de Pokémon GO, 26 de julho de 2018
 badge_apac_partner_july_2018_3_title
-Pokémon GO Special Weekend
+Fim de semana especial de Pokémon GO, 27 de julho de 2018
 badge_apac_partner_july_2018_4_title
-Pokémon GO Special Weekend
+Fim de semana especial de Pokémon GO, 29 de julho de 2018
 badge_apac_partner_july_2018_5_title
-Pokémon GO Special Weekend
+Fim de semana especial de Pokémon GO, 29 de julho de 2018

@@ -529,8 +529,10 @@ Spitzname ist zu lang.
 friendslist_sort_nickname
 Spitzname
 pokedex_details_lucky
-Lucky:
+Glücks:
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+Du kannst keine Glücks-Pokémon wählen.
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+Möchtest du dieses Glücks-Pokémon wirklich an den Professor schicken?
+filter_key_lucky
+Glücks

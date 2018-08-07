@@ -131,7 +131,7 @@ Diventiamo amici su Pokémon GO! Il mio codice Allenatore è {0}!
 friendship_milestone_notification_toast
 Tu e {0} ora siete buoni amici!
 friendship_detail_unlock_reqs_singular
-Se giocate insieme per altri {0} giorni, diventerete {1}!
+Se giocate insieme per un altro giorno, diventerete {1}!
 friendship_detail_unlock_reqs_plural
 Se giocate insieme per altri {0} giorni, diventerete {1}!
 friendship_detail_capabilities
@@ -523,14 +523,16 @@ Pokémon fortunato
 friendslist_sort_gift
 Pacchi inviati
 error_set_friend_nickname
-Errore durante l'impostazione del soprannome
+Errore durante l’impostazione del soprannome
 error_set_friend_nickname_length
 Soprannome troppo lungo
 friendslist_sort_nickname
 Soprannome
 pokedex_details_lucky
-Lucky:
+Fortunati:
 pokemon_info_multi_transfer_lucky_pokemon_error
-You can't select Lucky Pokémon.
+Non puoi selezionare Pokémon fortunati.
 pokemon_lucky_info_transfer_to_professor_confirmation
-Do you really want to transfer this Lucky Pokémon?
+Vuoi davvero trasferire questo Pokémon fortunato?
+filter_key_lucky
+Fortunati
