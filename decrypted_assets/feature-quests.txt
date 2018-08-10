@@ -284,3 +284,4 @@
 "quest_catch_special14_singular"	"Catch a Meowth or Growlithe"	"ニャースかガーディを捕まえる"	"Attrape un Miaouss ou un Caninos"	"Atrapa 1 Meowth o Growlithe"	"Fange Mauzi oder Fukano."	"Cattura un Meowth o un Growlithe"	"나옹 또는 가디를 잡는다"	"捕捉1隻喵喵或卡蒂狗"	"Pegar 1 Meowth ou Growlithe."
 "quest_evolve_special2_singular"	"Evolve a Meowth"	"ニャースを進化させる"	"Fais évoluer un Miaouss"	"Evoluciona 1 Meowth"	"Entwickle ein Mauzi."	"Fai evolvere un Meowth"	"나옹을 진화시킨다"	"讓1隻喵喵進化"	"Evoluir 1 Meowth."
 "quest_catch_special16_singular"	"Catch a Skitty or Poochyena"	"エネコかポチエナを捕まえる"	"Attrape un Skitty ou un Medhyèna"	"Atrapa un Skitty o un Poochyena"	"Fange ein Eneco oder Fiffyen."	"Cattura uno Skitty o un Poochyena"	"에나비 또는 포챠나를 잡는다"	"捕捉1隻向尾喵或土狼犬"	"Pegar 1 Skitty ou Poochyena."
+"quest_catch_special17_plural"	"Catch {0} Eevee"	"イーブイを{0}匹捕まえる"	"Attrape {0} Évoli"	"Captura {0} Eevee"	"Fange {0} Evoli."	"Cattura {0} Eevee"	"이브이를 {0}마리 잡는다"	"捕捉 {0} 隻伊布"	"Pegar {0} Eevee."	""	""
