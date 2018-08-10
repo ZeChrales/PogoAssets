@@ -236,3 +236,4 @@
 "move_name_0298"	"Blast Burn"	"ブラストバーン"	"Rafale Feu"	"Anillo Ígneo"	"Lohekanonade"	"Incendio"	"블러스트번"	"爆炸烈焰"	"Queimadura Explosiva"
 "move_name_0297"	"Smack Down"	"うちおとす"	"Anti-Air"	"Antiaéreo"	"Katapult"	"Abbattimento"	"떨어뜨리기"	"擊落"	"Derrubada"
 "move_name_0299"	"Hydro Cannon"	"ハイドロカノン"	"Hydroblast"	"Hidrocañón"	"Aquahaubitze"	"Idrocannone"	"하이드로캐논"	"加農水砲"	"Hidro Canhão"
+"move_name_0300"	"Last Resort"	"とっておき"	"Dernier Recours"	"Última Baza"	"Zuflucht"	"Ultimascelta"	"뒀다쓰기"	"珍藏"	"Último Recurso"
