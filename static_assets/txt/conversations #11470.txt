@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+¡Hola!\nSoy el Profesor Willow.
+onboard_welcome_screen|2
+¿Sabías que este mundo está habitado por criaturas llamadas Pokémon?
+onboard_welcome_screen|3
+Se pueden encontrar Pokémon en todas partes.
+onboard_welcome_screen|4
+Algunos corren por el campo, otros vuelan por el cielo, algunos viven en la montaña, otros en el bosque y otros cerca del agua...
+onboard_welcome_screen|5
+He pasado toda mi vida estudiándolos y analizando su distribución geográfica.
+onboard_welcome_screen|6
+¿Puedes ayudarme con mi investigación?
+onboard_welcome_screen|7
+¡Genial!
+onboard_welcome_screen|8
+¡Tendrás que encontrar y coleccionar Pokémon de todas partes!
+onboard_welcome_screen|9
+Ahora, elige el estilo que quieres para tu aventura.
+first_time_encounter|1
+¡Hay un Pokémon cerca!
+first_time_encounter|2
+Aquí tienes algunas Poké Balls. ¡Te ayudarán a capturarlo!
+onboard_caught_pokemon|1
+¡Enhorabuena!\n¡Has capturado tu primer Pokémon!
+onboard_caught_pokemon|2
+¡Tienes un gran talento como Entrenador Pokémon!\n¿Cómo debería llamarte?
+onboard_change_name|1
+¡Hola! ¿Cómo dices que debería llamarte?
+onboard_name_registered|1
+Qué apodo tan interesante.\n¡Encantado de conocerte!
+onboard_name_registered|2
+Vas a necesitar más Poké Balls y otros objetos que te vendrán muy bien durante tu exploración.
+visit_a_pokestop|1
+Puedes encontrar objetos en las Poképaradas.
+visit_a_pokestop|2
+Están situadas en lugares interesantes, como en esculturas y monumentos.
+visit_a_pokestop|3
+A partir de ahora, podrás salir a explorar por todo el mundo. Espero que salgas y captures Pokémon, ¡y que los registres en tu Pokédex!
+visit_a_pokestop|4
+¡Ya es hora de salir a explorar!
+__backup__
+¡Buen trabajo! ¡Parece que has capturado a {0}, un Pokémon de tipo {1}!
+first_time_gym_low_level|1
+Esto es un Gimnasio, un lugar donde pondrás a prueba tus habilidades en combates Pokémon.
+first_time_gym_low_level|2
+Parece que todavía no tienes mucha experiencia como Entrenador Pokémon.
+first_time_gym_low_level|3
+¡Vuelve cuando hayas alcanzado el nivel {0}!
+first_time_gym_team_intro|1
+¡Parece que has ganado mucha experiencia como Entrenador Pokémon!
+first_time_gym_team_intro|2
+¡Creo que ya es hora de que empieces a participar en combates Pokémon!
+first_time_gym_team_intro|3
+Tengo tres ayudantes excelentes.
+first_time_gym_team_intro|4
+Cada uno de ellos dirige un equipo, y cada uno tiene un enfoque particular en la investigación de Pokémon.
+first_time_gym_team_intro|5
+Parte de su investigación es llevar a cabo combates Pokémon en los Gimnasios.
+first_time_gym_team_intro|6
+Están muy contentos de que te unas y seas parte de un equipo.
+team_yellow_intro|1
+¡Hola! Me llamo Spark, y soy el líder del Equipo Instinto.
+team_yellow_intro|2
+Los Pokémon son criaturas con una intuición excepcional.
+team_yellow_intro|3
+Yo creo que el secreto de su intuición está relacionado con la forma en que han nacido.
+team_yellow_intro|4
+¡Ven y únete a mi equipo!
+team_yellow_intro|5
+¡Nunca pierdes cuando sigues tus instintos!
+team_blue_intro|1
+Yo soy Blanche, líder del Equipo Sabiduría.
+team_blue_intro|2
+La inteligencia de los Pokémon es verdaderamente grande.
+team_blue_intro|3
+Estoy investigando por qué evolucionan.
+team_blue_intro|4
+¿Mi equipo?
+team_blue_intro|5
+Con nuestro sereno análisis de todas las situaciones, ¡no podemos perder!
+team_red_intro|1
+Yo soy Candela, líder del Equipo Valor.
+team_red_intro|2
+Los Pokémon son más fuertes que los humanos, ¡y bondadosos también!  
+team_red_intro|3
+Estoy investigando las formas de mejorar el poder natural de los Pokémon para conseguir una fortaleza verdadera. 
+team_red_intro|4
+¡No hay duda de que los Pokémon que nuestro equipo ha entrenado son los más fuertes en combate!
+team_red_intro|5
+¿Todo listo?
+team_yello_welcom|1
+¡Buena elección! Sabía que te unirías a nosotros. ¡Sal a divertirte en combates Pokémon!
+team_blue_welcom|1
+La única opción lógica. Recuerda mantenerte en calma en combate.
+quickstart_pokestopfar|1
+Esto es una Poképarada.
+quickstart_pokestopfar|2
+Es un lugar situado en el mundo real en el que puedes encontrar Poké Balls y otros objetos.
+quickstart_pokestopnear|1
+La Poképarada cambiará de forma cuando estés lo bastante cerca. Tócala para interactuar con ella.
+quickstart_pokestopspin|1
+Dale vueltas al fotodisco para que salgan objetos. Toca o pasa el dedo por ellos para conseguirlos.
+quickstart_gymmap|1
+Esto es un Gimnasio.
+quickstart_gymmap|2
+Los equipos combaten por el control de estos lugares situados en el mundo real.
+quickstart_gymbuttons_assign|1
+Asigna a uno de tus Pokémon a un Gimnasio vacío para reclamarlo para tu equipo. Fortalece un Gimnasio amigo asignando a uno de tus Pokémon para que ayude a defenderlo.
+quickstart_gymbuttons_train|1
+Entrena a los Pokémon en un Gimnasio amigo para aumentar el prestigio y el nivel del Gimnasio.
+quickstart_gymbuttons_battle|1
+Desafía a un Gimnasio rival para bajar su prestigio y nivel.
+quickstart_battledodge|1
+Durante un combate, desliza el dedo a izquierda o derecha para esquivar ataques.
+appraise_intro_1|1
+Hola, <b>{0}</b>. Puedo analizar tu <b>{1}</b> si quieres.
+appraise_size_tiny_1|1
+Tu <b>{0}</b> es el más pequeño de entre los que tenemos registrados. Asombroso.
+appraise_size_small_1|1
+Tu <b>{0}</b> está por debajo de la media en tamaño.
+appraise_size_large_1|1
+Tu <b>{0}</b> está por encima de la media en tamaño.
+appraise_size_huge_1|1
+El tamaño de tu <b>{0}</b> es... colosal. Una anomalía estadística. ¡Fascinante!
+appraise_stat_low_1|1
+Sus características dejan un poco que desear, yo diría.
+appraise_stat_mid_1|1
+Sus características están bastante bien.
+appraise_stat_high_1|1
+Debo decir que sus características son realmente impresionantes.
+appraise_stat_best_1|1
+Sus características están fuera de todo cálculo. ¡Es increíble!
+appraise_overall_low_1|1
+En su conjunto, no parece que tu {0} vaya a llegar muy lejos en combate.
+appraise_overall_mid_1|1
+En su conjunto, tu {0} está por encima de la media.
+appraise_overall_high_1|1
+En su conjunto, tu {0} me ha llamado ciertamente la atención.
+appraise_overall_best_1|1
+En su conjunto, tu {0} es una maravilla para la vista.  ¡Qué espécimen tan impresionante!
+appraise_outro_1|1
+Esto concluye mi análisis. Adiós.
+appraise_intro_2|1
+¡Hola, {0}! Vamos a echar un vistazo a tu {1}, ¿vale?
+appraise_size_tiny_2|1
+Tu {0} es tan pequeñín que casi no lo veo.
+appraise_size_small_2|1
+Oooh... ¡Qué {0} tan pequeño! Es muy lindo, creo yo.
+appraise_size_large_2|1
+No hay duda de que tu {0} es bastante grande.
+appraise_size_huge_2|1
+Tu {0} es gigantesco, ¡el más grande que he visto nunca!
+appraise_stat_low_2|1
+Sus características no te serán de mucha utilidad en combate.
+appraise_stat_mid_2|1
+Sus características te ayudarán a cumplir tu objetivo en combate.
+appraise_stat_high_2|1
+Cuenta con excelentes características. ¡Qué emocionante!
+appraise_stat_best_2|1
+Estoy flipando con sus características. ¡GUAU!
+appraise_overall_low_2|1
+En su conjunto, tu {0} puede que no sea el mejor en combate, pero aun así me gusta.
+appraise_overall_mid_2|1
+En su conjunto, tu {0} está bastante bien.
+appraise_overall_high_2|1
+En su conjunto, tu {0} es muy fuerte. ¡Qué orgullo debes sentir!
+appraise_overall_best_2|1
+En su conjunto, tu {0} simplemente me fascina. ¡Puede lograr cualquier cosa!
+appraise_outro_2|1
+Espero haberte ayudado. ¡Cuídate!
+appraise_intro_3|1
+¡Hola, {0}! ¿Quieres que examine a tu {1}?
+appraise_size_tiny_3|1
+Guau... ¡Es el {0} más pequeñito que he visto nunca!
+appraise_size_small_3|1
+Tu {0} es un poco pequeño para su especie, ¿no crees?
+appraise_size_large_3|1
+¡Tu {0} es bastante grande!
+appraise_size_huge_3|1
+Tu {0} es... ¡ENORME!
+appraise_stat_low_3|1
+Sus características están... bien, supongo.
+appraise_stat_mid_3|1
+Tiene buenas características, sin duda.
+appraise_stat_high_3|1
+¡Sus características son realmente fuertes! ¡Es impresionante!
+appraise_stat_best_3|1
+¡Sus características son lo mejor que he visto nunca! ¡Qué pasada!
+appraise_overall_low_3|1
+En su conjunto, tu {0} podría mejorar algo en lo que se refiere a combates.
+appraise_overall_mid_3|1
+En su conjunto, tu {0} está bastante bien.
+appraise_overall_high_3|1
+En su conjunto, ¡tu {0} es realmente fuerte!
+appraise_overall_best_3|1
+En su conjunto, ¡tu {0} puede enfrentarse a los mejores!
+appraise_outro_3|1
+¡Esa es mi opinión! ¡Hasta la vista!
+appraise_stat_highest_1|1
+Veo que su mejor atributo es su <b>{0}</b>.
+appraise_stat_highest_tie_1|1
+Que se corresponde igualmente con su <b>{0}</b>.
+appraise_stat_highest_2|1
+Su característica más fuerte es su <b>{0}</b>.
+appraise_stat_highest_tie_2|1
+Me impresiona también su <b>{0}</b>.
+appraise_stat_highest_3|1
+Lo mejor que tiene es su <b>{0}</b>.
+appraise_stat_highest_tie_3|1
+¡Su <b>{0}</b> está genial también!

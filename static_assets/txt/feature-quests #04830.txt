@@ -1,0 +1,572 @@
+quests_quest
+과제
+quests_list_gui_title
+리서치
+quests_list_gui_tab_challenges
+필드
+quests_list_gui_tab_special
+스페셜
+quests_claim_reward
+리워드를 받자!
+quests_professor_willow
+윌로우박사
+quests_mobile_calling
+수신
+quests_remove_challenge_prompt
+이 필드를 포기하겠습니까?
+quests_remove_challenge_desc
+포켓스톱을 방문하여 추가할 수 있습니다
+quests_daily_challenge_reset
+데일리 챌린지 완료 기록 리셋까지 <color=cyan>{0}</color>.
+quests_new_challenge_received
+필드리서치를 수신했다!
+quests_get_new_challenge_prompt
+포켓스톱에서 새로운 필드리서치를 손에 넣자!
+quests_step_complete
+과제 완료!
+quest_pokemon_appears
+포켓몬 발견!
+quests_claim_field_research_first
+대발견으로 연구가 진행했다! 보상을 받자!
+quest_breakthrough_completed
+필드리서치 완료!
+quests_log_complete_quest
+{0}(을)를 달성했다
+quests_log_research_breakthrough
+대발견을 했다!
+quests_collect_stamps
+스탬프를 모으자!
+quests_collect_stamps_message
+박사의 리서치에 협력해서 매일 1개의 스탬프를 모으자!
+quest_battle_gym_plural
+체육관 배틀을 {0}회 한다
+quest_battle_gym_singular
+체육관 배틀을 1회 한다
+quest_battle_raid_plural
+레이드배틀을 {0}회 한다
+quest_battle_raid_singular
+레이드배틀을 1회 한다
+quest_battle_supereffective_charge_plural
+효과가 굉장한 스페셜 어택을 사용해서 체육관 배틀한다 : {0}회
+quest_battle_supereffective_charge_singular
+효과가 굉장한 스페셜 어택을 사용해서 체육관 배틀한다 : 1회
+quest_catch_feed_plural
+나무열매 {0}개를 사용하여 포켓몬을 잡는다
+quest_catch_feed_singular
+나무열매 1개를 사용하여 포켓몬을 잡는다
+quest_catch_pokemon_plural
+포켓몬 {0}마리를 잡는다
+quest_catch_pokemon_singular
+포켓몬 1마리를 잡는다
+quest_catch_special0_plural
+메타몽 {0}마리 잡는다
+quest_catch_special0_singular
+메타몽 1마리 잡는다
+quest_catch_special1_plural
+모다피 또는 뚜벅쵸를 {0}마리 잡는다
+quest_catch_special1_singular
+모다피 또는 뚜벅쵸를 1마리 잡는다
+quest_catch_special2_plural
+파비코를 {0}마리 잡는다
+quest_catch_special2_singular
+파비코를 1마리 잡는다
+quest_catch_special3_plural
+구구 또는 니로우를 {0}마리 잡는다
+quest_catch_special3_singular
+구구 또는 니로우를 1마리 잡는다
+quest_catch_special4_plural
+나무지기 또는 물짱이를 {0}마리 잡는다
+quest_catch_special4_singular
+나무지기 또는 물짱이를 1마리 잡는다
+quest_catch_special5_plural
+에나비 또는 나옹을 {0}마리 잡는다
+quest_catch_special5_singular
+에나비 또는 나옹을 1마리 잡는다
+quest_catch_type_bug_plural
+벌레타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_bug_singular
+벌레타입 포켓몬을 1마리 잡는다
+quest_catch_type_dark_plural
+악타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_dark_singular
+악타입 포켓몬을 1마리 잡는다
+quest_catch_type_dragon_plural
+드래곤타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_dragon_singular
+드래곤타입 포켓몬을 1마리 잡는다
+quest_catch_type_electric_plural
+전기타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_electric_singular
+전기타입 포켓몬을 1마리 잡는다
+quest_catch_type_fairy_plural
+페어리타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_fairy_singular
+페어리타입 포켓몬을 1마리 잡는다
+quest_catch_type_fighting_plural
+격투타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_fighting_singular
+격투타입 포켓몬을 1마리 잡는다
+quest_catch_type_fire_plural
+불꽃타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_fire_singular
+불꽃타입 포켓몬을 1마리 잡는다
+quest_catch_type_flying_plural
+비행타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_flying_singular
+비행타입 포켓몬을 1마리 잡는다
+quest_catch_type_ghost_plural
+고스트타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_ghost_singular
+고스트타입 포켓몬을 1마리 잡는다
+quest_catch_type_grass_plural
+풀타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_grass_singular
+풀타입 포켓몬을 1마리 잡는다
+quest_catch_type_ground_plural
+땅타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_ground_singular
+땅타입 포켓몬을 1마리 잡는다
+quest_catch_type_ice_plural
+얼음타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_ice_singular
+얼음타입 포켓몬을 1마리 잡는다
+quest_catch_type_normal_plural
+노말타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_normal_singular
+노말타입 포켓몬을 1마리 잡는다
+quest_catch_type_poison_plural
+독타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_poison_singular
+독타입 포켓몬을 1마리 잡는다
+quest_catch_type_psychic_plural
+에스퍼타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_psychic_singular
+에스퍼타입 포켓몬을 1마리 잡는다
+quest_catch_type_rock_plural
+바위타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_rock_singular
+바위타입 포켓몬을 1마리 잡는다
+quest_catch_type_steel_plural
+강철타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_steel_singular
+강철타입 포켓몬을 1마리 잡는다
+quest_catch_type_water_plural
+물타입 포켓몬을 {0}마리 잡는다
+quest_catch_type_water_singular
+물타입 포켓몬을 1마리 잡는다
+quest_catch_types_sunny_plural
+땅, 풀, 불꽃 중 한 타입 포켓몬을 {0}마리 잡는다
+quest_catch_types_sunny_singular
+땅, 풀, 불꽃 중 한 타입 포켓몬을 1마리 잡는다
+quest_catch_weather_boost_plural
+날씨 부스트를 받고 있는 포켓몬 {0}마리 잡는다
+quest_catch_weather_boost_singular
+날씨 부스트를 받고 있는 포켓몬 1마리 잡는다
+quest_evolve_singular
+포켓몬을 1마리 진화시킨다
+quest_evolve_plural
+포켓몬을 {0}마리 진화시킨다
+quest_evolve_type_fire_plural
+불꽃타입 포켓몬을 {0}마리 진화시킨다
+quest_evolve_type_fire_singular
+불꽃타입 포켓몬을 1마리 진화시킨다
+quest_hatch_egg_plural
+알을 {0}개 부화한다
+quest_hatch_egg_singular
+알을 1개 부화한다
+quest_land_excellent_plural
+Excellent가 나오게 {0}회 던진다
+quest_land_excellent_singular
+Excellent가 나오게 1회 던진다
+quest_land_great_curveball_plural
+커브볼로 Great를 {0}회 던진다
+quest_land_great_curveball_singular
+커브볼로 Great를 1회 던진다
+quest_land_great_plural
+Great가 나오게 {0}회 던진다
+quest_land_great_singular
+Great가 나오게 1회 던진다
+quest_land_inarow_curveball_plural
+커브볼을 {0}회 연속으로 던진다
+quest_land_inarow_excellent_curveball_plural
+커브볼 Excellent가 나오게 {0}회 연속으로 던진다
+quest_land_inarow_great_curveball_plural
+커브볼로 Great가 나오게 {0}회 연속으로 던진다
+quest_land_inarow_great_plural
+Great를 {0}회 연속으로 던진다
+quest_land_inarow_nice_curveball_plural
+커브볼로 Nice를 {0}회 던진다
+quest_land_inarow_nice_plural
+Nice가 나오게 {0}회 연속으로 던진다
+quest_land_nice_plural
+Nice로 {0}회 던진다
+quest_land_nice_singular
+Nice로 1회 던진다
+quest_power_up_plural
+포켓몬을 {0}회 강화한다
+quest_power_up_singular
+포켓몬을 1회 강화한다
+quest_visit_pokestop_new_plural
+방문한 적이 없는 포켓스톱의 포토디스크 {0}개 돌린다
+quest_visit_pokestop_new_singular
+방문한 적이 없는 포켓스톱의 포토디스크 1개 돌린다
+quest_visit_pokestops_plural
+포토디스크를 {0}개 돌린다
+quest_visit_pokestops_singular
+포토디스크를 1개 돌린다
+quest_win_gym_plural
+체육관 배틀에서 {0}회 이긴다
+quest_win_gym_singular
+체육관 배틀에서 1회 이긴다
+quest_win_raid_3_singular
+레벨 3이상의 레이드에 1회 이긴다
+quest_win_raid_3_plural
+레벨 3이상의 레이드에 {0}회 이긴다
+quest_win_raid_plural
+레이드배틀에서 {0}회 이긴다
+quest_win_raid_singular
+레이드배틀에서 1회 이긴다
+quest_reach_level
+레벨 {0}(으)로 도달한다
+quest_reach_kanto_silver
+관동 메달을 실버로 한다
+quest_reach_kanto_gold
+관동 메달을 골드로 만든다
+quest_walk_buddy_plural
+파트너와 걸어서 앞으로 {0}개 사탕을 얻자
+quest_walk_buddy_singular
+파트너와 걸어서 사탕 1개를 얻자
+quest_evolve_special0_singular
+잉어킹을 진화시킨다
+quest_catch_special_mew
+뮤를 잡아라!
+quest_title_mew
+환상의 포켓몬을 쫓아라!
+quest_title_mew_0
+환상의 포켓몬을 쫓아라! (1/8)
+quest_title_mew_1
+환상의 포켓몬을 쫓아라! (2/8)
+quest_title_mew_2
+환상의 포켓몬을 쫓아라! (3/8)
+quest_title_mew_3
+환상의 포켓몬을 쫓아라! (4/8)
+quest_title_mew_4
+환상의 포켓몬을 쫓아라! (5/8)
+quest_title_mew_5
+환상의 포켓몬을 쫓아라! (6/8)
+quest_title_mew_6
+환상의 포켓몬을 쫓아라! (7/8)
+quest_title_mew_7
+환상의 포켓몬을 쫓아라! (8/8)
+quest_complete_mew
+환상의 포켓몬을 쫓아라!
+quest_special_dialogue_mew_0_0
+%PLAYERNAME% 잘 지냈니? 한동안 안 본 사이에 포켓몬 트레이너로서 많이 성장한 것 같구나!
+quest_special_dialogue_mew_0_1
+실은 부탁이 있어. 아시다시피 난 전 세계의 포켓몬 서식지의 연구를 하고 있지. 다양한 테마로 필드워크를 하고 있는데 요즘 이상한 현상에 마주칠 때가 있어.
+quest_special_dialogue_mew_0_2
+이 현상의 의문을 풀기 위해서는 네 힘이 필요한데, 어때? 도와주겠니?
+quest_special_dialogue_mew_0_3
+도와준다고? 고마워!
+quest_special_dialogue_mew_0_4
+먼저 조사 기재의 조정에 필요한 데이터를 모아줘.
+quest_special_dialogue_mew_0_5
+{0}, {1}, {2} 를 해주겠니?
+quest_special_dialogue_mew_1_0
+고맙군, %PLAYERNAME%! 이걸로 어떤 수수께끼의 현상도 감지할 수 있게 되었어.
+quest_special_dialogue_mew_1_1
+아무래도 환상의 포켓몬과 관계있는 듯한 것까지는 알았어! 환상의 포켓몬이란 비상하게 강력하고 희귀한 포켓몬이기에 사람들에게 전해지기만 하는 포켓몬이야.
+quest_special_dialogue_mew_1_2
+네가 사는 포켓몬의 서식지에도 조사장치를 놔주길 바라. 파트너 포켓몬과 걷는 중 알이 부화하는 것도 기대할 수 있겠지.
+quest_special_dialogue_mew_1_3
+{0}, {1}, {2} 를 부탁할게!
+quest_special_dialogue_mew_2_0
+좋았어! 내 가설은 틀리지 않았나 보군. 이상한 현상과 관계있는 포켓몬은... 뮤였어!
+quest_special_dialogue_mew_2_1
+먼 남쪽 정글에서 발견된 멸망한 포켓몬이지만 지금은 환상의 포켓몬으로 불리면 그 모습을 본 자는 전 세계에서도 거의 없다고 하네! 순수한 마음과 만나고 싶다는 강한 마음을 가지면 모습을 나타내는 것 같군.
+quest_special_dialogue_mew_2_2
+내 지도교수인 오박사님을 필두로 관동지방에서 뮤의 연구를 계속하고 있는 학자들의 리포트와도 일치하는 내용이야!
+quest_special_dialogue_mew_2_3
+리포트에 의하면 뮤는 포켓몬이 배울 수 있는 모든 기술을 사용할 수 있다, 고까지 쓰여 있어. 그것 때문에 뮤는 모든 포켓몬의 선조라는 설을 내세우는 연구자도 많아.
+quest_special_dialogue_mew_2_4
+그래서 포켓몬 배틀에 관한 연구 데이터를 모으고 싶어!
+quest_special_dialogue_mew_2_5
+{0}, {1}, {2} (을)를 부탁할게.
+quest_special_dialogue_mew_3_0
+아주 잘했어, %PLAYERNAME%! 덕분에 핵심에 다가갈 수 있어.
+quest_special_dialogue_mew_3_1
+뮤는 모든 포켓몬의 유전자를 가진다고도 하는 걸 알고 있나? 그렇다는 것은 뮤에 관한 수수께끼는 포켓몬의 성장이나 진화 구조와 관계가 있다는 가능성이 있어!
+quest_special_dialogue_mew_3_2
+포켓몬을 진화시키면 뮤에 대해 뭔가 알 수 있을지도 몰라!
+quest_special_dialogue_mew_3_3
+{0}, {1}, {2}(을)를 다시 시도해봐
+quest_special_dialogue_mew_4_0
+굉장해. 정말 굉장해! 진화란 경이로움으로 가득한 현상이라고 생각하지 않나? 포켓몬이 진화할 때마다 새로운 발견이 있어!
+quest_special_dialogue_mew_4_1
+이만큼 데이터가 모이면 뮤를 찾을 수 있을 텐데....! 응? 잠깐?
+quest_special_dialogue_mew_4_2
+이 조사 기재 기록에 따르면 네가 사는 지역 주변에도 최근에 나타난 것 같군! 그렇다면 발견 보고가 조금이라도 있을 텐데...
+quest_special_dialogue_mew_4_3
+혹시 뮤는 다른 포켓몬으로 변신해서 섞여 있을지도 모르겠군!? 비슷하게 변신하는 포켓몬을 조사해보자. 잡아서 생태를 조사하면 좋겠지.
+quest_special_dialogue_mew_4_4
+{0}, {1}, {2} (을)를 실행해줬으면 해.
+quest_special_dialogue_mew_5_0
+협력을 감사한다, %PLAYERNAME%! 덕분에 평소 뮤는 모습을 지우고 활동하고 있다는 것을 알았어!
+quest_special_dialogue_mew_5_1
+뮤의 모습을 맨눈으로 보기 위해서는 특수한 장치를 만들어 보려고 하는데, 데이터를 모을 필요가 있어. 먼저 강력한 포켓몬을 가까이에서 관찰해줘!
+quest_special_dialogue_mew_5_2
+{0}, {1}, {2} 를 해줄 수 있나?
+quest_special_dialogue_mew_6_0
+고맙군! 덕분에 시제품이 완성했어 AR 카메라 모드에 숨어 있는 뮤 모습을 탐지할 수 있는 기능을 추가했으니 이걸로 뮤의 모습을 볼 수 있을 거다.
+quest_special_dialogue_mew_6_1
+이제 뮤를 잘 나타나게 만들어야 하는데.... 중요한 것은 순수한 마음과 뮤를 만나고 싶다는 강한 마음이 있어야 하네.
+quest_special_dialogue_mew_6_2
+포켓몬 트레이너로서의 높은 자질을 뮤에게 보여주는 거야! 뮤를 만날 수 있는 기쁨을 마음속에 강하게 가져.
+quest_special_dialogue_mew_6_3
+{0}, {1}, {2} 를 부탁해.
+quest_special_dialogue_mew_7_0
+굉장해! 드디어 환상의 포켓몬 뮤를 발견했군! 이번 환상의 포켓몬을 찾는 특별한 조사는 너에게도 잊을 수 없는 체험이었을 거야.
+quest_special_dialogue_mew_7_1
+내가 왜 이렇게까지 포켓몬 연구에 열중하고 있는지 조금은 이해할 수 있지? 이 세상에는 멋진 일이 많이 기다리고 있어! 밖으로 나가서 많은 모험을 떠나자!
+quest_special_dialogue_mew_7_2
+또 가까운 시일에 특별한 조사를 도움받을지 모르겠군. 그때는 잘 부탁해! 우수한 포켓몬 트레이너여!
+quest_transfer_pokemon_plural
+포켓몬을 {0}마리 보낸다
+quest_land_excellent_curveball_singular
+커브볼로 Excellent가 나오게 1회 던진다
+quest_land_excellent_curveball_plural
+커브볼로 Excellent가 나오게 {0}회 던진다
+quests_come_back_soon
+내일도 리서치하자!
+quests_come_back_soon_message
+리서치 스탬프는 1일 1회까지입니다
+quest_more_reseach_coming_soon
+다음 리서치를 기다려 주세요!
+quest_reward_desc_1
+윌로우박사의 리서치를 협력해서 스탬프를 모아 대발견을 하자!
+quest_reward_desc_2
+앞으로 스탬프
+quest_reward_desc_3_plural
+{0} 개로 대발견!
+quest_reward_desc_3_singular
+{0} 개로 대발견!
+quest_breakthrough_reward_stardust
+별의모래
+quest_breakthrough_reward_mystery
+수수께끼의 선물
+quest_land_inarow_excellent_plural
+Excellent를 {0}회 연속으로 던진다
+quest_reward_mysterious_pokemon_appeared
+포켓몬이 나타났다!
+quest_reward_encounter_uses_ar
+이 포켓몬은 AR 모드를 사용할 필요가 있습니다.
+quest_reward_start_encounter
+겟 찬스
+quest_reward_encounter_later
+나중에
+pokemon_mythic_info_transfer_to_professor_impossible
+{0}(은)는 1마리만 잡을 수 있는 환상의 포켓몬입니다. 보낼 수 없습니다.
+quests_when_to_collect_next_stamp
+내일도 리서치에 협력해 주세요!
+quests_streak_broken
+연속 실패!
+badge_challenge_quests
+필드리서치를 {0}건 완료한다
+badge_challenge_quests_title
+포켓몬 레인저
+badge_challenge_quests_value_format
+N0
+quests_stamp_date_format
+m
+quests_breakthrough_major_reward_header
+대발견!
+quests_story_major_reward_header
+스페셜리서치 완료!
+pokemon_info_multi_transfer_mythic_pokemon_error
+환상의 포켓몬은 선택할 수 없습니다
+disabled_mythic
+환상의 포켓몬을 체육관에 배치할 수 없습니다
+quests_breakthrough_conversation_1
+필드 리서치 완료! 여러 가지를 발견하고 배운 것 같군!
+quests_breakthrough_conversation_2
+앞으로도 이렇게 부탁해. 그럼... 성과를 확인해 볼까!
+quest_catch_special6_plural
+메리프를 {0} 마리 잡는다
+quests_field_research_task
+필드리서치의 과제
+quests_field_research_task_desc
+이 포켓스톱을 통해 받을 수 있는 리서치는 없습니다
+quests_completed_story_quests_header
+완료
+quest_evolve_type_electric_plural
+전기타입 포켓몬을 {0}마리 진화시킨다
+quest_evolve_type_electric_singular
+전기타입 포켓몬을 1마리 진화시킨다
+quest_evolve_type_flying_plural
+비행타입 포켓몬을 {0}마리 진화시킨다
+quest_evolve_type_flying_singular
+비행타입 포켓몬을 1마리 진화시킨다
+quest_evolve_type_ice_plural
+얼음타입 포켓몬을 {0}마리 지화시킨다
+quest_evolve_type_ice_singular
+얼음타입 포켓몬을 1마리 진화시킨다
+quest_evolve_type_water_plural
+물타입 포켓몬을 {0}마리 진화시킨다
+quest_evolve_type_water_singular
+물타입 포켓몬을 1마리 진화시킨다
+quest_land_nice_electric_plural
+전기타입 포켓몬을 Nice가 나오게 {0}마리 잡는다
+quest_catch_types_rainy_plural
+물, 전기, 벌레 중 한 가지 타입 포켓몬을 {0}마리 잡는다
+quest_catch_types_rainy_singular
+물, 전기, 벌레 중 한 타입 포켓몬을 1마리 잡는다
+quest_catch_types_snowy_plural
+얼음, 강철 중 한 타입 포켓몬을 {0}마리 잡는다
+quest_catch_types_snowy_singular
+얼음, 강철 중 한 타입 포켓몬을 1마리 잡는다
+quest_catch_types_windy_plural
+비행, 드래곤, 에스퍼 중 한 타입 포켓몬을 {0}마리 잡는다
+quest_catch_types_windy_singular
+비행, 드래곤, 에스퍼 중 한 타입 포켓몬을 1마리 잡는다
+quest_catch_special7_plural
+파이리를 {0} 마리 잡는다
+quest_adventure_hatch_egg_plural
+어드벤처위크: 알을 {0} 개 부화시킨다
+quest_adventure_walk_buddy_plural
+어드벤처위크: 파트너와 걸어서 {0} 개 사탕을 받는다
+quest_adventure_visit_pokestop_new_plural
+어드벤처위크: 방문한 적이 없는 포켓스톱 {0} 개 돌린다
+quest_adventure_evolve_singular
+어드벤처위크: 암나이트 또는 투구를 진화시킨다
+quest_evolve_special1_singular
+쏘드라를 진화시킨다
+quest_catch_special8_plural
+애버라스를 {0}마리 잡는다
+quest_waterfestival_win_raid_singular
+워터페스티벌: 레이드배틀에 1회 이긴다
+quest_waterfestival_catch_special9_plural
+워터페스티벌: 잉어킹이나 고래왕자를 {0}마리 잡는다
+quest_waterfestival_catch_type_water_plural
+워터페스티벌: 물타입 포켓몬 {0}마리 잡는다
+quest_waterfestival_catch_feed_plural
+워터페스티벌: 포켓몬을 잡을 때 나무열매를 {0}개 쓴다
+quest_waterfestival_hatch_egg_singular
+워터페스티벌: 알을 1개 부화한다
+quest_waterfestival_evolve_plural
+워터페스티벌: 셀러를 {0}마리 진화시킨다
+quest_gofest_0
+GO Fest: 포켓몬을 {0}마리 잡는다
+quest_gofest_1
+GO Fest: 포켓스톱 {0}개 돌린다
+quest_gofest_2
+GO Fest: 파트너와 걸어서 사탕 1개를 받는다
+quest_gofest_3
+GO Fest: 알을 부화시킨다
+quest_title_gofest
+GO Fest 2018
+quest_title_gofest_0
+GO Fest 2018 (1/5)
+quest_title_gofest_1
+GO Fest 2018 (2/5)
+quest_title_gofest_2
+GO Fest 2018 (3/5)
+quest_title_gofest_3
+GO Fest 2018 (4/5)
+quest_title_gofest_4
+GO Fest 2018 (5/5)
+quest_catch_special9_plural
+안농을 {0}마리 잡는다
+quest_catch_special10_plural
+플러시를 {0} 마리 잡는다
+quest_catch_special11_plural
+마이농을 {0} 마리 잡는다
+quest_special_dialogue_gofest_0_0
+%PLAYERNAME%! 어서 와.
+quest_special_dialogue_gofest_0_1
+포켓몬과 함께 느긋하게 보내려고 했는데 보시는 바와 같이 이 공원이 이상 사태가 되어서 그러고 있을 때가 아니야.
+quest_special_dialogue_gofest_0_2
+원인을 조사하고 해결하는 게 우선이야. 도움을 부탁해.
+quest_special_dialogue_gofest_0_3
+기왕이면 내가 의지하는 엘리트 리서치반에 들어가는 건 어때?
+quest_special_dialogue_gofest_0_4
+먼저 물건을 조달할 겸 여기저기 돌아다녀 봐.
+quest_special_dialogue_gofest_0_5
+{0}, {1}, {2} (을)를 부탁해!
+quest_special_dialogue_gofest_1_0
+이야! 오늘은 온갖 이상 현상이 일어는 것 같군.
+quest_special_dialogue_gofest_1_1
+원인 불명의 현상은 갑자기 나타난 것 같아. 그리고 점점 퍼지고 있어!
+quest_special_dialogue_gofest_1_2
+아무튼 이런 현상이 포켓몬 서식지에 주는 영향은 아주 커.
+quest_special_dialogue_gofest_1_3
+여기저기 혼란스러워하는 포켓몬이 있군.... 영역을 침범당한 것처럼 공격적이야!
+quest_special_dialogue_gofest_1_4
+잡아보고 조금 상황이 개선될지 확인해 보자.
+quest_special_dialogue_gofest_1_5
+불꽃타입, 강철타입, 물타입, 풀타입이, 바위타입, 얼음타입 포켓몬을 각각 필요한 만큼 잡아줘.
+quest_special_dialogue_gofest_2_0
+문제를 일으킨 포켓몬은 힘이 넘쳐났었는지도 몰라. 잡아줘서 고맙군! 너의 좋은 친구가 돼줄 포켓몬이야.
+quest_special_dialogue_gofest_2_1
+하지만 이걸로 문제가 해결된 건 아니야. 이상 상태는 진정되지 않고는 포켓몬들도 안심할 수 없을 거야. 역시 원흉을 찾을 필요가 있네!
+quest_special_dialogue_gofest_2_2
+안농이라 불리는 신기한 포켓몬을 봤는데...
+quest_special_dialogue_gofest_2_3
+이 포켓몬은 고대문자 같은 모양을 하고 있어.... 그래서 뭔가를 전해주려고 하는 걸까?! 숲에 관계한 포켓몬 힘을 빌린다는 건가? 안농을 추적하다 보면 그 포켓몬에게 다다를 게 틀림없어!
+quest_special_dialogue_gofest_2_4
+{0}, {1}, {2}(을)를 해보자!
+quest_special_dialogue_gofest_3_0
+여기에서 세레비를 보게 될 줄은 몰랐어.
+quest_special_dialogue_gofest_3_1
+세레비라면 시간이동을 할 수 있을 거야. 이걸로 틀림없이 문제를 해결할 수 있을 거야.
+quest_special_dialogue_gofest_3_2
+즉, 손을 쓸 수 없게 되기 전 상태로 돌아가서 사태를 수습하자.
+quest_special_dialogue_gofest_3_3
+이론상으로는 가능하지만... 간단한 일은 아니야.
+quest_special_dialogue_gofest_3_4
+플러시와 마이농의 힘을 빌리자.
+quest_special_dialogue_gofest_3_5
+다시 말해 동료를 응원하는 것이 특기인 포켓몬에게 불꽃의 응원수술을 만들어 달라고 해서 그걸 이용하는 거야!
+quest_special_dialogue_gofest_3_6
+불꽃을 한군데로 모아서 세레비에게 힘을 보내자!
+quest_special_dialogue_gofest_3_7
+세레비가 시간이동으로 문제 발생을 막을 수 있도록 해보자!
+quest_special_dialogue_gofest_3_8
+방심하지 마라 %PLAYERNAME%, {0}, {1} (으)로 잘 될 거야!
+quest_special_dialogue_gofest_4_0
+응원 효과가 있어! 서식 환경의 이상은 서서히 없어지고
+quest_special_dialogue_gofest_4_1
+세레비도 문제없이 시간이동을 마친 것 같군! 너희 둘은 이제 깊은 유대감으로 연결되어 있어.
+quest_special_dialogue_gofest_4_2
+1주일 정도 있으면 공원은 원래 상태로 돌아갈 거다. 그나저나 세레비의 신비함이란 정말 대단해!
+quest_special_dialogue_gofest_4_3
+네가 없었다면 성공할 수 없었어. 정말로 고맙게 생각해.
+quest_special_dialogue_gofest_4_4
+언제까지나 기억에 남을 주말이었어!
+quest_catch_special12_plural
+꼬부기를 {0} 마리 잡는다
+quests_claim_story_quest_encounter_first
+아직 잡지 않은 포켓몬이 있습니다!
+quest_catch_special13_plural
+로젤리아를 {0}마리 잡는다
+quest_evolve_type_grass_plural
+풀타입 포켓몬을 {0} 마리 진화시킨다
+quest_evolve_type_grass_singular
+풀타입 포켓몬을 1마리 진화시킨다
+quest_catch_basic_types_plural
+풀, 물, 불꽃 중 한 가지 타입의 포켓몬을 {0}마리 이상 잡는다
+quest_evolve_eevee_types_singular
+전기, 물, 불꽃 중 한 가지 타입의 포켓몬을 1마리 진화시킨다
+quest_evolve_eevee_types_plural
+전기, 물, 불꽃 중 한 가지 타입의 포켓몬을 {0} 마리 진화시킨다
+quest_land_nice_curve_singular
+Nice가 나오게 커브볼을 1회 던진다
+quest_land_nice_curve_plural
+Nice가 나오게 커브볼을 {0} 회 던진다
+quest_catch_special14_singular
+나옹 또는 가디를 잡는다
+quest_evolve_special2_singular
+나옹을 진화시킨다
+quest_catch_special16_singular
+에나비 또는 포챠나를 잡는다
+quest_catch_special17_plural
+이브이를 {0}마리 잡는다

@@ -1,0 +1,4 @@
+catch_a_pokemon_short_title
+¡Captura un Pokémon!
+visit_a_pokestop_short_title
+¡Visita una Poképarada!

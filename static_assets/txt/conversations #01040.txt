@@ -65,7 +65,7 @@ Les Pokémon ont une excellente intuition.
 team_yellow_intro|3
 Je pense que ceci est lié à leur façon d'éclore.
 team_yellow_intro|4
-C’est pour cela que j’étudie des Pokémon que j’ai fait éclore.
+Viens rejoindre mon équipe !
 team_yellow_intro|5
 Tu ne perdras pas si tu suis ton instinct !
 team_blue_intro|1

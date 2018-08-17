@@ -65,7 +65,7 @@ Os Pokémon são criaturas com uma intuição excepcional.
 team_yellow_intro|3
 Acho que o segredo da intuição deles tem a ver com a forma como nascem.
 team_yellow_intro|4
-É por isso que estou pesquisando os Pokémon que chocaram de Ovos.
+Vem fazer parte da minha equipe!
 team_yellow_intro|5
 Você nunca perde quando segue seus instintos!
 team_blue_intro|1

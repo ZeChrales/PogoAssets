@@ -1113,7 +1113,7 @@ Compre um Pokémon GO Plus
 settings_sfida_store_url
 https://www.nintendo.co.jp/pokemongoplus/
 unauthorized_device_lockout_1
-Este dispositivo, sistema operacional ou software não é compatível com <i>Pokémon GO</i>.
+Este dispositivo, sistema operacional ou software não é compatível com <i>Pokémon GO</i>.\n\n<a href="unauthorized_device_help_center_link">Visite o centro de ajuda</a> para obter maiores informações.
 unauthorized_device_lockout
 Este dispositivo, sistema operacional ou software não é compatível com <i>Pokémon GO</i>.
 unauthorized_device_help_center_link
@@ -1595,7 +1595,7 @@ Sua Bolsa está cheia ou você está fora de alcance do local de registro.
 error_weak_network
 Sua conexão de rede está instável no momento. Tente de novo mais tarde.
 badge_apac_partner_july_2018_1
-28 julho 2018
+Japão, 28 de julho de 2018
 badge_apac_partner_july_2018_2
 Japão, 26 de julho de 2018
 badge_apac_partner_july_2018_3
@@ -1614,3 +1614,73 @@ badge_apac_partner_july_2018_4_title
 Fim de semana especial de Pokémon GO, 29 de julho de 2018
 badge_apac_partner_july_2018_5_title
 Fim de semana especial de Pokémon GO, 29 de julho de 2018
+banned_player_lockout_1|a
+Nota de encerramento de conta\n\nA sua conta foi permanentemente encerrada por violar os Termos de serviço.\n\n<a href="three_strike_policy_url">Visite o centro de ajuda</a> para obter maiores informações.
+suspended_player_lockout_1
+Nota de suspensão de conta\n\nA sua conta foi suspensa por violar os Termos de serviço.\n\nEsta é a segunda advertência para a sua conta. Você terá acesso à sua conta em aproximadamente 30 dias. Mais advertências resultarão no encerramento permanente da sua conta.\n\n<a href="three_strike_policy_url">Visite o centro de ajuda</a> para obter maiores informações.
+player_cheating_warning|a
+Nota de aviso\n\nDetectamos atividade na sua conta que indica que está usando um cliente de software modificado ou um software não autorizado de terceiros e isto viola nossos Termos de serviço.\n\nEsta é a sua primeira advertência. Ela irá durar por aproximadamente 7 dias.\n\nEncorajamos que pare de usar estes softwares. Mais advertências resultarão na suspenção da sua conta.\n\n<a href="three_strike_policy_url">Visite o centro de ajuda</a> para obter maiores informações.
+three_strike_policy_url
+https://support.pokemongo.nianticlabs.com/hc/pt-br/articles/360001743487-Pol%C3%ADtica-disciplinar-de-tr%C3%AAs-advert%C3%AAncias
+badge_yokosuka_29_aug_2018_mikasa_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_29_aug_2018_verny_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_29_aug_2018_kurihama_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_30_aug_2018_mikasa_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_30_aug_2018_verny_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_30_aug_2018_kurihama_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_31_aug_2018_mikasa_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_31_aug_2018_verny_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_31_aug_2018_kurihama_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_1_sep_2018_mikasa_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_1_sep_2018_verny_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_1_sep_2018_kurihama_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_2_sep_2018_mikasa_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_2_sep_2018_verny_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_2_sep_2018_kurihama_title
+Zona de Safári de Pokémon GO
+badge_yokosuka_29_aug_2018_mikasa
+Yokosuka, 29 de agosto de 2018 (Mikasa)
+badge_yokosuka_29_aug_2018_verny
+Yokosuka, 29 de agosto de 2018 (Verny)
+badge_yokosuka_29_aug_2018_kurihama
+Yokosuka, 29 de agosto de 2018 (Kurihama)
+badge_yokosuka_30_aug_2018_mikasa
+Yokosuka, 30 de agosto de 2018 (Mikasa)
+badge_yokosuka_30_aug_2018_verny
+Yokosuka, 30 de agosto de 2018 (Verny)
+badge_yokosuka_30_aug_2018_kurihama
+Yokosuka, 30 de agosto de 2018 (Kurihama)
+badge_yokosuka_31_aug_2018_mikasa
+Yokosuka, 31 de agosto de 2018 (Mikasa)
+badge_yokosuka_31_aug_2018_verny
+Yokosuka, 31 de agosto de 2018 (Verny)
+badge_yokosuka_31_aug_2018_kurihama
+Yokosuka, 31 de agosto de 2018 (Kurihama)
+badge_yokosuka_1_sep_2018_mikasa
+Yokosuka, 1º de setembro de 2018 (Mikasa)
+badge_yokosuka_1_sep_2018_verny
+Yokosuka, 1º de setembro de 2018 (Verny)
+badge_yokosuka_1_sep_2018_kurihama
+Yokosuka, 1º de setembro de 2018 (Kurihama)
+badge_yokosuka_2_sep_2018_mikasa
+Yokosuka, 2 de setembro de 2018 (Mikasa)
+badge_yokosuka_2_sep_2018_verny
+Yokosuka, 2 de setembro de 2018 (Verny)
+badge_yokosuka_2_sep_2018_kurihama
+Yokosuka, 2 de setembro de 2018 (Kurihama)
+badge_pokedex_entries_gen4_title
+Sinnoh

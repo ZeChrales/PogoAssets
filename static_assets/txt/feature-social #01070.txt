@@ -536,3 +536,19 @@ pokemon_lucky_info_transfer_to_professor_confirmation
 Veux-tu vraiment transférer ce Pokémon Chanceux ?
 filter_key_lucky
 chanceux
+error_exceeded_nickname_change_limit
+Le nombre maximal de changements de noms est atteint. Réessaye plus tard.
+settings_share_recent_catch_friends
+Partage des infos sur les Pokémon attrapés récemment
+enable_share_recent_pokemon_catch_confirmation
+Partager avec mes amis les infos sur les Pokémon attrapés récemment
+disable_share_recent_pokemon_catch_confirmation
+Ne pas partager avec mes amis les infos sur les Pokémon attrapés récemment
+enable_share_recent_pokemon_catch_description
+Tes amis et toi verront les Pokémon récemment attrapés ou éclos dans votre liste d’amis.
+disable_share_recent_pokemon_catch_description
+Tes amis et toi ne verront pas les Pokémon récemment attrapés ou éclos dans votre liste d’amis.
+now_label
+Now
+friend_wants_to_trade_prompt
+{0} wants to Trade with you.

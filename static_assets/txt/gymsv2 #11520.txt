@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+reciente
+gymbadge_sort_alphabetical
+nombre
+gymbadge_sort_nearby
+cerca
+gymbadge_sort_score
+puntos
+gymbadge_sort_progress
+progreso
+day_abbrev
+d
+hour_abbrev
+h
+minute_abbrev
+m
+second_abbrev
+s
+gymbadge_aboutthisgym
+Acerca de este Gimnasio
+gymbadge_totalgymactivity
+Actividad total del Gimnasio
+gymbadge_statslabel_won
+victorias
+gymbadge_statslabel_defended
+tiempo defendido
+gymbadge_statslabel_fed
+alimentos
+gym_removal_notification_toast
+¡{0} ha luchado duro y ha vuelto!
+pokemon_hungry_notification_toast
+¡{0} necesita alimento!
+pokemon_won_notification_toast
+¡{0} ha defendido el Gimnasio!
+nearby_raid_notification_toast
+¡Incursión cercana a punto de empezar!
+gym_removal_notification_toast|1
+¡{0} vuelve después de un duro combate!
+gym_removal_notification_toast|2
+¡{0} ha quedado fuera del combate del Gimnasio!
+pokemon_hungry_notification_toast|1
+{0} necesita algo de atención...
+pokemon_hungry_notification_toast|2
+¡{0} quiere una baya!
+pokemon_won_notification_toast|1
+¡{0} ha resultado vencedor en combate!
+pokemon_won_notification_toast|2
+¡{0} ha derrotado a tus rivales!
+nearby_raid_notification_toast|1
+¡Hay una incursión a punto de comenzar cerca de ti!
+nearby_raid_notification_toast|2
+¡Una incursión va a comenzar cerca de ti!
+raid_timer_label1
+Esperando a que se unan Entrenadores...
+raid_timer_label2
+Selecciona tus Pokémon...
+raid_members
+Miembros de la incursión
+raid_group_code
+Código de grupo
+raid_howto_button
+Cómo jugar
+raid_join_button
+Unirse
+raid_join_private_button
+Introducir código de grupo
+raid_leave_lobby_prompt
+Si abandonas este grupo, no podrás volver a unirte.\n\n ¿Quieres abandonar este grupo?
+raid_group_code_intro
+Puedes combatir con amigos introduciendo el código de grupo de ese grupo.
+raid_join_private_group_button
+UNIRSE
+raid_create_private_group_button
+Crear grupo
+raid_join_private_lobby_invalid_code
+Este código de grupo no es válido. Introduce un código válido.
+settings_push_notification_header
+Notificaciones de inserción
+settings_low_happiness
+Motivación baja
+settings_pokemon_return
+Regreso del Pokémon
+settings_battle_victory
+Victoria del combate
+raid_already_completed
+Ya has completado esta incursión.
+rare_candy_usage_confirmation
+¿Transformar un Caramelo Raro en un Caramelo {0}?
+item_rare_candy_name
+Caramelo Raro
+item_rare_candy_desc
+Un caramelo misterioso. Cuando se usa en un Pokémon, se convierte en el Caramelo de ese Pokémon.
+item_move_reroll_fast_attack_name
+MT de ataque rápido
+item_move_reroll_fast_attack_desc
+Esta Máquina Técnica enseña a los Pokémon un nuevo ataque rápido.
+item_move_reroll_special_attack_desc
+Esta Máquina Técnica enseña a los Pokémon un nuevo ataque cargado.
+item_move_reroll_special_attack_name
+MT de ataque cargado
+special_move_reroll_confirm_title
+¿Quieres enseñar a {0} un nuevo ataque cargado?
+move_reroll_confirm_desc
+{0} olvidará {1}.
+quick_move_reroll_confirm_title
+¿Quieres enseñar a {0} un nuevo ataque rápido?
+move_reroll_success_message
+¡{0} ha aprendido un nuevo ataque!
+raid_team_contribution
+Contribución por equipo
+raid_lobby_locked
+INCURSIÓN COMPLETA
+raid_timer_label3
+Cuenta atrás para el comienzo de la incursión
+gym_please_buy_raid_ticket
+Puedes comprar un pase de incursión para unirte a la incursión.
+filter_hint1
+Buscar a {0}
+filter_hint2
+Filtrar por nombre/mote
+filter_hint3
+Filtrar por Pokédex, 23-145
+filter_hint4
+Filtrar por {0}, {1}, {2}–{3}
+filter_hint5
+Evolucionar a {0}: \"{1}\"
+filter_hint6
+Evolución de {0}, +{1}
+filter_hint7
+Usa varios filtros usando ","
+filter_hint8
+Filtrar por tipo, {0}, {1}
+shop_battle_tickets_title
+Consigue un pase de incursión.
+item_free_raid_ticket_name
+Pase de incursión
+item_free_raid_ticket_desc
+Pase para unirte a una incursión. Puedes obtener un pase gratis por día en un Gimnasio si no tienes ya uno.
+item_paid_raid_ticket_name
+Pase de incursión premium
+item_paid_raid_ticket_desc
+Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.
+use_raid_ticket_confirmation
+Usa un pase de incursión para unirte a una incursión.
+pokecoins_daily_limit_reached
+Límite diario de {0} Pokémonedas alcanzado.
+received_free_item_title
+Has recibido gratis: ¡{0}!
+gymbadge_timeelapsed
+Tiempo defendiendo
+raid_private_group
+PRIVADO
+raid_remove_private_from_lobby_prompt
+¿Quieres hacer público el grupo?\n\nNo puedes deshacer esta acción.
+raid_message_select_your_pokemon
+¡Selecciona tus Pokémon para el combate!
+raid_battle_retreat_confirmation
+¿Seguro que quieres salir?
+raid_message_get_back_into_battle
+¡Cura a tus Pokémon y vuelve al combate!
+raid_timer_label4
+Cuenta atrás hasta que termine el combate
+team_picker_last_team
+Equipo de combate anterior
+team_picker_title_load
+Cargar equipo de combate
+team_picker_title_save
+Guardar equipo de combate
+team_picker_fainted_pokemon_warning
+Tu equipo actual no puede unirse a la incursión. Cura a tus Pokémon primero.
+battle_intro_battles_won
+Combates ganados: {0}
+team_picker_default_team_name
+Equipo {0}
+team_picker_optimize
+Optimizar
+team_picker_set_team_name
+Elige el nombre del equipo.
+team_picker_team_not_set
+Anular
+gym_feed_pokemon_full
+¡{0} está lleno! Prueba a darles alimento a otros Pokémon.
+gym_feed_pokemon_berry_timeout
+{0} está harto de esa baya.
+gym_feed_pokemon_timeout
+{0} está muy feliz. Prueba a darles alimentos a otros Pokémon.
+avatar_detail_pokemon_caught
+Pokémon atrapados
+avatar_detail_walking_distance
+Distancia caminando
+avatar_detail_battle_won
+Combates ganados
+avatar_detail_total_activities
+Total de actividades
+raid_tut_group_forming_message
+El grupo se organizará automáticamente.
+gym_out_of_range
+¡El Gimnasio está demasiado lejos!
+general_go_to_shop
+IR A LA TIENDA
+general_quit
+SALIR
+raid_tut_group_forming
+FORMACIÓN DE GRUPOS
+raid_tut_how_to_battle_message
+¡Toca la pantalla para atacar al jefe de la incursión! ¡Presiona y mantén pulsado para usar tu ataque cargado cuando el medidor de ataques esté lleno!
+raid_tut_how_to_battle
+¿CÓMO COMBATIR?
+raid_tut_pass_message
+Necesitas un pase de incursión para unirte a la incursión. Puedes obtener uno gratis al día si no tienes ya uno. También puedes conseguir pases de incursión premium en la tienda.
+raid_pass_caps
+PASE DE INCURSIÓN
+raid_tut_what_is_raid_message
+Una incursión es un combate en el que tú y hasta otros 20 Entrenadores trabajáis en equipo para derrotar al jefe de la incursión, un Pokémon extremadamente poderoso. ¡Gana para hacerte con fantásticas recompensas y la oportunidad de atrapar para ti un Pokémon más fuerte de lo usual!
+raid_tut_what_is_raid
+¿QUÉ ES UNA INCURSIÓN?
+raid_enter_group_code
+GRUPO PRIVADO
+raid_public_warning_message
+Si cambias este grupo a público, cualquiera puede unirse y combatir contigo.\n\nUna vez que lo cambias a público, tu grupo ya no puede volver a hacerse privado de nuevo.\n¿Seguro que quieres cambiar el grupo a público?
+raid_change_to_public
+CAMBIAR A PÚBLICO
+raid_share_private_code_message
+Comparte este código de grupo con tus amigos. Pueden unirse a ti usando este código de grupo.
+raid_private_lobby_success_message
+¡Te has unido a un grupo con éxito!
+raid_rejoin_battle
+VOLVER A UNIRSE AL COMBATE
+battle_summary
+RESUMEN
+raid_defeat_boss
+Derrotar al jefe
+raid_damage_bonus
+Daño
+raid_gym_ownership
+Control del Gimnasio
+general_total_caps
+TOTAL
+raid_bonus_challenge
+IR A DESAFÍO DE BONUS
+profile_gymbadges_recently_visited
+Visitados recientemente
+profile_category_gymbadges
+Medallas de Gimnasio
+gym_spinner_team_bonus
+Bonus de equipo
+raid_raid
+Incursión
+raid_level_caps
+NIVEL DE INCURSIÓN
+raid_suggested_group_size
+TAMAÑO DE GRUPO SUGERIDO
+raid_nearby_ongoing
+En curso
+gym_battle_continue_battles_won_stat
+COMBATES GANADOS: {0}
+gym_battle_victory_subtitle
+¡Has derrotado este Gimnasio!
+gym_battle_defeat_body
+¡Todos tus Pokémon se han debilitado!
+gym_battle_defeat_footer
+Inténtalo de nuevo.
+raid
+Incursión
+gym_pokemon_you_fed_not_there
+¡El Pokémon al que intentaste alimentar ya no está ahí!
+raid_try_again
+¡Selecciona nuevos Pokémon, o revive y cura a tus Pokémon actuales, y vuelve a la incursión!
+raid_defeat_message
+¡Todos tus Pokémon se han debilitado!
+general_battle
+COMBATE
+gym_deployment_time_format
+{0} d {1} h {2} m
+free_raid_ticket_details_desc
+Pase para unirte a una incursión. Puedes obtener un pase gratis en Gimnasios una vez al día si no tienes ya uno.\n\nSi quieres participar en más de una incursión al día, puedes comprar pases de incursión en la tienda.
+paid_raid_ticket_details_desc
+Pase de incursión premium para unirte a una incursión. Puedes usar este pase en cualquier momento.\n\nPara obtener más pases, visita la tienda.
+battle_prep_opponents_header
+Rivales
+gym_feed_pokemon_busy
+Vuelve a intentarlo más tarde.
+raid_finding_players
+Encontrando otros jugadores...
+gym_same_team_deploy_lockout
+¡El Gimnasio está siendo atacado! Vuelve a intentarlo más tarde.
+gymbadge_sort_defending
+Defendiendo
+screen_title_badge_collection
+Medallas de Gimnasio
+profile_no_gymbadges
+No tienes ninguna Medalla de Gimnasio.
+free_ticket_bag_full_error
+Tu Bolsa está llena. Haz espacio para un pase de incursión.
+raid_level
+Dificultad
+battle_prep_my_team_header
+Mi equipo
+battle_prep_go
+¡A combatir!
+raids_no_nearby
+No hay incursiones cerca.
+gymbadge_you_earned
+¡Medalla de Gimnasio recibida!
+award_badge_new_badge
+Defiende Gimnasios de tu equipo y ataca los de los rivales para mejorar tus Medallas de Gimnasio.
+gym_feed_raid_active
+El jefe de una incursión ha tomado control del Gimnasio. Inténtalo de nuevo una vez que el jefe se haya ido.
+gym_next_battle
+Combatir
+gym_battle_leave
+Salir
+gym_battle_next
+Siguiente:
+error_no_available_lobbies
+No hay grupos con ese código.
+error_lobby_visibility
+Se ha producido un error durante la presentación de la incursión.
+error_start_raid_battle
+Se ha producido un error al intentar iniciar una incursión.
+error_pokemon_team_update
+Se ha producido un error al intentar actualizar tu equipo de combate.
+error_join_lobby
+Se ha producido un error al intentar unirse a la incursión.
+gym_badge_list_button
+Lista
+raid_defeat_try_again
+¡Selecciona nuevos Pokémon o cura a los que se han debilitado para volver al combate!
+raid_time_out_try_again
+No has derrotado al jefe de la incursión a tiempo. Vuelve a intentarlo.
+item_golden_razz_berry_name
+Baya Frambu dorada
+item_golden_razz_berry_desc
+Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento.
+encounter_raid_pokemon_appeared
+¡Desafío de bonus! ¡Atrapa a {0}!
+raid_need_a_viable_raid_team
+No tienes ningún Pokémon listo para el combate. Por favor, cura a tus Pokémon.
+error_raid_active
+¡El jefe de una incursión ha tomado el control del Gimnasio!
+badges_tut_description
+Visita un Gimnasio y gira el fotodisco para ganar una Medalla de Gimnasio. ¡Desbloquea las recompensas de objetos defendiendo los Gimnasios de tu equipo y atacando los de los rivales!
+profile_gymbadges_help
+Obtén más información sobre las Medallas de Gimnasio.
+gym_tut_title_1
+OBTENER OBJETOS
+gym_tut_title_2
+ASIGNAR POKÉMON
+gym_tut_title_3
+MOTIVACIÓN
+gym_tut_title_4
+DAR BAYAS
+gym_tut_desc_1
+Ahora puedes conseguir objetos en los Gimnasios girando sus fotodiscos.
+gym_tut_desc_2
+Puedes asignar a tus Pokémon para que defiendan un Gimnasio usando el botón para asignar Pokémon en un Gimnasio amistoso. Cuando tus Pokémon sean asignados, verás aparecer su medidor de motivación.
+gym_tut_desc_3
+La motivación de un Pokémon disminuye lentamente con el paso del tiempo y cuando es derrotado en combate. Cuando un Pokémon al que no le queda nada de motivación es derrotado, deja de defender el Gimnasio y vuelve a su Entrenador.
+gym_tut_desc_4
+¡Alimenta con bayas a los Pokémon para que tengan motivación y fuerza en combate!
+no_usable_items_error
+No hay objetos que se puedan usar.
+gym_battle_victory_title
+¡Buen trabajo!
+tm_no_other_moves
+¡No puede aprender otros movimientos!
+disabled_low_stamina
+El Pokémon debe tener los PS al completo.
+disabled_buddy
+El Pokémon compañero no puede ser enviado.
+badge_raid_battle_won
+Incursiones ganadas: {0}
+badge_hours_defended_title
+Líder del Gimnasio
+badge_hours_defended
+Horas defendiendo Gimnasios: {0}
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+Maestro de Bayas
+badge_berries_fed
+Bayas usadas en los Gimnasios: {0}
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+Campeón
+gym_deploy_raid_active
+El jefe de una incursión ha tomado el control del Gimnasio. Vuelve a intentarlo después de que se haya ido.
+error_too_many_deployed
+Desafortunadamente, has alcanzado el límite de Pokémon que puedes asignar a Gimnasios.
+disabled_max_same_defender
+Solo uno de cada Pokémon puede defender un Gimnasio.
+error_fort_is_full
+En este Gimnasio no hay sitio para más Pokémon.
+award_badge_rank_up
+Defiende Gimnasios de tu equipo y ataca los de los equipos rivales para mejorar tus Medallas de Gimnasio.
+raid_not_yet_available
+Lo sentimos, pero las incursiones aún no están disponibles para tu nivel.\nVuelve a intentarlo más tarde.
+raid_private_lobby_created_success_message
+¡Se ha creado un grupo con éxito!
+pokestop_button_read_qr_code
+LEER CÓDIGO QR
+pokestop_button_manual_input
+ENTRADA MANUAL
+pokestop_check_in_manual_entry_title
+INTRODUCIR CÓDIGO DE REGISTRO
+pokestop_check_in_notice
+¡Te damos la bienvenida a {0}!\nUsa la cámara para leer el código QR para registrarte.
+pokestop_check_in_succeeded
+REGISTRO CON ÉXITO
+disabled_max_same_defenders
+Solo uno de cada Pokémon puede defender un Gimnasio.
+gym_closed_exclusive_raid_not_invited
+Este Gimnasio está cerrado por una incursión EX.\nVolverá a abrir a la(s) {0}.
+disabled_legendary
+No se puede dejar en los Gimnasios Pokémon legendarios.
+team_picker_title
+Cargar y guardar equipos de combate
+team_picker_load
+Cargar
+team_picker_save
+Guardar
+battle_prep_create_team
+¡Selecciona tus nuevos Pokémon!
+battle_prep_new_team
+Nuevo equipo de combate
+battle_prep_recommended_team
+Equipo de combate recomendado
+screen_title_pokemon_inventory_party
+EQUIPO
+raid_ticket_event
+Evento
+filter_key_defender
+defensor
+filter_key_legendary
+legendario
+filter_key_shiny
+variocolor
+filter_key_mythical
+singular
+filter_key_alola
+Alola

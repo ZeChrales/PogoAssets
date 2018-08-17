@@ -1,0 +1,572 @@
+quests_quest
+Aufgaben
+quests_list_gui_title
+Forschungsfortschritt
+quests_list_gui_tab_challenges
+Feld
+quests_list_gui_tab_special
+Spezial
+quests_claim_reward
+BELOHNUNG ABHOLEN!
+quests_professor_willow
+Prof. Willow
+quests_mobile_calling
+Anruf
+quests_remove_challenge_prompt
+Diese Feldforschung entfernen?
+quests_remove_challenge_desc
+Du kannst einen PokéStop besuchen, um eine neue zu finden.
+quests_daily_challenge_reset
+Die Karte für Tägliche Herausforderungen wird in <color=cyan>{0}</color> zurückgesetzt.
+quests_new_challenge_received
+Neue Feldforschung!
+quests_get_new_challenge_prompt
+Besuche PokéStops, um mehr Feldforschungen zu finden!
+quests_step_complete
+Aufgabe erledigt!
+quest_pokemon_appears
+Pokémon erscheint!
+quests_claim_field_research_first
+Du musst erst deinen Forschungsdurchbruch abholen!
+quest_breakthrough_completed
+Feldforschung abgeschlossen!
+quests_log_complete_quest
+Abgeschlossene Forschung: {0}
+quests_log_research_breakthrough
+Forschungsdurchbruch erzielt.
+quests_collect_stamps
+Sammle Stempel!
+quests_collect_stamps_message
+Schließe Feldforschungen ab, um Stempel für Belohnungen zu sammeln! Du kannst pro Tag einen Forschungsstempel erhalten.
+quest_battle_gym_plural
+Kämpfe {0}-mal in einer Arena.
+quest_battle_gym_singular
+Kämpfe in einer Arena.
+quest_battle_raid_plural
+Kämpfe in {0} Raids.
+quest_battle_raid_singular
+Kämpfe in einem Raid.
+quest_battle_supereffective_charge_plural
+Setze eine sehr effektive Lade-Attacke in {0} Arenakämpfen ein.
+quest_battle_supereffective_charge_singular
+Setze eine sehr effektive Lade-Attacke in einem Arenakampf ein.
+quest_catch_feed_plural
+Verwende {0} Beeren beim Fangen von Pokémon.
+quest_catch_feed_singular
+Verwende eine Beere beim Fangen eines Pokémon.
+quest_catch_pokemon_plural
+Fange {0} Pokémon.
+quest_catch_pokemon_singular
+Fange ein Pokémon.
+quest_catch_special0_plural
+Fange {0} Ditto.
+quest_catch_special0_singular
+Fange ein Ditto.
+quest_catch_special1_plural
+Fange {0} Myrapla oder Knofensa.
+quest_catch_special1_singular
+Fange ein Myrapla oder Knofensa.
+quest_catch_special2_plural
+Fange {0} Wablu.
+quest_catch_special2_singular
+Fange ein Wablu.
+quest_catch_special3_plural
+Fange {0} Taubsi oder Kramurx.
+quest_catch_special3_singular
+Fange ein Taubsi oder Kramurx.
+quest_catch_special4_plural
+Fange {0} Geckarbor oder Hydropi.
+quest_catch_special4_singular
+Fange ein Geckarbor oder Hydropi.
+quest_catch_special5_plural
+Fange {0} Mauzi oder Eneco.
+quest_catch_special5_singular
+Fange ein Mauzi oder Eneco.
+quest_catch_type_bug_plural
+Fange {0} Pokémon vom Typ Käfer.
+quest_catch_type_bug_singular
+Fange ein Pokémon vom Typ Käfer.
+quest_catch_type_dark_plural
+Fange {0} Pokémon vom Typ Unlicht.
+quest_catch_type_dark_singular
+Fange ein Pokémon vom Typ Unlicht.
+quest_catch_type_dragon_plural
+Fange {0} Pokémon vom Typ Drache.
+quest_catch_type_dragon_singular
+Fange ein Pokémon vom Typ Drache.
+quest_catch_type_electric_plural
+Fange {0} Pokémon vom Typ Elektro.
+quest_catch_type_electric_singular
+Fange ein Pokémon vom Typ Elektro.
+quest_catch_type_fairy_plural
+Fange {0} Pokémon vom Typ Fee.
+quest_catch_type_fairy_singular
+Fange ein Pokémon vom Typ Fee.
+quest_catch_type_fighting_plural
+Fange {0} Pokémon vom Typ Kampf.
+quest_catch_type_fighting_singular
+Fange ein Pokémon vom Typ Kampf.
+quest_catch_type_fire_plural
+Fange {0} Pokémon vom Typ Feuer.
+quest_catch_type_fire_singular
+Fange ein Pokémon vom Typ Feuer.
+quest_catch_type_flying_plural
+Fange {0} Pokémon vom Typ Flug.
+quest_catch_type_flying_singular
+Fange ein Pokémon vom Typ Flug.
+quest_catch_type_ghost_plural
+Fange {0} Pokémon vom Typ Geist.
+quest_catch_type_ghost_singular
+Fange ein Pokémon vom Typ Geist.
+quest_catch_type_grass_plural
+Fange {0} Pokémon vom Typ Pflanze.
+quest_catch_type_grass_singular
+Fange ein Pokémon vom Typ Pflanze.
+quest_catch_type_ground_plural
+Fange {0} Pokémon vom Typ Boden.
+quest_catch_type_ground_singular
+Fange ein Pokémon vom Typ Boden.
+quest_catch_type_ice_plural
+Fange {0} Pokémon vom Typ Eis.
+quest_catch_type_ice_singular
+Fange ein Pokémon vom Typ Eis.
+quest_catch_type_normal_plural
+Fange {0} Pokémon vom Typ Normal.
+quest_catch_type_normal_singular
+Fange ein Pokémon vom Typ Normal.
+quest_catch_type_poison_plural
+Fange {0} Pokémon vom Typ Gift.
+quest_catch_type_poison_singular
+Fange ein Pokémon vom Typ Gift.
+quest_catch_type_psychic_plural
+Fange {0} Pokémon vom Typ Psycho.
+quest_catch_type_psychic_singular
+Fange ein Pokémon vom Typ Psycho.
+quest_catch_type_rock_plural
+Fange {0} Pokémon vom Typ Gestein.
+quest_catch_type_rock_singular
+Fange ein Pokémon vom Typ Gestein.
+quest_catch_type_steel_plural
+Fange {0} Pokémon vom Typ Stahl.
+quest_catch_type_steel_singular
+Fange ein Pokémon vom Typ Stahl.
+quest_catch_type_water_plural
+Fange {0} Pokémon vom Typ Wasser.
+quest_catch_type_water_singular
+Fange ein Pokémon vom Typ Wasser.
+quest_catch_types_sunny_plural
+Fange {0} Pokémon vom Typ Pflanze, Feuer oder Boden.
+quest_catch_types_sunny_singular
+Fange ein Pokémon vom Typ Pflanze, Feuer oder Boden.
+quest_catch_weather_boost_plural
+Fange {0} Pokémon mit Wetterverstärkung.
+quest_catch_weather_boost_singular
+Fange ein Pokémon mit Wetterverstärkung.
+quest_evolve_singular
+Entwickle ein Pokémon.
+quest_evolve_plural
+Entwickle {0} Pokémon.
+quest_evolve_type_fire_plural
+Entwickle {0} Pokémon vom Typ Feuer.
+quest_evolve_type_fire_singular
+Entwickle ein Pokémon vom Typ Feuer.
+quest_hatch_egg_plural
+Brüte {0} Eier aus.
+quest_hatch_egg_singular
+Brüte ein Ei aus.
+quest_land_excellent_plural
+Lande {0} fabelhafte Würfe.
+quest_land_excellent_singular
+Lande einen fabelhaften Wurf.
+quest_land_great_curveball_plural
+Lande {0} großartige Curveball-Würfe.
+quest_land_great_curveball_singular
+Lande einen großartigen Curveball-Wurf.
+quest_land_great_plural
+Lande {0} großartige Würfe.
+quest_land_great_singular
+Lande einen großartigen Wurf.
+quest_land_inarow_curveball_plural
+Lande {0} Curveball-Würfe hintereinander.
+quest_land_inarow_excellent_curveball_plural
+Lande {0} fabelhafte Curveball-Würfe hintereinander.
+quest_land_inarow_great_curveball_plural
+Lande {0} großartige Curveball-Würfe hintereinander.
+quest_land_inarow_great_plural
+Lande {0} großartige Würfe hintereinander.
+quest_land_inarow_nice_curveball_plural
+Lande {0} gute Curveball-Würfe hintereinander.
+quest_land_inarow_nice_plural
+Lande {0} gute Würfe hintereinander.
+quest_land_nice_plural
+Lande {0} gute Würfe.
+quest_land_nice_singular
+Lande einen guten Wurf.
+quest_power_up_plural
+Verwende {0} Power-ups bei Pokémon.
+quest_power_up_singular
+Verwende ein Power-up bei einem Pokémon.
+quest_visit_pokestop_new_plural
+Drehe {0} PokéStops, die du noch nicht besucht hast.
+quest_visit_pokestop_new_singular
+Drehe einen PokéStop, den du noch nicht besucht hast.
+quest_visit_pokestops_plural
+Drehe {0} PokéStops oder Arenen.
+quest_visit_pokestops_singular
+Drehe einen PokéStop.
+quest_win_gym_plural
+Gewinne {0} Arenakämpfe.
+quest_win_gym_singular
+Gewinne einen Arenakampf.
+quest_win_raid_3_singular
+Gewinne einen Level-3-Raid oder höher.
+quest_win_raid_3_plural
+Gewinne {0} Level-3-Raids oder höher.
+quest_win_raid_plural
+Gewinne {0} Raids.
+quest_win_raid_singular
+Gewinne einen Raid.
+quest_reach_level
+Erreiche Level {0}.
+quest_reach_kanto_silver
+Verdiene die Kanto-Silber-Medaille.
+quest_reach_kanto_gold
+Verdiene die Kanto-Gold-Medaille.
+quest_walk_buddy_plural
+Verdiene {0} Bonbons durch Spazieren mit deinem Kumpel.
+quest_walk_buddy_singular
+Verdiene ein Bonbon durch Spazieren mit deinem Kumpel.
+quest_evolve_special0_singular
+Entwickle ein Karpador.
+quest_catch_special_mew
+Fange Mew!
+quest_title_mew
+Eine Mysteriöse Entdeckung
+quest_title_mew_0
+Eine Mysteriöse Entdeckung (1/8)
+quest_title_mew_1
+Eine Mysteriöse Entdeckung (2/8)
+quest_title_mew_2
+Eine Mysteriöse Entdeckung (3/8)
+quest_title_mew_3
+Eine Mysteriöse Entdeckung (4/8)
+quest_title_mew_4
+Eine Mysteriöse Entdeckung (5/8)
+quest_title_mew_5
+Eine Mysteriöse Entdeckung (6/8)
+quest_title_mew_6
+Eine Mysteriöse Entdeckung (7/8)
+quest_title_mew_7
+Eine Mysteriöse Entdeckung (8/8)
+quest_complete_mew
+Eine Mysteriöse Entdeckung
+quest_special_dialogue_mew_0_0
+%PLAYERNAME%, wie geht‘s? Länger nicht gesehen, was? Aus dir ist ein toller Trainer geworden!
+quest_special_dialogue_mew_0_1
+Ich möchte dich um deine Hilfe bitten. Wie du weißt, erforsche ich Pokémon und ihre Lebensräume. Ich habe im Laufe der Jahre viel gelernt, aber vor Kurzem bin ich auf etwas Merkwürdiges gestoßen.
+quest_special_dialogue_mew_0_2
+Könntest du mir vielleicht bei meinen Ermittlungen helfen?
+quest_special_dialogue_mew_0_3
+Wirklich? Das ist großartig!
+quest_special_dialogue_mew_0_4
+Das Wichtigste zuerst, wir sollten meine Instrumente auf dein Gebiet kalibrieren.
+quest_special_dialogue_mew_0_5
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_1_0
+Großartig. Danke, %PLAYERNAME%! Jetzt sollte ich alle ungewöhnlichen Aktivitäten erfassen können.
+quest_special_dialogue_mew_1_1
+Ich glaube, wir sollten nach einem Mysteriösen Pokémon Ausschau halten! Mysteriöse Pokémon sind äußerst selten und mächtig. Viele halten ihre Existenz für ein Gerücht.
+quest_special_dialogue_mew_1_2
+Würdest du mir helfen, meine Geräte in deiner Umgebung einzurichten? Das ist auch eine gute Gelegenheit, deinen Kumpel auf einen Erkundungsgang mitzunehmen und ein paar Eier auszubrüten!
+quest_special_dialogue_mew_1_3
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_2_0
+Unglaublich! Mein Verdacht hat sich bestätigt. Ich glaube, wir haben es mit Mew zu tun!
+quest_special_dialogue_mew_2_1
+Ein Pokémon, das zuerst in einem Dschungel weit im Süden entdeckt wurde und eigentlich als ausgestorben gilt. Viele Experten bezweifeln seine Existenz.%BREAK%Nur wenige Menschen haben es gesehen. Man sagt, dass es sich nur den Menschen zeigt, die reinen Herzens sind und es wirklich sehen wollen.
+quest_special_dialogue_mew_2_2
+Meine Kollegen hier in Kanto, darunter auch mein Lehrer Prof. Eich, sind schon lange mit dem Studium von Mew beschäftigt. Es sieht so aus, als ob unsere Ergebnisse mit ihren übereinstimmen!
+quest_special_dialogue_mew_2_3
+Unsere Forschungen haben ergeben, dass Mew anscheinend alle möglichen Attacken beherrscht. Daher sehen einige von uns in Mew den Vorfahren aller Pokémon!
+quest_special_dialogue_mew_2_4
+Vielleicht erfahren wir mehr, indem wir Pokémon im Kampf beobachten!
+quest_special_dialogue_mew_2_5
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_3_0
+Gute Arbeit, %PLAYERNAME%! Das ist schon mal ein guter Anfang.
+quest_special_dialogue_mew_3_1
+Wusstest du, dass Mew die genetische Zusammensetzung aller Pokémon besitzen soll? Mews Geheimnisse könnten uns helfen, das Rätsel des Wachstums und der Entwicklung von Pokémon zu lösen!
+quest_special_dialogue_mew_3_2
+Wenn wir die Pokémon-Entwicklung genauer untersuchen, können wir vielleicht mehr über Mew lernen!
+quest_special_dialogue_mew_3_3
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_4_0
+Fantastisch. Einfach fantastisch! Ist die Entwicklung nicht wunderbar? Jedes Mal, wenn ich sie beobachte, lerne ich etwas Neues!
+quest_special_dialogue_mew_4_1
+Anhand der Daten, die wir bisher gesammelt haben, sollte es möglich sein, den Standort von Mew zu bestimmen! Sieht aus, als ob ...
+quest_special_dialogue_mew_4_2
+Ja, es sieht so aus, als ob Mew erst vor Kurzem in deiner Nähe war! Hm ... interessant. Wenn das der Fall war, sollte es eigentlich jemand gesichtet haben ...
+quest_special_dialogue_mew_4_3
+Vielleicht versteckt es sich oder hat sich als ein anderes Pokémon getarnt? Wir sollten ein paar Pokémon beobachten, die diese Tricks benutzen, und herausfinden, wie man sie am besten fängt!
+quest_special_dialogue_mew_4_4
+Bitte tu Folgendes:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_5_0
+Danke, %PLAYERNAME%! Dank deiner Hilfe konnte ich ermitteln, dass Mew unsichtbar ist!
+quest_special_dialogue_mew_5_1
+Wenn wir ein paar Daten sammeln, können wir vielleicht ein Gerät bauen, das uns bei der Suche hilft. Ich habe eine Idee ... könntest du für mich einige mächtige Pokémon aus der Nähe beobachten?
+quest_special_dialogue_mew_5_2
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_6_0
+Sehr schön! Mein Prototyp funktioniert hervorragend. Ich habe deine AR-Modus-Kamera aktualisiert, sodass sie jetzt unsichtbare Pokémon sehen kann!
+quest_special_dialogue_mew_6_1
+Der letzte Schritt ist es, Mew hervorzulocken. Man sagt, dass sich Mew nur den Menschen zeigt, die reinen Herzens sind und es wirklich sehen wollen.
+quest_special_dialogue_mew_6_2
+Zeige Mew, was für ein großartiger Trainer du bist und wie sehr wir uns wünschen, es zu sehen!
+quest_special_dialogue_mew_6_3
+Bitte führe folgende Aufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_mew_7_0
+Wir haben Mew gefangen! Fantastisch! Das ist wirklich ein unvergessliches Ereignis.
+quest_special_dialogue_mew_7_1
+Jetzt verstehst du sicherlich, warum ich so gerne Pokémon erforsche! Die ganze Welt wartet darauf, entdeckt zu werden. Viel Spaß dabei!
+quest_special_dialogue_mew_7_2
+Meine Assistenten und ich haben sicherlich demnächst noch weitere Spezial-Forschungsaufgaben für dich. Wir bleiben in Verbindung!
+quest_transfer_pokemon_plural
+Verschicke {0} Pokémon.
+quest_land_excellent_curveball_singular
+Lande einen fabelhaften Curveball-Wurf.
+quest_land_excellent_curveball_plural
+Lande {0} fabelhafte Curveball-Würfe.
+quests_come_back_soon
+Schau bald wieder vorbei!
+quests_come_back_soon_message
+Komm morgen wieder, um dir einen weiteren Forschungsstempel zu verdienen!
+quest_more_reseach_coming_soon
+Mehr Forschungsaufgaben bald erhältlich!
+quest_reward_desc_1
+Sammle Stempel, um bei Prof. Willow Forschungsdurchbrüche freizuschalten.
+quest_reward_desc_2
+Du brauchst noch
+quest_reward_desc_3_plural
+{0} Stempel bis zum Durchbruch!
+quest_reward_desc_3_singular
+{0} Stempel bis zum Durchbruch!
+quest_breakthrough_reward_stardust
+Sternen-\nstaub
+quest_breakthrough_reward_mystery
+Geheime Items
+quest_land_inarow_excellent_plural
+Lande {0} fabelhafte Würfe hintereinander.
+quest_reward_mysterious_pokemon_appeared
+Eine geheimnisvolles Pokémon erscheint!
+quest_reward_encounter_uses_ar
+Dieses Pokémon kann nur im AR-Modus gefangen werden.
+quest_reward_start_encounter
+Begegnung beginnen
+quest_reward_encounter_later
+Später
+pokemon_mythic_info_transfer_to_professor_impossible
+{0} ist ein Mysteriöses Pokémon und kann nicht verschickt werden.
+quests_when_to_collect_next_stamp
+Du kannst morgen einen weiteren Forschungsstempel verdienen!
+quests_streak_broken
+Serie gerissen!
+badge_challenge_quests
+Führe {0} Feldforschungsaufgaben aus.
+badge_challenge_quests_title
+Pokémon Ranger
+badge_challenge_quests_value_format
+N0
+quests_stamp_date_format
+d. MMM.
+quests_breakthrough_major_reward_header
+Durchbruch!
+quests_story_major_reward_header
+Spezialforschung abgeschlossen!
+pokemon_info_multi_transfer_mythic_pokemon_error
+Du kannst keine Mysteriösen Pokémon wählen.
+disabled_mythic
+Mysteriöse Pokémon können keinen Arenen zugewiesen werden.
+quests_breakthrough_conversation_1
+Hallo! Du hast deine Feldforschungsarbeit wirklich gut gemacht. Wir haben viel dazugelernt!
+quests_breakthrough_conversation_2
+Weiter so! Also ... mal sehen, was wir entdeckt haben!
+quest_catch_special6_plural
+Fange {0} Voltilamm
+quests_field_research_task
+FELDFORSCHUNGSAUFGABE
+quests_field_research_task_desc
+Du hast die Feldforschungsaufgabe von diesem PokéStop heute schon erhalten.
+quests_completed_story_quests_header
+ABGESCHLOSSEN
+quest_evolve_type_electric_plural
+Entwickle {0} Pokemon vom Typ Elektro.
+quest_evolve_type_electric_singular
+Entwickle ein Pokémon vom Typ Elektro.
+quest_evolve_type_flying_plural
+Entwickle {0} Pokémon vom Typ Flug.
+quest_evolve_type_flying_singular
+Entwickle ein Pokémon vom Typ Flug.
+quest_evolve_type_ice_plural
+Entwickle {0} Pokémon vom Typ Eis.
+quest_evolve_type_ice_singular
+Entwickle ein Pokémon vom Typ Eis.
+quest_evolve_type_water_plural
+Entwickle {0} Pokémon vom Typ Wasser.
+quest_evolve_type_water_singular
+Entwickle ein Pokémon vom Typ Wasser.
+quest_land_nice_electric_plural
+Fange {0} Elektro-Pokémon mit guten Würfen.
+quest_catch_types_rainy_plural
+Fange {0} Pokémon vom Typ Wasser, Elektro oder Käfer.
+quest_catch_types_rainy_singular
+Fange ein Pokémon vom Typ Wasser, Elektro oder Käfer.
+quest_catch_types_snowy_plural
+Fange {0} Pokémon vom Typ Eis oder Stahl.
+quest_catch_types_snowy_singular
+Fange ein Pokémon vom Typ Eis oder Stahl.
+quest_catch_types_windy_plural
+Fange {0} Pokémon vom Typ Flug, Psycho oder Drache.
+quest_catch_types_windy_singular
+Fange ein Pokémon vom Typ Flug, Psycho oder Drache.
+quest_catch_special7_plural
+Fange {0} Glumanda
+quest_adventure_hatch_egg_plural
+Abenteuerwoche: Brüte {0} Eier aus.
+quest_adventure_walk_buddy_plural
+Abenteuerwoche: Verdiene {0} Bonbons durch Spazieren mit deinem Kumpel.
+quest_adventure_visit_pokestop_new_plural
+Abenteuerwoche: Drehe {0} PokéStops, die du noch nicht besucht hast.
+quest_adventure_evolve_singular
+Abenteuerwoche: Entwickle ein Amonitas oder Kabuto.
+quest_evolve_special1_singular
+Entwickle ein Seeper.
+quest_catch_special8_plural
+Fange {0} Larvitar.
+quest_waterfestival_win_raid_singular
+Wasserfestival: Gewinne einen Raid.
+quest_waterfestival_catch_special9_plural
+Wasserfestival: Fange {0} Karpador oder Wailmer.
+quest_waterfestival_catch_type_water_plural
+Wasserfestival: Fange {0} Pokémon vom Typ Wasser.
+quest_waterfestival_catch_feed_plural
+Wasserfestival: Verwende {0} Beeren beim Fangen von Pokémon.
+quest_waterfestival_hatch_egg_singular
+Wasserfestival: Brüte ein Ei aus.
+quest_waterfestival_evolve_plural
+Wasserfestival: Entwickle {0} Muschas.
+quest_gofest_0
+GO Fest: Fange {0} Pokémon.
+quest_gofest_1
+GO Fest: Besuche {0} PokéStops.
+quest_gofest_2
+GO Fest: Verdiene ein Bonbon durch Spazieren mit deinem Kumpel.
+quest_gofest_3
+GO Fest: Brüte ein Ei aus.
+quest_title_gofest
+GO Fest 2018
+quest_title_gofest_0
+GO Fest 2018 (1/5)
+quest_title_gofest_1
+GO Fest 2018 (2/5)
+quest_title_gofest_2
+GO Fest 2018 (3/5)
+quest_title_gofest_3
+GO Fest 2018 (4/5)
+quest_title_gofest_4
+GO Fest 2018 (5/5)
+quest_catch_special9_plural
+Fange {0} Icognito.
+quest_catch_special10_plural
+Fange {0} Plusle.
+quest_catch_special11_plural
+Fange {0} Minun.
+quest_special_dialogue_gofest_0_0
+%PLAYERNAME%! Wie schön, dass du hier bist.
+quest_special_dialogue_gofest_0_1
+Führe folgende Forschungsaufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_0_2
+Wir müssen herausfinden, was los ist und es geradebiegen. Dabei könnte ich deine Hilfe gebrauchen.
+quest_special_dialogue_gofest_0_3
+Wie wäre es, wenn du Mitglied meines Elite-Forschungsteams wirst?
+quest_special_dialogue_gofest_0_4
+Das Wichtigste zuerst, könntest du dich im Park umsehen und einige Hilfsmittel besorgen?
+quest_special_dialogue_gofest_0_5
+Bitte führe folgende Forschungsaufgaben aus:\n{0}\n{1}\n{2}
+quest_special_dialogue_gofest_1_0
+Potz Blitz! Wie du vielleicht schon bemerkt hast, treten im Park einige ungewöhnliche geologische Phänomene auf!
+quest_special_dialogue_gofest_1_1
+Die Gründe dafür sind mir unbekannt – sie haben ganz plötzlich begonnen ... und scheinen immer stärker zu werden!
+quest_special_dialogue_gofest_1_2
+Unabhängig von der Ursache geraten die Lebensräume hier im Park durch diese Veränderungen ganz schön durcheinander.
+quest_special_dialogue_gofest_1_3
+Die Pokémon vor Ort sind verwirrt ... Sie scheinen aggressiver zu sein und ihre Gebiete heftiger zu verteidigen!
+quest_special_dialogue_gofest_1_4
+Vielleicht können wir die Situation stabilisieren, indem wir ein paar Pokémon fangen.
+quest_special_dialogue_gofest_1_5
+Fange bitte einige Feuer-, Stahl-, Wasser-, Pflanzen-, Gesteins- und Eis-Pokémon!
+quest_special_dialogue_gofest_2_0
+Sieht so aus, als ob einige recht starke Pokémon für die Unruhen verantwortlich waren. Danke, dass du dich um sie gekümmert hast! Ich bin überzeugt, dass sie dir gute Freunde sein werden.
+quest_special_dialogue_gofest_2_1
+Ich bin mir jedoch nicht sicher, ob das gereicht hat. Die seltsamen Lebensräume sind immer noch genauso aktiv wie vorher. Der Park und alle Pokémon hier scheinen besorgt zu sein. Wir müssen der Sache auf den Grund gehen!
+quest_special_dialogue_gofest_2_2
+Ich habe einige merkwürdige Pokémon namens Icognito gesehen, die hier umherschweben ...
+quest_special_dialogue_gofest_2_3
+Dieses Pokémon hat die Form antiker Schriftzeichen ... und ich glaube, sie wollen uns etwas sagen! Ich glaube, sie wollen, dass wir uns an ein mächtiges Pokémon wenden – den Wächter des Waldes? Ich wette, wenn wir den Icognito im Park folgen, werden sie uns zu diesem Pokémon führen!
+quest_special_dialogue_gofest_2_4
+Schnell, %PLAYERNAME%, führe folgende Forschungsaufgaben aus!\n{0}\n{1}
+quest_special_dialogue_gofest_3_0
+Unglaublich! Hätte nie gedacht, dass ich Celebi hier sehen würde.
+quest_special_dialogue_gofest_3_1
+Ich glaube, Celebis Fähigkeit, durch die Zeit zu reisen, ist genau das, was wir brauchen, um die Situation unter Kontrolle zu bekommen.
+quest_special_dialogue_gofest_3_2
+Celebi kann in die Vergangenheit reisen und diese Verzerrungen aufhalten, solange sie noch klein sind!
+quest_special_dialogue_gofest_3_3
+Das ist eine schwierige Aufgabe ... wir müssen Celebi dabei unterstützen!
+quest_special_dialogue_gofest_3_4
+Die Plusle und Minun im Park könnten perfekt sein, um uns zu helfen.
+quest_special_dialogue_gofest_3_5
+Diese Pokémon sind für ihr Teamwork bekannt. Sie feuern ihre Freunde mit Pompons an, die aus Funken bestehen!
+quest_special_dialogue_gofest_3_6
+Wenn wir ein paar fangen, können sie zusammenarbeiten, um Celebi so richtig anzufeuern!
+quest_special_dialogue_gofest_3_7
+Dann kann Celebi seine Kraft konzentrieren, um in die Vergangenheit zu reisen und dieses Problem zu verhindern, bevor es überhaupt anfängt!
+quest_special_dialogue_gofest_3_8
+Schnell, %PLAYERNAME%, führe folgende Forschungsaufgaben aus!\n{0}\n{1}
+quest_special_dialogue_gofest_4_0
+Es hat funktioniert! Die gestörten Lebensräume scheinen langsam wieder normal zu werden.
+quest_special_dialogue_gofest_4_1
+Anscheinend ist Celebi sicher wieder aus der Vergangenheit zurückgekehrt und möchte bei dir bleiben. Sieht aus, als ob ihr euch gut versteht!
+quest_special_dialogue_gofest_4_2
+Ich wette, bis zum nächsten Wochenende ist dieser Park wieder ganz der alte! Celebi ist wirklich ein wundersames Pokémon!
+quest_special_dialogue_gofest_4_3
+Danke für deine Hilfe! Ohne dich hätten wir das nie geschafft.
+quest_special_dialogue_gofest_4_4
+Dieses Wochenende ist schon jetzt ein unvergessliches Erlebnis!
+quest_catch_special12_plural
+Fange {0} Schiggy.
+quests_claim_story_quest_encounter_first
+Du musst erst deine Spezialforschungs-Begegnung abschließen!
+quest_catch_special13_plural
+Fange {0} Roselia.
+quest_evolve_type_grass_plural
+Entwickle {0} Pokémon vom Typ Pflanze.
+quest_evolve_type_grass_singular
+Entwickle ein Pokémon vom Typ Pflanze.
+quest_catch_basic_types_plural
+Fange {0} Pokémon vom Typ Pflanze, Wasser oder Feuer.
+quest_evolve_eevee_types_singular
+Entwickle ein Pokémon vom Typ Elektro, Wasser oder Feuer.
+quest_evolve_eevee_types_plural
+Entwickle {0} Pokémon vom Typ Elektro, Wasser oder Feuer.
+quest_land_nice_curve_singular
+Lande einen guten Curveball-Wurf.
+quest_land_nice_curve_plural
+Lande {0} gute Curveball-Würfe.
+quest_catch_special14_singular
+Fange Mauzi oder Fukano.
+quest_evolve_special2_singular
+Entwickle ein Mauzi.
+quest_catch_special16_singular
+Fange ein Eneco oder Fiffyen.
+quest_catch_special17_plural
+Fange {0} Evoli.

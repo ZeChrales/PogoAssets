@@ -280,12 +280,12 @@ battle_prep_opponents_header
 Adversaires
 gym_feed_pokemon_busy
 Réessaye plus tard.
-gymbadge_sort_defending
-Défense
 raid_finding_players
 Recherche d’autres joueurs
 gym_same_team_deploy_lockout
 L’Arène est attaquée ! Réessaye plus tard.
+gymbadge_sort_defending
+Défense
 screen_title_badge_collection
 Badges d’Arène
 profile_no_gymbadges

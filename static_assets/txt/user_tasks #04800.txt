@@ -1,0 +1,4 @@
+catch_a_pokemon_short_title
+ポケモンをゲットせよ
+visit_a_pokestop_short_title
+ポケストップをめざせ

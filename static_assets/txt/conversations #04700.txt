@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+やぁ、こんにちは。\nわたしはウィロー博士だ。
+onboard_welcome_screen|2
+この世界には、ポケモンと呼ばれる不思議な生き物がすんでいるのは知っているかな？
+onboard_welcome_screen|3
+ポケモンはあちこちにいて、
+onboard_welcome_screen|4
+走り回るもの、空を飛ぶもの、山や森、水辺にすむもの……
+onboard_welcome_screen|5
+わたしは、かれらの生態と分布についての研究をしてるんだ！
+onboard_welcome_screen|6
+きみもわたしの研究を手伝ってくれないか？
+onboard_welcome_screen|7
+ありがたい！ニャースの手も借りたいと思っていたところだ。
+onboard_welcome_screen|8
+きみには世界中を探検し、ポケモンを捕まえて報告してほしい！
+onboard_welcome_screen|9
+さて、どんなスタイルで出かけるのかな？
+first_time_encounter|1
+近くにポケモンがいるぞ！
+first_time_encounter|2
+さっそく、このモンスターボールを使って、1匹捕まえてくれ！
+onboard_caught_pokemon|1
+おめでとう！\n初めてのポケモンを捕まえたようだね。
+onboard_caught_pokemon|2
+きみにはポケモントレーナーの才能があるよ！\nきみのことをなんて呼べばいいかな？
+onboard_change_name|1
+もういちど、別のニックネームを教えてくれないかな？
+onboard_name_registered|1
+いいニックネームだね、よろしくな！
+onboard_name_registered|2
+探検中、モンスターボールや他の道具も必要になると思うが、
+visit_a_pokestop|1
+世界中の記念碑やランドマークなどにあるポケストップで見つけられるから、
+visit_a_pokestop|2
+いろいろな場所を訪ねてみるといい。
+visit_a_pokestop|3
+これから地球のあらゆる場所を探検し、ポケモンを捕まえて、ポケモン図鑑へ記録していって欲しい！
+visit_a_pokestop|4
+さぁ、ポケモンを探す旅へ GO！
+__backup__
+ナイス！{1}タイプのポケモン、{0}を捕まえたようだね。
+first_time_gym_low_level|1
+ここはジム。ポケモンバトルの腕を競う場所だ。
+first_time_gym_low_level|2
+きみはまだポケモントレーナーとしての経験が浅いようだね。
+first_time_gym_low_level|3
+レベル{0}になってからまた来てくれ。
+first_time_gym_team_intro|1
+やぁ！ポケモンをたくさん捕まえて、ポケモントレーナーとしての経験を積んできたようだね。すばらしい！
+first_time_gym_team_intro|2
+きみも、いよいよポケモンバトルへ参加する準備が整ったようだね！
+first_time_gym_team_intro|3
+わたしには3人の、とても優秀な助手がいて……
+first_time_gym_team_intro|4
+かれらは自分のチームを率いて、それぞれ違うテーマでポケモンを研究しているんだ。
+first_time_gym_team_intro|5
+研究の一環としてジムでポケモンバトルを行っている。
+first_time_gym_team_intro|6
+かれらはぜひきみをチームメンバーに迎え入れたいそうだ。
+team_yellow_intro|1
+ヘイ！オレの名前はスパーク、チーム インスティンクトのリーダーだ。
+team_yellow_intro|2
+ポケモンは直感がじつに優れた生き物なんだ。
+team_yellow_intro|3
+オレはポケモンの誕生にその秘密があるんじゃないかと思ってる。
+team_yellow_intro|4
+オレのチームにジョインしなよ！
+team_yellow_intro|5
+直感を信じれば百戦百勝だ！
+team_blue_intro|1
+わたしはブランシェ。チーム ミスティックのリーダー。
+team_blue_intro|2
+ポケモンの知恵は計り知れないほど深い…
+team_blue_intro|3
+そんなかれらが進化する理由、それを研究している。
+team_blue_intro|4
+わたしのチーム？
+team_blue_intro|5
+冷静に分析すれば、負けることなどありえない...
+team_red_intro|1
+わたしはキャンデラ、チーム ヴァーラーのリーダーよ！
+team_red_intro|2
+ポケモンは人間よりも強くて、心が熱いの！
+team_red_intro|3
+わたしはポケモンの強化を研究して、かれらと一緒に真の強さを探求しているわ。
+team_red_intro|4
+このチームの鍛え上げられたポケモンがバトルで最強なのは間違いないわ！
+team_red_intro|5
+準備はいい？
+team_yello_welcom|1
+グッドチョイス！来てくれると思ってたぜ。ポケモンバトルを楽しもうぜ！
+team_blue_welcom|1
+… 当然の選択だ。バトルでは冷静さを忘れるな。
+quickstart_pokestopfar|1
+これがポケストップだ。
+quickstart_pokestopfar|2
+モンスターボールや他の道具をみつけられる場所なんだ。
+quickstart_pokestopnear|1
+ポケストップへ近づくと形が変わるんだ。さあタップしてみよう。
+quickstart_pokestopspin|1
+中心の部分を勢いよくスワイプすると回転して道具が出てくるぞ。
+quickstart_gymmap|1
+これがジムだ。
+quickstart_gymmap|2
+この特別な場所をめぐって、３つのチームがバトルの腕を競っているんだ。
+quickstart_gymbuttons_assign|1
+無所属のジムにポケモンを１匹選んで配置すると、自分のチームのジムにできる。同じ色の仲間チームのジムには、自分のポケモンを１匹選んで配置できるぞ。
+quickstart_gymbuttons_train|1
+仲間チームのジムでトレーニングバトルをすると、名声とレベルを上げられる。
+quickstart_gymbuttons_battle|1
+別チームのジムにバトルを挑めば、名声とレベルを下げられる。
+quickstart_battledodge|1
+バトル中は、左右にスワイプして攻撃をかわすことができる。
+appraise_intro_1|1
+{0}、きみの {1} を分析してあげよう。
+appraise_size_tiny_1|1
+きみの {0} は記録に残っているかぎり、最小のようだ。驚異的。
+appraise_size_small_1|1
+きみの {0} は平均より小さい。
+appraise_size_large_1|1
+きみの {0} は平均より大きい。
+appraise_size_huge_1|1
+{0} の大きさは... 分類できないほどだ。興味深い。
+appraise_stat_low_1|1
+この点において、まあまあと言える。
+appraise_stat_mid_1|1
+この点において、かなりの強さと言えるだろう。
+appraise_stat_high_1|1
+この点において素晴らしい。驚いているよ。
+appraise_stat_best_1|1
+この点において測定できないほど高い。最高だ！
+appraise_overall_low_1|1
+きみの {0} は、全体的になかなか活躍が難しそうだ。
+appraise_overall_mid_1|1
+きみの {0} は、全体的に普通以上。
+appraise_overall_high_1|1
+きみの {0} は、全体的に目を引くものがある。
+appraise_overall_best_1|1
+きみの {0} は、全体的に驚異的で、芸術的だ。
+appraise_outro_1|1
+これでわたしの分析は終了。
+appraise_intro_2|1
+やぁ {0}！きみの {1} を調べてあげましょうか？
+appraise_size_tiny_2|1
+きみの {0} は、とっても小さいね！よく見つけられたわね。
+appraise_size_small_2|1
+小さい {0} だね！可愛いと思うわ。
+appraise_size_large_2|1
+きみの {0} は、わりと大きいほうよね、確かに。
+appraise_size_huge_2|1
+きみの {0} は巨大ね！今までで一番大きいわ。
+appraise_stat_low_2|1
+ここに注目すると、まあまあの強さね。
+appraise_stat_mid_2|1
+ここに注目すると、かなりの強さね。バトルで活躍してくれそう！
+appraise_stat_high_2|1
+ここに注目すると、素晴らしいわ！わくわくする！
+appraise_stat_best_2|1
+ここに注目すると、最高ね！胸が熱くなる！
+appraise_overall_low_2|1
+きみの {0} は、全体的にバトル向きではないけど、わたしは好きよ。
+appraise_overall_mid_2|1
+きみの {0} は、全体的に普通の強さだと思うわ！
+appraise_overall_high_2|1
+きみの {0} は、全体的にとても強い。自慢できるわね！
+appraise_overall_best_2|1
+きみの {0} は、全体的に言うことなしね。とっても頼もしいわ！
+appraise_outro_2|1
+参考になったかな？じゃあ、またね！
+appraise_intro_3|1
+ヘイ！{0}！{1} を見てやろうか？
+appraise_size_tiny_3|1
+なんと！今まで見たなかでいちばん小さい {0} だぜ！
+appraise_size_small_3|1
+きみの {0} は、小さめだね。普通はもう少し大きいぜ。
+appraise_size_large_3|1
+きみの {0} はビッグなポケモンだ！
+appraise_size_huge_3|1
+きみの {0} は... とてつもなく大きいぞ！
+appraise_stat_low_3|1
+まあまあ、といったところかな！
+appraise_stat_mid_3|1
+かなりの強さだぜ！オレが保証する！
+appraise_stat_high_3|1
+素晴らしいぜ！本当にな！
+appraise_stat_best_3|1
+今まで見たなかでも、最高の部類だぜ！
+appraise_overall_low_3|1
+きみの {0} は、全体的にまずまず、といったところだな。
+appraise_overall_mid_3|1
+きみの {0} は、全体的に普通だと思うぜ。
+appraise_overall_high_3|1
+きみの {0} は、全体的にとっても強いぜ！
+appraise_overall_best_3|1
+きみの {0} は、全体的にトップレベルだぜ！
+appraise_outro_3|1
+オレの直感を信じなよ！じゃあな！
+appraise_stat_highest_1|1
+特筆すべきは、{0} の高さ。
+appraise_stat_highest_tie_1|1
+それでいて、{0} も引けを取らない。
+appraise_stat_highest_2|1
+{0} が際立ってるわ。
+appraise_stat_highest_tie_2|1
+あと、 {0} にも驚いているの。
+appraise_stat_highest_3|1
+なんといっても、{0} がスゴイ。
+appraise_stat_highest_tie_3|1
+{0} もスゴイぜ！

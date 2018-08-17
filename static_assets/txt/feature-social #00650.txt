@@ -536,3 +536,19 @@ pokemon_lucky_info_transfer_to_professor_confirmation
 確定要傳送這隻亮晶晶寶可夢嗎？
 filter_key_lucky
 亮晶晶
+error_exceeded_nickname_change_limit
+更改暱稱的次數已達上限。請日後再試。
+settings_share_recent_catch_friends
+和朋友分享最近捉到的寶可夢
+enable_share_recent_pokemon_catch_confirmation
+和朋友分享最近捉到的寶可夢
+disable_share_recent_pokemon_catch_confirmation
+停止和朋友分享最近捉到的寶可夢
+enable_share_recent_pokemon_catch_description
+可以在朋友名單上互相確認最近捕捉或孵化的寶可夢
+disable_share_recent_pokemon_catch_description
+無法在朋友名單上確認彼此最近捕捉或孵化的寶可夢
+now_label
+Now
+friend_wants_to_trade_prompt
+{0} wants to Trade with you.

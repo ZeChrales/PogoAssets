@@ -1,0 +1,210 @@
+onboard_welcome_screen|1
+Hallöchen!\nIch bin Prof. Willow.
+onboard_welcome_screen|2
+Wusstest du, dass diese Welt von Wesen bevölkert wird, die man Pokémon nennt?
+onboard_welcome_screen|3
+Pokémon findet man überall auf dem Globus.
+onboard_welcome_screen|4
+Manche von ihnen leben auf dem Land, andere in der Luft und wieder andere im Wasser ...
+onboard_welcome_screen|5
+Mein ganzes Leben lang habe ich sie und ihre regionale Verbreitung studiert.
+onboard_welcome_screen|6
+Hilfst du mir bei meinen Forschungen?
+onboard_welcome_screen|7
+Fantastisch! Genau nach jemandem wie dir habe ich gesucht!
+onboard_welcome_screen|8
+Deine Aufgabe besteht darin, überall Pokémon zu suchen und zu sammeln!
+onboard_welcome_screen|9
+Wähle jetzt deinen Look für dein Abenteuer aus.
+first_time_encounter|1
+Es befindet sich ein Pokémon in der Nähe!
+first_time_encounter|2
+Hier sind einige Pokébälle, die dir beim Fangen eines Pokémon helfen!
+onboard_caught_pokemon|1
+Glückwunsch!\nDu hast dein erstes Pokémon gefangen!
+onboard_caught_pokemon|2
+Du bist ein begabter Pokémon-Trainer!\nWie soll ich dich nennen?
+onboard_change_name|1
+Hi Trainer! Wie soll ich dich nochmal nennen?
+onboard_name_registered|1
+Ah, ein toller Spitzname!\nFreut mich, dich kennenzulernen!
+onboard_name_registered|2
+Auf deiner Entdeckungsreise benötigst du mehr Pokébälle und andere nützliche Items.
+visit_a_pokestop|1
+Items findest du bei PokéStops.
+visit_a_pokestop|2
+Diese befinden sich an interessanten Orten wie Skulpturen oder Baudenkmälern.
+visit_a_pokestop|3
+Geh jetzt überall auf der Welt auf Entdeckungsreise, um Pokémon zu fangen und sie in deinem Pokédex zu registrieren!
+visit_a_pokestop|4
+Los geht‘s – GO!
+__backup__
+Gut gemacht! Du hast {0} gefangen, ein Pokémon vom Typ {1}!
+first_time_gym_low_level|1
+Dies ist eine Arena. Hier testest du dein Können in Pokémon-Kämpfen.
+first_time_gym_low_level|2
+Du scheinst noch nicht sehr viel Erfahrung als Pokémon-Trainer zu haben.
+first_time_gym_low_level|3
+Komme zurück, wenn du Level {0} erreicht hast!
+first_time_gym_team_intro|1
+Wow! Du hast jede Menge Pokémon gefangen und viel Erfahrung als Pokémon-Trainer gesammelt! Gut gemacht!
+first_time_gym_team_intro|2
+Du bist bereit, an Pokémon-Kämpfen teilzunehmen!
+first_time_gym_team_intro|3
+Ich habe drei hervorragende Assistenten.
+first_time_gym_team_intro|4
+Jeder von ihnen leitet ein Team und hat eine andere Vorgehensweise bei der Erforschung von Pokémon.
+first_time_gym_team_intro|5
+Ein Teil ihrer Forschung besteht in der Ausrichtung von Pokémon-Kämpfen in Arenen.
+first_time_gym_team_intro|6
+Sie freuen sich schon, dich als Teammitglied begrüßen zu dürfen.
+team_yellow_intro|1
+Hey! Ich heiße Spark – ich leite Team Intuition.
+team_yellow_intro|2
+Pokémon sind Wesen mit hervorragender Intuition.
+team_yellow_intro|3
+Ich wette, dass das Geheimnis ihrer Intuition damit zusammenhängt, wie sie ausgebrütet werden.
+team_yellow_intro|4
+Komm und tritt meinem Team bei!
+team_yellow_intro|5
+Du kannst nicht verlieren, wenn du dich auf deine Intuition verlässt!
+team_blue_intro|1
+Ich bin Blanche – ich leite Team Weisheit.
+team_blue_intro|2
+Die Weisheit von Pokémon ist unermesslich.
+team_blue_intro|3
+Ich erforsche, warum sie sich entwickeln.
+team_blue_intro|4
+Mein Team?
+team_blue_intro|5
+Aufgrund unserer besonnenen Analyse jeder Situation sind wir unschlagbar!
+team_red_intro|1
+Ich bin Candela – ich leite Team Wagemut!
+team_red_intro|2
+Pokémon sind stärker als Menschen. Außerdem sind sie sehr warmherzig!
+team_red_intro|3
+Ich erforsche, wie die natürliche Kraft der Pokémon vergrößert werden kann, um wahre Stärke zu erreichen.
+team_red_intro|4
+Es besteht kein Zweifel, dass die von unserem Team trainierten Pokémon die stärksten im Kampf sind!
+team_red_intro|5
+Bist du bereit?
+team_yello_welcom|1
+Eine gute Wahl! Ich wusste, dass du dich uns anschließen würdest! Mache dich auf den Weg und habe viel Spaß bei Pokémon-Kämpfen!
+team_blue_welcom|1
+Die logische Wahl. Bleibe im Kampf ruhig und besonnen.
+quickstart_pokestopfar|1
+Dies ist ein PokéStop.
+quickstart_pokestopfar|2
+Ein Ort in der echten Welt, an dem du Pokébälle und andere Items finden kannst.
+quickstart_pokestopnear|1
+Der PokéStop ändert seine Form, wenn du nah genug dran bist. Tippe drauf, um ihn zu öffnen.
+quickstart_pokestopspin|1
+Drehe die Scheibe, um Items zu erhalten. Zum Einsammeln drauftippen oder drüberstreichen.
+quickstart_gymmap|1
+Dies ist eine Arena.
+quickstart_gymmap|2
+Teams kämpfen um die Kontrolle dieser Standorte.
+quickstart_gymbuttons_assign|1
+Weise eines deiner Pokémon einer leeren Arena zu, um sie für dein Team in Besitz zu nehmen. Stärke eine freundliche Arena, indem du ihr eines deiner Pokémon zuweist, um bei der Verteidigung zu helfen.
+quickstart_gymbuttons_train|1
+Trainiere das Pokémon in einer freundlichen Arena, um das Prestige und den Level der Arena zu erhöhen.
+quickstart_gymbuttons_battle|1
+Fordere eine gegnerische Arena heraus, um deren Prestige und Level zu senken.
+quickstart_battledodge|1
+Streiche im Kampf nach links oder rechts, um Attacken auszuweichen.
+appraise_intro_1|1
+Hallo {0}! Möchtest du, dass ich dein {1} analysiere?
+appraise_size_tiny_1|1
+Dein {0} ist winziger als alle, die wir bisher erfasst haben. Erstaunlich.
+appraise_size_small_1|1
+Dein {0} ist kleiner als normal.
+appraise_size_large_1|1
+Dein {0} ist größer als normal.
+appraise_size_huge_1|1
+Dein {0} ist ... kolossal. Eine statistische Anomalie. Faszinierend!
+appraise_stat_low_1|1
+Seine Werte sind insgesamt ganz okay.
+appraise_stat_mid_1|1
+Seine Werte sind recht beeindruckend.
+appraise_stat_high_1|1
+Ich muss sagen, dass ich von seinen Werten sehr beeindruckt bin.
+appraise_stat_best_1|1
+Seine Werte sind so hoch, dass ich sie gar nicht berechnen kann! Unglaublich!
+appraise_overall_low_1|1
+Dein {0} wird im Kampf insgesamt wahrscheinlich keine großen Fortschritte machen.
+appraise_overall_mid_1|1
+Dein {0} ist insgesamt ein gutes Pokémon.
+appraise_overall_high_1|1
+Dein {0} ist mir insgesamt wirklich aufgefallen.
+appraise_overall_best_1|1
+Dein {0} ist insgesamt einfach erstaunlich. Wirklich ein atemberaubendes Exemplar!
+appraise_outro_1|1
+Meine Analyse ist damit abgeschlossen. Bis dann!
+appraise_intro_2|1
+Hallo {0}! Jetzt wollen wir uns mal dein {1} ansehen, ja?
+appraise_size_tiny_2|1
+Dein {0} ist so winzig, ich hätte es fast übersehen!
+appraise_size_small_2|1
+Och, was für ein kleines {0}! So was von niedlich!
+appraise_size_large_2|1
+Dein {0} ist echt ganz schön groß!
+appraise_size_huge_2|1
+Dein {0} ist gigantisch, das größte, das ich bisher gesehen habe!
+appraise_stat_low_2|1
+Seine Werte werden dir im Kampf nicht viel bringen.
+appraise_stat_mid_2|1
+Seine Werte sind nicht von schlechten Eltern!
+appraise_stat_high_2|1
+Es hat hervorragende Werte! Wie aufregend!
+appraise_stat_best_2|1
+Seine Werte hauen mich um. WOW!
+appraise_overall_low_2|1
+Dein {0} ist zwar insgesamt im Kampf nicht allzu beeindruckend, aber ich mag es trotzdem!
+appraise_overall_mid_2|1
+Dein {0} ist insgesamt ganz gut!
+appraise_overall_high_2|1
+Dein {0} ist insgesamt sehr stark. Du kannst stolz sein!
+appraise_overall_best_2|1
+Von deinem {0} bin ich insgesamt total beeindruckt. Es kann einfach alles!
+appraise_outro_2|1
+Ich hoffe, das hat ein wenig geholfen. Bis demnächst!
+appraise_intro_3|1
+Hey {0}! Soll ich mir dein {1} mal ansehen?
+appraise_size_tiny_3|1
+Hoppla, das ist das winzigste {0}, das ich je gesehen habe!
+appraise_size_small_3|1
+Dein {0} ist ein bisschen klein geraten, meinst du nicht?
+appraise_size_large_3|1
+Dein {0} ist wirklich groß!
+appraise_size_huge_3|1
+Dein {0} ist ... RIESIG!
+appraise_stat_low_3|1
+Seine Werte sind okay.
+appraise_stat_mid_3|1
+Seine Werte können sich sehen lassen!
+appraise_stat_high_3|1
+Seine Werte sind wirklich hoch! Hut ab!
+appraise_stat_best_3|1
+Seine Werte sind die besten, die ich je gesehen habe!
+appraise_overall_low_3|1
+Dein {0} kann sich im Kampf noch verbessern!
+appraise_overall_mid_3|1
+Dein {0} ist insgesamt ganz gut.
+appraise_overall_high_3|1
+Dein {0} ist insgesamt wirklich stark!
+appraise_overall_best_3|1
+Dein {0} kann es im Kampf mit allen aufnehmen!
+appraise_outro_3|1
+So sehe ich das! Tschüss!
+appraise_stat_highest_1|1
+Seine beste Eigenschaft ist offensichtlich sein {0}.
+appraise_stat_highest_tie_1|1
+Sein {0} ist genauso gut!
+appraise_stat_highest_2|1
+Sein {0} ist seine stärkste Eigenschaft.
+appraise_stat_highest_tie_2|1
+Ich bin genauso beeindruckt von seinem {0}.
+appraise_stat_highest_3|1
+Sein {0} ist seine beste Eigenschaft!
+appraise_stat_highest_tie_3|1
+Auch sein {0} ist klasse!

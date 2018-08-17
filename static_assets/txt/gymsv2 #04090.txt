@@ -1,0 +1,444 @@
+gymbadge_sort_recent
+Datum
+gymbadge_sort_alphabetical
+Name
+gymbadge_sort_nearby
+Nähe
+gymbadge_sort_score
+Punkte
+gymbadge_sort_progress
+Fortschritt
+day_abbrev
+T
+hour_abbrev
+Std
+minute_abbrev
+M
+second_abbrev
+S
+gymbadge_aboutthisgym
+Über diese Arena
+gymbadge_totalgymactivity
+Arena-Aktivität
+gymbadge_statslabel_won
+Siege
+gymbadge_statslabel_defended
+Verteidigung
+gymbadge_statslabel_fed
+Snacks
+gym_removal_notification_toast
+{0} hat hart gekämpft und ist zurückgekehrt!
+pokemon_hungry_notification_toast
+{0} braucht einen Snack!
+pokemon_won_notification_toast
+{0} hat die Arena verteidigt!
+nearby_raid_notification_toast
+In der Nähe beginnt bald ein Raid-Kampf!
+gym_removal_notification_toast|1
+{0} ist nach einem harten Kampf zurück!
+gym_removal_notification_toast|2
+{0} wurde aus der Arena gestoßen!
+pokemon_hungry_notification_toast|1
+{0} braucht etwas Aufmerksamkeit ...
+pokemon_hungry_notification_toast|2
+{0} möchte eine Beere!
+pokemon_won_notification_toast|1
+{0} war siegreich im Kampf!
+pokemon_won_notification_toast|2
+{0} hat über deine Gegner triumphiert!
+nearby_raid_notification_toast|1
+In deiner Nähe beginnt bald ein Raid-Kampf!
+nearby_raid_notification_toast|2
+Ein Raid-Kampf findet bald in deiner Nähe statt!
+raid_timer_label1
+Warten auf weitere Trainer ...
+raid_timer_label2
+Wähle deine Pokémon ...
+raid_members
+Raid-Mitglieder
+raid_group_code
+Gruppencode
+raid_howto_button
+Spielanleitung
+raid_join_button
+Teilnehmen
+raid_join_private_button
+Gruppencode eingeben
+raid_leave_lobby_prompt
+Wenn du diese Gruppe verlässt, kannst du nicht wieder eintreten.\n\n Willst du diese Gruppe verlassen?
+raid_group_code_intro
+Du kannst zusammen mit Freunden kämpfen, indem du den Gruppen-Code ihrer Gruppe eingibst.
+raid_join_private_group_button
+TEILNEHMEN
+raid_create_private_group_button
+Gruppe erstellen
+raid_join_private_lobby_invalid_code
+Dieser Gruppencode ist ungültig. Gib einen gültigen Code ein.
+settings_push_notification_header
+Push-Mitteilungen
+settings_low_happiness
+Niedrige Motivation
+settings_pokemon_return
+Pokémon zurückgekehrt
+settings_battle_victory
+Kampf gewonnen
+raid_already_completed
+Du hast bereits an diesem Raid-Kampf teilgenommen.
+rare_candy_usage_confirmation
+Sonderbonbon in ein {0}-Bonbon umwandeln?
+item_rare_candy_name
+Sonderbonbon
+item_rare_candy_desc
+Ein geheimnisvolles Bonbon. Wenn du es bei einem Pokémon einsetzt, wird es zu dem Bonbon des Pokémon.
+item_move_reroll_fast_attack_name
+Sofort-TM
+item_move_reroll_fast_attack_desc
+Diese Technische Maschine bringt dem Pokémon eine neue Sofort-Attacke bei.
+item_move_reroll_special_attack_desc
+Diese Technische Maschine bringt dem Pokémon eine neue Lade-Attacke bei.
+item_move_reroll_special_attack_name
+Lade-TM
+special_move_reroll_confirm_title
+Möchtest du {0} eine neue Lade-Attacke beibringen?
+move_reroll_confirm_desc
+{0} wird {1} vergessen.
+quick_move_reroll_confirm_title
+Möchtest du {0} eine neue Sofort-Attacke beibringen?
+move_reroll_success_message
+{0} hat eine neue Attacke gelernt!
+raid_team_contribution
+Leistung der Teams
+raid_lobby_locked
+RAID VOLL
+raid_timer_label3
+Countdown zum Raid-Kampf-Start
+gym_please_buy_raid_ticket
+Du kannst einen Raid-Pass kaufen, um am Raid-Kampf teilzunehmen.
+filter_hint1
+Suche nach {0}
+filter_hint2
+Filter nach Name/Spitzname
+filter_hint3
+Filter nach Pokédex-Nr.
+filter_hint4
+Nach {0} filtern
+filter_hint5
+{0} kann sich: \„{1}\“
+filter_hint6
+{0}-Entwicklung, z. B. +{1}
+filter_hint7
+Verbinde mehrere Filter mit ,
+filter_hint8
+Filter nach Typ: {0}, {1}
+shop_battle_tickets_title
+Hol dir einen Raid-Pass.
+item_free_raid_ticket_name
+Raid-Pass
+item_free_raid_ticket_desc
+Pass für die Teilnahme an einem Raid-Kampf. Du bekommst pro Tag einen kostenlosen Pass bei einer Arena, wenn du noch keinen hast.
+item_paid_raid_ticket_name
+Premium-Raid-Pass
+item_paid_raid_ticket_desc
+Premium-Raid-Pass für die Teilnahme an einem Raid-Kampf. Du kannst diesen Pass jederzeit verwenden.
+use_raid_ticket_confirmation
+Raid-Pass verwenden, um am Raid-Kampf teilzunehmen
+pokecoins_daily_limit_reached
+PokéMünzen-Tageslimit von {0} erreicht.
+received_free_item_title
+Du hast 1 {0} kostenlos erhalten!
+gymbadge_timeelapsed
+Verteidigungszeit
+raid_private_group
+PRIVAT
+raid_remove_private_from_lobby_prompt
+Möchtest du die Gruppe öffentlich zugänglich machen? \n\nDiese Änderung kann nicht rückgängig gemacht werden.
+raid_message_select_your_pokemon
+Wähle deine Pokémon für den Kampf!
+raid_battle_retreat_confirmation
+Bist du sicher, dass du den Kampf verlassen willst?
+raid_message_get_back_into_battle
+Heile deine Pokémon und kehre zum Kampf zurück!
+raid_timer_label4
+Countdown zum Kampfende
+team_picker_last_team
+Vorheriges Kampfteam
+team_picker_title_load
+Kampfteam laden
+team_picker_title_save
+Kampfteam speichern
+team_picker_fainted_pokemon_warning
+Dein aktuelles Team kann nicht am Kampf teilnehmen. Heile zuerst dein Pokémon.
+battle_intro_battles_won
+{0} gewonnene Kämpfe
+team_picker_default_team_name
+Team {0}
+team_picker_optimize
+Optimieren
+team_picker_set_team_name
+Gib dem Kampfteam einen Namen
+team_picker_team_not_set
+Unklar
+gym_feed_pokemon_full
+{0} ist satt! Versuche, einem anderen Pokémon einen Snack zu geben.
+gym_feed_pokemon_berry_timeout
+{0} mag diese Beere nicht mehr.
+gym_feed_pokemon_timeout
+{0} ist sehr glücklich. Versuche, einem anderen Pokémon einen Snack zu geben.
+avatar_detail_pokemon_caught
+Gefangene Pokémon
+avatar_detail_walking_distance
+Gelaufene Distanz
+avatar_detail_battle_won
+Gewonnene Kämpfe
+avatar_detail_total_activities
+Aktivitätsstatistik
+raid_tut_group_forming_message
+Die Kampfgruppe wird automatisch zusammengestellt.
+gym_out_of_range
+Zu weit von der Arena entfernt!
+general_go_to_shop
+ZUM SHOP
+general_quit
+Verlassen
+raid_tut_group_forming
+GRUPPENBILDUNG
+raid_tut_how_to_battle_message
+Tippe auf den Bildschirm, um den Raid-Boss anzugreifen! Setze deine Lade-Attacke ein, indem du den Bildschirm gedrückt hältst, sobald das Attackenmeter voll ist!
+raid_tut_how_to_battle
+KÄMPFEN
+raid_tut_pass_message
+Du brauchst einen Raid-Pass, um am Kampf teilzunehmen. Du kannst dir pro Tag einen kostenlosen Raid-Pass holen, wenn du noch keinen hast. Du kannst dir auch im Shop Premium-Raid-Pässe holen.
+raid_pass_caps
+RAID-PASS
+raid_tut_what_is_raid_message
+Ein Raid ist ein Kampf, in dem du zusammen mit bis zu 20 anderen Trainern gegen ein äußerst mächtiges Pokémon, den Raid-Boss, kämpfst. Wenn du gewinnst, erhältst du tolle Belohnungen und die Chance, ein eigenes, überdurchschnittlich starkes Pokémon zu fangen!
+raid_tut_what_is_raid
+WAS IST EIN RAID?
+raid_enter_group_code
+PRIVATE GRUPPE
+raid_public_warning_message
+Wenn du diese Gruppe öffentlich zugänglich machst, kann jeder beitreten und mit dir kämpfen.\n\nWenn du sie einmal auf öffentlich stellst, kann die Gruppe nicht mehr auf privat gestellt werden.\nBist du sicher, dass du diese Gruppe öffentlich machen möchtest?
+raid_change_to_public
+AUF ÖFFENTLICH STELLEN
+raid_share_private_code_message
+Gib deinen Freunden diesen Gruppencode. Sie können sich dir anschließen, indem sie diesen Gruppencode eingeben.
+raid_private_lobby_success_message
+Du bist erfolgreich einer Gruppe beigetreten!
+raid_rejoin_battle
+ZURÜCK ZUM KAMPF
+battle_summary
+ZUSAMMENFASSUNG
+raid_defeat_boss
+Boss besiegt
+raid_damage_bonus
+Schaden
+raid_gym_ownership
+Kontrolle der Arena
+general_total_caps
+GESAMT
+raid_bonus_challenge
+BONUS-HERAUSFORDERUNG
+profile_gymbadges_recently_visited
+Zuletzt besucht
+profile_category_gymbadges
+Arenaorden
+gym_spinner_team_bonus
+Teambonus
+raid_raid
+Raid-Kampf
+raid_level_caps
+RAID-LEVEL
+raid_suggested_group_size
+EMPFOHLENE GRUPPENGRÖSSE
+raid_nearby_ongoing
+Raid läuft
+gym_battle_continue_battles_won_stat
+{0} GEWONNENE KÄMPFE
+gym_battle_victory_subtitle
+Du hast diese Arena besiegt!
+gym_battle_defeat_body
+Alle deine Pokémon wurden besiegt!
+gym_battle_defeat_footer
+Versuche es noch mal.
+raid
+Raid
+gym_pokemon_you_fed_not_there
+Das Pokémon, dem du den Snack geben wolltest, ist nicht mehr dort!
+raid_try_again
+Wähle ein neues Pokémon oder belebe und heile dein aktuelles Pokémon und kehre dann zum Kampf zurück!
+raid_defeat_message
+Alle deine Pokémon wurden besiegt.
+general_battle
+KÄMPFEN
+gym_deployment_time_format
+{0} T {1} Std {2} M
+free_raid_ticket_details_desc
+Pass für die Teilnahme an einem Raid-Kampf. Du bekommst pro Tag einen kostenlosen Pass bei einer Arena, wenn du noch keinen hast.\n\nWenn du an einem Tag an mehreren Raids teilnehmen möchtest, kannst du dir im Shop Raid-Pässe kaufen.
+paid_raid_ticket_details_desc
+Premium-Raid-Pass für die Teilnahme an einem Raid-Kampf. Du kannst diesen Pass jederzeit verwenden.\n\nIm Shop bekommst du zusätzliche Pässe.
+battle_prep_opponents_header
+Gegner
+gym_feed_pokemon_busy
+Versuche es später noch mal.
+raid_finding_players
+Suche nach anderen Spielern ...
+gym_same_team_deploy_lockout
+Arena-Angriff läuft! Versuche es später noch mal.
+gymbadge_sort_defending
+Verteidigung
+screen_title_badge_collection
+Arenaorden
+profile_no_gymbadges
+Keine
+free_ticket_bag_full_error
+Dein Beutel ist voll. Mach Platz für einen Raid-Pass.
+raid_level
+Schwierigkeitsgrad
+battle_prep_my_team_header
+Mein Team
+battle_prep_go
+Zum Kampf!
+raids_no_nearby
+Keine Raids in der Nähe.
+gymbadge_you_earned
+Arenaorden erhalten!
+award_badge_new_badge
+Verteidige die Arenen deines Teams und greife gegnerische Arenen an, um deine Arenaorden aufzustufen.
+gym_feed_raid_active
+Ein Raid-Boss hat die Arena übernommen. Versuche es noch mal, sobald der Raid-Boss weg ist.
+gym_next_battle
+Kämpfen
+gym_battle_leave
+Verlassen
+gym_battle_next
+Nächstes:
+error_no_available_lobbies
+Es gibt keine Gruppe mit diesem Code.
+error_lobby_visibility
+Fehler bei Lobby-Sichtbarkeit
+error_start_raid_battle
+Fehler beim Versuch, ein Raid zu starten.
+error_pokemon_team_update
+Fehler beim Versuch, dein Team zu aktualisieren.
+error_join_lobby
+Fehler beim Versuch, dem Raid beizutreten.
+gym_badge_list_button
+Liste
+raid_defeat_try_again
+Wähle neue Pokémon oder belebe und heile die kampfunfähigen Pokémon und kehre zum Kampf zurück!
+raid_time_out_try_again
+Du hast den Raid-Boss nicht rechtzeitig besiegt. Versuche es noch mal.
+item_golden_razz_berry_name
+Goldene Himmihbeere
+item_golden_razz_berry_desc
+Wenn du sie einem Pokémon zum Essen gibst, lässt es sich viel leichter fangen.
+encounter_raid_pokemon_appeared
+Bonus-Herausforderung! Fange {0}!
+raid_need_a_viable_raid_team
+Du hast kein kampfbereites Pokémon. Heile deine Pokémon.
+error_raid_active
+Ein Raid-Boss hat die Kontrolle über die Arena übernommen!
+badges_tut_description
+Besuche eine Arena und drehe die Scheibe, um einen Arenaorden zu erhalten. Schalte Items frei, indem du die Arenen deines Teams verteidigst und gegnerische Arenen angreifst!
+profile_gymbadges_help
+Mehr über Arenaorden
+gym_tut_title_1
+ITEMS
+gym_tut_title_2
+POKÉMON ZUWEISEN
+gym_tut_title_3
+MOTIVATION
+gym_tut_title_4
+BEEREN
+gym_tut_desc_1
+Du kannst von einer Arena Items erhalten, indem du ihre Fotoscheibe drehst.
+gym_tut_desc_2
+Du kannst mit der Schaltfläche „Pokémon zuweisen“ eines deiner Pokémon einer freundlichen Arena zuweisen, um bei der Verteidigung zu helfen. Sobald du dein Pokémon zugewiesen hast, erscheint ein Motivationsmeter.
+gym_tut_desc_3
+Im Laufe der Zeit und bei Niederlagen im Kampf sinkt die Motivation des Pokémon. Wenn ein Pokémon ohne Motivation besiegt wird, hört es auf, die Arena zu verteidigen, und kehrt zu seinem Trainer zurück.
+gym_tut_desc_4
+Gib Pokémon Beeren zum Essen, um ihre Motivation und Kampfkraft hoch zu halten!
+no_usable_items_error
+Keine einsetzbaren Items
+gym_battle_victory_title
+Gute Arbeit!
+tm_no_other_moves
+Kann keine anderen Attacken lernen!
+disabled_low_stamina
+Das Pokémon muss volle KP haben.
+disabled_buddy
+Dein Kumpel-Pokémon kann nicht eingesetzt werden.
+badge_raid_battle_won
+Gewinne {0} Raids.
+badge_hours_defended_title
+Arenaleiter
+badge_hours_defended
+Verteidige Arenen für {0} Stunden.
+badge_hours_defended_value_format
+N0
+badge_berries_fed_title
+Beerenmeister
+badge_berries_fed
+Verteile in Arenen {0} Beeren.
+badge_berries_fed_value_format
+N0
+badge_raid_battle_won_value_format
+N0
+badge_raid_battle_won_title
+Champion
+gym_deploy_raid_active
+Ein Raid-Boss hat die Arena übernommen. Versuche es noch mal, sobald der Raid-Boss weg ist.
+error_too_many_deployed
+Du hast die maximale Anzahl von Pokémon Arenen zugewiesen!
+disabled_max_same_defender
+Nur jeweils ein Pokémon jeder Art kann einer Arena zur Verteidigung zugewiesen werden.
+error_fort_is_full
+Diese Arena hat keinen Platz für zusätzliche Pokémon frei.
+award_badge_rank_up
+Verteidige freundliche Arenen und greife gegnerische Arenen an, um deine Arenaorden aufzustufen.
+raid_not_yet_available
+Raids sind für dein Level leider noch nicht verfügbar.\nVersuche es später noch mal.
+raid_private_lobby_created_success_message
+Du hast erfolgreich eine Gruppe erstellt!
+pokestop_button_read_qr_code
+QR Code einlesen
+pokestop_button_manual_input
+Manuelle Eingabe
+pokestop_check_in_manual_entry_title
+Registrierungscode eingeben
+pokestop_check_in_notice
+Willkommen bei {0}!\nVerwende die Kamera, um den QR Code einzulesen und dich einzuchecken.
+pokestop_check_in_succeeded
+Check-in erfolgreich
+disabled_max_same_defenders
+Nur jeweils ein Pokémon jeder Art kann einer Arena zur Verteidigung zugewiesen werden.
+gym_closed_exclusive_raid_not_invited
+Diese Arena ist für einen EX-Raid geschlossen.\nSie öffnet um {0} wieder.
+disabled_legendary
+Legendäre Pokémon können keinen Arenen zugewiesen werden.
+team_picker_title
+Kampfteams laden und speichern
+team_picker_load
+Laden
+team_picker_save
+Speichern
+battle_prep_create_team
+Wähle dein neues Pokémon aus!
+battle_prep_new_team
+Neues Team
+battle_prep_recommended_team
+Empfohlenes Kampfteam
+screen_title_pokemon_inventory_party
+Kampfteam
+raid_ticket_event
+Event
+filter_key_defender
+Verteidiger
+filter_key_legendary
+Legendär
+filter_key_shiny
+Schillernd
+filter_key_mythical
+Mysteriös
+filter_key_alola
+Alola

@@ -1,0 +1,476 @@
+move_name_0001
+Impactrueno
+move_name_0002
+Ataque Rápido
+move_name_0003
+Arañazo
+move_name_0004
+Ascuas
+move_name_0005
+Látigo Cepa
+move_name_0006
+Placaje
+move_name_0007
+Hoja Afilada
+move_name_0008
+Derribo
+move_name_0009
+Pistola Agua
+move_name_0010
+Mordisco
+move_name_0011
+Destructor
+move_name_0012
+Doble Bofetón
+move_name_0013
+Constricción
+move_name_0014
+Hiperrayo
+move_name_0015
+Lengüetazo
+move_name_0016
+Pulso Umbrío
+move_name_0017
+Polución
+move_name_0018
+Residuos
+move_name_0019
+Garra Metal
+move_name_0020
+Agarre
+move_name_0021
+Rueda Fuego
+move_name_0022
+Megacuerno
+move_name_0023
+Ataque Ala
+move_name_0024
+Lanzallamas
+move_name_0025
+Golpe Bajo
+move_name_0026
+Excavar
+move_name_0027
+Patada Baja
+move_name_0028
+Tajo Cruzado
+move_name_0029
+Psicocorte
+move_name_0030
+Psicorrayo
+move_name_0031
+Terremoto
+move_name_0032
+Roca Afilada
+move_name_0033
+Puño Hielo
+move_name_0034
+Arrumaco
+move_name_0035
+Chispazo
+move_name_0036
+Foco Resplandor
+move_name_0037
+Picotazo
+move_name_0038
+Pico Taladro
+move_name_0039
+Rayo Hielo
+move_name_0040
+Ventisca
+move_name_0041
+Tajo Aéreo
+move_name_0042
+Onda Ígnea
+move_name_0043
+Doble Ataque
+move_name_0044
+Puya Nociva
+move_name_0045
+Golpe Aéreo
+move_name_0046
+Taladradora
+move_name_0047
+Tormenta Floral
+move_name_0048
+Megaagotar
+move_name_0049
+Zumbido
+move_name_0050
+Colmillo Veneno
+move_name_0051
+Tajo Umbrío
+move_name_0052
+Cuchillada
+move_name_0053
+Rayo Burbuja
+move_name_0054
+Sumisión
+move_name_0055
+Golpe Kárate
+move_name_0056
+Puntapié
+move_name_0057
+Acua Jet
+move_name_0058
+Acua Cola
+move_name_0059
+Bomba Germen
+move_name_0060
+Psicocarga
+move_name_0061
+Lanzarrocas
+move_name_0062
+Poder Pasado
+move_name_0063
+Tumba Rocas
+move_name_0064
+Avalancha
+move_name_0065
+Joya de Luz
+move_name_0066
+Sombra Vil
+move_name_0067
+Puño Sombra
+move_name_0068
+Garra Umbría
+move_name_0069
+Viento Aciago
+move_name_0070
+Bola Sombra
+move_name_0071
+Puño Bala
+move_name_0072
+Bomba Imán
+move_name_0073
+Ala de Acero
+move_name_0074
+Cabeza de Hierro
+move_name_0075
+Carga Parábola
+move_name_0076
+Chispa
+move_name_0077
+Puño Trueno
+move_name_0078
+Trueno
+move_name_0079
+Rayo
+move_name_0080
+Ciclón
+move_name_0081
+Dragoaliento
+move_name_0082
+Pulso Dragón
+move_name_0083
+Garra Dragón
+move_name_0084
+Voz Cautivadora
+move_name_0085
+Beso Drenaje
+move_name_0086
+Brillo Mágico
+move_name_0087
+Anillo Ígneo
+move_name_0088
+Carantoña
+move_name_0089
+Veneno X
+move_name_0090
+Bomba Lodo
+move_name_0091
+Onda Tóxica
+move_name_0092
+Lanza Mugre
+move_name_0093
+Disparo Lodo
+move_name_0094
+Hueso Palo
+move_name_0095
+Terratemblor
+move_name_0096
+Bomba Fango
+move_name_0097
+Corte Furia
+move_name_0098
+Picadura
+move_name_0099
+Doble Rayo
+move_name_0100
+Tijera X
+move_name_0101
+Nitrocarga
+move_name_0102
+Pirotecnia
+move_name_0103
+Llamarada
+move_name_0104
+Salmuera
+move_name_0105
+Hidropulso
+move_name_0106
+Escaldar
+move_name_0107
+Hidrobomba
+move_name_0108
+Psíquico
+move_name_0109
+Onda Mental
+move_name_0110
+Canto Helado
+move_name_0111
+Viento Hielo
+move_name_0112
+Vaho Gélido
+move_name_0113
+Absorber
+move_name_0114
+Gigadrenado
+move_name_0115
+Puño Fuego
+move_name_0116
+Rayo Solar
+move_name_0117
+Hoja Aguda
+move_name_0118
+Latigazo
+move_name_0119
+Salpicadura
+move_name_0120
+Ácido
+move_name_0121
+Aire Afilado
+move_name_0122
+Vendaval
+move_name_0123
+Demolición
+move_name_0124
+Corte
+move_name_0125
+Rapidez
+move_name_0126
+Cornada
+move_name_0127
+Pisotón
+move_name_0128
+Golpe Cabeza
+move_name_0129
+Hipercolmillo
+move_name_0130
+Atizar
+move_name_0131
+Golpe Cuerpo
+move_name_0132
+Descanso
+move_name_0133
+Combate
+move_name_0134
+Escaldar
+move_name_0135
+Hidrobomba
+move_name_0136
+Constricción
+move_name_0137
+Constricción
+move_name_0200
+Corte Furia
+move_name_0201
+Picadura
+move_name_0202
+Mordisco
+move_name_0203
+Golpe Bajo
+move_name_0204
+Dragoaliento
+move_name_0205
+Impactrueno
+move_name_0206
+Chispa
+move_name_0207
+Patada Baja
+move_name_0208
+Golpe Kárate
+move_name_0209
+Ascuas
+move_name_0210
+Ataque Ala
+move_name_0211
+Picotazo
+move_name_0212
+Lengüetazo
+move_name_0213
+Garra Umbría
+move_name_0214
+Látigo Cepa
+move_name_0215
+Hoja Afilada
+move_name_0216
+Disparo Lodo
+move_name_0217
+Canto Helado
+move_name_0218
+Vaho Gélido
+move_name_0219
+Ataque Rápido
+move_name_0220
+Arañazo
+move_name_0221
+Placaje
+move_name_0222
+Destructor
+move_name_0223
+Corte
+move_name_0224
+Puya Nociva
+move_name_0225
+Ácido
+move_name_0226
+Psicocorte
+move_name_0227
+Lanzarrocas
+move_name_0228
+Garra Metal
+move_name_0229
+Puño Bala
+move_name_0230
+Pistola Agua
+move_name_0231
+Salpicadura
+move_name_0232
+Pistola Agua
+move_name_0233
+Bofetón Lodo
+move_name_0234
+Cabezazo Zen
+move_name_0235
+Confusión
+move_name_0236
+Picotazo Veneno
+move_name_0237
+Burbuja
+move_name_0238
+Finta
+move_name_0239
+Ala de Acero
+move_name_0240
+Colmillo Ígneo
+move_name_0241
+Golpe Roca
+move_name_0242
+Transformación
+move_name_0243
+Contraataque
+move_name_0244
+Nieve Polvo
+move_name_0245
+A Bocajarro
+move_name_0246
+Puño Dinámico
+move_name_0247
+Onda Certera
+move_name_0248
+Rayo Aurora
+move_name_0249
+Rayo Carga
+move_name_0250
+Voltiocambio
+move_name_0251
+Voltio Cruel
+move_name_0252
+Electrocañón
+move_name_0253
+Cola Dragón
+move_name_0254
+Alud
+move_name_0255
+Tajo Aéreo
+move_name_0256
+Pájaro Osado
+move_name_0257
+Ataque Aéreo
+move_name_0258
+Bucle Arena
+move_name_0259
+Pedrada
+move_name_0260
+Acoso
+move_name_0261
+Estoicismo
+move_name_0262
+Viento Plata
+move_name_0263
+Impresionar
+move_name_0264
+Infortunio
+move_name_0265
+Tinieblas
+move_name_0266
+Cola Férrea
+move_name_0267
+Giro Bola
+move_name_0268
+Cuerpo Pesado
+move_name_0269
+Giro Fuego
+move_name_0270
+Sofoco
+move_name_0271
+Recurrente
+move_name_0272
+Hierba Lazo
+move_name_0273
+Energibola
+move_name_0274
+Paranormal
+move_name_0275
+Premonición
+move_name_0276
+Manto Espejo
+move_name_0277
+Enfado
+move_name_0278
+Alarido
+move_name_0279
+Triturar
+move_name_0280
+Juego Sucio
+move_name_0281
+Poder Oculto
+move_name_0287
+Bostezo
+move_name_0282
+Derribo
+move_name_0285
+Cometa Draco
+move_name_0283
+Cascada
+move_name_0284
+Surf
+move_name_0288
+Psicoataque
+move_name_0286
+Deseo Oculto
+move_name_0290
+Filo del Abismo
+move_name_0289
+Pulso Primigenio
+move_name_0291
+Presente
+move_name_0292
+Meteorobola
+move_name_0293
+Meteorobola
+move_name_0294
+Meteorobola
+move_name_0295
+Meteorobola
+move_name_0296
+Planta Feroz
+move_name_0298
+Anillo Ígneo
+move_name_0297
+Antiaéreo
+move_name_0299
+Hidrocañón
+move_name_0300
+Última Baza

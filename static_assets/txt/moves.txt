@@ -472,3 +472,5 @@ move_name_0297
 Derrubada
 move_name_0299
 Hidro Canhão
+move_name_0300
+Último Recurso

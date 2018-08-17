@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+あと{0} km一緒に歩いてみよう
+weather_weather
+天候
+weather_clear
+晴天
+weather_rainy
+雨
+weather_partly_cloudy
+ときどき曇り
+weather_overcast
+曇り
+weather_windy
+強風
+weather_snow
+雪
+weather_fog
+霧
+weather_boosted_types
+ブーストされるタイプ
+weather_boosted_types_desciption
+これらのタイプのポケモンはいつもより見つかりやすくなり、バトルでは強くなります。捕まえると、ほしのすなが多くもらえます。
+weather_extreme
+荒天
+weather_extreme_description
+荒天下での活動に際しては、お住まいの地域の各種注意報・警報をご確認のうえ、\n 特に注意を払ってください！
+weather_alert_warning
+お住まいの地域の各種警報・注意報をご確認ください
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+{0} を相棒にしてみよう！
+weather_sunny
+晴天
+weather_boost_active_1
+{0}の {1} がブーストされます！
+weather_boost_active_2
+{0}の {1} と {2} がブーストされます
+weather_alert_safety_button
+確認しました
+weather_careful_description
+荒天下での活動に際しては、お住まいの地域の各種注意報・警報をご確認のうえ、特に注意を払ってください！
+weather_careful
+先ず安全を確認！
+form_normal
+ポワルンのすがた
+form_sun
+たいようのすがた
+form_rain
+あまみずのすがた
+form_snow
+ゆきぐものすがた
+form_defense
+ディフェンスフォルム
+form_attack
+アタックフォルム
+form_speed
+スピードフォルム
+form_deoxys_normal
+ノーマルフォルム
+general_send
+送信
+general_report_title
+フィードバック
+weather_report_option_1
+天候が正確に反映されていません
+weather_report_option_2
+天候は正確ですが、最新の状況を反映していません

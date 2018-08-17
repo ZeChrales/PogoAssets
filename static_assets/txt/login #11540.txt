@@ -1,0 +1,74 @@
+existing_player_label
+¿Jugador que regresa?
+existing_player_button
+Iniciar sesión
+new_player_label
+¿Jugador nuevo?
+new_player_button
+Crear una cuenta
+existing_account_screen
+Inicia sesión con
+new_account_screen
+Crear una cuenta con
+non_existent_account
+No se puede iniciar sesión. Asegúrate de que esta cuenta de Pokémon GO existe y de que has seleccionado correctamente qué tipo de jugador eres, nuevo o que regresa.
+settings_account_header
+CUENTA
+settings_account_linked
+VINCULADO
+settings_account_not_linked
+NO VINCULADO
+settings_account_link_tip
+Consejo: ¡Puedes iniciar sesión en tu juego a través de cualquier cuenta vinculada!
+unlink_account_confirm
+<size=36><b>¿Desvincular esta cuenta?</b></size>\n\nEs posible que pierdas el acceso a las funciones sociales y a las opciones de inicio de sesión.
+unlink_account_failed_active_session
+<size=36><b>¡No se puede desvincular esta cuenta!</b></size>\n\nEsta cuenta está vinculada a tu sesión de juego activa.
+link_account_failed
+No se puede vincular a esta cuenta.
+unlink_account_failed
+No se puede desvincular de esta cuenta.
+link_account_failed_auth
+<size=36><b>{0} Error</b></size>\n\nNo se puede vincular esta cuenta.
+link_account_failed_taken
+<size=36><b>Cuenta existente</b></size>\n\nEsta cuenta ya está vinculada a un jugador.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic Kids
+sa_login_title
+Niantic Kids
+login_create_player
+Crear cuenta con:
+login_sign_in
+Iniciar sesión con:
+login_username_short
+Nombre de usuario
+login_password_short
+Contraseña
+ptc_login_title_short
+Club de Entrenadores
+login_create_account
+Crear una aquí
+ptc_account_creation_prompt
+¿No tienes una cuenta del Club de Entrenadores Pokémon?
+sa_account_creation_prompt
+¿No tienes una cuenta de Niantic Kids?
+ptc_login_server_unreachable
+El Club de Entrenadores Pokémon no está disponible en estos momentos. Sentimos las molestias.
+sa_login_server_unreachable
+Niantic Kids no está disponible en estos momentos. Sentimos las molestias.
+sa_auth_failed_permissions
+Para poder jugar, haz que uno de tus padres o tutores inicie sesión en su cuenta de Niantic Kids y autorice tu cuenta.
+sa_auth_failed
+No se puede autenticar. Vuelve a intentarlo.
+sa_parent_dashboard_url
+https://parents.nianticlabs.com/es/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/es/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/es/password/forgot
+unlink_account_failed_login_not_removable
+<size=36><b>¡No se puede desvincular esta cuenta!</b></size>\n\nPuede que la hayas vinculado con otros productos de Niantic. Por favor, establece otro método de inicio de sesión para poder desvincular esta cuenta.

@@ -472,3 +472,5 @@ move_name_0297
 Smack Down
 move_name_0299
 Hydro Cannon
+move_name_0300
+Last Resort

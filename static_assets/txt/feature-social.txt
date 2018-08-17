@@ -131,9 +131,9 @@ Vamos começar uma amizade no Pokémon GO! Meu código de Treinador é {0}!
 friendship_milestone_notification_toast
 Você e {0} têm agora uma bela amizade!
 friendship_detail_unlock_reqs_singular
-Se continuarem jogando juntos por mais {0} dia, poderão ter uma {1}!
+Joguem juntos por mais {0} dia para ter uma {1}!
 friendship_detail_unlock_reqs_plural
-Se continuarem jogando juntos por mais {0} dias, poderão ter uma {1}!
+Joguem juntos por mais {0} dia para ter uma {1}!
 friendship_detail_capabilities
 O que pode fazer
 friendship_detail_just_friends
@@ -536,3 +536,19 @@ pokemon_lucky_info_transfer_to_professor_confirmation
 Quer mesmo transferir este Pokémon sortudo?
 filter_key_lucky
 sortudo
+error_exceeded_nickname_change_limit
+Você alcançou o número máximo de trocas de apelidos. Tente de novo mais tarde.
+settings_share_recent_catch_friends
+Compartilhe informação com seus amigos sobre os Pokémon que pegou recentemente.
+enable_share_recent_pokemon_catch_confirmation
+Ativar compartilhamento de informação sobre Pokémon recentemente pegos com seus amigos.
+disable_share_recent_pokemon_catch_confirmation
+Desativar compartilhamento de informação sobre Pokémon recentemente pegos com seus amigos.
+enable_share_recent_pokemon_catch_description
+Você e os seus amigos poderão ver os Pokémon recentemente pegos ou chocados de um Ovo um do outro na lista de amigos.
+disable_share_recent_pokemon_catch_description
+Você e os seus amigos não poderão ver os Pokémon recentemente pegos ou chocados de um Ovo um do outro na lista de amigos.
+now_label
+Now
+friend_wants_to_trade_prompt
+{0} wants to Trade with you.

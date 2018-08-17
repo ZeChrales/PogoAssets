@@ -1,0 +1,74 @@
+existing_player_label
+再ログインしますか？
+existing_player_button
+サインイン
+new_player_label
+新規のプレイヤーですか？
+new_player_button
+アカウント作成
+existing_account_screen
+使用するアカウント
+new_account_screen
+新規作成するアカウント
+non_existent_account
+ログインできません。アカウント情報をご確認ください。
+settings_account_header
+アカウント
+settings_account_linked
+連携済み
+settings_account_not_linked
+未連携
+settings_account_link_tip
+SNSアカウント情報を使用してログインできます
+unlink_account_confirm
+<size=36>アカウント連携を解除しますか？</size>\n\nソーシャル機能が使えなくなったり、ログイン情報にアクセスできなくなる可能性があります
+unlink_account_failed_active_session
+<size=36>現在進行中のゲームセッションがあるため</size>\n\nアカウント連携を解除することができません
+link_account_failed
+このアカウントとの連携はできませんでした
+unlink_account_failed
+アカウント連携を解除できませんでした
+link_account_failed_auth
+<size=36>{0}エラー</size>\n\nこのアカウントとの連携はできませんでした。
+link_account_failed_taken
+<size=36>アカウントはすでに存在します</size>\ n \ nこのアカウントは既存アカウントとの連携に使用されています。
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic Kids
+sa_login_title
+Niantic Kids
+login_create_player
+アカウント作成
+login_sign_in
+使用アカウント:
+login_username_short
+ユーザー名
+login_password_short
+パスワード
+ptc_login_title_short
+トレーナークラブ
+login_create_account
+新規作成
+ptc_account_creation_prompt
+ポケモントレーナークラブのアカウントを持っていませんか？
+sa_account_creation_prompt
+Niantic Kids アカウントを持っていませんか？
+ptc_login_server_unreachable
+ポケモントレーナークラブは現在ご利用いただけません。ご迷惑をおかけし申し訳ございません。
+sa_login_server_unreachable
+Niantic Kids は現在ご利用いただけません。ご迷惑をおかけし申し訳ございません。
+sa_auth_failed_permissions
+保護者の方に、Niantic Kidsアカウントにログインしていただき、ジュニアアカウント使用許可をもらうと、このゲームを遊ぶことができるようになります
+sa_auth_failed
+認証できませんでした。もう一度やり直してください。
+sa_parent_dashboard_url
+https://parents.nianticlabs.com/ja/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/ja/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/ja/password/forgot
+unlink_account_failed_login_not_removable
+<size=36>このアカウントとの連携を解除することはできません！</size>\n\n解除する前に、他のログイン情報を使用したアカウント連携を行ってください。

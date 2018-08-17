@@ -1,0 +1,74 @@
+existing_player_label
+Zurückkehrender Spieler?
+existing_player_button
+Anmelden
+new_player_label
+Neuer Spieler?
+new_player_button
+Konto erstellen
+existing_account_screen
+Anmelden mit
+new_account_screen
+Konto erstellen mit
+non_existent_account
+Anmeldung fehlgeschlagen. Prüfe, ob dieses Konto tatsächlich existiert.
+settings_account_header
+KONTO
+settings_account_linked
+VERKNÜPFT
+settings_account_not_linked
+NICHT VERKNÜPFT
+settings_account_link_tip
+Tipp: Du kannst dich in deinem Spiel mit jedem verknüpften Konto anmelden!
+unlink_account_confirm
+<size=36><b>Verknüpfung dieses Kontos aufheben?</b></size>\n\nDu kannst dich mit dieser Methode nicht anmelden.
+unlink_account_failed_active_session
+<size=36><b>Verknüpfung dieses Kontos kann nicht aufgehoben werden!</b></size>\n\nDieses Konto ist mit deiner aktiven Spielsitzung verknüpft.
+link_account_failed
+Verknüpfung mit diesem Konto fehlgeschlagen.
+unlink_account_failed
+Verknüpfung zu diesem Konto konnte nicht getrennt werden.
+link_account_failed_auth
+<size=36><b>{0}-Fehler</b></size>\n\nVerknüpfung zu diesem Konto konnte nicht hergestellt werden.
+link_account_failed_taken
+<size=36><b>Konto existiert bereits</b></size>\n\nDieses Konto ist bereits mit einem vorhandenen Spieler verknüpft.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic Kids
+sa_login_title
+Niantic Kids
+login_create_player
+Spieler erstellen mit:
+login_sign_in
+Anmelden mit:
+login_username_short
+Benutzername
+login_password_short
+Passwort
+ptc_login_title_short
+Trainer-Club
+login_create_account
+Konto erstellen
+ptc_account_creation_prompt
+Du hast kein Pokémon-Trainer-Club-Konto?
+sa_account_creation_prompt
+Du hast kein Niantic Kids-Konto?
+ptc_login_server_unreachable
+Der Pokémon-Trainer-Club ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
+sa_login_server_unreachable
+Niantic Kids ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
+sa_auth_failed_permissions
+Um dieses Spiel zu spielen, bitte ein Elternteil oder einen Erziehungsberechtigten, sich bei ihrem Niantic Kids-Konto anzumelden und die Berechtigungen für dein Konto zu aktivieren.
+sa_auth_failed
+Authentifizierung fehlgeschlagen. Versuche es noch mal.
+sa_parent_dashboard_url
+https://parents.nianticlabs.com/de/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/de/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/de/password/forgot
+unlink_account_failed_login_not_removable
+<size=36><b>Verknüpfung dieses Kontos kann nicht aufgehoben werden!</b></size>\n\nDu hast dieses Login möglicherweise mit anderen Niantic-Produkten verknüpft. Bitte verknüpfe eine zusätzliche Login-Methode, um die Verknüpfung dieses Login aufheben zu können.

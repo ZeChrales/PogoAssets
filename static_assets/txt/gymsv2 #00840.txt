@@ -280,12 +280,12 @@ battle_prep_opponents_header
 Opponents
 gym_feed_pokemon_busy
 Try again later.
-gymbadge_sort_defending
-defending
 raid_finding_players
 Finding other players
 gym_same_team_deploy_lockout
 The Gym is under attack! Try again later.
+gymbadge_sort_defending
+defending
 screen_title_badge_collection
 Gym Badges
 profile_no_gymbadges

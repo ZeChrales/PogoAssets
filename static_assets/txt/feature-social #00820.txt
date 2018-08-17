@@ -107,7 +107,7 @@ Manage Items
 upgrade_item_bag_button
 Upgrade Item Bag
 error_open_gift_bag_full
-Please make space or upgrade your Item Bag before opening the gift.
+Please make space or upgrade your item Bag before opening the Gift.
 friend_opened_your_gift
 {0} received {1} items from your Gift!
 friend_opened_your_gift_singular
@@ -123,7 +123,7 @@ Pokémon to Trade
 trade_exclusion_reason_mythical
 Mythical Pokémon can't be traded.
 trade_exclusion_reason_slashed
-This Pokémon cannot be traded.
+This Pokémon can't be traded.
 trade_exclusion_reason_disabled
 This Pokémon can't be traded due to an error.
 share_my_friend_code_message
@@ -339,7 +339,7 @@ Canceled
 trade_special_in_pokedex
 Legendary or Shiny Pokémon in Pokédex
 trade_exclusion_reason_player_cannot_afford
-You do not have enough Stardust.
+You don't have enough Stardust.
 trade_exclusion_reason_friend_cannot_afford
 Your friend doesn't have enough Stardust.
 trade_exclusion_reason_player_reached_daily_limit
@@ -407,7 +407,7 @@ Your Trainer Code has been copied!
 trade_error_minimum_level
 You must be at least level {0} to trade.
 friend_caught_a_pokemon
-{0} caught a {1}!
+{0} caught {1}!
 trade_friend_joined
 You can trade your Pokémon with {0}!
 special_trade_confirm_title
@@ -501,9 +501,9 @@ traded
 no_notifications_message
 No notifications.
 social_qr_code_prompt
-Scan this QR code with another Trainer's scanner.
+Scan this QR Code with another Trainer's scanner.
 social_qr_scan_prompt
-Scan a Trainer's QR code
+Scan a Trainer's QR Code
 social_qr_code_header
 MY CODE
 social_qr_scan_header
@@ -536,3 +536,19 @@ pokemon_lucky_info_transfer_to_professor_confirmation
 Do you really want to transfer this Lucky Pokémon?
 filter_key_lucky
 lucky
+error_exceeded_nickname_change_limit
+You've changed nicknames as many times as you can for now. You can try again later.
+settings_share_recent_catch_friends
+Share Recently Caught Pokémon with Friends
+enable_share_recent_pokemon_catch_confirmation
+Enable sharing info on recently caught Pokémon with friends
+disable_share_recent_pokemon_catch_confirmation
+Disable sharing info on recently caught Pokémon with friends
+enable_share_recent_pokemon_catch_description
+You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
+disable_share_recent_pokemon_catch_description
+You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
+now_label
+Now
+friend_wants_to_trade_prompt
+{0} wants to Trade with you.

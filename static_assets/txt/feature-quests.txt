@@ -493,7 +493,7 @@ Primeiro de tudo, pode me ajudar a inspecionar o parque e obter alguns itens?
 quest_special_dialogue_gofest_0_5
 Por favor, complete as seguintes tarefas de pesquisa de campo:\n{0}\n{1}\n{2}
 quest_special_dialogue_gofest_1_0
-É isso aí! Como pode ter notado, todos os tipos de fenômenos geológicos estão occorrendo no parque hoje!
+É isso aí! Como pode ter notado, todos os tipos de fenômenos geológicos estão ocorrendo no parque hoje!
 quest_special_dialogue_gofest_1_1
 Não sei bem o que aconteceu... eles começaram do nada e parecem estar ficando cada vez maiores!
 quest_special_dialogue_gofest_1_2
@@ -503,13 +503,13 @@ Os Pokémon daqui ficaram confusos e estão agindo mais agressivos e territoriai
 quest_special_dialogue_gofest_1_4
 Vamos ver se conseguimos ajudar pegando alguns dos Pokémon para a situação se estabilizar.
 quest_special_dialogue_gofest_1_5
-Por favor, pegue 20 Pokémon de tipo Fogo, Aço, Água, Planta, Pedra e Gelo!
+Por favor, pegue alguns Pokémon de tipo Fogo, Aço, Água, Planta, Pedra e Gelo!
 quest_special_dialogue_gofest_2_0
 Parece que alguns Pokémon bem poderosos causaram o tumulto. Obrigado por cuidar deles! Tenho certeza de que terão uma grande amizade.
 quest_special_dialogue_gofest_2_1
-Porém, parece que não foi o suficiente... os habitats estão tão ativos quanto antes. O parque e seus Pokémon parecem preocupados. Precisamos decobrir o que realmente está acontecendo.
+Porém, parece que não foi o suficiente... os habitats estão tão ativos quanto antes. O parque e seus Pokémon parecem preocupados. Precisamos descobrir o que realmente está acontecendo.
 quest_special_dialogue_gofest_2_2
-Tenhos visto alguns Pokémon incomuns chamados Unown flutuando pela área...
+Tenho visto alguns Pokémon incomuns chamados Unown flutuando pela área...
 quest_special_dialogue_gofest_2_3
 Unown têm o formato de escritura antiga e acho que podem estar tentando nos dizer alguma coisa! Talvez querem que chamemos um Pokémon poderoso, talvez o guardião da floresta? Aposto que se os seguirmos pelo parque, irão nos levar até este Pokémon!
 quest_special_dialogue_gofest_2_4
@@ -517,7 +517,7 @@ Vamos fazer as seguintes tarefas de pesquisa:\n{0}\n{1}\n{2}
 quest_special_dialogue_gofest_3_0
 Incrível! Nunca pensei que veria Celebi aqui.
 quest_special_dialogue_gofest_3_1
-Acho que a habilidade de viajar no tempo de Celebi pode ser extamente o que precisamos para remediar a situação.
+Acho que a habilidade de viajar no tempo de Celebi pode ser exatamente o que precisamos para remediar a situação.
 quest_special_dialogue_gofest_3_2
 Celebi pode voltar no tempo e parar estas distorções enquanto ainda são pequenas!
 quest_special_dialogue_gofest_3_3
@@ -562,3 +562,11 @@ quest_land_nice_curve_singular
 Fazer 1 boa jogada de bola curva.
 quest_land_nice_curve_plural
 Fazer {0} boas jogadas de bolas curvas.
+quest_catch_special14_singular
+Pegar 1 Meowth ou Growlithe.
+quest_evolve_special2_singular
+Evoluir 1 Meowth.
+quest_catch_special16_singular
+Pegar 1 Skitty ou Poochyena.
+quest_catch_special17_plural
+Pegar {0} Eevee.

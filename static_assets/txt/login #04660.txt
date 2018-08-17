@@ -1,0 +1,74 @@
+existing_player_label
+Giocatore esistente
+existing_player_button
+Accedi
+new_player_label
+Nuovo giocatore
+new_player_button
+Crea un account
+existing_account_screen
+Accedi con
+new_account_screen
+Crea un account con
+non_existent_account
+Impossibile accedere. Per favore controlla che l’account sia corretto e che tu abbia selezionato correttamente Nuovo giocatore o Giocatore esistente.
+settings_account_header
+ACCOUNT
+settings_account_linked
+CONNESSO
+settings_account_not_linked
+NON CONNESSO
+settings_account_link_tip
+Suggerimento: puoi accedere al tuo gioco tramite qualsiasi account connesso.
+unlink_account_confirm
+<size=36><b>Disconnetti questo account?</b></size>\n\nSe lo fai, non potrai più accedere con questo metodo.
+unlink_account_failed_active_session
+<size=36><b>Impossibile scollegarsi da questo account.</b></size>\n\nQuesto account è collegato alla sessione di gioco in corso.
+link_account_failed
+Impossibile collegarsi a questo account.
+unlink_account_failed
+Impossibile scollegarsi da questo account.
+link_account_failed_auth
+<size=36><b>{0} Errore</b></size>\n\nImpossibile collegarsi a questo account.
+link_account_failed_taken
+<size=36><b>Account esistente</b></size>\n\nQuesto account è già collegato a un altro giocatore.
+login_provider_google
+Google
+login_provider_facebook
+Facebook
+sa_login_button
+Niantic Kids
+sa_login_title
+Niantic Kids
+login_create_player
+Crea un account con:
+login_sign_in
+Accedi con:
+login_username_short
+Nome utente
+login_password_short
+Password
+ptc_login_title_short
+Club Allenatori
+login_create_account
+Creane uno qui
+ptc_account_creation_prompt
+Non hai un account del Club Allenatori di Pokémon?
+sa_account_creation_prompt
+Non hai un account di Niantic Kids?
+ptc_login_server_unreachable
+Il Club Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
+sa_login_server_unreachable
+Niantic Kids non è al momento disponibile. Ci scusiamo per il disagio.
+sa_auth_failed_permissions
+Per poter giocare, un genitore o tutore deve accedere all’account Niantic Kids e concedere autorizzazione al bambino.
+sa_auth_failed
+Autenticazione fallita. Riprova.
+sa_parent_dashboard_url
+https://parents.nianticlabs.com/it/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/it/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/it/password/forgot
+unlink_account_failed_login_not_removable
+<size=36><b>Impossibile scollegarsi da questo account.</b></size>\n\nForse hai collegato questi dati di accesso con altri prodotti Niantic. Collega un metodo di accesso aggiuntivo per scollegare questo.

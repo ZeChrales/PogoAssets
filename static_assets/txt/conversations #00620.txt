@@ -65,7 +65,7 @@ team_yellow_intro|2
 team_yellow_intro|3
 我想這優越直覺的祕密，一定和牠們誕生的過程有關。
 team_yellow_intro|4
-所以我研究的對象是從蛋孵化的寶可夢。
+來參加我的隊伍吧！
 team_yellow_intro|5
 相信你的直覺，就能百戰百勝！
 team_blue_intro|1

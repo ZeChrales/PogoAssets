@@ -280,12 +280,12 @@ battle_prep_opponents_header
 對手
 gym_feed_pokemon_busy
 請稍後再試一次
-gymbadge_sort_defending
-防禦
 raid_finding_players
 正在尋找其他訓練家…
 gym_same_team_deploy_lockout
 有人正在攻擊道館！請稍後再試一次。
+gymbadge_sort_defending
+防禦
 screen_title_badge_collection
 道館徽章
 profile_no_gymbadges

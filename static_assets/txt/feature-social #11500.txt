@@ -1,0 +1,554 @@
+test_key
+Test
+screen_you_title
+yo
+screen_friends_title
+amigos
+social_add_friends
+Añadir amigos
+friend_code_title
+Código de Entrenador
+enter_friend_code_prompt
+Para añadir a alguien a tu lista de amigos, introduce su código de Entrenador.
+your_friend_code_title
+Tu código de Entrenador
+other_section_title
+Otros
+send_gift_action
+Enviar regalo
+trade_action
+Intercambiar
+incoming_friend_request_prompt
+{0} personas te han enviado solicitudes de amistad.
+incoming_friend_request_prompt_singular
+1 persona te ha enviado una solicitud de amistad.
+screen_title_friend_requests
+Solicitudes de amistad
+accept_friend_request_prompt
+Has recibido una solicitud de amistad.
+became_friends_prompt
+Comienza tu amistad con {0}.
+sent_friend_request_prompt
+Has enviado una solicitud de amistad.
+share_title
+Compartir
+your_friend_code_desc
+Otros jugadores pueden usar este código de Entrenador para añadirte a su lista de amigos.
+social_add_friend_qr
+Código QR
+social_add_friend_facebook
+Importa amigos de Facebook.
+friend_sent_you_gift_notification
+¡{0} te ha enviado un regalo!
+select_giftbox_to_send_prompt
+¿Qué regalo quieres enviar?
+send_giftbox_prompt
+Enviar regalo
+gift_from_prompt
+Saludos desde
+friend_request_accepted_prompt
+¡Comienza tu amistad con {0}!
+error_opened_daily_max_number_of_gifts
+Límite diario alcanzado. Vuelve mañana para abrir más regalos.
+remove_friend_confirmation
+¿Seguro que quieres eliminar a esta persona?
+error_already_sent_gift_today
+Ya has enviado un regalo a esta persona hoy.
+error_friend_has_unopened_gift
+Esta persona aún tiene un regalo tuyo sin abrir.
+error_player_not_found
+No se ha encontrado ningún jugador con este código de Entrenador.
+error_friend_request_does_not_exist
+Esta solicitud de amistad no existe.
+error_senders_friends_list_full
+La lista de amigos de {0} está llena.
+error_friends_list_full
+Tu lista de amigos está llena.
+friend_request_declined_prompt
+Has rechazado esta solicitud de amistad.
+error_get_friends_requests_failed
+No se han podido obtener las solicitudes de amistad. Vuelve a intentarlo más tarde.
+error_get_friends_list_failed
+No se ha podido obtener la lista de amigos. Vuelve a intentarlo más tarde.
+error_send_friend_request_title
+No se ha podido enviar una solicitud de amistad a {0}.
+error_player_already_friend
+Esta persona ya está en tu lista de amigos.
+error_friend_request_max_friends
+Tu lista de amigos está llena.
+error_friend_request_friend_inbox_full
+Esta persona tiene demasiadas solicitudes de amistad pendientes.
+error_max_friend_requests_sent
+Ya has enviado todas las solicitudes de amistad disponibles en este momento.
+sent_you_a_gift
+¡{0} te ha enviado un regalo!
+item_friend_gift_box_name
+Regalo
+item_friend_gift_box_desc
+Una caja que puedes enviar a un amigo. Contiene una variedad de artículos útiles.
+sent_friend_request_success
+¡Se ha enviado una solicitud de amistad a {0}!
+friendslist_sort_lastactivity
+Última actividad
+friendslist_sort_level
+Nivel de amistad
+friendslist_sort_alphabet
+Nombre
+giftbox_log_opened
+He abierto un regalo de {0}.
+today
+Hoy
+yesterday
+(Ayer)
+two_plus_days_ago
+(2 o + días)
+manage_items_button
+Gestionar objetos
+upgrade_item_bag_button
+Aumentar espacio para objetos
+error_open_gift_bag_full
+Haz sitio en tu Bolsa o aumenta su tamaño antes de abrir el regalo.
+friend_opened_your_gift
+¡{0} ha recibido {1} objetos de tu regalo!
+friend_opened_your_gift_singular
+{0} ha recibido 1 objeto de tu regalo.
+social_remove_friend
+Eliminar amigo
+send_gift_prompt
+Enviar un regalo
+friendship_strengthened
+¡Tu nivel de amistad con {0} ha aumentado!
+trade_select_header
+Pokémon a intercambiar
+trade_exclusion_reason_mythical
+No se pueden intercambiar Pokémon singulares.
+trade_exclusion_reason_slashed
+Este Pokémon no se puede intercambiar.
+trade_exclusion_reason_disabled
+Se ha producido un error que impide el intercambio de este Pokémon.
+share_my_friend_code_message
+¡Comencemos una buena amistad en Pokémon GO! ¡Mi código de Entrenador es {0}!
+friendship_milestone_notification_toast
+¡Ahora {0} y tú tenéis una buena amistad!
+friendship_detail_unlock_reqs_singular
+Si seguís jugando codo con codo durante {0} día más, ¡podréis llegar a tener una {1}!
+friendship_detail_unlock_reqs_plural
+Si jugáis codo con codo {0} días más, ¡llegaréis a tener una {1}!
+friendship_detail_capabilities
+Bonus
+friendship_detail_just_friends
+Si aumentas tu nivel de amistad, ¡ganarás bonus! Toca un corazón para ver más información.
+friendship_detail_trade
+Intercambio
+friendship_detail_battle
+Combate de Gimnasio/Incursión
+raid_friendship_bonus
+Amistad
+friendship_strengthened_header
+Nivel de amistad aumentado
+friendship_detail_attack_bonus
+Bonus de ataque
+friendship_detail_raid_bonus
+Bonus de incursión
+gym_battle_victory_subtitle_alone
+Has derrotado este Gimnasio.
+gym_battle_victory_subtitle_with_friend
+Has derrotado este Gimnasio con:
+friendship_level_0
+amistad
+friendship_level_1
+buena amistad
+friendship_level_2
+gran amistad
+friendship_level_3
+ultraamistad
+friendship_level_4
+amistad sin igual
+friendship_detail_ball_singular
++{0} Ball
+friendship_detail_ball_plural
++{0} Balls
+friendship_milestone_notification_toast_3
+¡Ahora {0} y tú tenéis una gran amistad!
+friendship_milestone_notification_toast_4
+¡Ahora {0} y tú tenéis una ultraamistad!
+friendship_milestone_notification_toast_5
+¡Ahora {0} y tú tenéis una amistad sin igual!
+friend_singular
+amigo
+friend_plural
+amigos
+see_details
+MÁS INFORMACIÓN
+sent_gift_to_friend
+¡Has enviado un regalo a {0}!
+settings_gift_received
+¡Regalo recibido!
+error_no_gifts_in_inventory
+No tienes regalos en tu inventario. ¡Visita una Poképarada para buscar regalos!
+trade_detail_appraisal
+Evaluación:
+trade_exclusion_reason_friend_level
+Vuestro nivel de amistad no es lo suficientemente alto para poder realizar este intercambio.
+trade_exclusion_reason_traded
+Este Pokémon no puede ser intercambiado nuevamente.
+trade_exclusion_reason_gym_deployed
+Este Pokémon ha sido asignado a un Gimnasio.
+trade_exclusion_reason_buddy
+Este Pokémon es tu compañero.
+trade_exclusion_reason_stamina
+Este Pokémon no tiene plena salud.
+attack_bonus
+Bonus de ataque
+raid_bonus_ball
+Bonus Balls de incursión
+new_feature_unlocked
+Nuevos bonus desbloqueados
+error_cannot_invite_yourself
+No puedes añadirte a tu propia lista de amigos.
+change_your_code_button
+CAMBIAR CÓDIGO
+change_your_code_title
+Cambia tu código de Entrenador
+change_your_code_message
+¿Quieres proceder a cambiar tu código de Entrenador? No podrás recibir más solicitudes de amistad con tu código de Entrenador actual. Este cambio no afectará a tu lista de amigos actual.
+your_code_changed
+Tu código de Entrenador ha sido cambiado.
+badge_max_level_friends
+Entabla una amistad sin igual con {0} Entrenadores.
+badge_max_level_friends_value_format
+N0
+error_invite_already_sent
+Ya has enviado una invitación a esta persona.
+badge_max_level_friends_singular
+Entabla una amistad sin igual con {0} Entrenador.
+screen_title_notification
+Notificaciones
+badge_max_level_friends_title
+Famoso
+badge_trading_distance_title
+Piloto
+badge_trading_title
+Aristócrata
+trade_exclusion_reason_egg
+Los Huevos no pueden ser intercambiados.
+trade_tut_stardust_needed
+Intercambiar con Polvos Estelares
+trade_tut_stardust_needed_message
+El número de Polvos Estelares que se necesitan para realizar un intercambio varía. Los intercambios de determinados Pokémon denominados intercambios especiales requieren más Polvos Estelares. Puedes reducir el número de Polvos Estelares necesarios para un intercambio especial aumentando tu nivel de amistad.
+trade_tut_special_trade
+Intercambios especiales
+trade_tut_special_trade_message
+Los Pokémon legendarios, los Pokémon variocolores y los Pokémon que aún no están registrados en tu Pokédex requieren un intercambio especial. Solo puedes realizar un intercambio especial al día.
+trade_tut_candy_bonus
+Bonus de Caramelos
+trade_tut_candy_bonus_message
+Debes estar a menos de 100 metros de otra persona para poder iniciar un intercambio. Puedes ganar un bonus dependiendo de dónde fueron atrapados los Pokémon del intercambio. Cuanto más lejos se encuentren esos dos lugares (hasta 100 km), ¡más Caramelos ganarás! 
+trade_tut_strength_adjust
+PC y PS de los Pokémon en un intercambio
+trade_tut_strength_adjust_message
+Cuando intercambies un Pokémon con alguien, podrás ver los PC y PS que puede que tenga, pero estos se ajustarán de acuerdo al nivel de la otra persona y también se verán afectados por vuestro nivel de amistad. Después de realizar el intercambio, las características de ambos Pokémon cambiarán aleatoriamente  para reflejar esos nuevos números. 
+error_gift_invalid_state
+Se ha producido un error que impide enviar el regalo.
+trade_activity_log
+Intercambiado {0} por {1} con {2}.
+error_generate_friendcode_failed
+No se ha podido obtener tu código de Entrenador.
+error_invite_already_received
+Esta persona ya te ha enviado una solicitud de amistad.
+add_friends_privacy_prompt
+Los amigos podrán ver el perfil de uno y otro y las últimas capturas de Pokémon.
+visit_help_center_prompt
+Para obtener más información, visita el Centro de ayuda.
+friendship_detail_no_bonus
+No hay bonus.
+social_no_friends
+¡Juega con tus amigos para desbloquear intercambios, Honor Balls y más poder para los combates!
+gift_sent_toast
+¡Regalo enviado!
+friends_list_level_format
+Nv. {0}
+badge_trading
+Intercambia {0} Pokémon.
+badge_trading_value_format
+N0
+badge_trading_distance
+Llega a {0} kilómetros de distancia entre todos los Pokémon intercambiados.
+badge_trading_distance_value_format
+N0
+log_player_sent_you_a_friend_request
+¡{0} te ha enviado una solicitud de amistad!
+log_player_accepted_your_friend_request
+¡{0} ha aceptado tu solicitud de amistad!
+trading_confirm
+Confirmar
+trading_cancel
+Cancelar
+trading_me
+Yo
+trade_player_me
+Yo
+trading_player_level
+Nv. {0}
+trading_details_warning
+El nivel de Entrenador de la otra persona es más bajo, así que los PC y PS serán reducidos.
+social_player_level_too_low
+La función de amistad está ahora disponible para el nivel {0} y superior. Por favor, vuelve para averiguar cuándo está disponible para ti.
+error_social_player_banned
+No puedes acceder a esta función.
+trade_friend_is_selecting
+Esperando a que {0} seleccione su Pokémon...
+trading_confirmed
+Confirmado
+trading_waiting
+Esperando...
+friend_invite_accepted_toast
+¡Comienza tu amistad con {0}!
+friend_invite_received_toast
+¡{0} te ha enviado una solicitud de amistad!
+trade_friend_left_title
+Este intercambio ha expirado.
+trade_friend_left_message
+Este intercambio ha sido cancelado.
+trade_cannot_confirm
+No se puede confirmar aún.
+trade_friend_not_present
+Esperando a que {0} esté disponible para el intercambio...
+trade_confirm_quit_title
+¿Quieres cancelar este intercambio?
+trade_confirm_quit_message
+Si abandonas ahora, no realizarás el intercambio con {0}.
+friendship_detail_unlocked_trading
+Puedes intercambiar los siguientes Pokémon:
+friendship_detail_stardust_discount
+Descuento de Polvos Estelares
+trade_regular_in_pokedex
+Pokémon regulares en la Pokédex
+trade_regular_non_pokedex
+Todos los Pokémon regulares
+trade_regional_non_pokedex
+Todos los Pokémon regionales
+trade_form_non_pokedex
+Todos los Pokémon con formas regionales
+trade_legendary_non_pokedex
+Todos los Pokémon legendarios
+trade_shiny_non_pokedex
+Todos los Pokémon variocolor
+trading_canceled
+Cancelado
+trade_special_in_pokedex
+Pokémon legendarios o variocolores en la Pokédex
+trade_exclusion_reason_player_cannot_afford
+No tienes suficientes Polvos Estelares.
+trade_exclusion_reason_friend_cannot_afford
+La otra persona no tiene suficientes Polvos Estelares.
+trade_exclusion_reason_player_reached_daily_limit
+Hoy ya has realizado un intercambio especial.
+trade_exclusion_reason_friend_reached_daily_limit
+La otra persona ya ha realizado un intercambio especial hoy.
+trade_error_unknown
+El servicio de intercambio no está disponible en estos momentos. Vuelve a intentarlo más tarde.
+trade_error_friend_not_found
+No se ha podido encontrar a {0} para realizar un intercambio.
+trade_error_open_expired
+Este intercambio con {0} ha expirado.
+trade_error_out_of_range
+{0} está fuera de alcance para intercambiar.
+trade_error_below_min_level
+{0} está por debajo del nivel mínimo para intercambiar.
+trade_error_reached_daily_limit
+Has alcanzado el límite de intercambio diario. Vuelve a intentarlo otra vez mañana.
+trade_error_friend_reached_daily_limit
+{0} ha alcanzado el límite de intercambio diario para hoy.
+trade_error_not_enough_stardust
+No tienes suficientes Polvos Estelares para poder realizar intercambios con {0} ahora mismo.
+trade_error_friend_not_enough_stardust
+{0} no tiene suficientes Polvos Estelares para poder realizar intercambios contigo ahora mismo.
+trade_error_select_expired
+Esta sesión de intercambio ha expirado.
+trade_error_confirm_expired
+Esta sesión de intercambio ha expirado.
+trade_error_confirm_daily_limit
+Has alcanzado el límite diario para intercambiar a este Pokémon.
+trade_error_get
+Error al recuperar el estado del intercambio
+trade_appraise_low_1
+En su conjunto, no parece que este {0} vaya a llegar muy lejos en combate.
+trade_appraise_mid_1
+En su conjunto, este {0} está por encima de la media.
+trade_appraise_high_1
+En su conjunto, este {0} me ha llamado ciertamente la atención.
+trade_appraise_best_1
+En su conjunto, este {0} es una maravilla para la vista.  ¡Qué espécimen tan impresionante!
+trade_appraise_low_2
+En su conjunto, este {0} puede que no sea el mejor en combate, pero aun así me gusta.
+trade_appraise_mid_2
+En su conjunto, este {0} está bastante bien.
+trade_appraise_high_2
+En su conjunto, este {0} es muy fuerte.
+trade_appraise_best_2
+En su conjunto, este {0} simplemente me fascina. ¡Puede lograr cualquier cosa!
+trade_appraise_low_3
+En su conjunto, este {0} podría mejorar algo en lo que se refiere a combates.
+trade_appraise_mid_3
+En su conjunto, este {0} está bastante bien.
+trade_appraise_high_3
+En su conjunto, ¡este {0} es realmente fuerte!
+trade_appraise_best_3
+En su conjunto, ¡este {0} puede enfrentarse a los mejores!
+settings_friend_request_accepted
+Solicitud de amistad aceptada
+settings_friend_request_received
+Solicitud de amistad recibida
+copy_friend_code_title
+COPIAR CÓDIGO DE ENTRENADOR
+copy_friend_code_toast
+¡Tu código de Entrenador ha sido copiado!
+trade_error_minimum_level
+Debes tener al menos el nivel {0} para intercambiar.
+friend_caught_a_pokemon
+¡{0} ha capturado 1 {1}!
+trade_friend_joined
+¡Puedes intercambiar tus Pokémon con {0}!
+special_trade_confirm_title
+¿Quieres realizar un intercambio especial?
+special_trade_confirm_message
+Solo puedes realizar un intercambio especial una vez al día.
+trade_error_cooldown_time
+Periodo de recuperación entre intercambios: quedan {0}
+trade_friend_connected_toast
+¡{0} se ha conectado!
+trade_all_except_mythical
+Todos los Pokémon excepto los singulares
+trade_tips_p0
+Solo puedes realizar intercambios con amigos que estén cerca.
+trade_tips_p1|0
+Solo se puede realizar un intercambio especial una vez al día.
+trade_tips_p1|1
+No puedes intercambiar un Pokémon que ya haya sido intercambiado antes.
+trade_tips_p1|2
+Las características de los Pokémon intercambiados cambiarán aleatoriamente después de ser intercambiados.
+trade_tips_p1|3
+Puedes encontrar las reglas de intercambio a través del botón de ayuda que se encuentra arriba.
+trade_tips_p1|4
+Si el nivel de Entrenador de la otra persona es más bajo que el tuyo, los PC y PS del Pokémon intercambiado serán ajustados.
+trade_tips_p2|0
+Se necesita un intercambio especial para los Pokémon que aún no están registrados en tu Pokédex.
+trade_tips_p2|1
+Tu nivel de amistad debe ser bueno para poder realizar un intercambio especial.
+trade_tips_p2|2
+Recibirás bonus de Caramelos si los Pokémon intercambiados fueron atrapados en sitios lejos entre sí (hasta unos 100 km).
+trade_tips_p2|3
+El número necesario de Polvos Estelares para realizar un intercambio baja bastante a medida que aumenta tu nivel de amistad.
+trade_tips_p2|4
+Se necesita un intercambio especial para los Pokémon variocolor, legendarios y aún no están registrados en tu Pokédex.
+trade_tips_p2|5
+Se necesita un número alto de Polvos Estelares para realizar un intercambio especial.
+trade_tips_p2|6
+Tu nivel de amistad con otra persona aumenta si intercambiáis Pokémon entre vosotros con frecuencia.
+trade_tips_p2|7
+No se pueden intercambiar Pokémon singulares.
+trade_warning_your_level_lower
+Tu nivel de Entrenador es más bajo que el de la otra persona, así que los PC y los PS bajarán.
+trade_warning_friend_level_lower
+El nivel de Entrenador de la otra persona es más bajo que el tuyo, así que los PC y PS bajarán.
+trade_ending_prompt|0
+¡{0} ha enviado a {1}!
+trade_ending_prompt|1
+¡Cuida bien de {0}!
+trade_exclusion_favorite
+Este Pokémon es un Pokémon favorito.
+social_my_code
+CÓDIGO DE ENTRENADOR
+decline_friend_request_confirmation
+¿Seguro que quieres eliminar esta solicitud de amistad?
+decline_friend_request_confirmation_message
+Una vez que hayas eliminado esta solicitud de amistad, esta persona no podrá enviarte otra solicitud de amistad.
+friend_request_deleted_confirmation
+Solicitud de amistad eliminada
+send_gift_button
+Enviar
+open_gift_button
+Abrir
+next_button
+Siguiente
+trade_error_rpc
+Error de intercambio desconocido
+trade_tut_proximity
+Intercambio con amigos
+trade_tut_proximity_message
+Solo se pueden realizar intercambios con amigos cuando están cerca.
+social_send_my_code
+COMPARTIR CÓDIGO DE ENTRENADOR
+social_send_code_prompt
+Envía una solicitud de amistad introduciendo el código de Entrenador de la otra persona.
+trainer_name_label
+Nombre de Entrenador
+trainer_code_label
+Código de Entrenador
+trade_toast_must_cancel_first
+Por favor, cancela tu confirmación primero.
+trade_toast_must_connect_first
+Por favor, espera a que se conecte la otra persona.
+trade_bonus
+Bonus de intercambio
+accept
+Aceptar
+delete
+Eliminar
+filter_key_traded
+intercambiados
+no_notifications_message
+No hay notificaciones.
+social_qr_code_prompt
+Escanea este código QR en el escáner de tu amigo.
+social_qr_scan_prompt
+Escanear el código QR de tu amigo
+social_qr_code_header
+MI CÓDIGO
+social_qr_scan_header
+ESCANEAR
+social_other_friend_add_title
+OTROS
+set_friend_nickname
+Elegir apodo
+select_gift_to_delete_prompt
+Selecciona regalos para eliminar
+delete_gift_confirmation
+¿Seguro que quieres eliminar este regalo?
+social_my_qr_code
+Mi código QR
+social_lucky_pokemon_label
+Pokémon con suerte
+friendslist_sort_gift
+Regalo
+error_set_friend_nickname
+Error al elegir apodo.
+error_set_friend_nickname_length
+El apodo es demasiado largo.
+friendslist_sort_nickname
+Apodo
+pokedex_details_lucky
+Con suerte:
+pokemon_info_multi_transfer_lucky_pokemon_error
+No puedes seleccionar Pokémon con suerte.
+pokemon_lucky_info_transfer_to_professor_confirmation
+¿De verdad quieres transferir este Pokémon con suerte?
+filter_key_lucky
+Con suerte
+error_exceeded_nickname_change_limit
+Has alcanzado el número máximo de cambios de apodos que puedes por el momento. Puedes volver a intentarlo más tarde.
+settings_share_recent_catch_friends
+Comparte la información sobre los Pokémon que has capturado recientemente con tus amigos.
+enable_share_recent_pokemon_catch_confirmation
+Activar la opción de compartir la información sobre los Pokémon que has capturado recientemente con tus amigos.
+disable_share_recent_pokemon_catch_confirmation
+Desactivar la opción de compartir la información sobre los Pokémon que has capturado recientemente con tus amigos.
+enable_share_recent_pokemon_catch_description
+Tus amigos y tú podréis ver los Pokémon que el otro ha capturado o eclosionado recientemente en la lista de amigos.
+disable_share_recent_pokemon_catch_description
+Tus amigos y tú no podréis ver los Pokémon que el otro ha capturado o eclosionado recientemente en la lista de amigos.
+now_label
+Now
+friend_wants_to_trade_prompt
+{0} wants to Trade with you.

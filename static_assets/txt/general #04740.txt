@@ -1,0 +1,1686 @@
+badge_capture_total
+ポケモンを {0} 匹捕まえた！
+badge_capture_total_title
+コレクター
+badge_capture_total_value_format
+N0
+badge_defeated_fort
+{0} 回バトルした！
+badge_defeated_fort_title
+バトルした数
+badge_defeated_fort_value_format
+N0
+badge_encountered_total
+ポケモンを {0} 匹見つけた！
+badge_encountered_total_title
+見つけた数
+badge_encountered_total_value_format
+N0
+badge_evolved_total
+ポケモンを {0} 匹進化できた！
+badge_evolved_total_title
+けんきゅういん
+badge_evolved_total_value_format
+N0
+badge_hatched_total
+タマゴを {0} 個かえした！
+badge_hatched_total_title
+ブリーダー
+badge_hatched_total_value_format
+N0
+badge_pokedex_entries
+ポケモン図鑑に {0} 匹登録できた！
+badge_pokedex_entries_title
+カントー
+badge_pokedex_entries_value_format
+N0
+badge_pokestops_visited
+ポケストップを {0} 回訪れた！
+badge_pokestops_visited_title
+バックパッカー
+badge_pokestops_visited_value_format
+N0
+badge_travel_km
+{0} km 歩いた！
+badge_travel_km_title
+ジョギング
+badge_travel_km_value_format
+N2
+badge_unique_pokestops
+{0} ヶ所のユニークなポケストップ
+badge_unique_pokestops_title
+ユニークポケストップ
+badge_unique_pokestops_value_format
+N0
+badge_you_earned
+やったー！メダルをゲットした！
+badge_big_magikarp
+巨大なコイキングを {0} 匹捕まえた！
+badge_big_magikarp_title
+つりびと
+badge_big_magikarp_value_format
+N0
+badge_small_rattata
+小さいサイズのコラッタを {0} 匹捕まえた！
+badge_small_rattata_title
+たんパンこぞう
+badge_small_rattata_value_format
+N0
+badge_pikachu
+ピカチュウを {0} 匹捕まえた！
+badge_pikachu_title
+ピカチュウ だいすきクラブ
+badge_pikachu_value_format
+N0
+badge_deployed_total
+ジムに {0} 匹ポケモンを配置した！
+badge_deployed_total_title
+ジムに配置したポケモン数
+badge_deployed_total_value_format
+N0
+badge_battle_attack_won
+ジムで {0} 回バトルに勝った！
+badge_battle_attack_won_title
+バトルガール
+badge_battle_attack_won_value_format
+N0
+badge_battle_training_won
+ポケモンを {0} 匹トレーニングした！
+badge_battle_training_won_title
+エリートトレーナー
+badge_battle_training_won_value_format
+N0
+badge_battle_defend_won
+{0} 回ジムを防衛した！
+badge_battle_defend_won_title
+ジム防衛回数
+badge_battle_defend_won_value_format
+N0
+badge_prestige_raised
+ジムの名声を {0} 上げた！
+badge_prestige_raised_title
+ジム名声アップ
+badge_prestige_raised_value_format
+N0
+badge_prestige_dropped
+ジムの名声を {0} 落とした！
+badge_prestige_dropped_title
+ジム名声ダウン
+badge_prestige_dropped_value_format
+N0
+badge_type_normal
+ノーマルタイプのポケモンを {0} 匹捕まえた！
+badge_type_normal_title
+じゅくがえり
+badge_type_normal_value_format
+N0
+badge_type_fighting
+かくとうタイプのポケモンを {0} 匹捕まえた！
+badge_type_fighting_title
+カラテおう
+badge_type_fighting_value_format
+N0
+badge_type_flying
+ひこうタイプのポケモンを {0} 匹捕まえた！
+badge_type_flying_title
+とりつかい
+badge_type_flying_value_format
+N0
+badge_type_poison
+どくタイプのポケモンを {0} 匹捕まえた！
+badge_type_poison_title
+バッドガール
+badge_type_poison_value_format
+N0
+badge_type_ground
+じめんタイプのポケモンを {0} 匹捕まえた！
+badge_type_ground_title
+いせきマニア
+badge_type_ground_value_format
+N0
+badge_type_rock
+いわタイプのポケモンを {0} 匹捕まえた！
+badge_type_rock_title
+やまおとこ
+badge_type_rock_value_format
+N0
+badge_type_bug
+むしタイプのポケモンを {0} 匹捕まえた！
+badge_type_bug_title
+むしとりしょうねん
+badge_type_bug_value_format
+N0
+badge_type_ghost
+ゴーストタイプのポケモンを {0} 匹捕まえた！
+badge_type_ghost_title
+オカルトマニア
+badge_type_ghost_value_format
+N0
+badge_type_steel
+はがねタイプのポケモンを {0} 匹捕まえた！
+badge_type_steel_title
+てつどういん
+badge_type_steel_value_format
+N0
+badge_type_fire
+ほのおタイプのポケモンを {0} 匹捕まえた！
+badge_type_fire_title
+キャンプファイヤー
+badge_type_fire_value_format
+N0
+badge_type_water
+みずタイプのポケモンを {0} 匹捕まえた！
+badge_type_water_title
+かいパンやろう
+badge_type_water_value_format
+N0
+badge_type_grass
+くさタイプのポケモンを {0} 匹捕まえた！
+badge_type_grass_title
+にわし
+badge_type_grass_value_format
+N0
+badge_type_electric
+でんきタイプのポケモンを {0} 匹捕まえた！
+badge_type_electric_title
+でんきグループ
+badge_type_electric_value_format
+N0
+badge_type_psychic
+エスパータイプのポケモンを {0} 匹捕まえた！
+badge_type_psychic_title
+サイキッカー
+badge_type_psychic_value_format
+N0
+badge_type_ice
+こおりタイプのポケモンを {0} 匹捕まえた！
+badge_type_ice_title
+スキーヤー
+badge_type_ice_value_format
+N0
+badge_type_dragon
+ドラゴンタイプのポケモンを {0} 匹捕まえた！
+badge_type_dragon_title
+ドラゴンつかい
+badge_type_dragon_value_format
+N0
+badge_type_dark
+あくタイプのポケモンを {0} 匹捕まえた！
+badge_type_dark_title
+こわいおねえさん
+badge_type_dark_value_format
+N0
+badge_type_fairy
+フェアリータイプのポケモンを {0} 匹捕まえた！
+badge_type_fairy_title
+メルヘンしょうじょ
+badge_type_fairy_value_format
+N0
+battle_pokemon_already_in_list
+すでに手持ちに入っています
+boot_loading
+Loading...
+boot_beta_warning
+このソフトは開発中で、一般には非公開のものです。ソフト内で得た情報や画像を他人に見せたり共有したりしないでください。
+boot_safety_warning
+周りをよく見て、常に注意しながらプレイしてください
+boot_safety_warning_1
+画面を見続けながら歩くことや、運転中のプレイはやめてください
+boot_safety_warning_2
+許可無く立ち入ってはいけない場所や建物には、決して入らないでください
+boot_safety_warning_3
+危険が予想される地域には、立ち入らないでください
+confirm_use_effective
+{0} は効果があった！
+confirm_use_ineffective
+{0} は効果がないようだ…
+confirm_use_tap_to_use
+道具をタップしてつかう
+date_format
+yyyy年 M月 d日
+egg_anticipation
+なにが生まれてくるのかな？
+egg_hatching
+おや？
+egg_received
+やったー！タマゴを手に入れた！
+egg_walk_to_hatch
+{0} km 歩いてタマゴをかえそう！
+egg_confirm
+ようすを見る
+encounter_gotcha
+やったー！
+encounter_pokemon_was_caught
+{0}を捕まえた！
+encounter_pokemon_broke_free
+あ！ボールから抜けだした！
+encounter_pokemon_ran_away
+野生の{0}は逃げ出した！
+encounter_received_evolution_shard
+{0} の進化のカケラを手にいれた！
+encounter_no_pokeball
+ボールがありません
+encounter_score_curveball
+カーブボール
+encounter_score_excellent_throw
+エクセレントスロー
+encounter_score_first_catch
+今日の 1 匹目
+encounter_score_great_throw
+グレートスロー
+encounter_score_milestone
+ボーナス
+encounter_score_new_pokemon
+新しいポケモン
+encounter_score_nice_throw
+ナイススロー
+encounter_score_one_shot
+ワンショット
+encounter_score_pokemon_caught
+ポケモンゲット
+encounter_score_total_exp
+{0} XP
+encounter_miss_throw
+Miss...
+encounter_nice_throw
+Nice !
+encounter_excellent_throw
+Excellent !
+encounter_great_throw
+Great !
+encounter_wild_pokemon_appeared
+<size=36>あ！野生の<b>{0}</b>がとびだしてきた！</size>
+encounter_pokeball_inventory_empty
+ボールがもうありません
+encounter_score_total
+TOTAL
+encounter_berry_already_used
+きのみはもう使えません
+encounter_unknown_cp
+???
+err_get_bundle
+サーバーからゲームデータを取得できませんでした
+err_get_digest
+サーバーからゲームデータを取得できませんでした
+err_get_player
+サーバーからプレイヤー情報を取得できませんでした
+err_go_settings
+設定
+err_gps_off
+GPSが無効になっています。本体の設定からGPSを有効にしてください。
+err_gps_silent
+GPSの信号をさがしています
+err_location_not_measured
+位置情報を取得できません
+err_no_internet
+インターネットに接続できません
+err_retry
+リトライ
+err_skip
+あとで
+err_update
+更新する
+err_update_now
+ストアを開いて最新バージョンに更新してください
+err_taking_you_to_app_store
+更新する
+feedback_added_xp
++{0} XP
+general_accept
+同意します
+general_error
+エラー
+general_network_error
+ネットワークエラー
+general_button_select
+決定
+general_cancel
+キャンセル
+general_no
+いいえ
+general_ok
+OK
+general_pokemon
+ポケモン
+general_pokemon_inventory_full
+手持ちのポケモンがいっぱいです
+general_sign_out
+サインアウト
+general_sign_out_confirm
+サインアウトしますか？
+general_yes
+はい
+gym_approach_battles_won
+BATTLES WIN :
+gym_defeated
+ジムが攻略されてしまった
+gym_gym_is_too_far
+ジムが遠すぎます
+gym_leader_defeated
+ジムリーダーが敗れた！
+gym_level
+ジムレベル
+gym_lose_prestige
+ジムの名声が {0} さがった
+gym_no_more_slots
+ジムのメンバーがいっぱいです
+gym_player_is_already_member
+あなたはすでにこのジムのメンバーです
+gym_prestige
+名声
+gym_win_prestige
+ジムの名声が {0} 上がった
+gym_results_pokemon_defeated
+倒したポケモン:
+gym_results_xp_awarded
+XP:
+gym_results_prestige_change
+名声:
+gym_results_victory
+WIN
+gym_results_defeat
+LOSE
+gym_results_timed_out
+TIME UP
+gym_level_too_low
+レベル {0} にならないと、ジムバトルはできません
+gym_under_construction
+ジムはまだ準備中です
+gym_start_battle_error
+バトルを開始できませんでした
+item_bag_deployed
+ジムに配置されたポケモンには道具を使えません
+item_bag_irrelevant
+ここでは使えません
+item_bag_no_items
+道具がありません
+item_bag_potion_fainted
+ひんしのポケモンには使えません
+item_bag_potion_full_health
+このポケモンの体力は満たんです
+item_bag_revive_not_fainted
+ひんしのポケモンにしか使えません
+item_use
+使う
+buff_already_applied
+すでに使用されています
+onboard_accept_tos
+利用規約に同意します
+onboard_decline_tos
+同意しません
+onboard_short_tos
+Pokémon GO は位置情報ゲームです。お使いの端末を通して位置情報が収集され、ゲーム上で行うアクションによっては、他ユーザーから見えることがあります。
+onboard_link_tos
+必ず全文お読みください
+onboard_tos_title
+Pokémon GO 利用規約
+onboard_are_you_sure_decline_tos
+本当に同意しなくてよいですか？
+onboard_terms_of_service
+利用規約
+onboard_select_your_avatar
+あなたのスタイルを選んでください
+onboard_done_customization
+これでいいですか？
+onboard_select_a_name
+あなたのニックネームを教えてください
+onboard_name_too_short_error
+もう少し長いニックネームはありますか？
+onboard_name_invalid_characters_error
+アルファベットと数字しか使えません
+onboard_name_too_long_error
+もう少し短いニックネームはありますか？
+onboard_name_not_available
+使用できないニックネームです
+onboard_name_not_valid
+無効なニックネームです
+onboard_name_owned
+すでに使われているニックネームです
+onboard_name_cannot_change
+サーバーエラー
+onboard_name_fail
+エラーが発生しました、別のニックネームをお試しください
+onboard_enter_name_prompt
+他のトレーナーに呼んでほしいニックネームを入力してください
+onboard_enter_name_hint
+ニックネーム
+onboard_name_are_you_sure
+ニックネームは <b>{0}</b> でいいですか？
+pokedex_all_types
+すべてのタイプ
+pokedex_notencountered
+まだ見つけていないポケモン
+pokedex_page_all
+すべて
+pokedex_page_caught
+捕まえた数:
+pokedex_page_seen
+見つけた数:
+pokedex_page_name_not_seen
+？？？？？？
+pokedex_details_seen
+見つけた数:
+pokedex_details_caught
+捕まえた数:
+pokedex_details_type
+タイプ:
+pokedex_details_type_not_caught
+ーーー
+pokedex_details_weight
+重さ:
+pokedex_details_weight_not_caught
+???.?
+pokedex_details_height
+高さ:
+pokedex_details_height_not_caught
+???.?
+pokedex_details_category_not_caught
+？？？？？ポケモン
+pokedex_details_evolution
+進化
+pokedex_sort_alphabet
+名前
+pokedex_sort_date
+日付
+pokedex_sort_hp
+HP
+pokedex_sort_level
+強さ
+pokedex_sort_number
+番号
+pokedex_sort_favorite
+お気に入り
+pokedex_registered_to_pokedex
+新しく図鑑に登録されます
+pokemon_info_type
+タイプ
+pokemon_info_weight
+重さ
+pokemon_info_height
+高さ
+pokemon_info_cp
+CP
+pokemon_info_powerup_section
+パワーアップ
+pokemon_info_powerup_button
+強化
+pokemon_info_powerup_need_candies
+{0}のアメがたりません
+pokemon_info_powerup_need_stardusts
+ほしのすながたりません
+pokemon_info_powerup_player_lv_too_low
+トレーナーレベルがたりません
+pokemon_info_powerup_pokemon_deployed
+{0}はジムにいます
+pokemon_info_powerup_confirmation
+{0}を強化しますか？
+pokemon_info_evolve_button
+進化
+pokemon_info_evolve_need_candies
+{0}のアメがたりません
+pokemon_info_evolve_pokemon_deployed
+{0}はジムにいます
+pokemon_info_evolve_need_stardusts
+ほしのすながたりません
+pokemon_info_transfer_favorite_error
+お気に入りのポケモンは送れません！
+pokemon_info_pokemon_is_released
+ばいばい {0}！ 元気でね！
+pokemon_info_candy_label
+{0}のアメ
+pokemon_info_stardust_label
+ほしのすな
+pokemon_info_transfer_to_professor
+博士に送る
+pokemon_info_heal
+回復
+pokemon_info_transfer_to_professor_confirmation
+<size=36>{0} を博士に送ってもいいですか？</size>\n\n開始後キャンセルはできません。
+pokemon_info_transfer_to_professor_result
+ポケモンを送って博士から {0}のアメをもらった。
+pokemon_info_transfer_failed
+{0} を送ることができませんでした。
+pokemon_info_release_deployed
+配置されています
+pokemon_type_normal
+ノーマル
+pokemon_type_fighting
+かくとう
+pokemon_type_flying
+ひこう
+pokemon_type_poison
+どく
+pokemon_type_ground
+じめん
+pokemon_type_rock
+いわ
+pokemon_type_bug
+むし
+pokemon_type_ghost
+ゴースト
+pokemon_type_steel
+はがね
+pokemon_type_fire
+ほのお
+pokemon_type_water
+みず
+pokemon_type_grass
+くさ
+pokemon_type_electric
+でんき
+pokemon_type_psychic
+エスパー
+pokemon_type_ice
+こおり
+pokemon_type_dragon
+ドラゴン
+pokemon_type_dark
+あく
+pokemon_type_fairy
+フェアリー
+pokestop_item_inventory_full
+持ち物がいっぱいです
+pokestop_no_items_found
+少し時間をおいてください
+pokestop_pokestop_is_too_far
+ポケストップが遠すぎます
+profile_player_level
+レベル
+profile_start_date
+始めた日：
+profile_button_activity_log
+ぼうけんノート
+profile_button_customize
+着替える
+recycle_dialog_prefix
+捨てる道具：
+recycle_dialog_suffix
+{0}
+screen_title_item_bag
+道具
+screen_title_pokedex
+図鑑
+screen_title_pokemon_inventory
+ポケモン
+screen_title_pokemon_inventory_egg
+タマゴ
+screen_title_settings
+設定
+screen_title_tips
+ヒント
+team_name_team0
+所属なし
+team_name_team1
+チーム ミスティック
+team_name_team2
+チーム ヴァーラー
+team_name_team3
+チーム インスティンクト
+pick_team_intro
+ジムへようこそ！
+pick_team_desc
+トレーナーたちは3つのチームに分かれてバトルを繰り広げ、いろいろな場所にあるジムを取り合っています。あなたもチームを選んでジムバトルに参加してください！
+pick_team1_desc
+チーム ミスティックへようこそ！
+pick_team2_desc
+チーム ヴァーラーへようこそ！
+pick_team3_desc
+チーム インスティンクトへようこそ！
+pick_team_title
+チームを選んでください
+pick_team_confirmation
+{0} チームへようこそ！
+pick_team_rejection
+エラーが発生しました
+pokemon_info_evolution_confirmation
+{0} を進化させますか？
+pokemon_info_evolution_failed
+サーバーエラー：{0}は進化できませんでした
+settings_music
+音楽
+settings_sound_effects
+効果音
+settings_vibration
+振動
+settings_battery_saver
+バッテリーセーバー
+settings_sfida
+Pokémon GO Plus
+settings_sfida_about_link
+Pokémon GO Plus について
+inventory_egg
+タマゴ
+pokemon_info_evolution_crystals
+進化のカケラ
+pokemon_info_evolution_crystals_remaining
+あと {0} 個
+pokemon_evolution_tap_to_evolve
+タップして進化させる！
+about_screen_tos_btn
+利用規約
+about_screen_licenses_btn
+ライセンス
+about_screen_btn
+Pokémon GO について
+about_screen_title
+Pokémon GO について
+about_screen_copyright1
+©2016-2017 Niantic, Inc.
+about_screen_copyright2
+©2016-2017 Pokémon.
+about_screen_copyright3
+©1995–2017 Nintendo / Creatures Inc. / GAME FREAK inc.
+settings_go_to_support
+ヘルプセンター
+settings_are_you_sure_support_prompt
+サポートWebサイトへ移動します。よろしいですか？
+levelup_items_unlocked
+新しい道具が開放されました
+levelup_sequence_text
+レベルアップ！
+pokenav_nearby
+近くにいるポケモン
+pokenav_my_pokedex
+ポケモン図鑑へ
+admin_name_was_banned
+使用できないニックネームです
+encounter_pokemon_not_in_range
+ポケモンが遠すぎます
+super_effective
+効果はばつぐんだ！
+not_very_effective
+効果はいまひとつだ…
+attack_dodge
+よけた！
+gym_deploy_confirmation
+{0} を、ジムへ配置しますか？ジムが破られるまで手持ちに戻りません
+shop_screen_title
+ショップ
+shop_category_bundles
+パック
+shop_category_items
+道具
+shop_category_upgrades
+アップグレード
+shop_category_pokecoins
+ポケコイン
+shop_confirm_coins_title
+購入を確定する
+shop_confirm_coins_details
+{1:C} で {0} を１つ買いますか？
+shop_confirm_buy
+購入
+shop_confirm_item_purchase
+{1} を {0} ポケコインと交換しますか？
+shop_exchange_for_prefix
+ポケコインと交換
+shop_exchange_for_suffix
+ 
+shop_purchase_failure
+購入できませんでした。やり直してください。
+shop_need_more_coins
+ポケコインが足りません
+shop_need_more_get_coins
+{0} ポケコインを入手
+shop_need_more_go_to_coins
+ポケコインを購入する
+screen_title_shop
+ショップ
+shop_inventory_full
+道具がいっぱいです！
+shop_inventory_full_visit_shop
+ショップで持てる道具の上限を増やせます
+quickstart_title
+遊び方
+quickstart_pokestopfar_0
+これがポケストップだ。
+quickstart_pokestopfar_1
+モンスターボールや他の道具をみつけられる場所なんだ。
+quickstart_pokestopnear_0
+ポケストップへ近づくと形が変わるんだ。さあタップしてみよう。
+quickstart_pokestopspin_0
+中心の部分を勢いよくスワイプすると回転して道具が出てくるぞ。
+quickstart_gymmap_0
+これがジムだ。
+quickstart_gymmap_1
+この特別な場所をめぐって、３つのチームがバトルの腕を競っているんだ。
+quickstart_gymbuttons_0
+無所属のジムにポケモンを１匹選んで配置すると、自分のチームのジムにできる。同じ色の仲間チームのジムには、自分のポケモンを１匹選んで配置できるぞ。
+quickstart_gymbuttons_1
+仲間チームのジムでトレーニングバトルをすると、名声とレベルを上げられる。
+quickstart_gymbuttons_2
+別チームのジムにバトルを挑めば、名声とレベルを下げられる。
+quickstart_battledodge_0
+バトル中は、左右にスワイプして攻撃をかわすことができる。
+shop_inventory_full_go_to_upgrades
+アップグレードメニューへ
+encounter_too_many_pokemon
+ボックスがいっぱいです！ショップで上限を増やすことができます
+pokestop_too_many_items
+道具がいっぱいになりました！ショップで上限を増やすことができます
+iap_category_items
+道具
+iap_category_upgrades
+アップグレード
+iap_category_bundle
+詰め合わせ
+iap_category_pokecoins
+ポケコイン
+iap_category_none
+その他
+shop_something_went_wrong
+エラーです。操作をやり直してください。
+shop_daily_bonus_amount
+{0} ポケコイン
+age_gate_screen
+生年月日を入力してください
+month_jan
+1
+month_feb
+2
+month_mar
+3
+month_apr
+4
+month_may
+5
+month_jun
+6
+month_jul
+7
+month_aug
+8
+month_sep
+9
+month_oct
+10
+month_nov
+11
+month_dec
+12
+submit_age_button
+送信
+registration_choice_screen
+登録するアカウントサービスを選択してください
+login_choice_screen
+ログインに利用するアカウントサービスを選択してください
+ptc_login_button
+ポケモントレーナークラブ
+google_login_button
+Google
+ptc_login_title
+ポケモントレーナークラブ
+ptc_forgot_username
+ユーザー名を忘れた場合はこちら
+ptc_forgot_password
+パスワードを忘れた場合はこちら
+privacy_policy_title
+Pokémon GO プライバシーポリシー
+privacy_policy_button
+プライバシーポリシー
+login_username
+ユーザー名
+login_password
+パスワード
+facebook_login_button
+Facebook
+ptc_login_submit
+サインイン
+ptc_need_to_register_button
+登録する
+ptc_error_activation_required
+有効化したアカウントを使用してください
+google_auth_failed
+認証できませんでした。もう一度やり直してください。
+ptc_auth_failed
+認証できませんでした。もう一度やり直してください。
+fb_auth_failed
+認証できませんでした。もう一度やり直してください。
+fb_auth_error_no_email
+メールアドレスを使用して登録したアカウントが必要です。
+authentication_revoked_error
+サーバーに接続できませんでした。
+shop_daily_bonus_header
+博士からのプレゼントが届きました！
+shop_daily_bonus_button
+受け取る
+shop_coming_soon
+準備中
+shop_fully_upgraded
+{0} はこれ以上アップグレードできません
+incubator_selector_header
+ふかそうち
+incubator_selector_uses_left
+残り{0}回
+incubator_choose_egg
+温めるタマゴを選んでください
+egg_detail_put_in_incubator
+ふかそうちにセットするとタマゴを温めることができます
+egg_detail_hatch_walk
+歩いてタマゴをかえそう
+egg_detail_start_incubation
+ふかそうちを使う
+inventory_no_eggs
+タマゴはありません
+incubator_selector_infinite_uses
+∞
+pokestop_disk_empty_title
+スロットは空です
+pokestop_disk_empty_desc
+ポケストップ モジュールを使用することができます
+pokestop_disk_inventory_title
+ポケストップ モジュール
+pokestop_out_of_disks
+ポケストップ モジュールを持っていません
+pokestop_disk_activate_error_already_has_disk
+そのモジュールはすでにポケストップで使用されています
+pokestop_disk_activate_error
+モジュールをインストールできませんでした
+pokestop_disk_error_out_of_range
+ポケストップが遠すぎます
+pokemon_favorite_error
+お気に入りマークを付けられませんでした
+pokemon_unfavorite_error
+お気に入りマークの取り消しに失敗しました
+defender_bonus_header
+ジムに {0} 匹配置しています 
+defender_bonus_title
+ジム防衛ボーナス
+defender_bonus_timer
+次のボーナスまで {0}
+defender_bonus_collect_now
+ボーナスをチェック！
+defender_bonus_nothing_deployed
+ジムにポケモンを配置するともらえるボーナスです
+first_time_ar_mode_prompt_title
+現実世界を背景にしてみましょう！
+first_time_ar_mode_prompt_description
+使ってみましょう。ARボタンからオフにすることもできます。
+first_time_ar_mode_prompt_ar_on_btn
+はい
+first_time_ar_mode_prompt_ar_off_btn
+あとで試す
+nickname_set_nickname
+ニックネームをつける
+battle_no_pokemon_left
+戦えるポケモンがいません
+battle_round_number
+BATTLE {0}
+battle_round_victory
+WIN !
+battle_special_toast
+{0} は{1} を使った！
+battle_surrender_confirmation
+本当に降参しますか？
+pgp_unpaired
+Pokémon GO Plus ペアリング解除
+pgp_connection_lost
+接続が切れています。ボタンをクリックして再接続。
+pgp_click_to_connect
+Pokémon GO Plus 本体のボタンを押して接続してください
+pgp_connected
+Pokémon GO Plus に接続しました
+pgp_log_dowser_start
+{0} 捜索を開始
+pgp_log_dowser_lost
+{0} 捜索に失敗
+pgp_log_dowser_stop
+{0} 捜索を終了
+pgp_log_received_items
+{1} ポケストップで道具を{0}個手に入れた！
+pgp_log_pokemon_caught
+{0}を捕まえた！
+pgp_log_pokemon_fled
+{0} に逃げられた
+pgp_low_battery
+Pokémon GO Plus の電池残量が少なくなっています
+pgp_bluetooth_is_off
+Bluetooth がオフになっています。
+activity_log_title
+ぼうけんノート
+activity_log_clear
+ログをクリア
+activity_log_clear_confirmation
+ログをクリアしますか？クリアしたログは元に戻せません
+activity_log_show_more
+もっと見る
+activity_log_remove
+消去
+activity_log_remove_confirmation
+この項目を消去しますか？
+pgp_weak_signal
+通信電波が弱くなっています。スマートデバイスとPokémon GO Plusを近づけてください
+pgp_install_pgp_app
+Pokémon GO Plus 接続用アプリをインストールしてください
+pgp_error_auth
+Pokémon GO Plus の認証ができませんでした
+pgp_error_cannot_connect
+Pokémon GO に接続できませんでした
+pgp_disconnected
+Pokémon GO Plus との接続が切れました。
+pgp_caught_pokemon
+ポケモンを捕まえた！
+pgp_retrieved_no_items
+ポケストップから道具を入手できませんでした
+server_lockout
+たくさんのアクセスをいただき、本当にありがとうございます。ただいま、アクセス集中によりつながりにくくなっています。ご迷惑をおかけしますが、しばらくしてから再度お試しください。
+field_test_lockout
+フィールドテストご参加ありがとうございました！\nまたすぐお会いしましょう！
+ar_encounter_no_gyro_err
+傾きが検知できません。AR をオフにしますか？
+ar_encounter
+AR
+first_time_walk_title
+さぁ 歩きだそう！
+first_time_walk_description
+現実の世界を歩くことで、画面の中のトレーナーも歩きだします
+first_time_walk_button
+Let's GO!
+pokemon_nickname_error
+正しいニックネームを入力してください
+general_hp
+HP
+general_cp
+CP
+general_xp
+XP
+settings_email_marketing
+Pokémon GO に関するニュースや\nプロモーションに関する情報をメールで受け取る。
+help_center_link
+https://support.pokemongo.nianticlabs.com/hc/ja
+settings_report_issues
+重要な問題を報告
+report_issues_link
+https://pokemongo.nianticlabs.com/support/contact/ja
+settings_are_you_sure_report_prompt
+問題の報告のためにアプリを終了します。よろしいですか？
+authentication_retry_prompt
+ログインできませんでした
+authentication_failed_try_again
+リトライ
+authentication_failed_sign_out
+別のアカウントを試す
+general_attack
+こうげき
+general_defense
+ぼうぎょ
+general_stamina
+HP
+safety_warning_yes
+私は運転者ではありません
+codename_warning_message
+<size=36>ニックネームを変更しますか？</size>\n\n元のニックネームに戻すことを含め、限られた数だけ変更できます。ニックネームは他のトレーナーからも見られることがあります。よく考えて決めてください。
+codename_already_yours
+現在使っているニックネームです
+codename_are_you_sure
+<size=36>{0} に変更してもいいですか？</size>\n\nニックネームを変更できる回数は、元のニックネームに戻すことを含め、限られています。
+codename_reassign_success
+あなたのニックネームは {0} に変更されました。
+speed_modal_too_fast
+移動速度が速いためプレイを制限しています
+speed_modal_slow_down
+安全のため、走行中のプレイは禁止です
+settings_change_nickname
+ニックネームを変更する
+pokemon_info_appraise
+ポケモンを調べてもらう
+gym_sponsored
+SPONSORED
+pgp_log_pokemon_hatched
+{0} がタマゴからかえった！
+nearby_pokemon_poi_title
+ちかくにいるポケモン
+nearby_pokemon_grass_title
+かくれているポケモン
+nearby_pokemon_find_grass_info
+近くにいるかもしれません
+nearby_pokemon_missing_poi
+この辺りにはいないようです
+nearby_pokemon_missing_grass
+まわりにはいないようです
+nearby_pokemon_tracking_lost_title
+見つかりませんでした
+nearby_pokemon_tracking_lost
+他のポケモンを探してみましょう
+nearby_pokemon_view_button
+探す
+nearby_pokemon_clear_button
+やめる
+settings_sfida_icon_toggle
+Pokémon GO Plus アイコンを表示
+settings_sfida_bluetooth_disabled
+Bluetooth がオフになっています。
+settings_sfida_device_name
+Pokémon GO Plus
+settings_sfida_about_url
+http://www.pokemon.jp/pokemongoplus-support/
+settings_sfida_devices
+使用可能なデバイス
+settings_sfida_howto_pair
+つながらない時は
+settings_sfida_howto_pair_url
+http://www.pokemon.jp/pokemongoplus-support/pairing/#link5
+pgp_bluetooth_unauthorized
+Bluetooth をオンにできる許可がありません。スマートフォン本体の設定でオンにしてください。
+pgp_bluetooth_enabling
+Bluetooth をオンにしています...
+pgp_bluetooth_not_supported
+お使いの端末は、Bluetooth Smart に対応していません
+pgp_pokestop_in_range
+ポケストップ発見！
+pgp_pokemon_in_range
+ポケモン発見！
+pgp_start_session
+Pokémon GO Plus に接続しています...
+pgp_stop_session
+Pokémon GO Plus を切断しています...
+pgp_scaning
+Pokémon GO Plus をさがしています...\nPokémon GO Plus 本体のボタンを押してください。
+pgp_registering
+Pokémon GO Plus を登録しています...
+buddy_set
+相棒を選ぶ
+pokemon_info_transfer_pokemon_buddy
+相棒のポケモンを送ることはできません！
+buddy_walked_found_candy
+{0} がアメを見つけた！
+buddy_walk
+一緒に歩くといいことがあるよ！
+buddy_title
+相棒のポケモン
+buddy_chosen
+<b>{0}</b> ！ キミに決めた！
+pgp_error_failed_to_register
+登録できませんでした
+pgp_error_device_not_found
+見つかりません
+buddy_swap1
+相棒のポケモンを交代しますか？
+buddy_swap2
+現在の歩いた距離は失われます。よろしいですか？
+general_and
+& {0}
+buddy_total_walked
+{0:f1} km 歩いた！
+banned_player_lockout_1
+利用規約違反が確認されたため、アカウントが停止されました。\n\nアカウント停止処分に関する詳細は、ヘルプセンターでご確認ください。
+banned_player_lockout_2
+ヘルプセンターを開く
+pokemon_info_address_format
+{2}, {1} {0}
+settings_sfida_store
+Pokémon GO Plus を購入する
+settings_sfida_store_url
+https://www.nintendo.co.jp/pokemongoplus/
+unauthorized_device_lockout_1
+お使いの端末のOSのバージョンが非対応、または、特定の操作（ROOT化など）が検出されたため、Pokémon GO を起動できません。
+unauthorized_device_lockout
+お使いの端末のOSのバージョンが非対応、または、特定の操作（ROOT化など）が検出されたため、Pokémon GO を起動できません。
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/ja
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/ja
+pgp_tip_title
+Pokémon GO Plus
+pgp_tips_1_text_1
+ポケモンが近くに現れると、\n本体が振動、点滅して知らせます
+pgp_tips_1_text_2
+緑の点滅なら、\n捕まえたことがあるポケモンです
+pgp_tips_1_text_3
+黄色点滅なら、まだ捕まえたことがないポケモンです
+pgp_tips_1_text_4
+ボタンを押してみましょう
+pgp_tips_next
+次へ
+pgp_tips_2_text_1
+ボタンを押して
+pgp_tips_2_text_2
+捕まえられたら７色に点滅します
+pgp_tips_2_text_3
+逃げられてしまったら赤く点滅します
+pgp_tips_3_text_1
+ポケストップに近づくと、\n本体が振動、青く点滅して知らせます
+pgp_tips_3_text_2
+ボタンを押して７色に点滅したら道具が手に入ります。\n何かの理由でポケストップから遠く離れてしまった場合は、赤く光り道具は手に入りません。
+pgp_tips_got_it
+終了
+player_cheating_warning
+あなたの、あるいはだれかによって使われているあなたのアカウントが、改変されたクライアントソフトウェアもしくは許可されていない第三者の不正なソフトウェアを利用し、利用規約に違反する形でPokémon GOにアクセスしていることが検出されました。このようなソフトウェアを利用したアクセスは、アカウントが停止される原因となることがあります。該当するソフトウェアを利用している場合は、止めていただくようお願いいたします。第三者の不正なソフトウェアやアプリの中には、アクセスすることでアカウント情報の流出を引き起こすものもあります。パスワードの変更をお奨めします。
+training_round_number
+Match {0}
+badge_capture_bonus_reward
+{1} タイプの捕まえやすさ ＋{0}
+settings_sfida_notifications
+通知のオン・オフ
+settings_sfida_pokemon
+ポケモンの通知
+settings_sfida_pokestops
+ポケストップの通知
+badge_detail_reward_header
+Rewards
+profile_category_medals
+メダル
+quest_first_catch_of_the_day
+今日、最初につかまえた１匹
+quest_streak_format
+ボーナス {0} 日目！
+quest_daily_bonus_title
+デイリーボーナス
+encounter_score_catch_streak
+毎日ゲットボーナス
+quest_first_pokestop_of_the_day
+今日、最初のポケストップ
+encounter_caught_metamon
+おや？
+app_exit_confirmation_message
+Pokémon GO を終了しますか？
+gym_deploy_lockout
+バトル勝者の配置を待っています
+gym_battle_lockout
+少しお待ちください
+batch_transfer_confirm
+<size=36>博士に {0} 匹送りますか？</size>\n\n開始後キャンセルはできません。
+batch_transfer_header
+ポケモンを選択
+batch_transfer_result
+博士からアメをもらった
+shop_category_holiday_special
+ホリデースペシャル
+shop_limited_time
+期間限定セール！
+shop_sale
+Sale
+shop_contents
+内容：
+bundle.xmas.small.1_title
+スペシャルボックス
+bundle.xmas.medium.1_title
+スーパーボックス
+bundle.xmas.large.1_title
+ハイパーボックス
+bundle.newyears.small.1_title
+ブロンズボックス
+bundle.newyears.medium.1_title
+シルバーボックス
+bundle.newyears.large.1_title
+ゴールドボックス
+privacy_policy_update_notice
+本アプリ利用時のデバイス情報の収集に関するプライバシーポリシーを更新しました。ご確認ください。
+privacy_policy_url
+https://www.nianticlabs.com/privacy/pokemongo/ja
+screen_title_news
+ニュース
+evolution_item_use
+使ってみよう！
+shop_quick_coins_get_them_here
+ここからポケコインを購入するか、またはショップを開いてください
+avatar_equip_item
+決定
+avatar_hair
+髪
+avatar_eyes
+瞳
+avatar_skin
+肌
+badge_pokedex_entries_gen2_value_format
+N0
+badge_pokedex_entries_gen2
+ジョウト地方で発見されたポケモンを{0}匹ポケモン図鑑に登録できた！
+badge_pokedex_entries_gen2_title
+ジョウト
+badge_unown_title
+アンノーン
+badge_unown_value_format
+N0
+badge_unown
+アンノーンを{0}種類捕まえた！
+avatar_award_new_style
+新しい着せ替えアイテムが追加！
+avatar_award_show_me
+ショップで見る
+general_more
+もっと見る
+shop_quick_coins_title
+ポケコインが足りません
+avatar_lock_level
+レベル{0} でアンロック
+avatar_lock_badge
+{1} メダル第{0}段階でアンロック
+encounter_item_berries
+きのみ
+encounter_item_pokeballs
+モンスターボール
+avatar_wearing_item
+現在のスタイル
+shop_exchange
+交換する
+onboard_change_anytime
+いつでも変更できます
+avatar_edit_appearance_title
+ぼうけんスタイル
+pokemon_shiny_info_transfer_to_professor_confirmation
+色違いのポケモンを送りますか？
+pokemon_info_multi_transfer_shiny_pokemon_error
+色違いのポケモンは選択できません！
+shop_quick_balls_title
+モンスターボールがありません
+shop_quick_balls_get_them_here
+ポケコインと交換するか、またはポケストップでも集められます。
+encounter_out_of_berries
+きのみがありません
+avatar_hats
+帽子
+avatar_glasses
+メガネ
+avatar_necklaces
+ネックレス
+avatar_tops
+トップス
+avatar_bags
+バッグ
+avatar_gloves
+グローブ
+avatar_belts
+ベルト
+avatar_bottoms
+ボトムス
+avatar_outfits
+アウトフィット
+avatar_socks
+レッグウェア
+avatar_shoes
+シューズ
+avatar_style_unlocked
+新しい着せ替えアイテムを手に入れた！
+pokemon_info_evolve_need_key_item
+進化に必要な道具を持っていません
+pokedex_sort_family
+進化
+pokestop_unavailable
+このポケストップは閉鎖中です
+gym_poi_unavailable
+ジムは閉鎖中です
+promo_enter_code_prompt
+コードを入力してください
+promo_enter_code_success_response
+コードを確認しました
+promo_enter_code_title
+プロモーション
+promo_enter_code_failure_response
+無効なコードです
+promo_enter_code_already_redeemed_response
+このコードはすでに使われています
+promo_redeem_button
+引き換える
+profile_total_xp
+TOTAL XP
+profile_category_stats
+データ
+shop_coin_iap_unavailable
+ポケコインが足りません
+pokestop_disk_error_closed_soon
+ポケストップが閉まります。ポケストップモジュールは使用できません。
+pokestop_unavailable_soon
+このポケストップはもうすぐ閉じます
+item_move_reroll_no_other_moves
+{0} は他に覚えられる技がない！
+gyms_disabled_update
+ジムはまだ準備中です
+gym_feed_too_frequent
+ポケモンはもうきのみを欲しがっていないようだ。
+get_directions_action
+マップを開く
+congratulations_exclusive_raid_ticket
+{0}さん、おめでとうございます！
+raids_invite_only_event
+* 招待されたトレーナーのみ参加できます。
+raid_exclusive_description
+{0} でのレイドバトルに勝利したトレーナーへの特典です！明記された日時にジムを訪れて、バトルに参加してください！
+raid_exclusive_general_info
+特別なEXレイドバトルに招待されました。\nパスをお送りしています。ぜひ参加してください！
+raid_exclusive_invitation
+招待状
+pokemon_info_goto_gym_button
+ジムへ
+pokemon_info_panel_defended_gym_raid_active_message
+レイドバトルが行われています！配置したポケモンはレイドバトル終了後にジムに戻ります。
+gym_remote_view_info_desc
+離れているポケモンにあげると、きのみの効果が薄れるため、なるべくジムの近くまで行ってください！
+screen_title_exclusive_tickets
+EXレイドパス
+pokemon_info_remote_gym_closed
+ジムは閉じている時間です
+pokemon_info_multi_transfer_legendary_pokemon_error
+伝説のポケモンは選択できません！
+pokemon_legendary_info_transfer_to_professor_confirmation
+本当にこのポケモンを送ってもいいですか？
+webcam_setup_problem
+カメラがセットアップできませんでした
+qr_decode_problem
+二次元バーコード読み取りに失敗しました。手動で入力してみてください。
+event_registration_success
+{0} チェックインに成功しました！
+qr_code_title
+二次元バーコード読取
+pokestop_button_manual_input_2
+手動で入力する
+badge_chicago_fest_july_2017_title
+Pokémon GO Fest
+badge_chicago_fest_july_2017
+2017年7月22日シカゴ
+chicago_fest_july_2017_title
+Pokémon GO Fest
+title_raid_has_ended
+このレイドバトルは終了しました
+journal_received_raid_ticket
+{0}でのEXレイドバトルに招待された
+players_in_lobby_count
+現在の参加プレイヤー：{0}
+pikachu_outbreak_yokohama_title
+Pokémon GO STADIUM
+badge_pikachu_outbreak_yokohama_2017
+2017年8月 横浜
+passcode_rpc_error
+コード使用の際にエラーが発生しました
+passcode_rpc_timeout
+通信環境が安定しないためコード使用要求がタイムアウトしました。もう一度お試しください。
+badge_pikachu_outbreak_yokohama_2017_title
+ピカチュウ大量発生チュウ2017
+badge_legendary_battle_won_value_format
+N0
+badge_legendary_battle_won_title
+バトルレジェンド
+badge_legendary_battle_won
+ジムで {0} 回伝説レイドバトルに勝った！
+item_legendary_raid_ticket_name
+EXレイドパス
+item_legendary_raid_ticket_desc
+日時限定のEXレイドバトルの参加に必要なパス。招待されたトレーナーが受け取る。
+incubatorsuper.1_title
+スーパーふかそうち
+incubatorsuper.1_description
+タマゴを入れて歩くと、通常よりもポケモンが早くかえる。3回使うと壊れる。
+item_incubator_super_name
+スーパーふかそうち
+item_incubator_super_desc
+タマゴを入れて歩くと、通常よりもポケモンが早くかえる。3回使うと壊れる。
+raid_log_received_items
+レイドに勝って道具を{0}個手に入れた！
+exclusive_raid_log_received_items
+EXレイドで道具を{0}個手に入れた！
+pgp_log_received_items_gym
+ジムで道具を{0}個手に入れた！
+pokemon_info_multi_transfer_costume_pokemon_error
+特別なポケモンは選択できません！
+pokemon_costume_info_transfer_to_professor_confirmation
+本当にこのポケモンを送ってもいいですか？
+badge_safari_zone_europe_2017_title
+Pokémon GO Safari
+badge_safari_zone_europe_2017
+2017年9月16日 欧州
+safari_event
+Pokémon GO Safari
+raid_error_never_joined_battle
+参加しようしていたレイドバトルは終了しました。別のバトルを試してみてください。
+settings_sfida_howto_pair_prompt
+Pokémon GO Plus に接続できませんでした。サポートサイトのヒントを開きますか？
+badge_safari_zone_europe_2017_10_07_title
+GO Safari Zone - 2017年欧州
+badge_safari_zone_europe_2017_10_07
+2017年10月7日 欧州
+badge_safari_zone_europe_2017_10_14_title
+GO Safari Zone - 2017年欧州
+badge_safari_zone_europe_2017_10_14
+2017年10月14日 欧州
+exclusive_raid_log_cancelled
+{2}で{0}の{1}に予定されていたEXレイドはキャンセルされた
+passcode_log_received_items
+コード{1}を使って{0}アイテム手に入れた！
+passcode_log_received_badge
+コード{0}を使ってメダルを手に入れた！
+cancelled_ex_raid_message
+{0}の{1}に{2}にて予定されていたEXレイドはキャンセルされました
+cancelled_ex_raid_items_prompt
+次に参加可能なレイドに向けての活動にお役立てください！
+cancelled_ex_raid_ticket_title
+キャンセルされたEXレイドパス
+blacklisted_app_found_lockout
+お使いのデバイスからPokémon GO利用規約内で禁止されたアプリケーションが検出されましたので、削除してくださいますようお願いいたします。
+badge_pokedex_entries_gen3_value_format
+N0
+badge_pokedex_entries_gen3
+ホウエン地方で発見されたポケモンを{0}匹ポケモン図鑑に登録できた！
+badge_pokedex_entries_gen3_title
+ホウエン
+deploy_battle_party_member_prompt
+{0} はバトルパーティに組み込まれているため、ジムに配置するとメンバーから外されてしまいます。
+party_creation_error_max_hit
+バトルに出せるのは6匹までです
+delete_battle_party_prompt
+{0} を削除してもいいですか？
+ar_plus_prompt_title
+AR+ でポケモンを捕まえる新しい体験を！
+ar_plus_prompt_description
+設定からいつでも変更できます
+ar_plus_show_me
+使ってみる
+ar_plus_no_thanks
+今は使わない
+ar_plus_safety_prompt
+周囲の安全をよく確認してから AR+ を使用してください
+ar_plus_change_anytime_from_settings
+AR+は設定メニューからオン・オフできます
+ar_plus_got_it
+OK
+ar_plus_look_around_toast
+平坦で開けた場所に向けて\nゆっくりカメラを動かしてください
+ar_plus_safety_toast
+安全な場所にいる時だけ\nAR+ を使用してください！
+ar_plus_tap_bush_toast
+草むらをタップしてポケモンを見つけよう！
+settings_ar_plus
+AR+
+encounter_score_ar_plus_bonus
+エキスパート
+ar_plus_tutorial_0
+周囲の安全を確認して、端末をゆっくり振るように動かし、地面など水平な場所を認識させてください。
+ar_plus_tutorial_1
+地面に草むらが表示されたら、タップするとポケモンが飛び出します。
+ar_plus_tutorial_2
+逃げられないように、そっと近づいて捕まえると、XPとほしのすなが多くもらえます！
+login_failure_wrong_credentials
+ユーザー名またはパスワードが正しくありません。
+news_see_details
+全文を読む
+news_today
+今日
+news_yesterday
+昨日
+news_days_ago
+{0}日前
+error_device_unsupported
+お使いのデバイスには対応していません
+view_supported_devices
+ヘルプセンターを開く
+device_unsupported_explanation
+Pokémon GOはお使いのデバイスには対応しておりません。対応機種についてはヘルプセンターでご確認ください。
+new_arrivals
+新着！
+avatar_shop_description
+新スタイル登場！
+style_shop
+スタイルショップへ
+iap_category_avatar
+スタイルショップ
+privacy_policy_text
+Nianticプライバシーポリシー<br><br><br>効力発生日：2018年6月18日<br><br>当社Niantic（以下「当社」といいます。）は、現実世界とシームレスに融合したシェアード・ワールドでの交流を可能とする、現実世界の拡張現実プラットフォームを提供しており、そのために、当社はお客様に関する情報を必要としています。お客様のプライバシーを保護することは、当社にとって非常に重要です。当社は、法的根拠がある場合に限り、お客様の情報を使用いたします。本プライバシーポリシーは、当社がいかなる情報を収集したか、当該情報を当社がどのように利用するか、又は、お客様が当社のゲームをプレイし、当社のウェブサイトを利用し、当社から商品を購入し、若しくはライブのイベントやプロモーションに参加する際に（以下、これら当社のサービスを併せて「本サービス」といいます。）どのような選択肢があるかについて、お客様にご理解いただくのに役立ちます。<br><br>以下の一般的な情報に加えて、特定の本サービスがお客様の情報をどのように使用するかについての具体的な情報は、本プライバシーポリシー末尾記載の「ゲーム固有の開示事項」に記載しておりますので、ご参照ください。<br><br>お客様と当社との間の契約について規定した当社のサービス利用規約についてもご確認ください。<br><br>お客様の情報の使用方法を決定する主体について<br><br>当社は、お客様の個人情報の使用方法に関する意思決定を担当するデータ管理者です。このポリシーについてご質問やご意見がある場合、お客様は以下の手段をとることができます。<br><br>当社に対する電子メールの送信（privacy@nianticlabs.com）<br><br>当社に対する書面のご送付（宛先：アメリカ合衆国、カリフォルニア州94111、サンフランシスコ、ワン・フェリービルディング　スイート 200）<br><br>データプロテクション担当者へのお問い合わせ（dpo@nianticlabs.com）<br><br>お客様に関して収集した情報とその使用方法について<br><br>本プライバシーポリシーは、お客様を識別することができる、又は、識別できる可能性がある情報（以下「個人情報」といいます。）の当社による使用を対象としています。これは、お客様を識別することができない情報（以下「匿名情報」といいます。）を対象とするものではありません。<br><br>当社は、お客様に本サービスを提供し、又はサービス利用規約に定めるお客様に対する義務を履行するために、特定の個人情報を収集し、使用する必要があります。<br><br>お客様が当社の本サービスの利用を申し込む場合（例えば、お客様がアカウントを申し込む場合）、お客様は、当社に対して任意に個人情報を提供するものとします。当社は、お客様がアカウント登録をして本サービスを使用する際に、お客様を認証し、又は、お客様が本サービスを受ける資格があるか、若しくは本サービスを受けることが可能であるかを確かめるために、個人情報を収集し、使用します。これにより、お客様は正しいバージョンの本サービスを受け取ることができます。当該個人情報には、お客様が本サービスで使用することを選択したゲーム内のユーザ名、及び当社がお客様のアカウントに割り当てる内部アカウントIDが含まれます。<br><br>本サービスを使用するには、サポートされている第三者のシングル・サインオン・サービスを備えたアカウントが必要です。したがって、当社が収集する個人情報は、お客様が使用する第三者のアカウント、そのプライバシーポリシー、及び、それらのサービスにおけるお客様のプライバシー設定において、お客様が当社の本サービスにアクセスするためにそれらのサービスを使用する際に、当社がいかなる情報を確認することを許可しているかによることとなります。<br><br>お客様がGoogleアカウントを本サービスに連携させることを選択した場合、当社はお客様のGoogleの電子メールアドレスとGoogleが提供する認証トークンを収集します。<br><br>お客様がFacebookアカウントを本サービスに連携させることを選択した場合、当社は、Facebookが提供する固有のユーザIDを収集し、また、お客様が許可する場合、お客様がFacebookに登録した電子メールアドレスを収集します。<br><br>お客様が加入する本サービスによっては、当社は、第三者のシングル・サインオン・サービスをサポートし、それらから追加の個人情報を収集することができます。詳細については、本プライバシーポリシーの末尾記載の「ゲーム固有の開示事項」をご覧ください。<br><br>第三者プロバイダの中には、お客様がシングル・サインオン・サービスを利用する際に、お客様の公開プロフィールなどの追加情報を当社に提供する旨を通知するものがありますが、当社はそのような情報を収集いたしません。<br><br>当社は、お客様が当社の本サービスを使用する際に、お客様の移動状況やゲームプレイ中に発生するイベントなどを含むお客様のデバイスの位置情報を収集し、使用します。当社のサービスには、お客様の現実世界における位置に結びついたゲーム体験を提供することを中核的特徴とする、位置情報を基にしたゲームが含まれているため、当社は、お客様がどこでゲームを操作しているかを把握し、ゲーム内リソース（例えば、Pokémon GOにおけるポケストップ）の位置を設計する必要があります。当社は、GPS、お客様が本サービスにアクセスしているWiFiポイント、携帯電話基地局の三角測量など、様々な技術を使用して、お客様の位置を特定します。<br><br>また、当社は、本サービスを運用するため、及び、全てのプレイヤーへのサービス利用規約に従った公正なゲーム体験の提供（詐欺防止及び不正行為防止対策を含みます。）を確実に行うために、お客様のゲーム内での行動及び成果や、ゲームプレイ中に収集されたお客様のモバイルデバイスに関する特定の情報（デバイス識別子、デバイスのOS、モデル、設定、お客様のデバイスにインストールされた第三者のアプリケーションに関する情報を含みます。）を収集し、使用します。<br><br>また、当社は、上記の情報を使用して、ゲームプレイ体験の一環として、お客様の近くにあるゲーム内のスポンサー提供の場所を表示します。<br><br>さらに、当社は、上記の情報を使用して、お客様に技術的サポート及び顧客サポートを提供します。<br><br>また、お客様は、お客様が当社を通じて商品の購入を行い、当社の出版物の定期購読を行い、競技会、プロモーション、くじ又は調査に参加し、又は当社とコミュニケーションをとる際にも、当社に個人情報を提供するものとします。これら個人情報には、お客様がこれら本サービスのいずれを使用するかに応じて、名前、住所、電話番号、居住国、（適格性を検証するために、必要に応じて）生年月日、及び電子メールアドレスが含まれる可能性があります。当社は、当該個人情報を使用して、本サービスをお客様に提供し、関連する顧客サポートをお客様に提供します。<br><br>当社は、以下のとおりお客様の個人情報を使用することについて正当な利益を有しており、これに依拠しています。<br><br>本サービスを誰が、どのように使用しているか認識するために、お客様のIPアドレス、ブラウザの種類、オペレーティングシステム、お客様が本サービスにアクセスする前に訪れたWebページ、お客様が閲覧した本サービスのページ又は使用した機能、これらのページ又は機能に費やした時間、お客様がクリックした本サービス上のリンク、デバイス識別子、及びゲームプレイ中に取った行動、並びにゲーム内のユーザ設定及びプリファレンス、並びにアプリケーション内の購入を使用すること。<br><br>お客様とコミュニケーションをとり、技術的サポートや顧客サポートを提供するために、お客様の連絡先情報、すなわちお客様の電子メールアドレスを使用すること。<br><br>ゲーム内において、又は電子メールによって、お客様と本サービスに関するアップデートやニュースを共有するために、お客様の電子メールアドレス及びデバイス情報を使用すること。お客様は、デバイス設定又はアプリケーション内の設定で、これらの登録をいつでも解除することができます。<br><br>お客様が、他のプレイヤーと交流し、プレイを共にし（他のプレイヤーとのコミュニケーションの保存を含む。）、友達を検索し又は友達から検索され、かつ、お客様のゲーム体験や成果を友達と共有することが可能となるように、本ゲームのソーシャル機能を提供すること。<br><br>本サービスに新規又は追加機能を提供すること。<br><br>ゲームを元にしたライブイベントの企画・運営をすること。お客様がライブイベントに参加する場合、ゲーム内の行動や成果、ゲーム内のユーザ名、アバターは、他のイベント参加者や一般の人に見えるようになりますので、ご注意ください（例えば、イベントやオンラインに表示されるリーダーボードなど。）。<br><br>詐欺防止及び不正行為防止措置を実施し、お客様及びその他のユーザが当社のサービス利用規約を遵守していることを保証すること。<br><br>法律上又は規制上の開示を行うこと。<br><br>当社は、お客様の同意を得た場合に限り、お客様の個人情報を以下の目的で使用します。<br><br>お客様が当社のゲーム内でFacebookユーザフレンド承認を有効にした場合、お客様が連携させているFacebookのアカウントから、当該ゲームをプレイしており、かつ、Facebookユーザフレンドを有効にしているお客様の友達のリストを取り込みます。当該承認を有効にした場合、お客様のFacebookのプロフィール画像やアカウントにおける名前が、ゲーム内のお客様の友達に表示されるようになります。お客様は、アプリ内の友達設定からいつでも、他のプレイヤーを友達から削除することができます。お客様は、Facebookのアカウント設定から直接、当社のゲームへのFacebook承認を取り消すこともできます。<br><br>お客様に対して、マーケティング資料を電子メール又はアプリ内通知で送信すること。お客様は、デバイス設定又はアプリケーション内の設定で、これらの登録をいつでも解除することができます。<br><br>当社がクッキー又は類似の技術を使用する場合、お客様の同意を必要とします。当社のクッキーの使用方法については、Cookie Policy (https://www.nianticlabs.com/cookies/ja)をご確認ください。クッキーが個人情報を収集する場合、当社は、お客様の明示的な同意に基づき、匿名形式で、又は仮名を付して当該個人情報を扱うものとします。<br><br>お客様はブラウザの設定でクッキーの使用を無効にすることができますが、「Do Not Track」信号の解読方法に関する業界基準が存在しないため、当社は、現在、ブラウザ又はモバイルアプリケーションからのHTTPヘッダ内の「Do Not Track」信号に対応していません。<br><br>情報の共有先について<br><br>当社は、以下の場合を除き、当社がお客様から又はお客様に関して収集した個人情報を共有しません。<br><br>サービスプロバイダーと共有する情報　当社は、本サービスを管理及び提供するために、当社と連携する第三者のサービスプロバイダを起用します。その一環として、第三者のサービスプロバイダが、当社に代わってお客様の個人情報を処理することとなります。これら第三者のサービスプロバイダは、本プライバシーポリシーに従い、当社に代わってサービスを提供する目的でのみ、お客様の個人情報にアクセスするものとし、また、お客様の個人情報をその他の目的のために開示又は使用してはならないことを契約上義務付けられています。当社が利用するサービスプロバイダは、以下の事項について、当社の手助けをします。<br>第三者のプラットフォーム及びソフトウェアツールを通じて、当社のモバイルゲームを実行し、運営し、維持すること。<br>コンテンツ・モデレーション及びクラッシュ分析を実行すること。<br>電子メールとモバイル・メッセージング・キャンペーンを実行すること。<br>ゲームとマーケティングの分析を行うこと。<br>ライブイベント、コンペティション、くじ及びプロモーションを管理すること。これには、プレイヤーの登録、チェックイン及び出席の管理、適格性及び賞品の履行の検証が含まれる。<br>技術的及び顧客サポートを提供すること。<br><br>他のプレイヤ－と共有する情報　お客様が本サービスを利用する場合、特に、お客様が当社のゲームをプレイし、当該ゲーム内のソーシャル機能を使用し、又はライブイベントに参加する場合、特定の個人情報を他のプレイヤーと共有することとなります。この個人情報には、お客様のゲーム内のプロフィール（ユーザ名、アバター及びチームなど。）ゲーム内の行動と成果、お客様がゲームをプレイする際に関わったゲームプレイのリソースが存在する現実世界の場所（例えば、Pokémon GOにおけるポケストップや、Ingressにおけるポータル）及びゲーム内の公開メッセージが含まれます。詳細については、本プライバシーポリシーの末尾記載の「ゲーム固有の開示事項」をご覧ください。<br><br>第三者と共有する情報　当社は、業界分析や市場分析のために、第三者と匿名情報を共有します。当社は、お客様の明示の同意がある場合に限り、お客様の個人情報を、直接的にマーケティングの目的で、販売パートナーである第三者に提供することができます。当社は、それ以外の第三者に対して、直接マーケティングの目的で、お客様の個人情報を共有することはいたしません。<br><br>当社の保護及び他者の保護のための情報開示　当社は、法の執行及び遵守のため、政府及び司法当局又は民間機関に協力します。当社は、(a)請求及び法的手続き（召喚状及び令状を含みます。）に対応するため、(b)当社の財産、権利及び安全、並びに第三者又は公衆の財産、権利及び安全を保護するため、並びに、(c)当社が違法、非道徳的、又は法的に実行可能であると考える活動を調査及び阻止するために、合理的に必要又は適切と考える場合に限り、政府、司法当局又は民間機関に対して、お客様に関する情報を共有します。<br><br>取引に伴う情報開示　個人情報など、当社がユーザから収集した情報は、事業資産です。当社が合併、買収、事業譲渡等の取引により第三者により取得された場合、又は当社が事業を停止若しくは破産した場合に当社の資産が第三者により取得された場合、お客様の個人情報を含む当社の資産の一部又は全部は、当該取引に関連して取得者である第三者に開示又は譲渡されます。<br><br>個人情報の譲渡について<br><br>当社は世界中で本サービスを運営しています。お客様の個人情報は、本プライバシーポリシーに記載の目的のために、お客様の居住国以外の国（米国を含みます。）に送信され、保存される可能性が高いといえます。これらの国のデータ保護法制は、お客様の居住国のデータ保護法制と異なる場合があります。<br><br>当社がお客様の個人情報を欧州経済領域（EEA）から米国を含む他の国に送信する場合、当社は、以下のセーフガードの少なくとも1つが実施されることを確実にすることによって、お客様の個人情報に対してEEA内と同程度の保護措置を講ずることを保証します。<br><br>お客様の個人情報が送信される国は、EEAとして個人情報に適切なレベルの保護措置を講じていると欧州委員会がみなした国であること。<br><br>当社が、欧州でサービスプロバイダと契約をする際の保護措置と同程度の保護を与えるものとして、欧州委員会が承認した、特定の契約を利用すること。<br><br>当社が米国のサービスプロバイダと契約をしている場合、当該サービスプロバイダがEU-US Privacy Shieldに準拠していること。EU-US Privacy Shieldは、EEAと同程度の個人情報の保護措置を講ずることをサービスプロバイダに義務付けています。<br><br>お客様の個人情報の安全性の確保<br><br>私たちは、お客様の個人情報が、不慮の紛失、使用、不正なアクセス、不正な変更、又は開示を受けないよう、適切なセキュリティ対策を講じています。また、お客様の個人情報へのアクセスについて、これら個人情報を知る必要性のある従業員、代理人、請負業者及びその他の第三者のみに制限します。彼らは当社の指示に基づいてお客様の個人情報を処理するだけであり、秘密保持義務を負います。当社は、個人情報の取り扱いについて違反が生じたと疑われる場合に、これに対処するための手続を整備し、また、法律上必要とされる場合には、当該違反について、お客様及び規制当局に通知いたします。<br><br>お客様の個人情報の保存期間<br><br>当社は、本サービスをお客様に提供し、本プライバシーポリシーに定める目的を達成する必要がある限り、お客様の個人情報を保存いたします。これは、当社と共にお客様の情報を共有し、又は当社に代わってサービスを提供している第三者にも適用されます。<br><br>当社がお客様の個人情報を使用する必要がなくなり、かつ、法律上の義務又は規制上の義務を遵守するために当該情報を保存する必要がなくなった場合は、当社は、お客様の個人情報を当社のシステムから削除し、又は匿名化することでお客様と関連付けることができないようにいたします。<br><br>お客様の権利及び選択<br><br>お客様は、ご自身の個人情報に関して一定の権利を有しています。これらの権利を行使するには、下記にご連絡ください。<br><br>Pokémon GOについて：こちら (https://support.pokemongo.nianticlabs.com/hc/articles/115008306667)<br><br>Ingressについて：こちら (https://support.ingress.com/hc/)<br><br>その他の全ての本サービスについて：privacy@nianticlabs.com<br><br>お客様は、以下のことが可能です。<br><br>当社が保有する個人情報へのアクセスを要求すること。<br><br>お客様の個人情報を削除又は修正すること。お客様のアカウント情報を更新する最も簡単な方法は、アプリケーション内の設定による方法です。顧客サポートのご依頼は、Pokémon GO のサポートサイト(https://support.pokemongo.nianticlabs.com/hc/articles/222060687) 又はIngressのサポートサイト(https://support.ingress.com/hc/articles/206618198) からも行えます。<br><br>お客様の個人情報の処理について、異議を申し立てること。ただし、当社が保有する個人情報の一部は、当社がお客様に本サービスを提供し、 又はサービス利用規約に定めるお客様に対する義務を履行するために必要となります。<br><br>マーケティング及び販売促進目的によるものも含め、お客様の個人情報の使用を中止するよう弊社に依頼すること（ただし、お客様が本サービスを使用するためには、当社がお客様の個人情報を使用する必要がある場合があることにご留意ください。）。<br><br>お客様の個人情報を別の組織に送信すること（技術的に実現可能な場合）。<br><br>規制当局への申し立てをすること。まずは当社にお問い合わせいただき、当社がお客様のご懸念に直接対処する機会をいただけますと幸いです。しかし、EEAに居住のお客様で、当社がデータ保護法を遵守していないとお考えの場合は、当社の規制当局、英国の情報コミッショナーオフィス、又はお客様の地方監督当局に申し立てを行うことができます。<br><br>なお、法律上、特定の状況において、上記権利の例外が認められています。このような例外的状況に当たるために、お客様が上記権利を行使することができない場合、その理由についてお客様に説明いたします。<br><br>当社は、お客様の個人情報の収集、使用、及び共有に関してお客様に選択の機会を提供し、お客様の選択を尊重します。お客様が当社の請求する個人情報を当社に提供しないことを選択した場合、お客様が本サービスの全ての機能にアクセスできない場合があることについてご留意ください。<br><br>私たちは、30日以内に、お客様の請求する情報を提供し、又はお客様が求める結果を完遂することを目指します。<br><br>お子様について<br><br>原則として、お客様がEEA域外にいる場合、13歳未満のお子様は、本サービスの使用をすることはできません。お客様がEEAに居住されている場合は、16歳以上の場合、又はお客様の居住国において個人情報の処理に同意するために必要な年齢に達している場合に限り、本サービスを使用することができます。ただし、Pokémon GOサービスについては、親権者の同意があれば、お子様もご利用いただけます。詳細については、本プライバシーポリシー末尾記載の「ゲーム固有の開示事項」をご覧ください。<br><br>当社が、13歳未満（EEA内においては16歳未満）のお子様、又は個人情報の処理に同意するために必要な年齢に達していないお子様の個人情報を収集したことが発覚し、さらに親権者の同意が得られない場合は、速やかに当該個人情報をファイルから削除する措置を講じます。<br><br>本プライバシーポリシーの改訂<br><br>当社が収集する個人情報は、当該情報が収集された時点で有効な本プライバシーポリシーの対象となります。当社は、本プライバシーポリシーを随時改訂することができるものとします。本プライバシーポリシーについて重大な変更を行う場合には、合理的な通知をいたします。<br><br>第三者について<br><br>当社の本サービスを利用する際に、お客様が第三者の所有又は運営するウェブサイト及びサービス（それぞれ「第三者サービス」といいます。）へのリンクにアクセスすることがあります。お客様が第三者サービス上で、若しくは第三者サービスに対して提供する情報、又は第三者サービスによって収集される情報は、第三者サービスの所有者又は運営者に直接提供され、当該所有者又は運営者のプライバシーポリシーに従うものとします。当社は、第三者サービスのコンテンツ、プライバシー又はセキュリティに関する取り扱い及びポリシーに関して責任を負いません。お客様の情報を保護するためにも、お客様がアクセスする全ての第三者サービスのプライバシーポリシーを十分に検討されることをお勧めします。<br><br>11. ゲーム固有の開示事項<br><br>Pokémon GOの追加プライバシー情報<br><br>ポケモントレーナークラブのアカウント　お客様は、The Pokémon Company International（以下「TPCI」といいます。）が管理するポケモントレーナークラブ（以下「PTC」といいます。）のアカウントを使用して、Pokémon GOに登録することができます。その場合、TPCIから、お客様がPTCに登録した電子メールアドレス、PTCのユーザ名、及び固有のPTCユーザIDを収集します。お客様が、お客様のPTCアカウントを、お客様のお子様に代わって登録する場合、私たちはお客様のお子様に関する個人情報も収集します。詳しい情報については、以下の「お子様のアカウント」に関する項目をご参照ください。<br><br>お子様のアカウント　当社は、TPCIが管理する検証及び同意取得プロセスを通じて、米国の児童オンラインプライバシー保護法（Children’s Online Privacy Protection Act（COPPA））及び欧州データ保護に関する法（データ保護指令を含みますが、これに限りません。）により義務付けられている親権者の同意の要件を遵守します。Pokémon GO サービス利用規約に記載されているとおり、13歳未満（EEA内においては16歳未満）のお子様、又は個人情報の処理に同意するために必要な年齢に達していないお子様（以下「お子様等」といいます。）の親権者又は法的な保護者（以下「親権者等」といいます。）は、お子様等がゲームにアクセスし、使用することができるようになる前に、PTCアカウントを通じてTPCIに登録する必要があります。親権者等は、TPCIプライバシーポリシーに従って、お子様等に関する特定の個人情報をTPCIに提供する必要があります。これらの情報のうち、当社は、TPCIから、お子様等の電子メールアドレス、及びお子様等が上記に列挙した年齢制限を超える日付のみを収集します。<br><br>米国居住者については、親権者等がPTCアカウントを登録した後、TPCIが、親権者等の社会保障番号の最初の桁と最後の桁の数字の合計、親権者等の氏名、生年月日、及び住所に関する情報を求めることによって、親権者等の身元を確認します。これらの情報をTPCIが当社と共有することはありません。TPCIは、親権者等の身元を確認次第、当該親権者等に対して、お子様等がPokémon GOにアクセスすることに同意することを求めます。親権者等が、同意取得プロセスの中で、お子様等のPokémon GOへのアクセス及びPokémon GOの使用に同意しない場合、又は親権者等の身元を確認しない場合、当社は、お子様等のPokémon GOへの登録を禁止し、当該お子様等によるゲームへのアクセス及びゲームの使用ができないようにします。<br><br>親権者等には、当社に通知することで、お子様等の個人情報のさらなる収集、使用、及び／又は開示を拒否する権利があります。親権者等は、本プライバシーポリシーの項目3に記載されるとおり、当社が、本サービスを通じて収集されたお子様等の情報を、本サービスの管理又は提供のみを目的として、第三者プロバイダに提供することについて正当な利益を有するということを理解するものとします。<br><br>他のプレイヤーとの情報共有　お客様がPokémon GOで特定の行動を実行し、ジムをキャプチャすると、お客様（又はそのお子様等）のユーザ名が、当該ジムの場所に関連して、ゲームを通じて、他のプレイヤーを含んだ公衆に共有されます。<br><br>Apple Watch及びApple ヘルスケアアプリケーション・データ　お客様がPokémon GOをApple Watchで利用される場合、当社は、Apple HealthKit APIを用いて、お客様のフィットネス活動に関する特定のデータ（歩数、カロリー消費、歩行距離）を、お客様のデバイス上のヘルスケアアプリケーション・データベース（以下「ヘルスケアアプリケーション・データ」といいます。）に読み取り、又は入力します。お客様のPokémon GOユーザアカウントに関連付けて、ヘルスケアアプリケーション・データを当社のサーバに保存することができます。当社は、ヘルスケアアプリケーション・データを使用して、お客様に対してゲーム内の特定の機能（卵が孵化するまでの歩行距離など）を提供し、また、お客様がPokémon GOをプレイしている間に行った全ての歩行について、Apple ヘルスケアアプリケーションにおいても実績（クレジット）として確実に取り扱われるようにすることができます。当社は、マーケティング又は広告目的のためにヘルスケアアプリケーション・データを使用することはありません。当社はiCloudにヘルスケアアプリケーション・データを保存しません。Pokémon GOは、お客様の同意を得ることなく、ヘルスケアアプリケーション・データベースを読み取り、又は入力することはできません。<br>Ingressの追加プライバシー情報<br><br>情報共有　お客様がIngressをプレイする場合、ゲームプレイの一環として、お客様に関する以下の情報が、ゲームを通じて共有され（アプリケーション内の他のプレイヤーとの間で、ゲームプレイの一環として送信されるゲーム通知、及びIngressインテルマップウェブサイト上でのオンライン状況が共有されることを含みます。）、公に利用可能となります。<br>：ゲーム内のユーザ名、COMM（コム）内で他のユーザに送信されるメッセージ、お客様が関与するゲーム内のポータル、及び、ゲーム内で行動している際のお客様のデバイスの位置。<br>
+err_incense_already_active
+既におこうを使っています
+err_incense_no_items
+おこうを持っていません
+err_lucky_egg_no_items
+しあわせタマゴを持っていません
+err_lucky_egg_cannot_use
+しあわせタマゴを使うことができませんでした
+err_tm_cannot_use
+わざマシンを使うことができませんでした
+err_berry_cannot_feed
+きのみをあげることができません
+err_pokemon_could_not_evolve
+進化できませんでした
+err_pokemon_could_not_be_found
+ポケモンに遭遇できませんでした
+err_item_cannot_use
+この道具を使うことができませんでした
+err_pokemon_already_encountered
+このポケモンには既に遭遇しています
+err_cannot_change_buddy
+相棒のポケモンを替えることができませんでした
+err_gym_battle_completed
+ジムバトルは終了しています
+err_gym_battle_ended
+ジムバトルは終了しました
+err_fetch_raid_details
+レイドの詳細がみつかりません
+err_cannot_join_raid_group
+レイドのグループに参加できません
+err_leave_raid_lobby
+レイドロビーから出ることができません
+err_avatar_incorrect
+アバターが違います
+err_raid_unavailable
+このレイドバトルは行われません
+err_raid_lobby_not_found
+レイドロビーがありません
+err_gym_deploy
+ポケモンが配置できませんでした
+err_bundle_request
+サーバーからコンテンツを取り込むことができませんでした
+alola_pokedex_header
+アローラのすがた
+privacy_policy_short_button
+プライバシー
+pokemon_info_caught
+捕まえた日
+pokemon_info_hatched
+かえった日
+pokemon_info_trade
+交換
+terms_of_service_url
+https://www.nianticlabs.com/terms/pokemongo/ja/
+no_news_message
+ニュースはありません
+view_in_map
+マップを開く
+badge_chicago_fest_july_2018_sat_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_north
+シカゴ、2018年7月14日 - 北口
+badge_chicago_fest_july_2018_sat_south
+シカゴ、2018年7月14日 - 南口
+badge_chicago_fest_july_2018_sun_south
+シカゴ、2018年7月15日 - 南口
+badge_chicago_fest_july_2018_sun_north
+シカゴ、2018年7月15日 - 北口
+error_contains_bad_text
+その名前は使用できません。
+pokestop_item_passcode_inventory_full
+持ち物がいっぱい、もしくは、チェックインできる場所から離れてしまっています
+error_weak_network
+通信状態が不安定です。通信状態が良い場所でもう一度お試しください。
+badge_apac_partner_july_2018_1
+日本 2018/7/28
+badge_apac_partner_july_2018_2
+日本 2018/7/26
+badge_apac_partner_july_2018_3
+日本 2018/7/27
+badge_apac_partner_july_2018_4
+日本 2018/7/29
+badge_apac_partner_july_2018_5
+韓国 2018/7/29
+badge_apac_partner_july_2018_1_title
+Pokémon GO Special Weekend 2018/7/28
+badge_apac_partner_july_2018_2_title
+Pokémon GO Special Weekend 2018/7/26
+badge_apac_partner_july_2018_3_title
+Pokémon GO Special Weekend 2018/7/27
+badge_apac_partner_july_2018_4_title
+Pokémon GO Special Weekend 2018/7/29
+badge_apac_partner_july_2018_5_title
+Pokémon GO Special Weekend 2018/7/29
+banned_player_lockout_1|a
+アカウント永久停止のお知らせ\n\n利用規約違反の状態が引き続き検出されたため、お使いのアカウントが停止されました。\n\n詳細は、<a href="three_strike_policy_url">ヘルプセンター</a> でご確認ください。
+suspended_player_lockout_1
+アカウント凍結のお知らせ\n\n利用規約違反の状態が引き続き検出されたため、お使いのアカウントが凍結されました。\n\nアカウント凍結（ストライク2）状態は、約30日間続きます。その後も不正なアクセスが継続されていると認められた場合、アカウントが永久に停止されます。\n\nアカウント停止に関する詳細は、<a href="three_strike_policy_url">ヘルプセンター</a> でご確認ください。
+player_cheating_warning|a
+警告\n\nあなたのアカウントが、改変されたクライアントソフトウェアもしくは許可されていない第三者の不正なソフトウェアを利用し、利用規約に違反する形でPokémon GOにアクセスしていることが検出されたため、ストライク1が適用されます。ストライク1の状態は約7日間続きます。\n\nこのようなソフトウェアを利用したアクセスは止めていただくようお願いいたします。不正行為を続けて行った場合、アカウントが一時的に停止されます。 \n\nアカウント凍結に関する詳細は、<a href="three_strike_policy_url">ヘルプセンター</a>でご確認ください。
+three_strike_policy_url
+https://support.pokemongo.nianticlabs.com/hc/ja/articles/360001743487-%E4%B8%8D%E6%AD%A3%E8%A1%8C%E7%82%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B-3-%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC
+badge_yokosuka_29_aug_2018_mikasa_title
+Pokémon GO Safari
+badge_yokosuka_29_aug_2018_verny_title
+Pokémon GO Safari
+badge_yokosuka_29_aug_2018_kurihama_title
+Pokémon GO Safari
+badge_yokosuka_30_aug_2018_mikasa_title
+Pokémon GO Safari
+badge_yokosuka_30_aug_2018_verny_title
+Pokémon GO Safari
+badge_yokosuka_30_aug_2018_kurihama_title
+Pokémon GO Safari
+badge_yokosuka_31_aug_2018_mikasa_title
+Pokémon GO Safari
+badge_yokosuka_31_aug_2018_verny_title
+Pokémon GO Safari
+badge_yokosuka_31_aug_2018_kurihama_title
+Pokémon GO Safari
+badge_yokosuka_1_sep_2018_mikasa_title
+Pokémon GO Safari
+badge_yokosuka_1_sep_2018_verny_title
+Pokémon GO Safari
+badge_yokosuka_1_sep_2018_kurihama_title
+Pokémon GO Safari
+badge_yokosuka_2_sep_2018_mikasa_title
+Pokémon GO Safari
+badge_yokosuka_2_sep_2018_verny_title
+Pokémon GO Safari
+badge_yokosuka_2_sep_2018_kurihama_title
+Pokémon GO Safari
+badge_yokosuka_29_aug_2018_mikasa
+横須賀、2018年8月29日 - 三笠公園
+badge_yokosuka_29_aug_2018_verny
+横須賀、2018年8月29日 - ヴェルニー公園
+badge_yokosuka_29_aug_2018_kurihama
+横須賀、2018年8月29日 - くりはま花の国
+badge_yokosuka_30_aug_2018_mikasa
+横須賀、2018年8月30日 - 三笠公園
+badge_yokosuka_30_aug_2018_verny
+横須賀、2018年8月30日 - ヴェルニー公園
+badge_yokosuka_30_aug_2018_kurihama
+横須賀、2018年8月30日 - くりはま花の国
+badge_yokosuka_31_aug_2018_mikasa
+横須賀、2018年8月31日 - 三笠公園
+badge_yokosuka_31_aug_2018_verny
+横須賀、2018年8月31日 - ヴェルニー公園
+badge_yokosuka_31_aug_2018_kurihama
+横須賀、2018年8月31日 - くりはま花の国
+badge_yokosuka_1_sep_2018_mikasa
+横須賀、2018年9月1日 - 三笠公園
+badge_yokosuka_1_sep_2018_verny
+横須賀、2018年9月1日 - ヴェルニー公園
+badge_yokosuka_1_sep_2018_kurihama
+横須賀、2018年9月1日 - くりはま花の国
+badge_yokosuka_2_sep_2018_mikasa
+横須賀、2018年9月2日 - 三笠公園
+badge_yokosuka_2_sep_2018_verny
+横須賀、2018年9月2日 - ヴェルニー公園
+badge_yokosuka_2_sep_2018_kurihama
+横須賀、2018年9月2日 - くりはま花の国
+badge_pokedex_entries_gen4_title
+シンオウ

@@ -1,0 +1,4 @@
+catch_a_pokemon_short_title
+Fange ein Pokémon!
+visit_a_pokestop_short_title
+Besuche einen PokéStop!

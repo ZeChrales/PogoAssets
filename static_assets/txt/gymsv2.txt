@@ -280,12 +280,12 @@ battle_prep_opponents_header
 Oponentes
 gym_feed_pokemon_busy
 Tente de novo.
-gymbadge_sort_defending
-Defendendo
 raid_finding_players
 Encontrando outros jogadores...
 gym_same_team_deploy_lockout
 O Ginásio está sendo atacado! Tente de novo mais tarde.
+gymbadge_sort_defending
+Defendendo
 screen_title_badge_collection
 Insígnias de Ginásio
 profile_no_gymbadges
@@ -369,7 +369,7 @@ O Pokémon deve ter os PS completos.
 disabled_buddy
 Você não pode designar seu Pokémon companheiro para defender um Ginásio.
 badge_raid_battle_won
-Vença {0} Reides.
+Reides vencidos: {0}
 badge_hours_defended_title
 Líder de Ginásio
 badge_hours_defended

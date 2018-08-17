@@ -399,9 +399,9 @@ GO Fest T恤
 bundle.general1.small.1_title
 特別禮盒
 bundle.general1.medium.1_title
-高級禮盒
-bundle.general1.large.1_title
 超級禮盒
+bundle.general1.large.1_title
+高級禮盒
 avatar_m_hat_mimikyu_icon
 謎擬Ｑ的畫皮帽
 avatar_f_hat_mimikyu_icon

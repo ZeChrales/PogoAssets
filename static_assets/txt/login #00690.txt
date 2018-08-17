@@ -1,113 +1,3 @@
-age_gate_screen
-請輸入你的出生年月日
-authentication_revoked_error
-無法連線至伺服器。
-banned_player_help_center_link
-https://pokemongo.nianticlabs.com/support/banned/en
-banned_player_lockout_1
-你的帳號已因違反服務條款而被停權。\n\n關於帳號停權處分，請參閱常見問題。
-banned_player_lockout_2
-詳細資訊
-err_no_internet
-無法連線至網路
-err_update_now
-有新版本的Pokémon GO可以下載了。要現在更新嗎？
-facebook_login_button
-Facebook
-fb_auth_failed
-無法進行認證，請再試一次。
-field_test_lockout
-感謝你來參加Pokémon GO的測試！\n我們很快就會再見面的！
-general_accept
-同意
-general_error
-錯誤
-general_network_error
-網路錯誤
-general_button_select
-確定
-general_cancel
-取消
-general_no
-No
-general_ok
-OK
-general_sign_out
-登出
-general_sign_out_confirm
-確定要登出嗎？
-general_yes
-Yes
-google_auth_failed
-無法進行認證，請再試一次。
-google_login_button
-Google
-login_username
-輸入用戶名稱
-login_password
-輸入密碼
-privacy_policy_title
-Pokémon GO 隱私權政策
-privacy_policy_button
-隱私權政策
-ptc_auth_failed
-無法進行認證，請再試一次。
-ptc_error_activation_required
-請先啟動你的帳號
-ptc_forgot_password
-忘了你的密碼？
-ptc_forgot_username
-忘了你的用戶名稱？
-ptc_login_button
-寶可夢訓練家俱樂部
-ptc_login_submit
-登入
-ptc_login_title
-寶可夢訓練家俱樂部
-ptc_need_to_register_button
-註冊
-registration_choice_screen
-請選擇你要註冊的帳號
-server_lockout
-感謝各位玩家的熱烈支持\n\n我們會盡快解決伺服器的問題，請稍後再試一次！
-settings_are_you_sure_support_prompt
-確定要結束遊戲，前往常見問題的網頁嗎？
-submit_age_button
-確定
-unauthorized_device_help_center_link
-https://pokemongo.nianticlabs.com/support/unauthorized-device/en
-unauthorized_device_lockout_1
-你的裝置、作業系統或軟體與Pokémon GO不相容
-month_jan
-1
-month_feb
-2
-month_mar
-3
-month_apr
-4
-month_may
-5
-month_jun
-6
-month_jul
-7
-month_aug
-8
-month_sep
-9
-month_oct
-10
-month_nov
-11
-month_dec
-12
-authentication_retry_prompt
-無法登入
-authentication_failed_try_again
-再試一次
-authentication_failed_sign_out
-以其他帳號登入
 existing_player_label
 已註冊的玩家
 existing_player_button
@@ -147,9 +37,9 @@ Google
 login_provider_facebook
 Facebook
 sa_login_button
-Niantic for Kids
+Niantic Kids
 sa_login_title
-Niantic for Kids
+Niantic Kids
 login_create_player
 選擇建立帳號的方式：
 login_sign_in
@@ -165,14 +55,20 @@ login_create_account
 ptc_account_creation_prompt
 沒有寶可夢訓練家俱樂部的帳號嗎？
 sa_account_creation_prompt
-沒有 Niantic for Kids 的帳號嗎？
+沒有 Niantic Kids 的帳號嗎？
 ptc_login_server_unreachable
 寶可夢訓練家俱樂部暫時無法連線，敬請見諒
 sa_login_server_unreachable
-Niantic for Kids暫時無法連線，敬請見諒
+Niantic Kids暫時無法連線，敬請見諒
 sa_auth_failed_permissions
-請先讓家長或監護人登入Niantic for Kids帳號，並開啟帳號許用使可後，再開始玩遊戲
+請先讓家長或監護人登入Niantic Kids帳號，並開啟帳號許用使可後，再開始玩遊戲
 sa_auth_failed
 無法認證，請再試一次
 sa_parent_dashboard_url
-https://parents.superawesome.tv/en/login
+https://parents.nianticlabs.com/zh-tw/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/zh-tw/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/zh-tw/password/forgot
+unlink_account_failed_login_not_removable
+<size=36><b>無法解除此帳號的綁定</b></size>\n\n你可能已經將此帳號與其他Niantic服務綁定。請先新增其他登入帳號，再解除此帳號的綁定。

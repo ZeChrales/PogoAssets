@@ -1,113 +1,3 @@
-age_gate_screen
-Insira sua data de nascimento.
-authentication_revoked_error
-Não foi possível conectar ao servidor.
-banned_player_help_center_link
-https://pokemongo.nianticlabs.com/support/banned/en
-banned_player_lockout_1
-Sua conta foi suspensa por violar os Termos de Serviço.\n\nVisite a central de ajuda para obter mais informações.
-banned_player_lockout_2
-Mais informações
-err_no_internet
-Não há conexão com a internet.
-err_update_now
-Uma nova versão de <i>Pokémon GO</i> está disponível. Quer atualizar sua versão agora?
-facebook_login_button
-Facebook
-fb_auth_failed
-Não foi possível autenticar. Tente de novo.
-field_test_lockout
-Agradecemos por realizar testes de campo do <i>Pokémon GO</i>!\nVoltaremos em breve!
-general_accept
-Aceitar
-general_error
-Erro
-general_network_error
-Erro
-general_button_select
-Selecionar
-general_cancel
-Cancelar
-general_no
-Não
-general_ok
-OK
-general_sign_out
-Sair
-general_sign_out_confirm
-Tem certeza de que quer sair?
-general_yes
-Sim
-google_auth_failed
-Não foi possível autenticar. Tente de novo.
-google_login_button
-Google
-login_username
-Insira seu nome de usuário
-login_password
-Insira sua senha
-privacy_policy_title
-Política de privacidade do <i>Pokémon GO</i>
-privacy_policy_button
-Política de privacidade
-ptc_auth_failed
-Não foi possível autenticar. Tente de novo.
-ptc_error_activation_required
-Ative sua conta para jogar <i>Pokémon GO</i>.
-ptc_forgot_password
-Esqueceu sua senha?
-ptc_forgot_username
-Esqueceu seu nome de usuário?
-ptc_login_button
-Clube de Treinadores de Pokémon
-ptc_login_submit
-Entrar
-ptc_login_title
-Clube de Treinadores de Pokémon
-ptc_need_to_register_button
-Registrar
-registration_choice_screen
-Selecione uma conta para se registrar com ela.
-server_lockout
-Houve um problema com nossos servidores. Por favor, tente de novo mais tarde.
-settings_are_you_sure_support_prompt
-Deseja sair do jogo e ir ao site de serviço ao cliente?
-submit_age_button
-Confirmar
-unauthorized_device_help_center_link
-https://pokemongo.nianticlabs.com/support/unauthorized-device/en
-unauthorized_device_lockout_1
-Este dispositivo, sistema operacional ou software não é compatível com <i>Pokémon GO</i>.
-month_jan
-Jan.
-month_feb
-Fev.
-month_mar
-Mar.
-month_apr
-Abr.
-month_may
-Maio
-month_jun
-Jun.
-month_jul
-Jul.
-month_aug
-Ago.
-month_sep
-Set.
-month_oct
-Out.
-month_nov
-Nov.
-month_dec
-Dez.
-authentication_retry_prompt
-Não foi possível entrar.
-authentication_failed_try_again
-Tentar de novo
-authentication_failed_sign_out
-Tentar com outra conta
 existing_player_label
 Jogador retornando?
 existing_player_button
@@ -147,9 +37,9 @@ Google
 login_provider_facebook
 Facebook
 sa_login_button
-Niantic para crianças
+Niantic Kids
 sa_login_title
-Niantic para crianças
+Niantic Kids
 login_create_player
 Criar conta com:
 login_sign_in
@@ -165,14 +55,20 @@ Criar uma aqui
 ptc_account_creation_prompt
 Não tem uma conta do Clube de Treinadores de Pokémon?
 sa_account_creation_prompt
-Não tem uma conta da Niantic para crianças?
+Não tem uma conta da Niantic Kids?
 ptc_login_server_unreachable
 O Clube de Treinadores de Pokémon está indisponível no momento. Sentimos pela inconveniência.
 sa_login_server_unreachable
-Niantic para crianças está indisponível no momento. Sentimos pela incoveniência.
+Niantic Kids está indisponível no momento. Sentimos pela incoveniência.
 sa_auth_failed_permissions
-Para poder jogar, peça para um de seus pais ou guardiões entrar na conta deles da Niantic para crianças e autorizar a sua conta.
+Para poder jogar, peça para um de seus pais ou guardiões entrar na conta deles da Niantic Kids e autorizar a sua conta.
 sa_auth_failed
 Não foi possível autenticar. Tente de novo.
 sa_parent_dashboard_url
-https://parents.superawesome.tv/en/login
+https://parents.nianticlabs.com/pt-br/login
+sa_registration_url
+https://niantic-sso.kws.superawesome.tv/pt-br/register
+sa_forgot_password_url
+https://niantic-sso.kws.superawesome.tv/pt-br/password/forgot
+unlink_account_failed_login_not_removable
+<size=36><b>Não é possível desvincular esta conta!</b></size>\n\nVocê pode ter vinculado esta conta com outros produtos da Niantic. Por favor, vincule outra conta para desvincular esta.

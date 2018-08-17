@@ -1,0 +1,1686 @@
+badge_capture_total
+포켓몬을 {0} 마리 잡았다!
+badge_capture_total_title
+콜렉터
+badge_capture_total_value_format
+N0
+badge_defeated_fort
+{0} 번 배틀했다!
+badge_defeated_fort_title
+배틀한 수
+badge_defeated_fort_value_format
+N0
+badge_encountered_total
+포켓몬을 {0} 마리 발견했다!
+badge_encountered_total_title
+발견한 수
+badge_encountered_total_value_format
+NO
+badge_evolved_total
+포켓몬을 {0} 마리 진화했다!
+badge_evolved_total_title
+연구원
+badge_evolved_total_value_format
+N0
+badge_hatched_total
+알을 {0} 개 부화시켰다!
+badge_hatched_total_title
+브리더
+badge_hatched_total_value_format
+N0
+badge_pokedex_entries
+포켓몬 도감에 {0} 마리 등록했다!
+badge_pokedex_entries_title
+관동
+badge_pokedex_entries_value_format
+N0
+badge_pokestops_visited
+포켓스톱을 {0} 번 방문했다!
+badge_pokestops_visited_title
+백팩커
+badge_pokestops_visited_value_format
+N0
+badge_travel_km
+{0} km 걸었다!
+badge_travel_km_title
+조깅
+badge_travel_km_value_format
+N2
+badge_unique_pokestops
+{0} 군데의 유니크한 포켓스톱
+badge_unique_pokestops_title
+유니크 포켓스톱
+badge_unique_pokestops_value_format
+N0
+badge_you_earned
+신난다~! 메달을 획득했다!
+badge_big_magikarp
+거대한 잉어킹을 {0} 마리 잡았다!
+badge_big_magikarp_title
+낚시꾼
+badge_big_magikarp_value_format
+N0
+badge_small_rattata
+작은 사이즈의 꼬렛을 {0} 마리 잡았다!
+badge_small_rattata_title
+반바지 꼬마
+badge_small_rattata_value_format
+N0
+badge_pikachu
+피카츄를 {0} 마리 잡았다!
+badge_pikachu_title
+피카츄 애호가클럽
+badge_pikachu_value_format
+N0
+badge_deployed_total
+체육관에 {0} 마리 포켓몬을 배치했다!
+badge_deployed_total_title
+체육관에 배치한 포켓몬 수
+badge_deployed_total_value_format
+N0
+badge_battle_attack_won
+체육관에서 {0} 회 배틀에 이겼다!
+badge_battle_attack_won_title
+배틀걸
+badge_battle_attack_won_value_format
+N0
+badge_battle_training_won
+포켓몬을 {0} 마리 트레이닝했다!
+badge_battle_training_won_title
+엘리트 트레이너
+badge_battle_training_won_value_format
+N0
+badge_battle_defend_won
+{0} 회 체육관을 방어했다!
+badge_battle_defend_won_title
+체육관 방어 횟수
+badge_battle_defend_won_value_format
+N0
+badge_prestige_raised
+체육관의 명성을 {0} 올렸다!
+badge_prestige_raised_title
+체육관 명성 업
+badge_prestige_raised_value_format
+N0
+badge_prestige_dropped
+체육관의 명성을 {0} 떨어뜨렸다!
+badge_prestige_dropped_title
+체육관 명성 다운
+badge_prestige_dropped_value_format
+N0
+badge_type_normal
+노말타입 포켓몬을 {0} 마리 잡았다!
+badge_type_normal_title
+학원 끝난 아이
+badge_type_normal_value_format
+N0
+badge_type_fighting
+격투타입 포켓몬을 {0} 마리 잡았다!
+badge_type_fighting_title
+태권왕
+badge_type_fighting_value_format
+N0
+badge_type_flying
+비행타입 포켓몬을 {0} 마리 잡았다!
+badge_type_flying_title
+새 조련사
+badge_type_flying_value_format
+N0
+badge_type_poison
+독타입입 포켓몬을 {0} 마리 잡았다!
+badge_type_poison_title
+배드걸
+badge_type_poison_value_format
+N0
+badge_type_ground
+땅타입 포켓몬을 {0} 마리 잡았다!
+badge_type_ground_title
+유적마니아
+badge_type_ground_value_format
+N0
+badge_type_rock
+바위타입 포켓몬을 {0} 마리 잡았다!
+badge_type_rock_title
+등산가
+badge_type_rock_value_format
+N0
+badge_type_bug
+벌레타입 포켓몬을 {0} 마리 잡았다!
+badge_type_bug_title
+곤충채집소년
+badge_type_bug_value_format
+N0
+badge_type_ghost
+고스트타입 포켓몬을 {0} 마리 잡았다!
+badge_type_ghost_title
+오컬트마니아
+badge_type_ghost_value_format
+N0
+badge_type_steel
+강철타입 포켓몬을 {0} 마리 잡았다!
+badge_type_steel_title
+역무원
+badge_type_steel_value_format
+N0
+badge_type_fire
+불꽃타입 포켓몬을 {0} 마리 잡았다!
+badge_type_fire_title
+캠프파이어
+badge_type_fire_value_format
+N0
+badge_type_water
+물타입 포켓몬을 {0} 마리 잡았다!
+badge_type_water_title
+수영팬티소년
+badge_type_water_value_format
+N0
+badge_type_grass
+풀타입 포켓몬을 {0} 마리 잡았다!
+badge_type_grass_title
+정원사
+badge_type_grass_value_format
+N0
+badge_type_electric
+전기타입 포켓몬을 {0} 마리 잡았다!
+badge_type_electric_title
+전기그룹
+badge_type_electric_value_format
+N0
+badge_type_psychic
+에스퍼타입 포켓몬을 {0} 마리 잡았다!
+badge_type_psychic_title
+초능력자
+badge_type_psychic_value_format
+N0
+badge_type_ice
+얼음타입 포켓몬을 {0} 마리 잡았다!
+badge_type_ice_title
+스키선수
+badge_type_ice_value_format
+N0
+badge_type_dragon
+드래곤타입 포켓몬을 {0} 마리 잡았다!
+badge_type_dragon_title
+드래곤 조련사
+badge_type_dragon_value_format
+N0
+badge_type_dark
+악타입 포켓몬을 {0} 마리 잡았다!
+badge_type_dark_title
+무서운 아가씨
+badge_type_dark_value_format
+N0
+badge_type_fairy
+페어리타입 포켓몬을 {0} 마리 잡았다!
+badge_type_fairy_title
+메르헨소녀
+badge_type_fairy_value_format
+N0
+battle_pokemon_already_in_list
+이미 지닌 포켓몬에 있습니다
+boot_loading
+LOADING...
+boot_beta_warning
+이 소프트웨어는 개발 중으로 비공개 내용입니다. 소프트웨어 내에서 얻은 정보나 이미지를 타인에게 보이거나 공유하지 마십시오.
+boot_safety_warning
+주변을 잘 살펴서 항상 주의하면서 플레이해주십시오
+boot_safety_warning_1
+화면을 보면서 걷거나 운전 중 플레이는 하지 마십시오
+boot_safety_warning_2
+허가 없이 들어갈 수 없는 장소나 건물에는 절대로 들어가지 마십시오
+boot_safety_warning_3
+위험이 예상되는 지역에는 들어가지 마십시오
+confirm_use_effective
+{0} (은)는 효과가 있었다!
+confirm_use_ineffective
+{0} (은)는 효과가 없는 것 같다...
+confirm_use_tap_to_use
+도구를 터치해서 사용한다
+date_format
+yyyy년 M월 d일
+egg_anticipation
+무엇이 태어날까?
+egg_hatching
+어라?
+egg_received
+신난다~! 알을 손에 넣었다!
+egg_walk_to_hatch
+{0} km 걸어서 알을 부화시키자!
+egg_confirm
+상태를 본다
+encounter_gotcha
+신난다~!
+encounter_pokemon_was_caught
+{0} (을)를 잡았다!
+encounter_pokemon_broke_free
+앗! 볼에서 나와버렸다!
+encounter_pokemon_ran_away
+야생 {0} (은)는 도망쳤다!
+encounter_received_evolution_shard
+{0} 의 진화의 조각을 손에 넣었다!
+encounter_no_pokeball
+볼이 없습니다
+encounter_score_curveball
+커브볼
+encounter_score_excellent_throw
+Excellent
+encounter_score_first_catch
+오늘의 1마리째
+encounter_score_great_throw
+Great
+encounter_score_milestone
+보너스
+encounter_score_new_pokemon
+새로운 포켓몬
+encounter_score_nice_throw
+Nice
+encounter_score_one_shot
+원샷
+encounter_score_pokemon_caught
+포켓몬 잡기
+encounter_score_total_exp
+{0} XP
+encounter_miss_throw
+Miss...
+encounter_nice_throw
+Nice!
+encounter_excellent_throw
+Excellent!
+encounter_great_throw
+Great!
+encounter_wild_pokemon_appeared
+앗! 야생 <b>{0}</b> (이)가 튀어나왔다!
+encounter_pokeball_inventory_empty
+더 이상 볼이 없습니다
+encounter_score_total
+TOTAL
+encounter_berry_already_used
+더 이상 나무열매를 사용할 수 없습니다
+encounter_unknown_cp
+???
+err_get_bundle
+서버에서 게임 데이터를 가져올 수 없었습니다
+err_get_digest
+서버에서 게임 데이터를 가져올 수 없었습니다
+err_get_player
+서버에서 플레이어 정보를 가져올 수 없었습니다
+err_go_settings
+설정
+err_gps_off
+GPS가 꺼져있습니다. 본체 설정에서 GPS를 켜주십시오.
+err_gps_silent
+GPS 신호를 찾고 있습니다
+err_location_not_measured
+위치 정보를 불러올 수 없었습니다
+err_no_internet
+인터넷에 접속할 수 없습니다
+err_retry
+다시 시도
+err_skip
+나중에
+err_update
+갱신
+err_update_now
+스토어에서 최신 버전으로 갱신해 주십시오
+err_taking_you_to_app_store
+갱신한다
+feedback_added_xp
++{0} XP
+general_accept
+동의한다
+general_error
+Error
+general_network_error
+네트워크 에러
+general_button_select
+결정
+general_cancel
+취소
+general_no
+No
+general_ok
+OK
+general_pokemon
+포켓몬
+general_pokemon_inventory_full
+지닌 포켓몬이 가득합니다
+general_sign_out
+로그아웃
+general_sign_out_confirm
+로그아웃하시겠습니까?
+general_yes
+Yes
+gym_approach_battles_won
+BATTLES WIN :
+gym_defeated
+체육관이 공략 당했다
+gym_gym_is_too_far
+체육관이 너무 멉니다
+gym_leader_defeated
+체육관 관장이 패했다!
+gym_level
+체육관 레벨
+gym_lose_prestige
+체육관의 명성이 {0} 떨어졌다
+gym_no_more_slots
+체육관의 멤버가 가득합니다
+gym_player_is_already_member
+당신은 이미 이 체육관 멤버입니다
+gym_prestige
+명성
+gym_win_prestige
+체육관 명성이 {0} 올랐다
+gym_results_pokemon_defeated
+쓰러뜨린 포켓몬:
+gym_results_xp_awarded
+XP
+gym_results_prestige_change
+명성:
+gym_results_victory
+You win!
+gym_results_defeat
+You lose!
+gym_results_timed_out
+Time's up!
+gym_level_too_low
+레벨 {0} (이)가 아니면 체육관 배틀을 할 수 없습니다
+gym_under_construction
+체육관은 아직 준비 중입니다
+gym_start_battle_error
+배틀을 시작하지 못했습니다
+item_bag_deployed
+체육관에 배치된 포켓몬에는 도구를 사용할 수 없습니다
+item_bag_irrelevant
+여기서는 쓸 수 없습니다
+item_bag_no_items
+도구가 없습니다
+item_bag_potion_fainted
+기절한 포켓몬에는 사용할 수 없습니다
+item_bag_potion_full_health
+이 포켓몬의 체력은 가득합니다
+item_bag_revive_not_fainted
+기절한 포켓몬에만 사용할 수 있습니다
+item_use
+사용한다
+buff_already_applied
+이미 사용했습니다
+onboard_accept_tos
+이용규약에 동의한다
+onboard_decline_tos
+동의 안 함
+onboard_short_tos
+Pokémon GO는 위치정보 게임입니다. 사용하시는 단말을 통해서 위치정보가 수집되어 게임상에서 행하는 액션에 따라 다른 사용자에게 보일 수 있습니다.
+onboard_link_tos
+반드시 전문 읽어주십시오
+onboard_tos_title
+Pokémon GO 이용규약
+onboard_are_you_sure_decline_tos
+정말로 동의하지 않겠습니까?
+onboard_terms_of_service
+이용규약
+onboard_select_your_avatar
+당신의 스타일을 선택해 주세요
+onboard_done_customization
+이걸로 괜찮습니까?
+onboard_select_a_name
+당신의 닉네임을 정해주세요
+onboard_name_too_short_error
+조금 더 긴 닉네임으로 해주십시오
+onboard_name_invalid_characters_error
+영/숫자만 사용할 수 있습니다
+onboard_name_too_long_error
+짧은 닉네임으로 해주십시오
+onboard_name_not_available
+사용할 수 없는 닉네임입니다
+onboard_name_not_valid
+무효한 닉네임입니다
+onboard_name_owned
+이미 사용된 닉네임입니다
+onboard_name_cannot_change
+서버 에러
+onboard_name_fail
+에러가 발생했습니다. 다른 닉네임으로 시도해주십시오.
+onboard_enter_name_prompt
+다른 트레이너가 부를 닉네임을 입력해주십시오
+onboard_enter_name_hint
+닉네임
+onboard_name_are_you_sure
+닉네임 <b>{0}</b> (으)로 하겠습니까?
+pokedex_all_types
+모든 타입
+pokedex_notencountered
+아직 발견 못 한 포켓몬
+pokedex_page_all
+모두
+pokedex_page_caught
+잡은 수:
+pokedex_page_seen
+발견한 수:
+pokedex_page_name_not_seen
+?????
+pokedex_details_seen
+발견한 수:
+pokedex_details_caught
+잡은 수:
+pokedex_details_type
+타입:
+pokedex_details_type_not_caught
+---
+pokedex_details_weight
+몸무게:
+pokedex_details_weight_not_caught
+???
+pokedex_details_height
+키:
+pokedex_details_height_not_caught
+???
+pokedex_details_category_not_caught
+????? 포켓몬
+pokedex_details_evolution
+진화
+pokedex_sort_alphabet
+이름
+pokedex_sort_date
+날짜
+pokedex_sort_hp
+HP
+pokedex_sort_level
+강함
+pokedex_sort_number
+번호
+pokedex_sort_favorite
+즐겨찾기
+pokedex_registered_to_pokedex
+새로 도감에 등록됩니다
+pokemon_info_type
+타입
+pokemon_info_weight
+몸무게
+pokemon_info_height
+키
+pokemon_info_cp
+CP
+pokemon_info_powerup_section
+파워업
+pokemon_info_powerup_button
+강화
+pokemon_info_powerup_need_candies
+{0}의 사탕이 부족합니다
+pokemon_info_powerup_need_stardusts
+별의모래가 부족합니다
+pokemon_info_powerup_player_lv_too_low
+트레이너 레벨이 부족합니다
+pokemon_info_powerup_pokemon_deployed
+{0} (은)는 체육관에 있습니다
+pokemon_info_powerup_confirmation
+{0} (을)를 강화하겠습니까?
+pokemon_info_evolve_button
+진화
+pokemon_info_evolve_need_candies
+{0}의 사탕이 부족합니다
+pokemon_info_evolve_pokemon_deployed
+{0} (은)는 체육관에 있습니다
+pokemon_info_evolve_need_stardusts
+별의모래가 부족합니다
+pokemon_info_transfer_favorite_error
+즐겨찾기 포켓몬은 보낼 수 없습니다!
+pokemon_info_pokemon_is_released
+안녕 {0} ! 잘 가!
+pokemon_info_candy_label
+{0}의 사탕
+pokemon_info_stardust_label
+별의모래
+pokemon_info_transfer_to_professor
+박사에게 보낸다
+pokemon_info_heal
+회복
+pokemon_info_transfer_to_professor_confirmation
+<size=36><b>{0} (을)를 박사에게 보내겠습니까?</b></size>\n\n시작 후 취소할 수 없습니다.
+pokemon_info_transfer_to_professor_result
+포켓몬을 보내고 박사에게 {0}의 사탕을 받았다.
+pokemon_info_transfer_failed
+{0} (을)를 보낼 수 없었습니다.
+pokemon_info_release_deployed
+이미 배치되어 있습니다
+pokemon_type_normal
+노말
+pokemon_type_fighting
+격투
+pokemon_type_flying
+비행
+pokemon_type_poison
+독
+pokemon_type_ground
+땅
+pokemon_type_rock
+바위
+pokemon_type_bug
+벌레
+pokemon_type_ghost
+고스트
+pokemon_type_steel
+강철
+pokemon_type_fire
+불꽃
+pokemon_type_water
+물
+pokemon_type_grass
+풀
+pokemon_type_electric
+전기
+pokemon_type_psychic
+에스퍼
+pokemon_type_ice
+얼음
+pokemon_type_dragon
+드래곤
+pokemon_type_dark
+악
+pokemon_type_fairy
+페어리
+pokestop_item_inventory_full
+지닌물건이 가득합니다
+pokestop_no_items_found
+조금 뒤에 시도해 주십시오
+pokestop_pokestop_is_too_far
+포켓스톱이 너무 멀리 있습니다
+profile_player_level
+레벨
+profile_start_date
+시작한 날:
+profile_button_activity_log
+모험노트
+profile_button_customize
+갈아입는다
+recycle_dialog_prefix
+버리는 도구:
+recycle_dialog_suffix
+{0}
+screen_title_item_bag
+도구
+screen_title_pokedex
+도감
+screen_title_pokemon_inventory
+포켓몬
+screen_title_pokemon_inventory_egg
+알
+screen_title_settings
+설정
+screen_title_tips
+힌트
+team_name_team0
+소속없음
+team_name_team1
+팀 미스틱
+team_name_team2
+팀 발로
+team_name_team3
+팀 인스팅트
+pick_team_intro
+체육관에 잘 오셨습니다!
+pick_team_desc
+트레이너들은 3개의 팀으로 나눠서 배틀을 펼쳐서 다양한 장소에 있는 체육관을 서로 쟁취합니다. 당신도 팀을 선택해 체육관 배틀에 참가해주십시오!
+pick_team1_desc
+팀 미스틱에 잘 오셨습니다!
+pick_team2_desc
+팀 발로에 잘 오셨습니다!
+pick_team3_desc
+팀 인스팅트에 잘 오셨습니다!
+pick_team_title
+팀을 선택해주십시오
+pick_team_confirmation
+팀 {0} 에 잘 오셨습니다!
+pick_team_rejection
+에러가 발생했습니다
+pokemon_info_evolution_confirmation
+{0} (을)를 진화하겠습니까?
+pokemon_info_evolution_failed
+서버 에러: {0} (은)는 진화하지 못했습니다
+settings_music
+음악
+settings_sound_effects
+효과음
+settings_vibration
+진동
+settings_battery_saver
+배터리 절전
+settings_sfida
+Pokémon GO Plus
+settings_sfida_about_link
+Pokémon GO Plus에 대해서
+inventory_egg
+알
+pokemon_info_evolution_crystals
+진화의 조각
+pokemon_info_evolution_crystals_remaining
+앞으로 {0} 개
+pokemon_evolution_tap_to_evolve
+터치해서 진화시킨다!
+about_screen_tos_btn
+이용규약
+about_screen_licenses_btn
+라이선스
+about_screen_btn
+Pokémon GO에 대해서
+about_screen_title
+Pokémon GO에 대해서
+about_screen_copyright1
+©2016-2017 Niantic, Inc.
+about_screen_copyright2
+©2016-2017 Pokémon.
+about_screen_copyright3
+©1995–2017 Nintendo / Creatures Inc. / GAME FREAK inc.
+settings_go_to_support
+도움말
+settings_are_you_sure_support_prompt
+서포트 web 사이트에 이동하겠습니까?
+levelup_items_unlocked
+새로운 도구가 개방되었습니다
+levelup_sequence_text
+레벨업
+pokenav_nearby
+가까이 있는 포켓몬
+pokenav_my_pokedex
+포켓몬 도감으로
+admin_name_was_banned
+사용할 수 없는 닉네임입니다
+encounter_pokemon_not_in_range
+포켓몬이 너무 멀리 있습니다
+super_effective
+효과가 굉장했다!
+not_very_effective
+효과가 별로인 듯하다...
+attack_dodge
+피했다!
+gym_deploy_confirmation
+{0} (을)를 체육관에 배치하겠습니까? 체육관을 뺏길 때까지 지닌 포켓몬으로 돌아올 수 없습니다
+shop_screen_title
+숍
+shop_category_bundles
+팩
+shop_category_items
+도구
+shop_category_upgrades
+업그레이드
+shop_category_pokecoins
+포켓코인
+shop_confirm_coins_title
+구입 확정한다
+shop_confirm_coins_details
+{1:C} (으)로 {0}(을)를 1개 구입하겠습니까?
+shop_confirm_buy
+구입
+shop_confirm_item_purchase
+{1} (을)를 {0} 포켓코인과 교환하겠습니까?
+shop_exchange_for_prefix
+포켓코인과 교환
+shop_exchange_for_suffix
+ 
+shop_purchase_failure
+구매하지 못했습니다. 다시 시도해 주십시오.
+shop_need_more_coins
+포켓코인이 부족합니다!
+shop_need_more_get_coins
+{0} 포켓코인을 입수
+shop_need_more_go_to_coins
+포켓코인을 구입한다
+screen_title_shop
+숍
+shop_inventory_full
+도구가 가득합니다!
+shop_inventory_full_visit_shop
+숍에서 지닐 수 있는 도구의 상한을 늘립니다
+quickstart_title
+플레이 방법
+quickstart_pokestopfar_0
+이것이 포켓스톱이다.
+quickstart_pokestopfar_1
+몬스터볼이나 다른 도구를 발견할 수 있는 장소지.
+quickstart_pokestopnear_0
+포켓스톱에 다가가면 모양이 변해. 자, 터치해보자.
+quickstart_pokestopspin_0
+중심 부분을 빠르게 슬라이드 하면 회전하면서 도구가 나오지.
+quickstart_gymmap_0
+이것이 체육관이다.
+quickstart_gymmap_1
+이 특별한 장소를 둘러싸서 3개의 팀이 배틀의 실력을 겨루고 있지.
+quickstart_gymbuttons_0
+무소속 체육관에 포켓몬 1마리를 선택해 배치하면 자신의 팀 체육관으로 만들 수 있다. 같은 색의 동료팀의 체육관에는 자신의 포켓몬을 1마리 배치할 수 있지.
+quickstart_gymbuttons_1
+동료팀의 체육관에서 트레이닝 배틀을 하면 명성과 레벨을 올릴 수 있다.
+quickstart_gymbuttons_2
+다른 팀의 체육관에 배틀을 도전하면 명성과 레벨이 떨어진다.
+quickstart_battledodge_0
+배틀 중에는 좌우로 슬라이드해서 공격을 피할 수 있다.
+shop_inventory_full_go_to_upgrades
+업그레이드 메뉴로
+encounter_too_many_pokemon
+박스가 가득 찼습니다! 숍에서 상한을 늘릴 수 있습니다.
+pokestop_too_many_items
+도구가 가득합니다! 숍에서 상한을 늘릴 수 있습니다.
+iap_category_items
+도구
+iap_category_upgrades
+업그레이드
+iap_category_bundle
+묶음
+iap_category_pokecoins
+포켓코인
+iap_category_none
+기타
+shop_something_went_wrong
+에러. 조작을 다시 해주십시오
+shop_daily_bonus_amount
+{0} 포켓코인
+age_gate_screen
+생년월일을 입력해 주십시오
+month_jan
+1
+month_feb
+2
+month_mar
+3
+month_apr
+4
+month_may
+5
+month_jun
+6
+month_jul
+7
+month_aug
+8
+month_sep
+9
+month_oct
+10
+month_nov
+11
+month_dec
+12
+submit_age_button
+송신
+registration_choice_screen
+등록할 계정을 선택해주십시오
+login_choice_screen
+로그인 할 계정을 선택해 주십시오
+ptc_login_button
+포켓몬 트레이너 클럽
+google_login_button
+Google
+ptc_login_title
+포켓몬 트레이너 클럽
+ptc_forgot_username
+유저명을 잊어버렸을 때는 여기
+ptc_forgot_password
+패스워드를 잊어버렸으면 여기
+privacy_policy_title
+Pokémon GO 개인정보 보호
+privacy_policy_button
+개인정보보호
+login_username
+유저명
+login_password
+비밀번호
+facebook_login_button
+Facebook
+ptc_login_submit
+로그인
+ptc_need_to_register_button
+등록하기
+ptc_error_activation_required
+유효한 계정을 사용해 주십시오
+google_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+ptc_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+fb_auth_failed
+인증하지 못했습니다. 다시 한번 시도해 주십시오.
+fb_auth_error_no_email
+메일주소를 사용하여 등록한 계정이 필요합니다.
+authentication_revoked_error
+서버에 접속하지 못했습니다.
+shop_daily_bonus_header
+박사로부터 선물이 도착했습니다!
+shop_daily_bonus_button
+받는다
+shop_coming_soon
+준비 중
+shop_fully_upgraded
+{0} (은)는 더 이상 업그레이드 할 수 없습니다
+incubator_selector_header
+부화장치
+incubator_selector_uses_left
+남은 횟수 {0}
+incubator_choose_egg
+부화할 알을 선택해주세요
+egg_detail_put_in_incubator
+부화장치에 세트 하면 알을 데울 수 있습니다
+egg_detail_hatch_walk
+걸어서 알을 부화시키자
+egg_detail_start_incubation
+부화장치를 사용한다
+inventory_no_eggs
+알이 없습니다
+incubator_selector_infinite_uses
+∞
+pokestop_disk_empty_title
+슬롯이 비었습니다
+pokestop_disk_empty_desc
+포켓스톱 모듈을 사용할 수 있습니다
+pokestop_disk_inventory_title
+포켓스톱 모듈
+pokestop_out_of_disks
+포켓스톱 모듈이 없습니다
+pokestop_disk_activate_error_already_has_disk
+그 모듈은 이미 포켓스톱에서 사용했습니다
+pokestop_disk_activate_error
+모듈을 인스톨 못했습니다
+pokestop_disk_error_out_of_range
+포켓스톱이 너무 멀리있습니다
+pokemon_favorite_error
+즐겨찾기 마크를 붙일 수 없습니다
+pokemon_unfavorite_error
+즐겨찾기 마크 취소에 실패 했습니다
+defender_bonus_header
+체육관에 {0} 마리 배치했습니다
+defender_bonus_title
+체육관 방어 보너스
+defender_bonus_timer
+다음 보너스까지 {0}
+defender_bonus_collect_now
+보너스를 체크!
+defender_bonus_nothing_deployed
+체육관에 포켓몬을 배치하면 받을 수 있는 보너스입니다
+first_time_ar_mode_prompt_title
+현실 세계를 배경으로 해보세요!
+first_time_ar_mode_prompt_description
+사용해봅시다. AR 버튼에서 끌 수 있습니다.
+first_time_ar_mode_prompt_ar_on_btn
+예
+first_time_ar_mode_prompt_ar_off_btn
+나중에 한다
+nickname_set_nickname
+닉네임을 붙인다
+battle_no_pokemon_left
+배틀할 수 있는 포켓몬이 없습니다
+battle_round_number
+Battle {0}
+battle_round_victory
+WIN !
+battle_special_toast
+{0} (은)는 {1} (을)를 사용했다!
+battle_surrender_confirmation
+정말로 항복하겠습니까?
+pgp_unpaired
+Pokémon GO Plus 페어링 해제
+pgp_connection_lost
+접속이 끊겼습니다. 클릭하면 다시 접속합니다.
+pgp_click_to_connect
+Pokémon GO Plus 본체 버튼을 눌러 연결해주십시오.
+pgp_connected
+Pokémon GO Plus에 연결했습니다.
+pgp_log_dowser_start
+{0} 수색을 시작
+pgp_log_dowser_lost
+{0} 수색 실패
+pgp_log_dowser_stop
+{0} 수색 종료
+pgp_log_received_items
+{1} 포켓스톱에서 도구를 {0} 개 손에 넣었다!
+pgp_log_pokemon_caught
+{0} (을)를 잡았다!
+pgp_log_pokemon_fled
+{0} (은)는 도망갔다
+pgp_low_battery
+Pokémon GO Plus 의 남은 건전지가 적습니다.
+pgp_bluetooth_is_off
+블루투스가 꺼져있습니다.
+activity_log_title
+모험노트
+activity_log_clear
+로그를 클리어
+activity_log_clear_confirmation
+로그를 클리어 하겠습니까? 클리어한 로그는 되돌릴 수 없습니다.
+activity_log_show_more
+더 보기
+activity_log_remove
+삭제
+activity_log_remove_confirmation
+이 항목을 삭제하겠습니까?
+pgp_weak_signal
+전파가 약합니다. 디바이스와 Pokémon GO Plus를 가까이 해주십시오.
+pgp_install_pgp_app
+Pokémon GO Plus 연결용 앱을 설치해주십시오.
+pgp_error_auth
+Pokémon GO Plus 인증에 실패했습니다.
+pgp_error_cannot_connect
+Pokémon GO Plus에 접속하지 못했습니다.
+pgp_disconnected
+Pokémon GO Plus와 연결이 끊겼습니다.
+pgp_caught_pokemon
+포켓몬을 잡았다!
+pgp_retrieved_no_items
+포켓스톱에서 도구를 넣을 수 없었다
+server_lockout
+불편을 드려 죄송합니다.\n현재 접속이 집중되어 연결이 어렵습니다. \n잠시 후에 다시 시도해주십시오.
+field_test_lockout
+필드 테스트에 참가 감사합니다!\n곧 만날 수 있길 바랍니다!
+ar_encounter_no_gyro_err
+기울기를 탐지할 수 없습니다. AR을 끄겠습니까?
+ar_encounter
+AR
+first_time_walk_title
+자 걸어봅시다!
+first_time_walk_description
+현실 세계를 걷는 것으로 화면 중 트레이너도 걷기 시작합니다
+first_time_walk_button
+Let's GO!
+pokemon_nickname_error
+올바른 닉네임을 입력해주십시오
+general_hp
+HP
+general_cp
+CP
+general_xp
+XP
+settings_email_marketing
+Pokémon GO에 관한 뉴스나 프로모션을 메일로 수신한다.
+help_center_link
+https://support.pokemongo.nianticlabs.com/hc/en-us
+settings_report_issues
+중요한 문제를 보고
+report_issues_link
+https://pokemongo.nianticlabs.com/support/contact/en
+settings_are_you_sure_report_prompt
+문제 보고를 위해 앱을 종료합니다. 괜찮겠습니까?
+authentication_retry_prompt
+로그인에 실패했습니다
+authentication_failed_try_again
+다시 시도
+authentication_failed_sign_out
+다른 계정으로 시도한다
+general_attack
+공격
+general_defense
+방어
+general_stamina
+HP
+safety_warning_yes
+전 운전자가 아닙니다
+codename_warning_message
+<size=36><b>닉네임을 변경하겠습니까?</b></size>\n\n원래 닉네임을 포함해 제한된 횟수만큼 변경할 수 있습니다. 닉네임은 다른 트레이너도 볼 수 있습니다. 신중하게 정해주십시오.
+codename_already_yours
+현재 사용 중인 닉네임입니다
+codename_are_you_sure
+<size=36><b>{0} (으)로 변경하겠습니까?</b></size>\n\n닉네임을 변경할 수 있는 횟수는 원래 닉네임으로 돌아가는 것은 포함해서 제한됩니다.
+codename_reassign_success
+당신의 닉네임이 {0} (으)로 변경되었습니다
+speed_modal_too_fast
+이동속도가 빨라 플레이를 제한합니다
+speed_modal_slow_down
+안전을 위해 주행 중 플레이는 금지입니다
+settings_change_nickname
+닉네임을 변경한다
+pokemon_info_appraise
+포켓몬을 조사한다
+gym_sponsored
+SPONSORED
+pgp_log_pokemon_hatched
+{0} (이)가 알에서 부화했다!
+nearby_pokemon_poi_title
+포켓스톱 근처에 있는 포켓몬
+nearby_pokemon_grass_title
+숨어 있는 포켓몬
+nearby_pokemon_find_grass_info
+근처에 있을지도 모른다
+nearby_pokemon_missing_poi
+이 주변에는 없는 듯하다
+nearby_pokemon_missing_grass
+주변에는 없는 듯하다
+nearby_pokemon_tracking_lost_title
+포켓몬이 도망쳤다!
+nearby_pokemon_tracking_lost
+다른 포켓몬을 찾아보자
+nearby_pokemon_view_button
+찾기
+nearby_pokemon_clear_button
+취소
+settings_sfida_icon_toggle
+Pokémon GO Plus 아이콘 표시
+settings_sfida_bluetooth_disabled
+블루투스가 꺼져있습니다
+settings_sfida_device_name
+Pokémon GO Plus
+settings_sfida_about_url
+https://support.pokemon.com/hc/articles/360000954814
+settings_sfida_devices
+사용 가능한 디바이스
+settings_sfida_howto_pair
+연결되지 않을 때
+settings_sfida_howto_pair_url
+https://support.pokemon.com/hc/articles/360000955374
+pgp_bluetooth_unauthorized
+블루투스를 켤 수 없습니다. 스마트폰 본체의 설정을 확인해 주십시오.
+pgp_bluetooth_enabling
+블루투스를 연결하고 있습니다...
+pgp_bluetooth_not_supported
+사용하시는 단말기가 블루투스에 대응하지 않습니다
+pgp_pokestop_in_range
+포켓스톱을 발견!
+pgp_pokemon_in_range
+포켓몬 발견!
+pgp_start_session
+Pokémon GO Plus에 연결하고 있습니다
+pgp_stop_session
+Pokémon GO Plus 연결을 끊고 있습니다...
+pgp_scaning
+Pokémon GO Plus를 찾고 있습니다...\nPokémon GO Plus 본체 버튼을 눌러 주십시오.
+pgp_registering
+Pokémon GO Plus를 등록하고 있습니다...
+buddy_set
+파트너 포켓몬
+pokemon_info_transfer_pokemon_buddy
+파트너 포켓몬은 보낼 수 없습니다!
+buddy_walked_found_candy
+{0}(이)가 사탕을 발견했다!
+buddy_walk
+같이 걸으면 좋은 일이 있을 거야!
+buddy_title
+파트너 포켓몬
+buddy_chosen
+<b>{0}</b>! 너로 정했다!
+pgp_error_failed_to_register
+등록하지 못했습니다
+pgp_error_device_not_found
+발견하지 못했습니다
+buddy_swap1
+파트너 포켓몬을 교체하겠습니까?
+buddy_swap2
+현재 걸은 거리가 없어집니다. 괜찮습니까?
+general_and
+& {0}
+buddy_total_walked
+{0:0.#} km 걸었다!
+banned_player_lockout_1
+이용규약 위반이 확인되어 계정이 정지되었습니다.\n\n계정 정지 처분에 대한 자세한 내용은 헬프센터에서 확인해 주십시오.
+banned_player_lockout_2
+헬프센터로 가기
+pokemon_info_address_format
+{2}, {1}, {0}
+settings_sfida_store
+Pokémon GO Plus 구입
+settings_sfida_store_url
+https://www.nintendo.co.jp/pokemongoplus/
+unauthorized_device_lockout_1
+사용하고 있는 단말기 OS 버전이 미대응 또는 특정 조작(ROOT화 등)이 검출되어 Pokémon GO를 구동할 수 없습니다.
+unauthorized_device_lockout
+사용하고 있는 단말기 OS 버전이 미대응 또는 특정 조작(ROOT화 등)이 검출되어 Pokémon GO를 구동할 수 없습니다.
+unauthorized_device_help_center_link
+https://pokemongo.nianticlabs.com/support/unauthorized-device/en
+banned_player_help_center_link
+https://pokemongo.nianticlabs.com/support/banned/en
+pgp_tip_title
+Pokémon GO Plus
+pgp_tips_1_text_1
+포켓몬이 가까이 나타나면 본체가 진동과 점멸로 알립니다.
+pgp_tips_1_text_2
+녹색 점멸이면 잡은 적이 있는 포켓몬입니다.
+pgp_tips_1_text_3
+노랑색이면 아직 잡지 않은 포켓몬입니다.
+pgp_tips_1_text_4
+버튼을 눌러봅시다
+pgp_tips_next
+Next
+pgp_tips_2_text_1
+버튼을 눌러서
+pgp_tips_2_text_2
+잡으면 7색으로 깜빡입니다
+pgp_tips_2_text_3
+놓치면 빨강색으로 깜빡입니다.
+pgp_tips_3_text_1
+포켓스톱에 다가가면 본체가 진동, 파랑 점멸로 알립니다.
+pgp_tips_3_text_2
+버튼을 눌러서 7색으로 점멸하면 도구가 손에 들어옵니다. 포켓스톱에서 멀리 떨어진 경우 빨간색으로 빛나며 도구는 얻을 수 없습니다.
+pgp_tips_got_it
+종료
+player_cheating_warning
+당신의 계정이 개변된 클라이언트 소프트웨어 또는 허가되지 않은 제 3자의 부정 소프트웨어를 이용하여 이용약관을 위반한 형태로 Pokémon GO에 접속하는 활동을 감지했습니다. 이러한 소프트웨어를 이용한 접속은 계정 정지의 원인이 될 수 있습니다. 해당 소프트웨어를 사용하셨다면 중단하시기를 바랍니다. 제 3자의 부정한 소프트웨어 또는 앱 중에서는 접속만으로도 계정 정보를 유출하는 것도 있습니다. 즉시 암호를 바꾸실 것을 권합니다.
+training_round_number
+Match {0}
+badge_capture_bonus_reward
+{1}타입 잡기 쉬운 정도 +{0}
+settings_sfida_notifications
+알림 설정
+settings_sfida_pokemon
+포켓몬 알림
+settings_sfida_pokestops
+포켓스톱 알림
+badge_detail_reward_header
+리워드
+profile_category_medals
+메달
+quest_first_catch_of_the_day
+오늘 처음 잡은 1마리
+quest_streak_format
+보너스 {0}일째!
+quest_daily_bonus_title
+데일리 보너스
+encounter_score_catch_streak
+매일 겟 보너스
+quest_first_pokestop_of_the_day
+오늘 첫 포켓스톱
+encounter_caught_metamon
+어라?
+app_exit_confirmation_message
+Pokémon GO를 종료하겠습니까?
+gym_deploy_lockout
+배틀 승자의 배치를 기다리고 있습니다
+gym_battle_lockout
+잠시 후 다시 해주십시오
+batch_transfer_confirm
+<size=36><b>박사에게 {0} 마리 보내겠습니까?</b></size>\n\n 시작 후 취소할 수 없습니다.
+batch_transfer_header
+포켓몬을 선택
+batch_transfer_result
+박사에게 사탕을 받았다
+shop_category_holiday_special
+Holiday Event
+shop_limited_time
+기간 한정!
+shop_sale
+Sale
+shop_contents
+내용:
+bundle.xmas.small.1_title
+스페셜 박스
+bundle.xmas.medium.1_title
+수퍼 박스
+bundle.xmas.large.1_title
+하이퍼 박스
+bundle.newyears.small.1_title
+브론즈 박스
+bundle.newyears.medium.1_title
+실버 박스
+bundle.newyears.large.1_title
+기념일박스
+privacy_policy_update_notice
+귀하의 앱 사용과 관련된 기기 정보 수집에 관하여 개인 정보 보호 정책이 갱신되었습니다. 확인해 주십시오.
+privacy_policy_url
+https://www.nianticlabs.com/privacy/pokemongo/en
+screen_title_news
+새소식
+evolution_item_use
+사용해보자!
+shop_quick_coins_get_them_here
+포켓코인을 구입하거나 포켓스톱에서 모아보세요
+avatar_equip_item
+결정
+avatar_hair
+머리
+avatar_eyes
+눈
+avatar_skin
+피부
+badge_pokedex_entries_gen2_value_format
+N0
+badge_pokedex_entries_gen2
+성도지방에서 발견된 포켓몬 {0} 마리를 포켓몬 도감에 등록했다!
+badge_pokedex_entries_gen2_title
+성도
+badge_unown_title
+안농
+badge_unown_value_format
+N0
+badge_unown
+안농을 {0} 마리 잡았다!
+avatar_award_new_style
+새로운 스타일이 추가되었습니다!
+avatar_award_show_me
+숍에서 보기
+general_more
+더 보기
+shop_quick_coins_title
+몬스터볼이 없습니다!
+avatar_lock_level
+레벨 {0}에서 잠금 해제
+avatar_lock_badge
+{1}메일 제{0}단계에서 잠금 해제
+encounter_item_berries
+나무열매
+encounter_item_pokeballs
+몬스터볼
+avatar_wearing_item
+현재 스타일
+shop_exchange
+교환
+onboard_change_anytime
+언제든지 바꿀 수 있습니다.
+avatar_edit_appearance_title
+모험 스타일
+pokemon_shiny_info_transfer_to_professor_confirmation
+색이 다른 포켓몬을 보내겠습니까?
+pokemon_info_multi_transfer_shiny_pokemon_error
+색이 다른 포켓몬은 보낼 수 없습니다.
+shop_quick_balls_title
+몬스터볼이 없습니다
+shop_quick_balls_get_them_here
+포켓코인으로 교환하거나 포켓스톱에서 모을 수 있습니다.
+encounter_out_of_berries
+나무열매가 없습니다
+avatar_hats
+모자
+avatar_glasses
+안경
+avatar_necklaces
+목걸이
+avatar_tops
+상의
+avatar_bags
+가방
+avatar_gloves
+장갑
+avatar_belts
+벨트
+avatar_bottoms
+하의
+avatar_outfits
+아우터
+avatar_socks
+양말
+avatar_shoes
+신발
+avatar_style_unlocked
+새로운 스타일을 손에 넣었다!
+pokemon_info_evolve_need_key_item
+진화에 필요한 도구가 없습니다.
+pokedex_sort_family
+진화
+pokestop_unavailable
+이 포켓스톱은 폐쇄 중입니다
+gym_poi_unavailable
+체육관은 폐쇄 중입니다
+promo_enter_code_prompt
+코드를 입력해 주세요
+promo_enter_code_success_response
+성공!
+promo_enter_code_title
+선물
+promo_enter_code_failure_response
+무효한 코드입니다
+promo_enter_code_already_redeemed_response
+이 코드는 이미 사용한 코드입니다
+promo_redeem_button
+교환
+profile_total_xp
+Total XP
+profile_category_stats
+Stats
+shop_coin_iap_unavailable
+포켓코인이 부족합니다!
+pokestop_disk_error_closed_soon
+포켓스톱이 닫힙니다. 포켓스톱 모듈을 사용할 수 없습니다.
+pokestop_unavailable_soon
+이 포켓스톱은 곧 닫힙니다
+item_move_reroll_no_other_moves
+{0} (은)는 배울 수 있는 다른 기술이 없다!
+gyms_disabled_update
+체육관은 아직 준비 중입니다
+gym_feed_too_frequent
+포켓몬은 나무열매를 원하지 않는 것 같다.
+get_directions_action
+장소 찾기
+congratulations_exclusive_raid_ticket
+축하합니다! 특별한 레이드에 초대받았습니다!
+raids_invite_only_event
+*초대 된 트레이너만 참가할 수 있습니다.
+raid_exclusive_description
+{0}의 레이드배틀에서 승리하여 보내드립니다!\n초대장에 기재된 시간에 시작하는 EX레이드배틀에 참가해주세요!
+raid_exclusive_general_info
+EX레이드에 초대되었습니다.\n패스를 보내드렸습니다. 꼭 참가해주세요!
+raid_exclusive_invitation
+초대장
+pokemon_info_goto_gym_button
+체육관으로
+pokemon_info_panel_defended_gym_raid_active_message
+레이드배틀이 진행되고 있습니다! 배치한 포켓몬은 레이드배틀 종료 후 체육관으로 돌아갑니다.
+gym_remote_view_info_desc
+체육관 가까이에서 나무열매를 주세요!
+screen_title_exclusive_tickets
+EX레이드패스
+pokemon_info_remote_gym_closed
+체육관이 닫혀있는 시간입니다.
+pokemon_info_multi_transfer_legendary_pokemon_error
+전설의 포켓몬은 선택할 수 없습니다!
+pokemon_legendary_info_transfer_to_professor_confirmation
+정말로 이 포켓몬을 보내도 되겠습니까?
+webcam_setup_problem
+카메라를 설정에 실패했습니다
+qr_decode_problem
+QR 코드 스캔에 실패했습니다. 수동으로 입력해 주세요.
+event_registration_success
+{0} 체크인에 성공했습니다!
+qr_code_title
+QR 코드 스캔
+pokestop_button_manual_input_2
+수동으로 입력
+badge_chicago_fest_july_2017_title
+Pokémon GO Fest
+badge_chicago_fest_july_2017
+2017년 7월 22일 시카고
+chicago_fest_july_2017_title
+Pokémon GO Fest
+title_raid_has_ended
+이 레이드배틀은 종료했습니다
+journal_received_raid_ticket
+{0}의 레이드배틀에 초대받았다
+players_in_lobby_count
+플레이어수: {0}
+pikachu_outbreak_yokohama_title
+Pokémon GO STADIUM
+badge_pikachu_outbreak_yokohama_2017
+2017년 8월 요코하마
+passcode_rpc_error
+코드 사용 중 에러가 발생했습니다.
+passcode_rpc_timeout
+통신 환경이 불안정하여 타임아웃 했습니다. 다시 시도해 주십시오.
+badge_pikachu_outbreak_yokohama_2017_title
+피카츄 대량발생 2017
+badge_legendary_battle_won_value_format
+N0
+badge_legendary_battle_won_title
+배틀 레전드
+badge_legendary_battle_won
+체육관에서 {0} 번 전설레이드배틀에 이겼다!
+item_legendary_raid_ticket_name
+EX레이드패스
+item_legendary_raid_ticket_desc
+기간 한정 EX레이드배틀에 참가하는 데 필요한 패스. 초대된 트레이너만 받을 수 있다.
+incubatorsuper.1_title
+슈퍼 부화장치
+incubatorsuper.1_description
+알을 넣고 걸으면 포켓몬이 보다 빨리 부화한다. 3번 사용하면 부서집니다.
+item_incubator_super_name
+슈퍼 부화장치
+item_incubator_super_desc
+알을 넣고 걸으면 포켓몬이 보다 빨리 부화한다. 3번 사용하면 부서집니다.
+raid_log_received_items
+레이드에 이겨서 도구를 {0}개 손에 넣었다!
+exclusive_raid_log_received_items
+EX레이드에 이겨서 도구를 {0} 개 손에 넣었다!
+pgp_log_received_items_gym
+체육관에서 도구를 {0} 개 손에 넣었다!
+pokemon_info_multi_transfer_costume_pokemon_error
+특별한 포켓몬은 선택할 수 없습니다!
+pokemon_costume_info_transfer_to_professor_confirmation
+이 포켓몬을 보내도 괜찮겠습니까?
+badge_safari_zone_europe_2017_title
+Pokémon GO Safari
+badge_safari_zone_europe_2017
+2017년 9월 16일 유럽
+safari_event
+Pokémon GO Safari
+raid_error_never_joined_battle
+참가하려던 레이드배틀은 종료했습니다. 다른 배틀을 시도해 주십시오.
+settings_sfida_howto_pair_prompt
+Pokemon GO Plus에 접속하지 못했습니다.\n서포트 사이트를 보시겠습니까? 
+badge_safari_zone_europe_2017_10_07_title
+GO Safari Zone - 2017년 호주
+badge_safari_zone_europe_2017_10_07
+2017년 10월 7일 호주
+badge_safari_zone_europe_2017_10_14_title
+GO Safari Zone - 2017년 호주
+badge_safari_zone_europe_2017_10_14
+2017년 10월 14일 호주
+exclusive_raid_log_cancelled
+{2}에서 {0}의 {1}에 예정된 EX레이드는 취소되었다
+passcode_log_received_items
+코드 {1}(을)를 사용해서 도구를 {0}개 손에 넣었다!
+passcode_log_received_badge
+코드 {0}(을)를 사용해서 메달을 손에 넣었다!
+cancelled_ex_raid_message
+{0}의 {1}에 {2}에서 예정된 EX레이드는 취소되었다
+cancelled_ex_raid_items_prompt
+다음 참가 가능한 레이드를 위한 활동에 도움이 되길 바랍니다!
+cancelled_ex_raid_ticket_title
+취소된 EX레이드패스
+blacklisted_app_found_lockout
+사용하시는 단말기에서 Pokémon GO 이용약관 내에서 금지한 앱이 검출되었으니 삭제해주십시오.
+badge_pokedex_entries_gen3_value_format
+N0
+badge_pokedex_entries_gen3
+호연지방에서 발견된 포켓몬을 {0} 마리 포켓몬 도감에 등록했다!
+badge_pokedex_entries_gen3_title
+호연
+deploy_battle_party_member_prompt
+{0}(은)는 배틀파티에 있으므로 체육관에 배치 하면 멤버에서 빠지게 됩니다.
+party_creation_error_max_hit
+빈 공간이 없습니다
+delete_battle_party_prompt
+{0} (을)를 삭제하겠습니까?
+ar_plus_prompt_title
+AR+를 사용하면 포켓몬에게 다가갈 수 있습니다!
+ar_plus_prompt_description
+설정에서 언제든지 변경할 수 있습니다.
+ar_plus_show_me
+사용해 본다.
+ar_plus_no_thanks
+나중에 사용한다.
+ar_plus_safety_prompt
+주위 안전을 확인 후 AR+를 사용해 주세요.
+ar_plus_change_anytime_from_settings
+AR+는 설정 메뉴에서 온, 오프 가능합니다.
+ar_plus_got_it
+OK
+ar_plus_look_around_toast
+평탄하고 열린 영역을 \n향해서 처천히 카메라를 움직여주세요.
+ar_plus_safety_toast
+안전한 장소에서만 \nAR+를 사용해 주세요.
+ar_plus_tap_bush_toast
+풀숲을 터치해서 포켓몬을 발견해봅시다!
+settings_ar_plus
+AR+
+encounter_score_ar_plus_bonus
+엑스퍼트
+ar_plus_tutorial_0
+주변 안전을 확인 후, 단말을 천천히 흔들 듯 움직여 지면 등 수평한 장소를 인식시켜 주세요.
+ar_plus_tutorial_1
+지면에 풀숲이 표시되어 터치하면 포켓몬이 튀어나옵니다.
+ar_plus_tutorial_2
+도망가지 않도록 천천히 다가가서 잡으면 XP와 별의모래를 많이 받을 수 있습니다!
+login_failure_wrong_credentials
+유저명 또는 패스워드가 올바르지 않습니다.
+news_see_details
+전문 보기
+news_today
+오늘
+news_yesterday
+어제
+news_days_ago
+{0}일 전
+error_device_unsupported
+이 디바이스에는 대응하지 않습니다.
+view_supported_devices
+헬프센터로 가기
+device_unsupported_explanation
+Pokémon GO는 사용하시는 디바이스에 대응하지 않습니다. 대응 기기에 대해서는 헬프센터를 확인해 주십시오.
+new_arrivals
+New Arrivals!
+avatar_shop_description
+새로운 스타일 등장!
+style_shop
+스타일 숍
+iap_category_avatar
+스타일 숍
+privacy_policy_text
+<b>Pokémon GO 개인정보 취급방침</b><br><br><b>최종 갱신일: 2017년 11월  1일</b><br><br>귀하의 개인정보를 보호하는 것은 Niantic, Inc. (이하 <b>“Niantic”</b> 또는 “당사”)에 매우 중요합니다. 이에 따라 당사는 당사의 모바일 기기 애플리케이션(이하 “앱”)과 당사 웹사이트 (http://pokemongo.nianticlabs.com 및 http://www.pokemongolive.com)(이하 “사이트”)(앱과 사이트를 총칭하여 이하 “서비스”)를 통해 이용할 수 있는 Pokémon GO 게임 서비스를 통해 당사가 수령하는 정보의 수집, 이용 및 공개와 관련한 관행을 설명하기 위해 본 개인정보 취급방침(이하 “본 방침”)을 제공합니다. 본 방침은 당사 서비스를 통해 접속 가능한지 여부에 불문하고 제3자 웹사이트, 서비스 또는 애플리케이션에 대하여 적용되지 않습니다.<br><br><br><b>1. 본 방침의 변경</b><br><br>당사 서비스를 통해 수집되는 정보는 해당 정보가 수집된 당시 유효한 개인정보 취급방침의 적용을 받습니다. 당사는 본 방침을 수시로 변경할 수 있습니다. 당사가 소급 적용되는 변경사항 등을 포함하여 본 방침을 중대하게 변경하는 경우, 당사는 서비스에 이를 게재하는 방법 또는 귀하에게 이메일 등의 통지를 제공함으로써 귀하에 해당 변경사항을 알리고, 상기 “최종 갱신일”을 업데이트 하여 변경이 이루어진 날짜를 표시합니다.<br><br><br><b>2. 정보의 수집과 이용</b><br><br><i>a. 귀하로부터 수집 또는 수령한 정보.</i><br><br>당사가 정보를 수집하는 주요 목적은 당사 서비스를 제공하고 개선하며, 귀하의 서비스 이용을 관리하고, 귀하가 당사 서비스를 쉽게 즐기고 탐색할 수 있도록 하기 위함입니다.<br><br><i>i. 계정 정보.</i><br><br>게임을 하는 동안 그리고 귀하가 당사에 계정(이하 “계정”)을 생성하는 경우, 당사는 귀하를 식별 또는 인식하는데 사용될 수 있는 특정 정보(이하 “개인식별정보”)를 수집합니다. 계정 생성을 위해 등록하기 위해서는 구글 계정이 필요하므로, 당사는 귀하가 구글에서 설정한 개인정보보호 설정에 따라 앱 등록 및 로그인 과정에서 당사가 접근할 수 있는 특정 개인식별정보(귀하의 구글 이메일 주소 등)를 수집합니다.<br><br><i>ii. 사용자명.</i><br><br>당사는 앱 설치 과정에서 귀하에게 사용자명을 정하도록 요청할 것입니다. 사용자명은 귀하의 계정에 저장되며 앱에 표시됩니다. 귀하의 사용자명은 짐(Gym)을 점유하는 등 특정 행동을 수행하는 경우 앱의 다른 사용자들에게 표시됩니다. 귀하가 사용자명에 귀하의 실명이나 기타 식별정보를 사용하지 않는 한 당사나 다른 플레이어는 사용자명을 통해 귀하를 식별할 수 없습니다.<br><br><i>iii. Apple Watch – Apple Health App Data에 관한 추가적인 약관.</i><br><br>본 방침 아래에 명시된 정보 수집 관행에 더불어, 당사는 귀하가 Apple Watch를 통해 Pokémon GO를 플레이하는 경우 귀하의 동의를 받아 Apple HealthKit API를 사용하여 특정 데이터(걸음 수, 소모 칼로리, 이동 거리 등)를 열람하고 해당 데이터(이하 “건강 앱 데이터”)를 귀하의 기기의 Health App Database 에 작성합니다. 당사는 귀하의 Pokémon GO 사용자 계정과 관련하여 당사 서버에 건강 앱 데이터를 저장할 수 있습니다. 당사는 건강 앱 데이터를 사용하여 게임의 특정 기능(알을 부화시키기 위해 이동한 거리 등)을 제공하고 귀하가 Apple Health App 에서 Pokémon GO를 플레이 하는 동안 이동한 모든 거리에 대하여 “크레딧”을 받을 수 있도록 합니다. 당사는 건강 앱 데이터를 마케팅이나 광고 목적으로 사용하지 않습니다. 당사는 건강 앱 데이터를 iCloud에 저장하지 않습니다. Pokémon GO는 귀하의 동의 없이 건강 앱 데이터베이스를 열람하거나 작성할 수 없습니다.<br><br><i>b. 쿠키 및 기타 웹 기술을 통해 수집한 정보</i><br><br>많은 웹사이트 소유자 및 운영자와 마찬가지로 당사는 당사 사이트 상에서 특정 정보를 수집하기 위해 쿠키와 웹 비콘과 같은 자동화된 데이터 수집 도구를 사용합니다.<br><br>“쿠키”란 귀하가 당사 사이트에 접속할 경우 웹 서버가 귀하의 하드 드라이브에 설치하는 작은 텍스트 파일입니다. 당사는 귀하가 당사 사이트와 상호작용하는 방식과 시점을 파악하기 위해 임시 쿠키와 영구 쿠키를 사용할 수 있습니다. 또한 당사는 쿠키를 사용하여 당사 사이트의 전체 이용 및 웹 트래픽 라우팅을 모니터링하고 당사 사이트를 맞춤화하고 개선할 수 있습니다. 임시 쿠키는 귀하가 브라우저를 종료하면 삭제됩니다. 영구 쿠키는 귀하의 컴퓨터에 저장되어 귀하가 사이트를 이용하는 방식을 파악합니다. 대부분의 브라우저들은 자동으로 쿠키를 수락하지만, 귀하는 브라우저 설정을 변경하여 자동 수락을 해제하거나 쿠키 수락 전에 알림을 수신할 수 있도록 설정할 수 있습니다. 단, 귀하가 쿠키 수락을 거부하는 경우 사이트의 모든 부분 또는 기능에 접근하지 못하게 될 수 있습니다. 당사가 계약하고 있는 일부 제3자 서비스 제공자(제3자 광고업체 등) 또한 귀하의 하드 드라이브에 자체적인 쿠키를 설치할 수 있습니다.<br><br>“웹 비콘” (웹 버그, 픽셀 태그 또는 투명 GIF라고도 함)은 여러 목적을 위해 당사 서비스에 포함될 수 있는 고유 식별자가 있는 작은 그래픽입니다. 예를 들어, 당사는 웹 비콘을 활용하여 쿠키를 전달하거나 쿠키와 통신하고, 당사 사이트의 성능을 추적 및 측정하고, 당사 사이트를 열람하는 방문자 수를 모니터링 하고, 귀하에 전송한 당사 이메일의 효과(귀하가 이메일을 열어보았는지 여부 등)를 모니터링할 수 있습니다. 사용자의 하드 드라이브에 저장되는 쿠키와 달리 웹 비콘은 통상적으로 웹페이지(또는 이메일) 상에 투명하게 삽입됩니다.<br><br><i>c. 서비스 이용 관련 정보.</i><br><br>당사 서버는 계정 보유자와 계정 미보유자(총칭하여 이하 “사용자”)가 당사 서비스를 이용하는 방식에 관한 특정 정보(이하 “로그 데이터”)를 자동으로 기록합니다. 로그 데이터는 사용자의 인터넷 프로토콜 (IP) 주소, 브라우저 유형, 운영 시스템, 사용자가 당사 사이트 방문 전 방문한 웹 페이지, 사용자가 열람한 당사 사이트의 페이지나 기능 그리고 해당 페이지나 기능을 열람한 시간, 사이트에 입력한 검색어, 사용자가 클릭한 당사 사이트 상의 링크 및 기타 통계자료 등을 포함할 수 있습니다. 또한 로그 데이터에는 (앱 사용자의 경우) 앱 내에서 수행한 활동(포케스톱(Pokéstop) 접근, 짐(Gym)에서의 전투 또는 포케코인(Pokécoins)과 포켓볼(Pokéball) 간의 교환 등)이 포함됩니다. 당사는 서비스를 관리하기 위해 로그 데이터를 이용하고, 당사 서비스의 특성과 기능을 확장하고 이를 사용자들의 요구와 선호사항에 맞춤화함으로써 당사 서비스를 개선하고, 맞춤화하며, 향상시키기 위해 로그 데이터를 분석(또는 제3자를 고용하여 분석하도록) 합니다. 당사는 개인의 로그 데이터와 기타 정보를 활용하여 당사 서비스의 이용 방식에 관한 통합화된 비식별 정보를 생성할 수 있으며, 그러한 통합화된 정보를 사용해 당사 서비스를 이해하고 개선하며 서비스 이용을 관리합니다. 당사가 로그 데이터를 분석하기 위해 제3자를 고용하는 경우, 당사는 그러한 제3자가 관련 데이터 보호법에 따라 로그 데이터를 처리할 것을 요구하는 계약 조건에 구속되도록 보장합니다.<br><br><i>d. 모바일 기기 정보</i><br><br>당사는 귀하가 당사 앱을 사용할 때 기기 식별자, 사용자 설정, 국가 및 언어 설정, 기기의 운영체제 및 모바일 기기 사용 중 앱 사용에 대한 정보 등 귀하의 모바일 기기가 전송하는 특정 정보를 수집합니다. 당사는 해당 정보를 활용하여 서비스를 제공하고 귀하를 위해 서비스를 개선 및 맞춤 설정할 수 있습니다.<br><br><i>e. 위치 정보</i><br><br>앱은 위치 기반 게임입니다. 귀하가 앱을 사용하거나, 셀/모바일 타워 삼각측량, 와이파이 삼각측량 및/또는 GPS를 이용하는 모바일 기기의 운영체제를 통해 제공되는 위치 서비스를 활용하는 게임을 동작하는 경우, 당사는 귀하의 위치 정보를 수집하고 저장합니다. 귀하는 당사 앱을 사용함으로써 당사에 귀하의 기기 위치를 전송하게 되며 해당 위치 정보 일부는 귀하의 사용자명과 함께 앱에서 공유될 수 있음을 이해합니다. 예를 들어, 게임 중 귀하가 짐(Gym)을 점유하는 등 특정 행동을 취할 경우, 사용자명 및 정보가 게임 중인 다른 사용자들에게 앱을 통해 공유됩니다. 또한 당사는 위치 정보를 활용하여 귀하를 위해 서비스를 개선 및 맞춤 설정할 수 있습니다.<br><br><br><b>3. 당사가 제3자와 공유하는 정보</b><br><br>당사는 아래의 경우를 제외하고 귀하(또는 귀하의 동의를 받은 자녀)로부터 또는 귀하와 관련하여 수집한 개인식별정보를 공유하지 않습니다:<br><br><i>b. 서비스 제공자와 공유하는 정보</i><br><br>당사는 서비스를 관리하고 제공하기 위해 특정 회사들로 하여금 당사와 협력하도록 할 수 있습니다. 이러한 제3자 서비스 제공자들은 당사를 대신하여 클라우드 스토리지 및 처리와 같은 서비스를 수행하기 위한 목적으로만 귀하의 개인식별정보에 접근할 수 있으며, 귀하의 개인식별정보를 보호하고 다른 목적으로 사용하거나 공개하지 않을 명시적인 의무를 부담하고 있습니다.<br><br><i>c. 제3자와 공유하는 정보</i><br><br>당사는 연구분석, 인구통계적 프로파일링 및 기타 유사한 목적을 위해 통합화된 정보 및 비식별 정보를 제3자와 공유할 수 있습니다. 귀하의 개인식별정보는 이러한 정보에 포함되지 않습니다.<br><br><i>d. 기업거래 관련하여 공개되는 정보</i><br><br>개인식별정보를 포함하여 당사가 사용자로부터 수집하는 정보는 기업자산으로 간주됩니다. 합병, 인수 또는 자산매각과 같은 거래의 결과로 당사가 제3자에 인수되거나 또는 당사가 도산하거나 파산하여 제3자에 의해 자산이 취득되는 경우, 귀하의 개인식별정보를 포함하는 당사 자산의 일부 또는 전부가 해당 거래와 관련하여 제3자 인수자에 공개되거나 양도될 수 있습니다. 이와 같은 거래가 발생하는 경우, 당사는 관계법령에 따라 귀하에게 거래사실을 통보하고, 해당 거래와 관련하여 귀하의 개인식별정보가 제3자 인수자에 공개되거나 양도되는 것을 거부할 수 있는 기회를 30일간 제공합니다.<br><br><i>e. 당사의 보호 및 다른 당사자의 보호를 위해 공개되는 정보</i><br><br>당사는 법률을 집행하고 준수하기 위해 정부 및 사법당국 또는 개인과 협력합니다. 당사는 (a) 청구나 법적 절차(소환장 포함)에 대응하고, (b) 당사의 재산, 권리 및 안전과 제3자나 일반 대중의 재산, 권리 및 안전을 보호하고, (c) 불법 또는 비윤리적인 것으로 간주되는 활동을 식별하고 중단하기 위해 필요하거나 적절하다고 판단되는 경우 당사가 소유하거나 통제하고 있는 귀하의 정보를 정부나 사법당국 또는 개인에게 공개할 수 있습니다.<br><br><br><b>4. 귀하의 선택</b><br><br>당사는 귀하의 개인식별정보 수집, 이용 및 공유에 대하여 귀하에게 선택권을 제공하며, 귀하의 선택을 존중합니다. 당사가 요구하는 개인식별정보를 제공하지 않기로 결정하는 경우, 서비스 기능의 일부 또는 전부에 접근하지 못할 수 있음을 양지해주시기 바랍니다.<br><br><i>a. 귀하의 동의 철회</i><br><br>귀하는 당사에 통지를 함으로써 귀하의 개인식별정보의 추가 수집, 이용 및/또는 공개를 거부할 권한이 있습니다. 당사 서비스에서 귀하의 개인식별정보가 수집 및 이용될 수 있도록 귀하가 제공한 동의를 철회하고자 하는 경우, pokemongo-privacy@nianticlabs.com 으로 요청해주시기 바랍니다. 당사는 신속하게 서비스에 대한 귀하의 접근 및 이용을 중단시키고 귀하의 개인식별정보가 서비스를 통해 더 이상 공개적으로 접근 가능하지 않도록 보장할 것입니다. 그러나 귀하가 개인식별정보의 추가 수집, 이용 및/또는 공개를 거부하는 경우, 서비스의 전부 또는 일부를 사용하지 못하게 될 수 있음을 양지해주시기 바랍니다.<br><br><i>b. 홍보물 및 서비스 소식</i><br><br>계정 등록 시, 귀하는 당사로부터 홍보물을 수신할 것인지 여부를 선택할 수 있습니다. 수신거절을 선택하지 않은 경우, 당사는 앱 내 특별 이벤트 및 휴가 보너스에 대한 정보 등 당사 서비스를 직접적으로 홍보하는 무료 뉴스레터와 이메일을 주기적으로 보낼 것입니다. 귀하는 이와 같은 홍보 소식을 수신할 때마다, 각 이메일에 포함된 구독중지 지시에 따라 구독을 취소할 수 있습니다. 또한 앱 설정 메뉴에서 귀하의 선호도를 언제든지 변경할 수 있습니다. 당사는 때때로 본 방침의 업데이트에 대한 소식 등 서비스 관련 특정 소식을 발송할 것이며, 이와 같은 소식의 수신은 거부할 수 없습니다.<br><br><i>c. 귀하의 정보에 대한 접근, 변경 및 삭제</i><br><br>귀하는 pokemongo-privacy@nianticlabs.com으로 귀하와 관련하여 저장된 개인식별정보에 대한 접근을 요청하여 권한을 얻을 수 있습니다. 당사가 귀하의 개인식별정보 및/또는 계정을 변경 또는 삭제하거나 귀하의 개인식별정보를 제3자에 제공하는 것을 중단시키고 싶은 경우, pokemongo-privacy@nianticlabs.com으로 요청 주시기 바랍니다. (관계법령상 달리 허용되지 않는 한) 당사는 가능한 한 조속히 귀하의 정보를 변경 또는 삭제하기 위한 조치를 취할 것입니다. 단, 일부 정보는 당사의 기록을 위해 또는 법으로 요구되는 경우 보관/백업 사본으로 유지될 수 있음을 양지해주시기 바랍니다.<br><br><br><b>5. 귀하의 정보 보관</b><br><br>귀하의 계정이 해지되거나 비활성화된 후, Niantic 및 그 고객, 계열사 또는 서비스 제공자는 관계법령에 따라 허용되는 한도 내에서 상업적으로 합당한 기간 동안 백업, 보관 및/또는 감사 목적으로 정보(귀하의 프로필 정보 포함) 및 사용자 콘텐츠를 보관할 수 있습니다. 법적 요건에 따라 보관되는 모든 개인식별정보는 별도로 유지되며, 관계법령상 허용되는 목적으로만 사용될 수 있습니다. 전자적으로 보관된 모든 개인식별정보는 복원 또는 복제될 수 없도록 기술적인 방법을 통해 파기되며, 개인식별정보의 출력물은 파쇄기를 통해 파쇄됩니다.<br><br>귀하의 계정의 해지 또는 비활성화에 대하여 질문이 있는 경우, pokemongo-privacy@nianticlabs.com으로 직접 연락 주시기 바랍니다<br><br><br><b>6. 추적 방지 신호에 대한 대응</b><br><br>당사 사이트는 다양한 웹 브라우저로부터 수신하는 “추적방지” 신호에 대한 대응을 지원하지 않습니다. 브라우저 추적신호 및 “추적방지”에 대한 상세한 정보는 http://allaboutdnt.org를 참조하여주시기 바랍니다.<br><br><br><b>7. 귀하의 정보에 대한 보안</b><br><br>당사는 귀하로부터 또는 귀하와 관련하여 수집된 정보를 우발적이거나 불법적인 파기, 우발적인 손실 또는 승인되지 않은 접근, 이용, 변경, 침해 또는 공개로부터 보호하기 위해 고안된 적절한 행정적, 물리적 및 전자적 조치를 취하고 있습니다. 단, 인터넷을 통하여 정보를 전송하거나 또는 정보를 저장하는 어떠한 방법도 완벽하게 안전하지 않다는 점을 양지해주시기 바랍니다. 이에 따라 당사는 정보에 대하여 절대적인 보안을 보장할 수 없습니다.<br><br><br><b>8. 다른 사이트로의 링크</b><br><br>당사 서비스는 제3자가 소유하거나 운영하는 웹사이트 및 서비스로의 링크(각각 “제3자 서비스”)를 포함할 수 있습니다. 귀하가 (예를 들어, Google에 로그인할 때) 제3자 서비스 상에서 또는 제3자 서비스에 대하여 제공하는 정보 또는 제3자 서비스에 의해 수집되는 정보는 제3자 서비스의 소유자나 운영자에게 직접 제공되며 해당 소유자나 운영자의 개인정보 취급방침의 적용을 받습니다. 당사는 제3자 서비스의 콘텐츠, 프라이버시 또는 보안 관련 관행 및 정책에 대하여 책임을 지지 않습니다. 귀하의 정보를 보호하기 위해, 당사 서비스를 통해 접근하게 되는 모든 제3자 서비스의 개인정보 취급방침을 신중히 검토할 것을 권하는 바입니다.<br><br><br><b>9. 국외로의 전송</b><br><br>귀하의 개인식별정보는 귀하의 주, 도, 국가 외 지역 또는 개인정보보호 관련 법률이 귀하의 관할권에서만큼 강력하지 않은 기타 정부 관할권에 소재한 컴퓨터에 전송되어 유지될 수 있습니다. 귀하가 미국 외 지역에 소재하며 귀하의 개인식별정보를 당사에 제공하고자 하는 경우, 당사는 귀하의 개인식별정보를 미국으로 전송하여 처리할 수 있습니다. 당사가 귀하의 개인식별정보를 귀하가 소재한 관할권 외 지역으로 전송할 때마다 당사는 해당 정보의 보안과 관련하여 적절한 안전조치를 취합니다. 귀하는 당사에게 귀하의 개인식별정보를 미국으로 전송하지 않도록 요청할 수 있으나 이러한 경우 귀하에게 서비스 일부 또는 전부가 제공되지 않을 수도 있습니다.<br><br><br><b>10. 질문</b><br><br>본 방침에 대하여 질문이 있거나 본 방침상 귀하의 개인식별정보에 대한 수집, 이용 또는 공개에 대하여 불만이 있는 경우, pokemongo-privacy@nianticlabs.com 로 연락해주시기 바랍니다. 당사는 가능한 한 조속히 불만을 해결하기 위해 합당한 노력을 기울일 것입니다.<br>개인정보보호 담당부서<br>* Courtney Greene Power, General Counsel<br>* 법무부<br>
+err_incense_already_active
+이미 향로를 사용하고 있습니다.
+err_incense_no_items
+향로가 없습니다.
+err_lucky_egg_no_items
+행복의알이 없습니다.
+err_lucky_egg_cannot_use
+행복의알을 사용하지 못했습니다.
+err_tm_cannot_use
+기술머신을 사용하지 못했습니다.
+err_berry_cannot_feed
+나무열매를 줄 수 없습니다.
+err_pokemon_could_not_evolve
+진화할 수 없습니다.
+err_pokemon_could_not_be_found
+포켓몬을 만날 수 없습니다.
+err_item_cannot_use
+이 도구를 사용할 수 없습니다.
+err_pokemon_already_encountered
+이 포켓몬은 이미 만났습니다.
+err_cannot_change_buddy
+파트너 포켓몬을 바꿀 수 없습니다.
+err_gym_battle_completed
+체육관 배틀은 종료했습니다.
+err_gym_battle_ended
+체육관 배틀은 종료했습니다.
+err_fetch_raid_details
+레이드 내용을 찾을 수 없습니다
+err_cannot_join_raid_group
+레이드 그룹에 참가할 수 없습니다
+err_leave_raid_lobby
+레이드로비에서 나갈 수 없습니다
+err_avatar_incorrect
+아바타가 다릅니다
+err_raid_unavailable
+이 레이드배틀은 진행되지 않습니다
+err_raid_lobby_not_found
+레이드로비가 없습니다
+err_gym_deploy
+포켓몬을 배치할 수 없었습니다.
+err_bundle_request
+서버에서 콘텐츠를 다운로드할 수 없습니다
+alola_pokedex_header
+알로라의 모습
+privacy_policy_short_button
+프라이버시
+pokemon_info_caught
+잡은 날
+pokemon_info_hatched
+부화한 날
+pokemon_info_trade
+교환
+terms_of_service_url
+https://www.nianticlabs.com/terms/pokemongo/ko/
+no_news_message
+소식이 없습니다.
+view_in_map
+맵 열기
+badge_chicago_fest_july_2018_sat_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_north_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sun_south_title
+Pokémon GO Fest
+badge_chicago_fest_july_2018_sat_north
+시카고, 2018년 7월 14일-북
+badge_chicago_fest_july_2018_sat_south
+시카고, 2018년 7월 14일-남
+badge_chicago_fest_july_2018_sun_south
+시카고, 2018년 7월 14일-남
+badge_chicago_fest_july_2018_sun_north
+시카고, 2018년 7월 14일-북
+error_contains_bad_text
+이 이름은 사용할 수 없습니다.
+pokestop_item_passcode_inventory_full
+지닌물건이 가득 찼거나 체크인 할 수 있는 장소에서 떨어졌습니다
+error_weak_network
+네트워크 상태가 불안정합니다. 통신상태가 양호한 곳에서 다신 한번 시도해 주세요.
+badge_apac_partner_july_2018_1
+일본 2018년7월28일
+badge_apac_partner_july_2018_2
+일본 2018년7월26일
+badge_apac_partner_july_2018_3
+일본 2018년7월27일
+badge_apac_partner_july_2018_4
+일본 2018년7월29일
+badge_apac_partner_july_2018_5
+한국 2018년7월29일
+badge_apac_partner_july_2018_1_title
+Pokémon GO Special Weekend 2018/7/28
+badge_apac_partner_july_2018_2_title
+Pokémon GO Special Weekend 2018/7/26
+badge_apac_partner_july_2018_3_title
+Pokémon GO Special Weekend 2018/7/27
+badge_apac_partner_july_2018_4_title
+Pokémon GO Special Weekend 2018/7/29
+badge_apac_partner_july_2018_5_title
+Pokémon GO Special Weekend 2018/7/29
+banned_player_lockout_1|a
+계정 영구정지 안내\n\n 이용약관 위반 상태가 계속해서 확인되어 사용하시는 계정이 정지했습니다.\n\n자세한 내용은 <a href="three_strike_policy_url">헬프 센터</a>에서 확인해 주세요
+suspended_player_lockout_1
+계정 일시 정지 안내\n\n이용약관 위반 상태가 계속 검출되어 사용하시는 계정이 일시 정지 되었습니다.\n\n계정 일시 정지(스트라이크2) 상태는 약 30일간 유지됩니다.\n\n계정 정지에 대한 자세한 내용은 <a href="three_strike_policy_url">헬프 센터</a>에서 확인해 주세요.
+player_cheating_warning|a
+Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+three_strike_policy_url
+https://support.pokemongo.nianticlabs.com/hc/ko/articles/360001743487-3%ED%9A%8C-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC-%EC%A7%95%EA%B3%84-%EB%B0%A9%EC%B9%A8
+badge_yokosuka_29_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_30_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_31_aug_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_1_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_mikasa_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_verny_title
+Pokémon GO Safari Zone
+badge_yokosuka_2_sep_2018_kurihama_title
+Pokémon GO Safari Zone
+badge_yokosuka_29_aug_2018_mikasa
+Yokosuka, Aug 29, 2018-MIKASA
+badge_yokosuka_29_aug_2018_verny
+Yokosuka, Aug 29, 2018-VERNY
+badge_yokosuka_29_aug_2018_kurihama
+Yokosuka, Aug 29, 2018-KURIHAMA
+badge_yokosuka_30_aug_2018_mikasa
+Yokosuka, Aug 30, 2018-MIKASA
+badge_yokosuka_30_aug_2018_verny
+Yokosuka, Aug 30, 2018-VERNY
+badge_yokosuka_30_aug_2018_kurihama
+Yokosuka, Aug 30, 2018-KURIHAMA
+badge_yokosuka_31_aug_2018_mikasa
+Yokosuka, Aug 31, 2018-MIKASA
+badge_yokosuka_31_aug_2018_verny
+Yokosuka, Aug 31, 2018-VERNY
+badge_yokosuka_31_aug_2018_kurihama
+Yokosuka, Aug 31, 2018-KURIHAMA
+badge_yokosuka_1_sep_2018_mikasa
+Yokosuka, Sep 1, 2018-MIKASA
+badge_yokosuka_1_sep_2018_verny
+Yokosuka, Sep 1, 2018-VERNY
+badge_yokosuka_1_sep_2018_kurihama
+Yokosuka, Sep 1, 2018-KURIHAMA
+badge_yokosuka_2_sep_2018_mikasa
+Yokosuka, Sep 2, 2018-MIKASA
+badge_yokosuka_2_sep_2018_verny
+Yokosuka, Sep 2, 2018-VERNY
+badge_yokosuka_2_sep_2018_kurihama
+Yokosuka, Sep 2, 2018-KURIHAMA
+badge_pokedex_entries_gen4_title
+신오

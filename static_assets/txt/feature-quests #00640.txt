@@ -503,7 +503,7 @@ quest_special_dialogue_gofest_1_3
 quest_special_dialogue_gofest_1_4
 我們試著去捕捉一些寶可夢，看能不能讓現在的狀況穩定下來。
 quest_special_dialogue_gofest_1_5
-請去捕捉屬性是火、鋼、水、草、岩石或是冰的寶可夢，一共要捕捉120隻！
+請去捕捉一些屬性是火、鋼、水、草、岩石及冰的寶可夢！
 quest_special_dialogue_gofest_2_0
 看來這些異常現象是某些強力的寶可夢造成的。謝謝你把牠們捉來，我想你跟牠們一定能成為好朋友的。
 quest_special_dialogue_gofest_2_1
@@ -562,3 +562,11 @@ quest_land_nice_curve_singular
 用曲球投出1次Nice
 quest_land_nice_curve_plural
 用曲球投出 {0} 次Nice
+quest_catch_special14_singular
+捕捉1隻喵喵或卡蒂狗
+quest_evolve_special2_singular
+讓1隻喵喵進化
+quest_catch_special16_singular
+捕捉1隻向尾喵或土狼犬
+quest_catch_special17_plural
+捕捉 {0} 隻伊布

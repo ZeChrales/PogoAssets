@@ -1,0 +1,618 @@
+item_great_ball_desc
+몬스터볼보다도 더욱 포켓몬을 잡기 쉬워진 약간 성능이 좋은 볼.
+item_great_ball_name
+수퍼볼
+item_hyper_potion_desc
+스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다.
+item_hyper_potion_name
+고급상처약
+item_master_ball_desc
+야생 포켓몬을 반드시 잡을 수 있는 최고 성능의 볼.
+item_master_ball_name
+마스터볼
+item_max_potion_desc
+스프레이식의 상처약. 포켓몬 1마리의 HP를 모두 회복한다.
+item_max_potion_name
+풀회복약
+item_revive_desc
+기절해 버린 포켓몬 1마리의 HP를 절반 회복한다.
+item_revive_name
+기력의조각
+item_max_revive_desc
+기절해 버린 포켓몬 1마리의 HP를 모두 회복한다.
+item_max_revive_name
+기력의덩어리
+item_poke_ball_desc
+야생 포켓몬에게 던져서 잡기 위한 볼. 캡슐식으로 되어 있다.
+item_poke_ball_name
+몬스터볼
+item_potion_desc
+스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다.
+item_potion_name
+상처약
+item_razz_berry_desc
+포켓몬에게 주면 잡기 쉬워지는 나무열매.
+item_razz_berry_name
+라즈열매
+item_special_camera_name
+카메라
+item_special_camera_desc
+야생 포켓몬의 모습을 촬영할 수 있는 카메라.
+item_super_potion_desc
+스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다.
+item_super_potion_name
+좋은상처약
+item_ultra_ball_desc
+수퍼볼보다도 더욱 포켓몬을 잡기 쉬워진 매우 성능이 좋은 볼.
+item_ultra_ball_name
+하이퍼볼
+item_x_attack_desc
+UNDEFINED
+item_x_attack_name
+플러스파워
+item_x_defense_desc
+UNDEFINED
+item_x_defense_name
+디펜드업
+item_x_miracle_desc
+UNDEFINED
+item_x_miracle_name
+UNDEFINED
+item_bluk_berry_desc
+UNDEFINED
+item_bluk_berry_name
+블리열매
+item_wepar_berry_desc
+UNDEFINED
+item_wepar_berry_name
+서배열매
+item_nanab_berry_desc
+포켓몬에게 주면 포켓몬이 얌전해지는 나무열매
+item_nanab_berry_name
+나나열매
+item_pinap_berry_desc
+포켓몬에게 주면 잡은 뒤 사탕이 많게 손에 넣을수 있는 나무열매.
+item_pinap_berry_name
+파인열매
+item_pokemon_bag_name
+포켓몬 박스
+item_pokemon_bag_desc
+지닌 포켓몬으로 추가할 수 있는 포켓몬의 상한 수가 늘어납니다.
+item_item_pack_name
+도구
+item_item_pack_desc
+지닐 수 있는 도구의 상한 수가 늘어납니다.
+pokeball.20_title
+몬스터볼 x 20
+pokeball.20_description
+야생 포켓몬을 잡는 데 필요한 몬스터볼 20 개입.
+pokeball.100_title
+몬스터볼 x 100
+pokeball.100_description
+야생 포켓몬을 잡는 데 필요한 몬스터볼 100 개입.
+pokeball.200_title
+몬스터볼 x 200
+pokeball.200_description
+야생 포켓몬을 잡는 데 필요한 몬스터볼 200 개입.
+pokemonstorageupgrade.1_title
+포켓몬 박스 업그레이드
+pokemonstorageupgrade.1_description
+지닌 포켓몬의 상한이 {0} 늘어납니다.
+itemstorageupgrade.1_title
+가방 업그레이드
+itemstorageupgrade.1_description
+지닌 도구의 상한이 {0} 늘어납니다.
+item_lucky_egg_name
+행복의알
+item_lucky_egg_desc
+행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다.
+luckyegg.1_title
+행복의알
+luckyegg.1_description
+행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다.
+luckyegg.5_title
+행복의알 x 5
+luckyegg.5_description
+행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다. 유용한 5개 세트.
+luckyegg.8_title
+행복의알 x 8
+luckyegg.8_description
+행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다. 유용한 8개 세트.
+luckyegg.25_title
+행복의알 x 25
+luckyegg.25_description
+행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다. 유용한 25개 세트.
+item_incense_ordinary_name
+향로
+item_incense_ordinary_desc
+이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다.
+incenseordinary.1_title
+향로
+incenseordinary.1_description
+이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다.
+incenseordinary.8_title
+향로 x 8
+incenseordinary.8_description
+이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다. 유용한 8개 세트.
+incenseordinary.25_title
+향로 x 25
+incenseordinary.25_description
+이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다. 유용한 25개 세트.
+incubatorbasic.1_title
+부화장치
+incubatorbasic.1_description
+알을 넣고 걸으면 포켓몬이 부화합니다. 3번 사용하면 부서집니다.
+item_incubator_basic_name
+부화장치
+item_incubator_basic_desc
+알을 넣고 걸으면 포켓몬이 부화합니다. 3번 사용하면 부서집니다.
+item_incubator_basic_unlimited_name
+무한 부화장치
+item_incubator_basic_unlimited_desc
+알을 넣고 걸으면 포켓몬이 부화합니다.
+pokecoin.1000_title
+테스트 기간 한정 포켓코인 1,000개
+pokecoin.1000_description
+
+pokecoin.100_title
+100 포켓코인
+pokecoin.100_description
+
+pokecoin.550_title
+500 포켓코인
+pokecoin.550_description
+
+pokecoin.1200_title
+1,200 포켓코인
+pokecoin.1200_description
+
+pokecoin.2500_title
+2,500 포켓코인
+pokecoin.2500_description
+
+pokecoin.5200_title
+5,200 포켓코인
+pokecoin.5200_description
+
+pokecoin.14500_title
+14,500 포켓코인
+pokecoin.14500_description
+
+item_troy_disk_name
+루어모듈
+item_troy_disk_desc
+포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다.
+troydisk.1_title
+루어모듈
+troydisk.1_description
+포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 받습니다.
+troydisk.8_title
+루어모듈 x 8
+troydisk.8_description
+포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 받습니다. 유용한 8개 세트.
+item_sun_stone_name
+태양의돌
+item_sun_stone_desc
+어느 특정 포켓몬을 진화시키는 이상한 돌. 노을처럼 붉게 빛난다.
+item_kings_rock_name
+왕의징표석
+item_kings_rock_desc
+어느 특정 포켓몬을 진화시키는 이상한 돌. 왕관 모양이다.
+item_metal_coat_name
+금속코트
+item_metal_coat_desc
+어느 특정 포켓몬을 진화시키는 장막. 특수한 금속으로 만들어져 있다.
+item_dragon_scale_name
+용의비늘
+item_dragon_scale_desc
+어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다.
+item_up_grade_name
+업그레이드
+item_up_grade_desc
+어느 특정 포켓몬을 진화시키는 투명한 기계다. 실프주식회사 제품.
+avatar_f_backpack_cute_bundle_icon
+리본백
+avatar_f_backpack_default_bundle_icon
+어번팩
+avatar_f_backpack_empty_bundle_icon
+백 없음
+avatar_f_belt_simple_bundle_icon
+플랫버클
+avatar_f_belt_default_bundle_icon
+둥근버클
+avatar_f_belt_empty_bundle_icon
+벨트 없음
+avatar_f_glasses_mask_bundle_icon
+미스터리 마스크
+avatar_f_glasses_3d_bundle_icon
+3D안경
+avatar_f_glasses_thick_bundle_icon
+둥근테안경
+avatar_f_glasses_empty_bundle_icon
+안경 없음
+avatar_f_gloves_default_bundle_icon
+손가락없는 장갑
+avatar_f_gloves_empty_bundle_icon
+장갑 없음
+avatar_f_hat_knitted_bundle_icon
+니트캡
+avatar_f_hat_fedora_bundle_icon
+펠트페도라
+avatar_f_hat_tophat_bundle_icon
+톱 해트
+avatar_f_hat_casket_bundle_icon
+뉴스보이 캡
+avatar_f_hat_default_a_bundle_icon
+볼캡
+avatar_f_hat_default_b_bundle_icon
+스포츠캡
+avatar_f_hat_empty_bundle_icon
+모자 없음
+avatar_f_necklace_heart_bundle_icon
+하트초커
+avatar_f_necklace_star_bundle_icon
+스타초커
+avatar_f_necklace_default_bundle_icon
+리본초커
+avatar_f_necklace_empty_bundle_icon
+목걸이 없음
+avatar_f_pants_neon_bundle_icon
+리퀴드 레깅스
+avatar_f_pants_skinnyjeans_bundle_icon
+스키니진
+avatar_f_pants_shorts_bundle_icon
+트랙 쇼츠
+avatar_f_pants_miniskirt_wave_bundle_icon
+웨이브 스커트
+avatar_f_pants_miniskirt_bundle_icon
+스트라이프 스커트
+avatar_f_pants_miniskirt_turbine_bundle_icon
+터빈 스커트
+avatar_f_pants_default_bundle_icon
+스프링 수트 
+avatar_f_shirt_tshirt_pikachu_bundle_icon
+피카츄티
+avatar_f_shirt_tanktop_pikachu_bundle_icon
+피카츄 탱크톱
+avatar_f_shirt_tanktop_charizard_bundle_icon
+리자몽 탱크톱
+avatar_f_shirt_sweater_valor_bundle_icon
+팀 발로 터틀넥
+avatar_f_shirt_sweater_mystic_bundle_icon
+팀 미스틱 터틀넥
+avatar_f_shirt_sweater_instinct_bundle_icon
+팀 인스팅트 터틀넥
+avatar_f_shirt_sweater_30_bundle_icon
+The Thirty
+avatar_f_shirt_tshirt_cycling_bundle_icon
+액티브티
+avatar_f_shirt_buttondown_bundle_icon
+피티드 셔츠
+avatar_f_shirt_tanktop_bundle_icon
+트레이너 탱크톱
+avatar_f_shirt_default_bundle_icon
+클래식 롱슬리브
+avatar_f_shoes_default_bundle_icon
+런닝슈즈
+avatar_f_shoes_empty_bundle_icon
+신발 없음
+avatar_f_socks_thighhighs_bundle_icon
+울레그워머
+avatar_f_socks_default_bundle_icon
+롱레그워머
+avatar_f_socks_empty_bundle_icon
+양말 없음
+avatar_m_backpack_default_bundle_icon
+트레이너 백팩
+avatar_m_backpack_empty_bundle_icon
+백팩 없음
+avatar_m_glasses_mask_bundle_icon
+미스테리 마스크
+avatar_m_glasses_3d_bundle_icon
+3D안경
+avatar_m_glasses_thick_bundle_icon
+둥근테안경
+avatar_m_glasses_empty_bundle_icon
+안경 없음
+avatar_m_gloves_default_bundle_icon
+손가락없는 장갑
+avatar_m_gloves_empty_bundle_icon
+장갑 없음
+avatar_m_hat_fedora_bundle_icon
+펠트페도라
+avatar_m_hat_tophat_bundle_icon
+톱 해트
+avatar_m_hat_casket_bundle_icon
+뉴스보이 캡
+avatar_m_hat_default_bundle_icon
+트레이너바이저
+avatar_m_hat_empty_bundle_icon
+모자 없음
+avatar_m_pants_sweats_bundle_icon
+액티브 스웨트팬츠
+avatar_m_pants_skinnyjeans_bundle_icon
+스키니진
+avatar_m_pants_default_bundle_icon
+트레이너 반바지
+avatar_m_shirt_blazer_bundle_icon
+비지니스 블레이저
+avatar_m_shirt_longsleeves_charizard_bundle_icon
+리자몽 풀오버
+avatar_m_shirt_longsleeves_pikachu_bundle_icon
+피카츄 풀오버
+avatar_m_shirt_tshirt_instinct_bundle_icon
+팀 인스팅트티
+avatar_m_shirt_tshirt_mystic_bundle_icon
+팀 미스틱티
+avatar_m_shirt_tshirt_valor_bundle_icon
+팀 발로 티
+avatar_m_shirt_turtleneck_30_bundle_icon
+더 30
+avatar_m_shirt_tshirt_geometric_bundle_icon
+패턴티셔츠
+avatar_m_shirt_sweatshirt_sporty_bundle_icon
+스포츠 후드티
+avatar_m_shirt_sweatshirt_streak_bundle_icon
+스트릭 후드티
+avatar_m_shirt_default_2_bundle_icon
+클래식 후드티
+avatar_m_shirt_default_1_bundle_icon
+칼럼 후드티
+avatar_m_shirt_default_0_bundle_icon
+어깨라인 후드티
+avatar_m_shirt_default_3_bundle_icon
+포인트 후드티
+avatar_m_shoes_default_bundle_icon
+런닝슈즈
+avatar_m_shoes_empty_bundle_icon
+신발 없음
+avatar_m_socks_default_bundle_icon
+레깅스
+avatar_m_socks_empty_bundle_icon
+양말 없음
+avatar_m_hat_magikarp_bundle_icon
+잉어킹모자
+avatar_f_hat_magikarp_bundle_icon
+잉어킹모자
+avatar_m_hat_adventure_bundle_icon
+탐험가모자
+avatar_f_hat_adventure_bundle_icon
+탐험가모자
+paidraidticket.1_title
+프리미엄 레이드패스
+paidraidticket.1_description
+레이드패스는 레이드배틀 참가에 필요한 패스입니다.
+maxrevive.6_title
+기력의덩어리 X 6
+maxrevive.6_description
+기절한 포켓몬 1마리의 HP를 모두 회복하는 덩어리 6개입
+oneyearanniversary.1_title
+기념일박스
+maxpotion.10_title
+풀회복약 X10
+maxpotion.10_description
+포켓몬 1마리의 HP를 모두 회복시키는 약 10개입.
+f_shirt_tshirt_fest_chicago_2017_bundle_icon
+GO Fest 티셔츠
+m_shirt_tshirt_fest_chicago_2017_bundle_icon
+GO Fest 티셔츠
+bundle.general1.small.1_title
+스페셜 박스
+bundle.general1.medium.1_title
+수퍼 박스
+bundle.general1.large.1_title
+하이퍼 박스
+avatar_m_hat_mimikyu_icon
+따라큐 탈 모자
+avatar_f_hat_mimikyu_icon
+따라큐 탈 모자
+f_hat_ultra_bundle_icon
+울트라문 해트
+f_shirt_ultra_bundle_icon
+울트라문 탱크톱
+f_backpack_ultra_bundle_icon
+울트라문 백
+f_pants_ultra_bundle_icon
+울트라문 쇼츠
+f_shoes_ultra_bundle_icon
+울트라문 샌들
+m_hat_ultra_bundle_icon
+울트라썬 해트
+m_shirt_ultra_bundle_icon
+울트라썬 탱크톱
+m_backpack_ultra_bundle_icon
+울트라썬 백
+m_pants_ultra_bundle_icon
+울트라썬 쇼츠
+m_shoes_ultra_bundle_icon
+울트라썬 슈즈
+item_star_piece_name
+별의조각
+item_star_piece_desc
+받을 수 있는 별의모래가 30분 동안 1.5배가 되는 아름다운 보석의 조각.
+starpiece.1_description
+받을 수 있는 별의모래가 30분 동안 1.5배가 되는 아름다운 보석 조각.
+starpiece.8_description
+받을 수 있는 별의모래가 30분 동안 1.5배가 되는 아름다운 보석 조각 8개입.
+starpiece.25_description
+받을 수 있는 별의모래가 30분 동안 1.5배가 되는 아름다운 보석 조각. 저렴한 25개입.
+starpiece.1_title
+별의조각
+starpiece.8_title
+별의조각 x8
+starpiece.25_title
+별의조각 x25
+bundle.general2.small.1_title
+윈터 박스
+bundle.general3.small.1_title
+윈터 박스
+bundle.general2.medium.1_title
+수퍼 박스
+bundle.general3.medium.1_title
+수퍼 박스
+bundle.general2.large.1_title
+하이퍼 박스
+bundle.general3.large.1_title
+하이퍼 박스
+m_shoes_fisher_bundle_icon
+낚시꾼부츠
+m_hat_jogger_bundle_icon
+조깅바이저
+m_glasses_jogger_bundle_icon
+조깅글라스
+m_shirt_jogger_bundle_icon
+조깅셔츠
+m_pants_jogger_bundle_icon
+조깅팬츠
+m_shoes_jogger_bundle_icon
+조깅슈즈
+m_gloves_jogger_bundle_icon
+조깅워치
+f_shirt_battlegirl_bundle_icon
+배틀걸셔츠
+f_gloves_battlegirl_bundle_icon
+배틀걸글로브
+f_pants_battlegirl_bundle_icon
+배틀걸쇼츠
+f_shoes_battlegirl_bundle_icon
+배틀걸슈즈
+avatar_f_pants_battlegirl_bundle_icon
+배틀걸쇼츠
+avatar_f_shoes_battlegirl_bundle_icon
+배틀걸슈즈
+avatar_m_gloves_jogger_bundle_icon
+조깅워치
+avatar_m_pants_jogger_bundle_icon
+조깅팬츠
+avatar_f_gloves_battlegirl_bundle_icon
+배틀걸글로브
+avatar_f_shirt_battlegirl_bundle_icon
+배틀걸셔츠
+avatar_m_shirt_jogger_bundle_icon
+조깅셔츠
+avatar_m_shoes_jogger_bundle_icon
+조깅슈즈
+avatar_m_glasses_jogger_bundle_icon
+조깅글라스
+avatar_m_shoes_fisher_bundle_icon
+낚시꾼부츠
+avatar_m_hat_jogger_bundle_icon
+조깅바이저
+avatar_m_pants_fisher_bundle_icon
+낚시꾼팬츠
+avatar_m_shirt_fisher_bundle_icon
+낚시꾼베스트
+avatar_m_hat_fisher_bundle_icon
+낚시꾼캡
+avatar_f_hat_teamrocket_bundle_icon
+로켓단모자
+avatar_f_shirt_teamrocket_0_bundle_icon
+포켓단상의
+avatar_f_shirt_teamrocket_1_bundle_icon
+R로켓단상의
+avatar_f_gloves_teamrocket_bundle_icon
+로켓단장갑
+avatar_f_belt_teamrocket_1_bundle_icon
+R로켓단벨트
+avatar_f_pants_teamrocket_bundle_icon
+로켓단스커트
+avatar_f_shoes_teamrocket_0_bundle_icon
+로켓단부츠
+avatar_f_shoes_teamrocket_1_bundle_icon
+R로켓단부츠
+avatar_m_hat_teamrocket_bundle_icon
+로켓단모자
+avatar_m_shirt_teamrocket_0_bundle_icon
+포켓단상의
+avatar_m_shirt_teamrocket_1_bundle_icon
+R로켓단상의
+avatar_m_gloves_teamrocket_bundle_icon
+로켓단장갑
+avatar_m_pants_teamrocket_bundle_icon
+로켓단하의
+avatar_m_shoes_teamrocket_0_bundle_icon
+로켓단부츠
+avatar_m_shoes_teamrocket_1_bundle_icon
+R로켓단부츠
+avatar_f_belt_teamrocket_0_bundle_icon
+로켓단벨트
+avatar_m_hat_frlg_bundle_icon
+파이어캡
+avatar_m_shirt_frlg_bundle_icon
+파이어상의
+avatar_m_backpack_frlg_bundle_icon
+파이어백팩
+avatar_m_gloves_frlg_bundle_icon
+파이어리스트밴드
+avatar_m_pants_frlg_bundle_icon
+파이어팬츠
+avatar_m_shoes_frlg_bundle_icon
+파이어슈즈
+avatar_f_hat_frlg_bundle_icon
+리프해트
+avatar_f_shirt_frlg_bundle_icon
+리프상의
+avatar_f_backpack_frlg_bundle_icon
+리프백
+avatar_f_gloves_frlg_bundle_icon
+리프리스트밴드
+avatar_f_pants_frlg_bundle_icon
+리프스커트
+avatar_f_shoes_frlg_bundle_icon
+리프슈즈
+avatar_f_shirt_gymleader_bundle_icon
+체육관 리더 상의
+avatar_f_gloves_gymleader_bundle_icon
+체육관 리더 장갑
+avatar_f_pants_gymleader_bundle_icon
+체육관 리더 스커트
+avatar_f_shoes_gymleader_bundle_icon
+체육관 리더 슈즈
+avatar_m_shirt_gymleader_bundle_icon
+체육관 리더 상의
+avatar_m_gloves_gymleader_bundle_icon
+체육관 리더 장갑
+avatar_m_pants_gymleader_bundle_icon
+체육관 리더 팬츠
+avatar_m_shoes_gymleader_bundle_icon
+체육관 리더 슈즈
+bundle.general4.small.1_title
+커뮤니티 데이 박스
+avatar_f_shirt_earthday_2018_bundle_icon
+파도타기 블루티셔츠
+avatar_m_shirt_earthday_2018_bundle_icon
+파도타기 블루티셔츠
+bundle.general2.small.1.itembox_title
+아이템 박스(Beta)
+bundle.general2.medium.1.itembox_title
+실버아이템 박스(Beta)
+bundle.general2.large.1.itembox_title
+골드아이템 박스(Beta)
+avatar_m_shirt_mew_bundle_icon
+뮤티셔츠
+avatar_f_shirt_mew_bundle_icon
+뮤티셔츠
+avatar_m_shirt_latias_latios_bundle_icon
+라티아스&라티오스 티셔츠
+avatar_f_shirt_latias_latios_bundle_icon
+라티아스&라티오스 티셔츠
+avatar_f_hat_pikachufan_bundle_icon
+피카츄 머리띠
+avatar_f_shirt_pikachufan_bundle_icon
+피카츄 애호가티셔츠
+avatar_f_pants_pikachufan_bundle_icon
+피카츄 애호가팬츠
+avatar_f_shoes_pikachufan_bundle_icon
+피카츄 애호가슈즈
+avatar_m_hat_pikachufan_bundle_icon
+피카츄 머리띠
+avatar_m_shirt_pikachufan_bundle_icon
+피카츄 애호가티셔츠
+avatar_m_pants_pikachufan_bundle_icon
+피카츄 애호가팬츠
+avatar_m_shoes_pikachufan_bundle_icon
+피카츄 애호가슈즈
+avatar_f_glasses_teardrop_bundle_icon
+티어드롭형 선글라스
+m_glasses_teardrop_bundle_icon
+티어드롭형 선글라스

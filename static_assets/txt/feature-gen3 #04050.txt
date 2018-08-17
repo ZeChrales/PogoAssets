@@ -1,0 +1,70 @@
+pokemon_info_evolve_need_buddy_distance
+Geh {0} km mehr mit deinem Kumpel spazieren.
+weather_weather
+Wetter
+weather_clear
+Klar
+weather_rainy
+Regen
+weather_partly_cloudy
+Teilweise bewölkt
+weather_overcast
+Bedeckt
+weather_windy
+Windig
+weather_snow
+Schnee
+weather_fog
+Nebel
+weather_boosted_types
+Gestärkte Typen
+weather_boosted_types_desciption
+Diese Pokémon sind stärker und erscheinen häufiger. Wenn du eines fängst, erhältst du Bonus-Sternenstaub.
+weather_extreme
+Extrem
+weather_extreme_description
+Pokémon scheinen diese Bedingungen nicht zu mögen. Wetterbedingungen können gefährlich sein – achte auf deine Umgebung! Näheres erfährst du bei deinem lokalen Wetterdienst.
+weather_alert_warning
+Unwetterwarnung: Näheres erfährst du bei deinem lokalen Wetterdienst.
+gen3_test_string
+123456789
+pokemon_info_evolve_buddy_distance_requirement
+/{0} km
+pokemon_info_evolve_buddy_distance_description
+Geh mit deinem Kumpel {0} spazieren, um dieses Pokémon zu entwickeln.
+weather_sunny
+Sonnig
+weather_boost_active_1
+{0}s {1} wird durch das Wetter verstärkt!
+weather_boost_active_2
+{0}s {1} und {2} werden durch das Wetter verstärkt!
+weather_alert_safety_button
+Ich bin in Sicherheit
+weather_careful_description
+Es herrschen potenziell gefährliche Wetterbedingungen – achte auf deine Umgebung! Näheres erfährst du bei deinem lokalen Wetterdienst.
+weather_careful
+Vorsicht!
+form_normal
+Normalform
+form_sun
+Sonnenform
+form_rain
+Regenform
+form_snow
+Schneeform
+form_defense
+Verteidigungsf.
+form_attack
+Angriffsform
+form_speed
+Initiativeform
+form_deoxys_normal
+Normalform
+general_send
+SENDEN
+general_report_title
+Problem melden
+weather_report_option_1
+Das Wetter ist überhaupt nicht korrekt!
+weather_report_option_2
+Das Wetter scheint korrekt zu sein, nur nicht aktuell.

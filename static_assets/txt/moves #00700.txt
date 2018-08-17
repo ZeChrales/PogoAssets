@@ -472,3 +472,5 @@ move_name_0297
 擊落
 move_name_0299
 加農水砲
+move_name_0300
+珍藏

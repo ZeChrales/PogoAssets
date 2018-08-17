@@ -23,7 +23,7 @@ New Field Research!
 quests_get_new_challenge_prompt
 Visit PokéStops to find more Field Research!
 quests_step_complete
-Tasks completed!
+Task completed!
 quest_pokemon_appears
 Pokémon appears!
 quests_claim_field_research_first
@@ -369,7 +369,7 @@ pokemon_mythic_info_transfer_to_professor_impossible
 quests_when_to_collect_next_stamp
 You can earn another research stamp tomorrow!
 quests_streak_broken
-Streak Broken!
+Streak broken!
 badge_challenge_quests
 Complete {0} Field Research tasks.
 badge_challenge_quests_title
@@ -503,7 +503,7 @@ The local Pokémon have become confused… It looks like they’re acting more a
 quest_special_dialogue_gofest_1_4
 Let's see if we can help out by catching some Pokémon to make the situation a bit more stable.
 quest_special_dialogue_gofest_1_5
-Please catch 20 Fire-, Steel-, Water-, Grass-, Rock-, or Ice-type Pokémon!
+Please catch some Fire-, Steel-, Water-, Grass-, Rock-, and Ice-type Pokémon!
 quest_special_dialogue_gofest_2_0
 Well, it looks like there were some pretty powerful Pokémon causing the ruckus. Thanks for taking care of them! I'm sure they'll make great friends.
 quest_special_dialogue_gofest_2_1
@@ -559,6 +559,14 @@ Evolve an Electric-, Water-, or Fire-type Pokémon
 quest_evolve_eevee_types_plural
 Evolve {0} Electric-, Water-, or Fire-type Pokémon
 quest_land_nice_curve_singular
-Land a Nice Curveball Throw
+Make a Nice Curveball Throw
 quest_land_nice_curve_plural
-Land {0} Nice Curveball Throws
+Make {0} Nice Curveball Throws
+quest_catch_special14_singular
+Catch a Meowth or Growlithe
+quest_evolve_special2_singular
+Evolve a Meowth
+quest_catch_special16_singular
+Catch a Skitty or Poochyena
+quest_catch_special17_plural
+Catch {0} Eevee

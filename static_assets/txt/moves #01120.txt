@@ -472,3 +472,5 @@ move_name_0297
 Anti-Air
 move_name_0299
 Hydroblast
+move_name_0300
+Dernier Recours

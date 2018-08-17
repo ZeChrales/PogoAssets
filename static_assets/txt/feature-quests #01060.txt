@@ -229,9 +229,9 @@ Gagne un Raid
 quest_reach_level
 Atteins le niveau {0}
 quest_reach_kanto_silver
-Gagne une médaille argent de Kanto
+Gagne une médaille d’argent de Kanto
 quest_reach_kanto_gold
-Gagne une médaille or de Kanto
+Gagne une médaille d’or de Kanto
 quest_walk_buddy_plural
 Gagne {0} Bonbons en marchant avec ton copain
 quest_walk_buddy_singular
@@ -487,7 +487,7 @@ Je me préparais pour une journée de détente avec les Pokémon, mais comme tu 
 quest_special_dialogue_gofest_0_2
 Nous cherchons à savoir ce qui s’est passé pour pouvoir remettre les choses en ordre ; ton aide est indispensable.
 quest_special_dialogue_gofest_0_3
-Maintenant que tu es là, j’aimerai que tu fasses partie de mon équipe d’Études d’élite.
+Maintenant que tu es là, j’aimerais que tu fasses partie de mon équipe d’Études d’élite.
 quest_special_dialogue_gofest_0_4
 Tout d’abord, peux-tu faire un tour du parc et récupérer quelques provisions ?
 quest_special_dialogue_gofest_0_5
@@ -503,7 +503,7 @@ Les Pokémon des environs sont confus... ils se montrent plus agressifs et terri
 quest_special_dialogue_gofest_1_4
 Essayons d’attraper quelques Pokémon pour tenter de stabiliser la situation.
 quest_special_dialogue_gofest_1_5
-Attrape 20 Pokémon de type Feu, Acier, Eau, Plante, Roche ou Glace.
+Attrape des Pokémon de type Feu, Acier, Eau, Plante, Roche ou Glace.
 quest_special_dialogue_gofest_2_0
 Quelques puissants Pokémon étaient à la source de ce raffut. Merci pour ton aide ! Ils feront de très bons amis.
 quest_special_dialogue_gofest_2_1
@@ -562,3 +562,11 @@ quest_land_nice_curve_singular
 Effectue un joli lancer à effet
 quest_land_nice_curve_plural
 Effectue {0} jolis lancers à effet
+quest_catch_special14_singular
+Attrape un Miaouss ou un Caninos
+quest_evolve_special2_singular
+Fais évoluer un Miaouss
+quest_catch_special16_singular
+Attrape un Skitty ou un Medhyèna
+quest_catch_special17_plural
+Attrape {0} Évoli
