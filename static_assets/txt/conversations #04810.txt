@@ -88,10 +88,6 @@ team_red_intro|4
 이 팀의 단련된 포켓몬이 배틀에서 최강인 건 틀림없어!
 team_red_intro|5
 준비는 됐어?
-team_yello_welcom|1
-굿 초이스! 와줄 거라 생각했어! 포켓몬 배틀도 즐기자!
-team_blue_welcom|1
-... 당연한 선택이지. 배틀에는 냉정함을 잊지마.
 quickstart_pokestopfar|1
 이것이 포켓스톱이야.
 quickstart_pokestopfar|2

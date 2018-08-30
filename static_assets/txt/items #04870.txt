@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 티어드롭형 선글라스
 m_glasses_teardrop_bundle_icon
 티어드롭형 선글라스
+item_golden_pinap_berry_desc
+포켓몬에게 주면 잡기 쉬워지고 잡았을 때 사탕을 많게 손에 넣을 수 있는 나무열매.
+item_golden_pinap_berry_name
+은 파인열매
+avatar_f_shirt_celebi_bundle_icon
+세레비 티셔츠
+avatar_m_shirt_celebi_bundle_icon
+세레비 티셔츠
+avatar_m_hat_hgss_bundle_icon
+성도캡
+avatar_m_backpack_hgss_bundle_icon
+성도백
+avatar_m_shirt_hgss_bundle_icon
+성도 상의
+avatar_m_pants_hgss_bundle_icon
+성도 팬츠
+avatar_m_shoes_hgss_bundle_icon
+성도 슈즈
+avatar_f_hat_hgss_bundle_icon
+성도캡
+avatar_f_backpack_hgss_bundle_icon
+성도백
+avatar_f_shirt_hgss_bundle_icon
+성도 상의
+avatar_f_pants_hgss_bundle_icon
+성도 팬츠
+avatar_f_socks_hgss_bundle_icon
+성도 양말
+avatar_f_shoes_hgss_bundle_icon
+성도 슈즈
+bundle.general5.small.1_title
+Event Box

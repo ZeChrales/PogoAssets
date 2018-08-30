@@ -88,10 +88,6 @@ team_red_intro|4
 Não há dúvidas de que os Pokémon que nossa equipe treinou são os mais fortes em batalha!
 team_red_intro|5
 Está pronto?
-team_yello_welcom|1
-Boa escolha! Sabia que ia escolher a nossa equipe! Saia para se divertir em batalhas Pokémon!
-team_blue_welcom|1
-A única opção lógica. Lembre-se de ficar calmo em batalha.
 quickstart_pokestopfar|1
 Isto é uma Poképarada.
 quickstart_pokestopfar|2

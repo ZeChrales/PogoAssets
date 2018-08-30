@@ -35,7 +35,7 @@ Condividi
 your_friend_code_desc
 Gli altri giocatori possono usare questo codice Allenatore per aggiungerti alla loro lista amici.
 social_add_friend_qr
-QR Code
+Codice QR
 social_add_friend_facebook
 Importa amici da Facebook
 friend_sent_you_gift_notification
@@ -501,9 +501,9 @@ Scambiato
 no_notifications_message
 Nessuna notifica
 social_qr_code_prompt
-Leggi questo QR Code con lo scanner di un altro Allenatore.
+Inquadra questo codice QR con lo scanner di un altro Allenatore.
 social_qr_scan_prompt
-Leggi il QR Code di un Allenatore
+Inquadra il codice QR di un Allenatore
 social_qr_code_header
 IL MIO CODICE
 social_qr_scan_header
@@ -552,3 +552,5 @@ now_label
 Adesso
 friend_wants_to_trade_prompt
 {0} vuole fare uno scambio con te.
+trade_pokemon_needs_unfavorite
+Prima di scambiare questo Pokémon dovrai rimuoverlo dai tuoi preferiti.

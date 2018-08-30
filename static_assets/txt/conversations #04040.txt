@@ -88,10 +88,6 @@ team_red_intro|4
 Es besteht kein Zweifel, dass die von unserem Team trainierten Pokémon die stärksten im Kampf sind!
 team_red_intro|5
 Bist du bereit?
-team_yello_welcom|1
-Eine gute Wahl! Ich wusste, dass du dich uns anschließen würdest! Mache dich auf den Weg und habe viel Spaß bei Pokémon-Kämpfen!
-team_blue_welcom|1
-Die logische Wahl. Bleibe im Kampf ruhig und besonnen.
 quickstart_pokestopfar|1
 Dies ist ein PokéStop.
 quickstart_pokestopfar|2
@@ -185,7 +181,7 @@ Seine Werte können sich sehen lassen!
 appraise_stat_high_3|1
 Seine Werte sind wirklich hoch! Hut ab!
 appraise_stat_best_3|1
-Seine Werte sind die besten, die ich je gesehen habe!
+Seine Werte sind die besten, die ich je gesehen habe! Daran besteht kein Zweifel!
 appraise_overall_low_3|1
 Dein {0} kann sich im Kampf noch verbessern!
 appraise_overall_mid_3|1

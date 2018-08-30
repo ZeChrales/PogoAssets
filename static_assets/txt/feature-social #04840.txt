@@ -537,18 +537,20 @@ pokemon_lucky_info_transfer_to_professor_confirmation
 filter_key_lucky
 반짝반짝
 error_exceeded_nickname_change_limit
-You've changed nicknames as many times as you can for now. You can try again later.
+닉네임 변경 에러입니다. 잠시 후에 시도해 주십시오.
 settings_share_recent_catch_friends
-Share Recently Caught Pokémon with Friends
+프렌드와 마지막에 잡은 포켓몬 정보를 공유한다
 enable_share_recent_pokemon_catch_confirmation
-Enable sharing info on recently caught Pokémon with friends
+프렌드와 마지막에 잡은 포켓몬 정보를 공유를 켠다
 disable_share_recent_pokemon_catch_confirmation
-Disable sharing info on recently caught Pokémon with friends
+프렌드와 마지막에 잡은 포켓몬 정보를 공유를 끈다
 enable_share_recent_pokemon_catch_description
-You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
+서로 마지막에 잡은 포켓몬이나 마지막에 알에서 부화한 포켓몬을 볼 수 있습니다
 disable_share_recent_pokemon_catch_description
-You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
+서로 마지막에 잡은 포켓몬이나 마지막에 알에서 부화한 포켓몬을 볼 수 없습니다
 now_label
-Now
+ON
 friend_wants_to_trade_prompt
-{0} wants to Trade with you.
+{0} 님이 대기하고 있습니다
+trade_pokemon_needs_unfavorite
+즐겨찾기 마크를 제거에 주세요

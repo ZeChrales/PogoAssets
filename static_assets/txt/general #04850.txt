@@ -1619,7 +1619,7 @@ banned_player_lockout_1|a
 suspended_player_lockout_1
 계정 일시 정지 안내\n\n이용약관 위반 상태가 계속 검출되어 사용하시는 계정이 일시 정지 되었습니다.\n\n계정 일시 정지(스트라이크2) 상태는 약 30일간 유지됩니다.\n\n계정 정지에 대한 자세한 내용은 <a href="three_strike_policy_url">헬프 센터</a>에서 확인해 주세요.
 player_cheating_warning|a
-Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+경고\n\n 당신의 계정이 개변조 된 클라이언트 소프트웨어 또는 허가 되지 않은 제3자의 부정한 소프트웨어를 이용하여 이용약관에 위반하는 방법으로 Pokémon GO로 접속한 것이 검출되었습니다. 따라서 스트라이크1이 적용됩니다. 스트라이크1의 상태는 약 7일간 유지됩니다.\n\n이런 소프트웨어를 이용한 접속은 하지 말아 주십시오. 부정행위를 계속해서 하실 경우 계정이 일시정지 됩니다.\n\n계정 일시정지에 관한 자세한 내용은 ㅡ<a href="three_strike_policy_url">헬프센터</a>를 확인해 주십시오.
 three_strike_policy_url
 https://support.pokemongo.nianticlabs.com/hc/ko/articles/360001743487-3%ED%9A%8C-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC-%EC%A7%95%EA%B3%84-%EB%B0%A9%EC%B9%A8
 badge_yokosuka_29_aug_2018_mikasa_title
@@ -1655,32 +1655,32 @@ Pokémon GO Safari Zone
 badge_yokosuka_29_aug_2018_mikasa
 Yokosuka, Aug 29, 2018-MIKASA
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, Aug 29, 2018-VERNY
+Yokosuka, Aug 29, 2018
 badge_yokosuka_29_aug_2018_kurihama
 Yokosuka, Aug 29, 2018-KURIHAMA
 badge_yokosuka_30_aug_2018_mikasa
 Yokosuka, Aug 30, 2018-MIKASA
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, Aug 30, 2018-VERNY
+Yokosuka, Aug 30, 2018
 badge_yokosuka_30_aug_2018_kurihama
 Yokosuka, Aug 30, 2018-KURIHAMA
 badge_yokosuka_31_aug_2018_mikasa
 Yokosuka, Aug 31, 2018-MIKASA
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, Aug 31, 2018-VERNY
+Yokosuka, Aug 31, 2018
 badge_yokosuka_31_aug_2018_kurihama
 Yokosuka, Aug 31, 2018-KURIHAMA
 badge_yokosuka_1_sep_2018_mikasa
 Yokosuka, Sep 1, 2018-MIKASA
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, Sep 1, 2018-VERNY
+Yokosuka, Sep 1, 2018
 badge_yokosuka_1_sep_2018_kurihama
 Yokosuka, Sep 1, 2018-KURIHAMA
 badge_yokosuka_2_sep_2018_mikasa
 Yokosuka, Sep 2, 2018-MIKASA
 badge_yokosuka_2_sep_2018_verny
-Yokosuka, Sep 2, 2018-VERNY
+Yokosuka, Sep 2, 2018
 badge_yokosuka_2_sep_2018_kurihama
 Yokosuka, Sep 2, 2018-KURIHAMA
-badge_pokedex_entries_gen4_title
-신오
+general_dismiss
+건너뛰기

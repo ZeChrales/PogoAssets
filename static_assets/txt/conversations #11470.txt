@@ -88,10 +88,6 @@ team_red_intro|4
 ¡No hay duda de que los Pokémon que nuestro equipo ha entrenado son los más fuertes en combate!
 team_red_intro|5
 ¿Todo listo?
-team_yello_welcom|1
-¡Buena elección! Sabía que te unirías a nosotros. ¡Sal a divertirte en combates Pokémon!
-team_blue_welcom|1
-La única opción lógica. Recuerda mantenerte en calma en combate.
 quickstart_pokestopfar|1
 Esto es una Poképarada.
 quickstart_pokestopfar|2

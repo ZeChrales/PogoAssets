@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Effectue un joli lancer à effet
 quest_land_nice_curve_plural
 Effectue {0} jolis lancers à effet
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%, tu m’as bien aidé avec les Études de terrain et les Études spéciales !
+quest_special_dialogue_celebi_0_1
+J’ai l’impression qu’il y a encore énormément de choses à découvrir dans ce monde, et il est bon de pouvoir compter sur toi.
+quest_special_dialogue_celebi_0_2
+J’ai effectué quelques expériences de mon côté, et je pense bientôt découvrir quelque chose d’extraordinaire sur un autre Pokémon fabuleux rarement aperçu.
+quest_special_dialogue_celebi_0_3
+Pourrais-tu entreprendre quelques tâches pendant que je termine mes recherches ?
+quest_special_dialogue_celebi_0_4
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_1_0
+Ouah, la puissance de tes Pokémon est impressionnante ! D’après mes données récentes, il semble que le Pokémon fabuleux que je recherche n’apparaisse qu’en période de paix.
+quest_special_dialogue_celebi_1_1
+Et d’après mes recherches, il aime beaucoup les forêts et les endroits verdoyants. Peux-tu effectuer quelques recherches, %PLAYERNAME% ?
+quest_special_dialogue_celebi_1_2
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_2_0
+Très bon travail, %PLAYERNAME% ! Nous nous rapprochons de ce Pokémon fabuleux. Je me demande si on peut lui trouver quelques amis en faisant éclore des Œufs...
+quest_special_dialogue_celebi_2_1
+Oh, et tu pourrais peut-être utiliser la Pierre Soleil que tu as obtenue ?
+quest_special_dialogue_celebi_2_2
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_3_0
+Tu as attrapé un Évoli ? Ça tombe bien !
+quest_special_dialogue_celebi_3_1
+Savais-tu que la structure génétique instable de ce Pokémon lui permet d’évoluer en plusieurs formes ?
+quest_special_dialogue_celebi_3_2
+Je pense qu’en le gardant à tes côtés pendant la journée, tu peux le faire évoluer en Mentali, un Pokémon de type Psy comme le Pokémon fabuleux que je recherche !
+quest_special_dialogue_celebi_3_3
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_4_0
+Tu as attrapé un Évoli ? Ça tombe bien !
+quest_special_dialogue_celebi_4_1
+Attends... cette conversation me dit quelque chose... J’ai un impression bizarre de déjà-vu.
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, peux-tu garder ce Pokémon à tes côtés pendant la nuit ? Je pense que tu auras l’occasion de voir une forme évoluée intéressante.
+quest_special_dialogue_celebi_4_3
+Je me demande si cette sensation bizarre va se reproduire...
+quest_special_dialogue_celebi_4_4
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%, j’ai d’excellentes nouvelles ! La sensation étrange ne s’est pas reproduite, mais après une lecture très intéressante j’ai appris que le Pokémon fabuleux que nous recherchons est capable de voyager dans le temps !
+quest_special_dialogue_celebi_5_1
+C’est peut-être pour ça que tout ceci arrive... à nouveaux... Le Pokémon se trouve sûrement proche !
+quest_special_dialogue_celebi_5_2
+Je propose que tu obtiennes des tampons au cours de la semaine prochaine et que tu utilises quelques objets d’Évolution pour voir si cette sensation se reproduit.
+quest_special_dialogue_celebi_5_3
+Au passage, as-tu des Baies Nanana ? Mes recherches bénéficieraient de plus de données à leur sujet. Ramène-m’en, et je te donnerai ces Baies Nanana argentées exotiques !
+quest_special_dialogue_celebi_5_4
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_6_0
+Ces données sont très utiles, je te remercie ! Je vais les utiliser pour approfondir ma théorie.
+quest_special_dialogue_celebi_6_1
+Pendant que tu étais sur le terrain, j’en ai appris plus sur ce Pokémon fabuleux, et il semble que sa présence fasse pousser et fleurir l’herbe et les arbres.
+quest_special_dialogue_celebi_6_2
+Je pense qu’en attrapant d’autres Pokémon de type Plante, ce Pokémon qui voyage dans le temps pourrait se montrer !
+quest_special_dialogue_celebi_6_3
+Si possible : \n{0}, \n{1}, \n{2}
+quest_special_dialogue_celebi_7_0
+Quelle aventure, %PLAYERNAME% ! On raconte que quand Celebi, le Pokémon fabuleux, apparaît, cela signifie que le futur sera bon et agréable.
+quest_special_dialogue_celebi_7_1
+Tu as bien avancé dans tes études, cela m’incite à découvrir encore plus de Pokémon. À bientôt, %PLAYERNAME% !
+quest_new_friends_plural
+Fais-toi {0} nouveaux amis
+quest_evolve_evolved_grass_singular
+Fais évoluer un Pokémon de type Plante évolué
+quest_catch_daysinarow
+Attrape un Pokémon {0} jours d’affilée
+quest_evolve_sunstone_singular
+Utilise une Pierre Soleil pour faire évoluer Ortide ou Tournegrin
+quest_walk_eevee_for_evo
+Marche 10 km avec Évoli comme copain
+quest_evolve_espeon
+Fais évoluer Évoli en Mentali pendant la journée
+quest_send_gifts_plural
+Envoie {0} Cadeaux à des amis
+quest_evolve_umbreon
+Fais évoluer Évoli en Noctali pendant la nuit
+quest_trade_plural
+Échange {0} fois des Pokémon
+quest_trade_singular
+Échange un Pokémon
+quest_spin_daysinarow
+Visite des PokéStops {0} jours d’affilée
+quest_feed_pinaps_plural
+Utilise {0} Baies Nanana lorsque tu attrapes des Pokémon
+quest_evolve_items_plural
+Utilise {0} fois des objets pour faire évoluer des Pokémon
+quest_catch_celebi_types_plural
+Attrape {0} Pokémon de type Plante ou Psy
+quest_reach_johto_gold
+Gagne une médaille or de Johto
 quest_catch_special14_singular
 Attrape un Miaouss ou un Caninos
+quest_catch_special15_singular
+Attrape un Snubbull ou un Medhyèna
 quest_evolve_special2_singular
 Fais évoluer un Miaouss
+quest_title_celebi
+Ondulation du temps
+quest_title_celebi_0
+Ondulation du temps (1/8)
+quest_title_celebi_1
+Ondulation du temps (2/8)
+quest_title_celebi_2
+Ondulation du temps (3/8)
+quest_title_celebi_3
+Ondulation du temps (4/8)
+quest_title_celebi_4
+Ondulation du temps (5/8)
+quest_title_celebi_5
+Ondulation du temps (6/8)
+quest_title_celebi_6
+Ondulation du temps (7/8)
+quest_title_celebi_7
+Ondulation du temps (8/8)
+quest_complete_celebi
+Ondulation du temps
 quest_catch_special16_singular
 Attrape un Skitty ou un Medhyèna
+quest_johtofestival_evolve_plural
+Festival de Johto : fais évoluer {0} Tournegrin ou Natu
+quest_johtofestival_land_excellent_plural
+Festival de Johto : fais {0} excellents lancers
+quest_johtofestival_catch_type_water_plural
+Festival de Johto : attrape {0} Pokémon Eau
+quest_johtofestival_win_raid_singular
+Festival de Johto : remporte un Raid
+quest_johtofestival_catch_special17_plural
+Festival de Johto : attrape {0} Tournegrin
+quest_johtofestival_land_inarow_great_curveball_plural
+Festival de Johto : fais {0} superbes lancers à effet à la suite
 quest_catch_special17_plural
 Attrape {0} Évoli
+quest_catch_special18_plural
+Attrape {0} Terhal
+quest_catch_special19_plural
+Attrape {0} Parecool
+quest_catch_special20_plural
+Attrape {0} Tarsal
+quest_title_yokosuka
+Zone Safari de Pokémon GO à YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME% ! Merci de m’avoir rejoint sur ce site de recherche.
+quest_special_dialogue_yokosuka_0_1
+Je suis venu étudier les Pokémon qui apparaissent souvent dans cette zone, mais j’ai besoin de ton aide ! Les espèces des Pokémon que j’ai observées aujourd’hui n’apparaissent pas ici, normalement. C’est vraiment étrange !
+quest_special_dialogue_yokosuka_0_2
+Pourrais-tu parcourir le parc et effectuer quelques tâches pour moi ? Avec tous ces Pokémon sauvages dans les environs, on se croirait dans un safari !
+quest_special_dialogue_yokosuka_0_3
+Si possible : \n{0}\n{1}\n{2}\n{3}\n{4}
+quest_special_dialogue_yokosuka_1_0
+Beau boulot ! En plus d’avoir accompli des recherches approfondies, tu m’as aidé à documenter la nature qui nous entoure et les fascinants itinéraires de migration des Pokémon. J’ai bien l’impression qu’il reste un tas de choses à découvrir !
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+Obtiens {0} Bonbons avec votre Copain Pokémon
+quest_catch_special21_singular
+Attrape un Rattata ou un Pikachu

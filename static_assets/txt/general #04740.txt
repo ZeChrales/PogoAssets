@@ -1589,7 +1589,7 @@ badge_chicago_fest_july_2018_sun_south
 badge_chicago_fest_july_2018_sun_north
 シカゴ、2018年7月15日 - 北口
 error_contains_bad_text
-その名前は使用できません。
+その名前は使用できません
 pokestop_item_passcode_inventory_full
 持ち物がいっぱい、もしくは、チェックインできる場所から離れてしまっています
 error_weak_network
@@ -1625,62 +1625,62 @@ https://support.pokemongo.nianticlabs.com/hc/ja/articles/360001743487-%E4%B8%8D%
 badge_yokosuka_29_aug_2018_mikasa_title
 Pokémon GO Safari
 badge_yokosuka_29_aug_2018_verny_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_29_aug_2018_kurihama_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_30_aug_2018_mikasa_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_30_aug_2018_verny_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_30_aug_2018_kurihama_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_31_aug_2018_mikasa_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_31_aug_2018_verny_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_31_aug_2018_kurihama_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_1_sep_2018_mikasa_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_1_sep_2018_verny_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_1_sep_2018_kurihama_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_2_sep_2018_mikasa_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_2_sep_2018_verny_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_2_sep_2018_kurihama_title
-Pokémon GO Safari
+Pokémon GO Safari Zone
 badge_yokosuka_29_aug_2018_mikasa
 横須賀、2018年8月29日 - 三笠公園
 badge_yokosuka_29_aug_2018_verny
-横須賀、2018年8月29日 - ヴェルニー公園
+横須賀、2018年8月29日
 badge_yokosuka_29_aug_2018_kurihama
 横須賀、2018年8月29日 - くりはま花の国
 badge_yokosuka_30_aug_2018_mikasa
 横須賀、2018年8月30日 - 三笠公園
 badge_yokosuka_30_aug_2018_verny
-横須賀、2018年8月30日 - ヴェルニー公園
+横須賀、2018年8月30日
 badge_yokosuka_30_aug_2018_kurihama
 横須賀、2018年8月30日 - くりはま花の国
 badge_yokosuka_31_aug_2018_mikasa
 横須賀、2018年8月31日 - 三笠公園
 badge_yokosuka_31_aug_2018_verny
-横須賀、2018年8月31日 - ヴェルニー公園
+横須賀、2018年8月31日
 badge_yokosuka_31_aug_2018_kurihama
 横須賀、2018年8月31日 - くりはま花の国
 badge_yokosuka_1_sep_2018_mikasa
 横須賀、2018年9月1日 - 三笠公園
 badge_yokosuka_1_sep_2018_verny
-横須賀、2018年9月1日 - ヴェルニー公園
+横須賀、2018年9月1日
 badge_yokosuka_1_sep_2018_kurihama
 横須賀、2018年9月1日 - くりはま花の国
 badge_yokosuka_2_sep_2018_mikasa
 横須賀、2018年9月2日 - 三笠公園
 badge_yokosuka_2_sep_2018_verny
-横須賀、2018年9月2日 - ヴェルニー公園
+横須賀、2018年9月2日
 badge_yokosuka_2_sep_2018_kurihama
 横須賀、2018年9月2日 - くりはま花の国
-badge_pokedex_entries_gen4_title
-シンオウ
+general_dismiss
+スキップ

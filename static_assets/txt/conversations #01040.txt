@@ -88,10 +88,6 @@ team_red_intro|4
 C’est sûr, les Pokémon dressés par notre équipe sont les plus costauds au combat.
 team_red_intro|5
 Tu es prêt ?
-team_yello_welcom|1
-Bien ! Très bon choix ! Passons à l’offensive et amusons-nous dans des combats Pokémon !
-team_blue_welcom|1
-Le choix qui s’impose. Pense à rester calme et serein pendant le combat.
 quickstart_pokestopfar|1
 Ceci est un PokéStop.
 quickstart_pokestopfar|2

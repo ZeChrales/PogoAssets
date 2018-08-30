@@ -1655,25 +1655,25 @@ Zona de Safári de Pokémon GO
 badge_yokosuka_29_aug_2018_mikasa
 Yokosuka, 29 de agosto de 2018 (Mikasa)
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, 29 de agosto de 2018 (Verny)
+Yokosuka, 29 de agosto de 2018
 badge_yokosuka_29_aug_2018_kurihama
 Yokosuka, 29 de agosto de 2018 (Kurihama)
 badge_yokosuka_30_aug_2018_mikasa
 Yokosuka, 30 de agosto de 2018 (Mikasa)
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, 30 de agosto de 2018 (Verny)
+Yokosuka, 30 de agosto de 2018
 badge_yokosuka_30_aug_2018_kurihama
 Yokosuka, 30 de agosto de 2018 (Kurihama)
 badge_yokosuka_31_aug_2018_mikasa
 Yokosuka, 31 de agosto de 2018 (Mikasa)
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, 31 de agosto de 2018 (Verny)
+Yokosuka, 31 de agosto de 2018
 badge_yokosuka_31_aug_2018_kurihama
 Yokosuka, 31 de agosto de 2018 (Kurihama)
 badge_yokosuka_1_sep_2018_mikasa
 Yokosuka, 1º de setembro de 2018 (Mikasa)
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, 1º de setembro de 2018 (Verny)
+Yokosuka, 1º de setembro de 2018
 badge_yokosuka_1_sep_2018_kurihama
 Yokosuka, 1º de setembro de 2018 (Kurihama)
 badge_yokosuka_2_sep_2018_mikasa
@@ -1682,5 +1682,5 @@ badge_yokosuka_2_sep_2018_verny
 Yokosuka, 2 de setembro de 2018 (Verny)
 badge_yokosuka_2_sep_2018_kurihama
 Yokosuka, 2 de setembro de 2018 (Kurihama)
-badge_pokedex_entries_gen4_title
-Sinnoh
+general_dismiss
+Ignorar

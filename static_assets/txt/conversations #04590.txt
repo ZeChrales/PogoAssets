@@ -88,10 +88,6 @@ team_red_intro|4
 I Pokémon allenati dalla mia squadra sono sicuramente i più forti, non ci sono dubbi!
 team_red_intro|5
 Te la senti?
-team_yello_welcom|1
-Evviva! Miriamo alla vetta e sconfiggiamo più Palestre possibili, d’accordo?
-team_blue_welcom|1
-La scelta più logica, chiaramente. Ricorda di mantenere sempre il sangue freddo durante la lotta.
 quickstart_pokestopfar|1
 Questo è un Pokéstop.
 quickstart_pokestopfar|2

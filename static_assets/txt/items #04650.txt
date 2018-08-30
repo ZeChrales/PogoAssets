@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Occhiali da sole a goccia
 m_glasses_teardrop_bundle_icon
 Occhiali da sole a goccia
+item_golden_pinap_berry_desc
+Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi e renderlo più facile da catturare.
+item_golden_pinap_berry_name
+Baccananas d'argento
+avatar_f_shirt_celebi_bundle_icon
+T-shirt Celebi
+avatar_m_shirt_celebi_bundle_icon
+T-shirt Celebi
+avatar_m_hat_hgss_bundle_icon
+Berretto Johto
+avatar_m_backpack_hgss_bundle_icon
+Borsa Johto
+avatar_m_shirt_hgss_bundle_icon
+Maglia Johto
+avatar_m_pants_hgss_bundle_icon
+Pantaloni Johto
+avatar_m_shoes_hgss_bundle_icon
+Scarpe Johto
+avatar_f_hat_hgss_bundle_icon
+Berretto Johto
+avatar_f_backpack_hgss_bundle_icon
+Borsa Johto
+avatar_f_shirt_hgss_bundle_icon
+Maglia Johto
+avatar_f_pants_hgss_bundle_icon
+Salopette Johto
+avatar_f_socks_hgss_bundle_icon
+Calze Johto
+avatar_f_shoes_hgss_bundle_icon
+Scarpe Johto
+bundle.general5.small.1_title
+Event Box

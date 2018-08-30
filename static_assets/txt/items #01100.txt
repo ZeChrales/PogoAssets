@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Lunettes de soleil aviateur
 m_glasses_teardrop_bundle_icon
 Lunettes de soleil aviateur
+item_golden_pinap_berry_desc
+Si tu en donnes à manger à un Pokémon, il donnera plus de Bonbons quand tu l'attraperas et sera plus facile à capturer.
+item_golden_pinap_berry_name
+Baie Nanana argentée
+avatar_f_shirt_celebi_bundle_icon
+T-shirt Celebi
+avatar_m_shirt_celebi_bundle_icon
+T-shirt Celebi
+avatar_m_hat_hgss_bundle_icon
+Casquette Johto
+avatar_m_backpack_hgss_bundle_icon
+Sac Johto
+avatar_m_shirt_hgss_bundle_icon
+Haut Johto
+avatar_m_pants_hgss_bundle_icon
+Pantacourt Johto
+avatar_m_shoes_hgss_bundle_icon
+Chaussures Johto
+avatar_f_hat_hgss_bundle_icon
+Casquette Johto
+avatar_f_backpack_hgss_bundle_icon
+Sac Johto
+avatar_f_shirt_hgss_bundle_icon
+Haut Johto
+avatar_f_pants_hgss_bundle_icon
+Salopette Johto
+avatar_f_socks_hgss_bundle_icon
+Chaussettes Johto
+avatar_f_shoes_hgss_bundle_icon
+Chaussures Johto
+bundle.general5.small.1_title
+Event Box

@@ -88,10 +88,6 @@ team_red_intro|4
 There's no doubt that the Pokémon our team have trained are the strongest in battle!
 team_red_intro|5
 Are you ready?
-team_yello_welcom|1
-All right! Let's aim for the top and take over as many Gyms as we can!
-team_blue_welcom|1
-The only logical choice. Remember to stay cool and calm in battle.
 quickstart_pokestopfar|1
 This is a PokéStop.
 quickstart_pokestopfar|2

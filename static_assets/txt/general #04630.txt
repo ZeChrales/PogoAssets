@@ -1615,11 +1615,11 @@ Weekend speciale di Pokémon GO, 29 luglio 2018
 badge_apac_partner_july_2018_5_title
 Weekend speciale di Pokémon GO, 29 luglio 2018
 banned_player_lockout_1|a
-Avviso di chiusura dell'account\n\nIl tuo account è stato chiuso in modo permanente per violazione dei termini d'uso.\n\nVisita il<a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
+Avviso di chiusura dell’account\n\nIl tuo account è stato chiuso in modo permanente per violazione dei termini d’uso.\n\nVisita il <a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
 suspended_player_lockout_1
-Avviso di sospensione dell'account\n\nIl tuo account è stato sospeso per violazione dei termini d'uso.\n\nQuesto è il secondo avvertimento relativo a questo account. Potrai accedere nuovamente al tuo account tra circa 30 giorni. In caso di ulteriori violazioni, il tuo account verrà chiuso in modo permanente.\n\nVisita il<a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
+Avviso di sospensione dell’account\n\nIl tuo account è stato sospeso per violazione dei termini d’uso.\n\nQuesto è il secondo avvertimento relativo a questo account. Potrai accedere nuovamente al tuo account tra circa 30 giorni. In caso di ulteriori violazioni, il tuo account verrà chiuso in modo permanente.\n\nVisita il <a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
 player_cheating_warning|a
-Avvertimento\n\nAbbiamo rilevato delle attività nel tuo account che indicano che stai utilizzando software client modificato o software di terze parti non autorizzato in violazione dei nostri termini d'uso.\n\nQuesto è il primo avvertimento relativo a questo account e durerà circa sette giorni.\n\nTi incoraggiamo vivamente a interrompere queste attività. In caso di ulteriori violazioni, il tuo account verrà sospeso.\n\nVisita il<a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
+Avvertimento\n\nAbbiamo rilevato delle attività nel tuo account che indicano che stai utilizzando software client modificato o software di terze parti non autorizzato in violazione dei nostri termini d'uso.\n\nQuesto è il primo avvertimento relativo a questo account e durerà circa sette giorni.\n\nTi incoraggiamo vivamente a interrompere queste attività. In caso di ulteriori violazioni, il tuo account verrà sospeso.\n\nVisita il <a href="three_strike_policy_url">servizio clienti</a> per ulteriori informazioni.
 three_strike_policy_url
 https://support.pokemongo.nianticlabs.com/hc/it/articles/360001743487-Normativa-sulla-disciplina-a-tre-avvertimenti
 badge_yokosuka_29_aug_2018_mikasa_title
@@ -1655,32 +1655,32 @@ Zona Safari di Pokémon GO
 badge_yokosuka_29_aug_2018_mikasa
 Yokosuka, 29 agosto 2018 (Mikasa)
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, 29 agosto 2018 (Verny)
+Yokosuka, 29 agosto 2018
 badge_yokosuka_29_aug_2018_kurihama
 Yokosuka, 29 agosto 2018 (Kurihama)
 badge_yokosuka_30_aug_2018_mikasa
 Yokosuka, 30 agosto 2018 (Mikasa)
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, 30 agosto 2018 (Verny)
+Yokosuka, 30 agosto 2018
 badge_yokosuka_30_aug_2018_kurihama
 Yokosuka, 30 agosto 2018 (Kurihama)
 badge_yokosuka_31_aug_2018_mikasa
 Yokosuka, 31 agosto 2018 (Mikasa)
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, 31 agosto 2018 (Verny)
+Yokosuka, 31 agosto 2018
 badge_yokosuka_31_aug_2018_kurihama
 Yokosuka, 31 agosto 2018 (Kurihama)
 badge_yokosuka_1_sep_2018_mikasa
 Yokosuka, 1° settembre 2018 (Mikasa)
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, 1° settembre 2018 (Verny)
+Yokosuka, 1° settembre 2018
 badge_yokosuka_1_sep_2018_kurihama
 Yokosuka, 1° settembre 2018 (Kurihama)
 badge_yokosuka_2_sep_2018_mikasa
 Yokosuka, 2 settembre 2018 (Mikasa)
 badge_yokosuka_2_sep_2018_verny
-Yokosuka, 2 settembre 2018 (Verny)
+Yokosuka, 2 settembre 2018
 badge_yokosuka_2_sep_2018_kurihama
 Yokosuka, 2 settembre 2018 (Kurihama)
-badge_pokedex_entries_gen4_title
-Sinnoh
+general_dismiss
+Ignora

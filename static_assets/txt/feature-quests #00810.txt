@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Make a Nice Curveball Throw
 quest_land_nice_curve_plural
 Make {0} Nice Curveball Throws
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%, you’ve been such a help in conducting Field Research and Special Research!
+quest_special_dialogue_celebi_0_1
+I have a feeling that there’s so much more about this world that we’ve yet to discover, and I’m glad I can count on you to see it through.
+quest_special_dialogue_celebi_0_2
+I’ve been doing some experiments of my own, and I suspect that I’m onto a further exciting discovery about another Mythical Pokémon that’s rarely seen.
+quest_special_dialogue_celebi_0_3
+Would you mind completing these tasks while I conclude my studies?
+quest_special_dialogue_celebi_0_4
+Please {0}, {1}, and {2}.
+quest_special_dialogue_celebi_1_0
+Wow, you and your Pokémon have some amazing power! But according to my most recent data, it seems that the Mythical Pokémon I’m tracking only appears in times of peace.
+quest_special_dialogue_celebi_1_1
+Also, from what I’ve gathered, it seems fond of forests and lush greens. Would you mind exploring this further, %PLAYERNAME%?
+quest_special_dialogue_celebi_1_2
+Let's {0}, {1}, and {2}.
+quest_special_dialogue_celebi_2_0
+Excellent work, %PLAYERNAME%! I feel we’re getting closer to this Mythical Pokémon. I wonder if we can find some more friends for it by hatching some Eggs.
+quest_special_dialogue_celebi_2_1
+Ah, and maybe you could put that Sun Stone you’ve earned to good use as well?
+quest_special_dialogue_celebi_2_2
+Please {0}, {1}, and {2}.
+quest_special_dialogue_celebi_3_0
+Oh wow, is that an Eevee you’ve caught? Perfect timing!
+quest_special_dialogue_celebi_3_1
+Did you know that this Pokémon’s unstable genetic makeup enables it to take on one of several different Evolutions?
+quest_special_dialogue_celebi_3_2
+I’ll bet if you spend some time with it during the day, you’ll be able to evolve your Eevee into an Espeon—a Psychic-type Pokémon just like the Mythical Pokémon I’m researching!
+quest_special_dialogue_celebi_3_3
+Can you {0}, {1}, and {2}?
+quest_special_dialogue_celebi_4_0
+Oh wow, is that an Eevee you’ve caught? Perfect timing!
+quest_special_dialogue_celebi_4_1
+Wait... Have we...had this conversation already? I’m getting a funny feeling in the back of my mind—like we’ve been here before.
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, would you spend some time with this Eevee during the night? I think you’ll be able to see an intriguing evolved form as a result.
+quest_special_dialogue_celebi_4_3
+I wonder if this funny feeling will recur...
+quest_special_dialogue_celebi_4_4
+Please {0}, {1}, and {2}.
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%, I have some exciting news! That funny feeling hasn’t returned, but I did some important reading and learned that the Mythical Pokémon we’re researching has the ability to travel across time!
+quest_special_dialogue_celebi_5_1
+Maybe that’s why all of this is occurring...or recurring... Maybe this Pokémon is nearby?!
+quest_special_dialogue_celebi_5_2
+I suggest that you collect samples over the course of the next week and experiment with some Evolution items to see whether that feeling occurs again.
+quest_special_dialogue_celebi_5_3
+While you’re at it, do you have any Pinap Berries? My research could benefit from more data on their use. Return with that, and you can have these exotic Silver Pinap Berries!
+quest_special_dialogue_celebi_5_4
+Please {0}, {1}, and {2}.
+quest_special_dialogue_celebi_6_0
+This data is so helpful. Thank you! I’ll use it to explore my theory.
+quest_special_dialogue_celebi_6_1
+While you were in the field, I made more headway in learning about this Mythical Pokémon, and it seems that its mere presence causes grass and trees to flourish.
+quest_special_dialogue_celebi_6_2
+I think if you catch more Grass-type Pokémon, this elusive time-traveling Pokémon will reveal itself!
+quest_special_dialogue_celebi_6_3
+Let's {0}, {1}, and {2}.
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%, what an amazing experience! The appearance of the Mythical Pokémon Celebi is thought to be a sign that a bright and shining future awaits us.
+quest_special_dialogue_celebi_7_1
+You’ve come a long way in your research, and I must say you’re inspiring me to discover even more Pokémon. Until next time, %PLAYERNAME%!
+quest_new_friends_plural
+Make {0} new friends
+quest_evolve_evolved_grass_singular
+Evolve an evolved Grass-type Pokémon
+quest_catch_daysinarow
+Catch a Pokémon {0} days in a row
+quest_evolve_sunstone_singular
+Use a Sun Stone to evolve Gloom or Sunkern
+quest_walk_eevee_for_evo
+Walk 10 km with Eevee as your buddy to earn Candy
+quest_evolve_espeon
+Evolve Eevee into Espeon during the day
+quest_send_gifts_plural
+Send {0} Gifts to friends
+quest_evolve_umbreon
+Evolve Eevee into Umbreon at night
+quest_trade_plural
+Trade Pokémon {0} times
+quest_trade_singular
+Trade a Pokémon
+quest_spin_daysinarow
+Visit PokéStops {0} days in a row
+quest_feed_pinaps_plural
+Use {0} Pinap Berries while catching Pokémon
+quest_evolve_items_plural
+Use items to evolve Pokémon {0} times
+quest_catch_celebi_types_plural
+Catch {0} Grass- or Psychic-type Pokémon
+quest_reach_johto_gold
+Earn a Gold Johto medal
 quest_catch_special14_singular
 Catch a Meowth or Growlithe
+quest_catch_special15_singular
+Catch a Snubbull or Poochyena
 quest_evolve_special2_singular
 Evolve a Meowth
+quest_title_celebi
+A Ripple in Time
+quest_title_celebi_0
+A Ripple in Time (1/8)
+quest_title_celebi_1
+A Ripple in Time (2/8)
+quest_title_celebi_2
+A Ripple in Time (3/8)
+quest_title_celebi_3
+A Ripple in Time (4/8)
+quest_title_celebi_4
+A Ripple in Time (5/8)
+quest_title_celebi_5
+A Ripple in Time (6/8)
+quest_title_celebi_6
+A Ripple in Time (7/8)
+quest_title_celebi_7
+A Ripple in Time (8/8)
+quest_complete_celebi
+A Ripple in Time
 quest_catch_special16_singular
 Catch a Skitty or Poochyena
+quest_johtofestival_evolve_plural
+Johto Festival: Evolve {0} Sunkern or Natu
+quest_johtofestival_land_excellent_plural
+Johto Festival: Make {0} Excellent Throws
+quest_johtofestival_catch_type_water_plural
+Johto Festival: Catch {0} Water Pokémon
+quest_johtofestival_win_raid_singular
+Johto Festival: Win a raid
+quest_johtofestival_catch_special17_plural
+Johto Festival: Catch {0} Sunkern
+quest_johtofestival_land_inarow_great_curveball_plural
+Johto Festival: Make {0} Great Curveball Throws in a row
 quest_catch_special17_plural
 Catch {0} Eevee
+quest_catch_special18_plural
+Catch {0} Beldum
+quest_catch_special19_plural
+Catch {0} Slakoth
+quest_catch_special20_plural
+Catch {0} Ralts
+quest_title_yokosuka
+Pokémon GO Safari Zone in YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%! Thank goodness you made it to this important research site.
+quest_special_dialogue_yokosuka_0_1
+I came to study Pokémon that commonly appear in this area, but it seems I need your help! The species of Pokémon I’ve observed today don’t normally appear around here. What a strange occurrence!
+quest_special_dialogue_yokosuka_0_2
+Would you be willing to travel throughout the park and perform some tasks for me? With all these wild Pokémon around, it almost feels like a safari!
+quest_special_dialogue_yokosuka_0_3
+Please complete the following research tasks: \n{0}\n{1}\n{2}\n{3}\n{4}
+quest_special_dialogue_yokosuka_1_0
+Wow, great work today! In addition to completing some insightful research, you’ve skillfully helped me document the amazing nature around us and the fascinating migration patterns that Pokémon follow. I have a feeling there’s even more to discover out here!
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+Earn {0} Candies walking with your buddy
+quest_catch_special21_singular
+Catch a Rattata or Pikachu

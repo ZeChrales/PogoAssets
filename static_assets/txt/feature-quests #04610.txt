@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Lancia una palla curva con un bel risultato
 quest_land_nice_curve_plural
 Lancia {0} palle curve con un bel risultato
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%, il tuo aiuto nella ricerca sul campo e nella ricerca speciale è stato fondamentale,
+quest_special_dialogue_celebi_0_1
+ma c’è ancora tanto da scoprire su questo mondo e sono felice di poter contare su di te.
+quest_special_dialogue_celebi_0_2
+Nel frattempo ho condotto degli esperimenti per conto mio e credo di essere vicino alla scoperta di un altro Pokémon misterioso piuttosto sfuggente,
+quest_special_dialogue_celebi_0_3
+ma ho bisogno di un po’ più di tempo per concludere i miei studi.
+quest_special_dialogue_celebi_0_4
+Intanto, potresti completare queste missioni?\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_1_0
+Tu e il tuo Pokémon siete fortissimi! Secondo i miei dati, però, sembra che il Pokémon misterioso che sto studiando appaia soltanto in periodi di pace.
+quest_special_dialogue_celebi_1_1
+Inoltre, ho scoperto che il suo habitat preferito sono le foreste e i luoghi ricchi di vegetazione. %PLAYERNAME%, potresti scoprire qualcosa di più in proposito?
+quest_special_dialogue_celebi_1_2
+Proviamo con queste missioni:\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_2_0
+Ben fatto, %PLAYERNAME%! Ci stiamo avvicinando al nostro Pokémon misterioso. Magari possiamo trovargli qualche amico facendo schiudere delle Uova
+quest_special_dialogue_celebi_2_1
+oppure potresti usare finalmente quella Pietrasolare che hai trovato.
+quest_special_dialogue_celebi_2_2
+Intanto, potresti completare queste missioni?\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_3_0
+Hai catturato Eevee? Che tempismo!
+quest_special_dialogue_celebi_3_1
+Sapevi che il suo codice genetico è così instabile che può evolversi in molti modi?
+quest_special_dialogue_celebi_3_2
+Scommetto che se ci passeggi insieme durante il giorno potrai far evolvere il tuo Eevee in Espeon, un Pokémon di tipo Psico proprio come il Pokémon misterioso oggetto delle mie ricerche!
+quest_special_dialogue_celebi_3_3
+Ecco le missioni che vorrei tu completassi:\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_4_0
+Hai catturato Eevee? Che tempismo!
+quest_special_dialogue_celebi_4_1
+Aspetta un attimo... Che strano, ho appena avuto un flashback, è come se questa conversazione fosse già avvenuta.
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, preferisci far compagnia a Eevee di sera? In tal caso, scoprirai una delle sue evoluzioni più enigmatiche.
+quest_special_dialogue_celebi_4_3
+Chissà se quel flashback rimarrà un caso isolato...
+quest_special_dialogue_celebi_4_4
+Intanto, potresti completare queste missioni?\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%, ho buone notizie! Non ho più avuto flashback, ma dopo alcuni approfondimenti ho scoperto che il Pokémon misterioso oggetto delle nostre ricerche ha la capacità di viaggiare nel tempo!
+quest_special_dialogue_celebi_5_1
+Probabilmente questi déjà vu si verificano perché questo Pokémon è nelle vicinanze?
+quest_special_dialogue_celebi_5_2
+Ecco il mio suggerimento: nei prossimi giorni, prova a raccogliere qualche campione e a utilizzare degli strumenti evolutivi per vedere se si verificano altri flashback.
+quest_special_dialogue_celebi_5_3
+Già che ci sei, hai per caso delle Baccananas? Ne avrei proprio bisogno per aggiornare i dati della mia ricerca. Se me ne procuri qualcuna, posso darti queste Baccananas d’argento!
+quest_special_dialogue_celebi_5_4
+Intanto, potresti completare queste missioni?\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_6_0
+Queste informazioni sono di grande aiuto, grazie! Le impiegherò per verificare le mie teorie.
+quest_special_dialogue_celebi_6_1
+Mentre eri in giro, ne ho approfittato per condurre ulteriori studi su questo Pokémon misterioso: sembra che nei luoghi in cui appare la vegetazione prosperi rigogliosa.
+quest_special_dialogue_celebi_6_2
+Ciò mi porta a pensare che catturando più Pokémon di tipo Erba potresti spingere questo Pokémon così schivo a uscire allo scoperto!
+quest_special_dialogue_celebi_6_3
+Proviamo con queste missioni:\n- {0}\n- {1}\n- {2}
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%, che esperienza sui generis! Si dice che l’apparizione del Pokémon misterioso Celebi sia il segno che il futuro che ci aspetta sarà prospero e luminoso.
+quest_special_dialogue_celebi_7_1
+Hai fatto molta strada nelle tue ricerche e devo ammettere che la tua dedizione mi spinge a scoprire ancora di più sui Pokémon. Alla prossima, %PLAYERNAME%!
+quest_new_friends_plural
+Stringi {0} nuove amicizie
+quest_evolve_evolved_grass_singular
+Fai evolvere un Pokémon evoluto di tipo Erba
+quest_catch_daysinarow
+Cattura un Pokémon per {0} giorni di fila
+quest_evolve_sunstone_singular
+Usa una Pietrasolare per far evolvere Gloom o Sunkern
+quest_walk_eevee_for_evo
+Cammina 10 km con Eevee come tuo compagno per ottenere delle caramelle
+quest_evolve_espeon
+Fai evolvere Eevee in Espeon di mattina
+quest_send_gifts_plural
+Invia {0} pacchi amicizia
+quest_evolve_umbreon
+Fai evolvere Eevee in Umbreon di sera
+quest_trade_plural
+Effettua {0} scambi di Pokémon
+quest_trade_singular
+Effettua uno scambio di Pokémon
+quest_spin_daysinarow
+Visita dei Pokéstop per {0} giorni di fila
+quest_feed_pinaps_plural
+Usa {0} Baccananas per catturare Pokémon
+quest_evolve_items_plural
+Fai evolvere {0} Pokémon con strumenti evolutivi
+quest_catch_celebi_types_plural
+Cattura {0} Pokémon di tipo Erba o Psico
+quest_reach_johto_gold
+Ricevi il livello oro del premio Johto
 quest_catch_special14_singular
 Cattura un Meowth o un Growlithe
+quest_catch_special15_singular
+Cattura Snubbull o Poochyena
 quest_evolve_special2_singular
 Fai evolvere un Meowth
+quest_title_celebi
+Un’increspatura nel tempo
+quest_title_celebi_0
+Un’increspatura nel tempo (1/8)
+quest_title_celebi_1
+Un’increspatura nel tempo (2/8)
+quest_title_celebi_2
+Un’increspatura nel tempo (3/8)
+quest_title_celebi_3
+Un’increspatura nel tempo (4/8)
+quest_title_celebi_4
+Un’increspatura nel tempo (5/8)
+quest_title_celebi_5
+Un’increspatura nel tempo (6/8)
+quest_title_celebi_6
+Un’increspatura nel tempo (7/8)
+quest_title_celebi_7
+Un’increspatura nel tempo (8/8)
+quest_complete_celebi
+Un’increspatura nel tempo
 quest_catch_special16_singular
 Cattura uno Skitty o un Poochyena
+quest_johtofestival_evolve_plural
+Festival di Johto: Fai evolvere {0} Sunkern o Natu
+quest_johtofestival_land_excellent_plural
+Festival di Johto: Effettua {0} tiri eccellenti
+quest_johtofestival_catch_type_water_plural
+Festival di Johto: Cattura {0} Pokémon di tipo Acqua
+quest_johtofestival_win_raid_singular
+Festival di Johto: Vinci un raid
+quest_johtofestival_catch_special17_plural
+Festival di Johto: Cattura {0} Sunkern
+quest_johtofestival_land_inarow_great_curveball_plural
+Festival di Johto: Lancia {0} palle curve di fila con risultato ottimo
 quest_catch_special17_plural
 Cattura {0} Eevee
+quest_catch_special18_plural
+Cattura {0} Beldum
+quest_catch_special19_plural
+Cattura {0} Slakoth
+quest_catch_special20_plural
+Cattura {0} Ralts
+quest_title_yokosuka
+Zona Safari di Pokémon GO a YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%, meno male che hai trovato anche tu questo importante sito di ricerca.
+quest_special_dialogue_yokosuka_0_1
+Sono venuto qui per studiare i Pokémon che appaiono di solito in quest’area, ma a quanto pare avrò bisogno del tuo aiuto. Le specie nelle quali mi sono imbattuto oggi in genere non appaiono da queste parti. Che strano!
+quest_special_dialogue_yokosuka_0_2
+Potresti esplorare il parco e portare a termine delle missioni per me? Con tutti questi Pokémon selvatici in giro, sembra di fare un safari.
+quest_special_dialogue_yokosuka_0_3
+Queste sono le missioni che vorrei tu portassi a termine:\n- {0}\n- {1}\n- {2}\n- {3}\n- {4}
+quest_special_dialogue_yokosuka_1_0
+Eccellente! Oggi hai fatto un ottimo lavoro. Oltre ad aver portato a termine delle ricerche lungimiranti, grazie alle tue capacità sono riuscito a documentare le straordinarie bellezze naturalistiche che ci circondano e le abitudini migratorie dei Pokémon. Sono convinto che ci siano ancora tante scoperte da fare là fuori!
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+Guadagna {0} caramelle camminando con il tuo compagno
+quest_catch_special21_singular
+Cattura un Rattata o Pikachu

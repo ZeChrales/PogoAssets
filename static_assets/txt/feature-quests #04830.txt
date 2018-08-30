@@ -189,7 +189,7 @@ Great가 나오게 1회 던진다
 quest_land_inarow_curveball_plural
 커브볼을 {0}회 연속으로 던진다
 quest_land_inarow_excellent_curveball_plural
-커브볼 Excellent가 나오게 {0}회 연속으로 던진다
+커브볼로 Excellent가 나오게 {0}회 연속으로 던진다
 quest_land_inarow_great_curveball_plural
 커브볼로 Great가 나오게 {0}회 연속으로 던진다
 quest_land_inarow_great_plural
@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Nice가 나오게 커브볼을 1회 던진다
 quest_land_nice_curve_plural
 Nice가 나오게 커브볼을 {0} 회 던진다
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%, 항상 필드리서치, 스페셜리서치를 도와줘서 고마워!
+quest_special_dialogue_celebi_0_1
+이 세상에는 우리가 풀어야할 수수께끼가 아직 많이 숨겨져 있다고 생각해. 그렇지만 네가 있는 덕분에 앞을 향해 나아갈 수 있어.
+quest_special_dialogue_celebi_0_2
+수일 동안 혼자 조사한 결과 새로운 환상의 포켓몬의 단서를 찾은 것 같아.
+quest_special_dialogue_celebi_0_3
+너도 찾아봐 주지 않을래?
+quest_special_dialogue_celebi_0_4
+{0}, {1}, {2}, 를 해줘.
+quest_special_dialogue_celebi_1_0
+너와 포켓몬이 힘을 합치면 최강이군! 그런데 지금 쫓고 있는 환상의 포켓몬과 만남에 필요한 건 「평화로운 시대」라는 것이야.
+quest_special_dialogue_celebi_1_1
+그리고 「아름다운 숲」이라는 키워드도 있어. 이것을 바탕으로 조사해줬으면 좋겠는데 어때 %PLAYERNAME%?
+quest_special_dialogue_celebi_1_2
+{0}, {1}, {2} 를 부탁할게.
+quest_special_dialogue_celebi_2_0
+훌륭한 활약이군 %PLAYERNAME%! 환상의 포켓몬까지 이제 조금 남았어. 필요한 것은 알을 부화해서 동료 포켓몬을 늘릴 것.
+quest_special_dialogue_celebi_2_1
+그리고 태양의돌이야. 이걸 이용해야 해.
+quest_special_dialogue_celebi_2_2
+{0}, {1}, {2} 를 부탁할게.
+quest_special_dialogue_celebi_3_0
+이브이를 잡았어? 기막힌 타이밍이군!
+quest_special_dialogue_celebi_3_1
+유전자가 불안정해서 불균형한 것 때문에 진화 가능성이 여러 개인 것을 알고 있니?
+quest_special_dialogue_celebi_3_2
+낮 동안 이브이와 시간을 보낸다면 에브이로 진화할지도 몰라. 에브이는 조사 중인 환상의 포켓몬과 같은 에스퍼타입의 포켓몬이야.
+quest_special_dialogue_celebi_3_3
+{0}, {1}, {2} 를 할 필요가 있어.
+quest_special_dialogue_celebi_4_0
+이브이를 잡았어? 기막힌 타이밍이군!
+quest_special_dialogue_celebi_4_1
+어라...? 전에도 이런 대화를 한 기억이... 잘 기억이 안 나네. 이런 이상한 감각을 어떻게 설명하지.
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, 이브이가 에브이가 아닌 포켓몬으로 진화하는 모습을 보고 싶군. 이번에 이브이와 같이 지낼 시간은 밤이다. 그걸로 에브이와는 다른 모습으로 변할지 몰라.
+quest_special_dialogue_celebi_4_3
+그 이상한 느낌을 똑같이 체험할지 모르지만...
+quest_special_dialogue_celebi_4_4
+{0}, {1}, {2}를 부탁할게.
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%, 이제 알겠어! 이번에는 그 이상한 감각이 느껴지지 않았던 건 이유가 있어. 지금 쫓고 있는 포켓몬은 시간을 초월할 수 있는 거야!
+quest_special_dialogue_celebi_5_1
+그러니까 되풀이된 것 같은 이 상황... 이건 환상의 포켓몬이 바로 근처에 있다는 건지도 몰라?!
+quest_special_dialogue_celebi_5_2
+앞으로 7일간에 걸쳐 도구를 사용한 진화를 조사하고 내 가설이 맞는지 확인해줘.
+quest_special_dialogue_celebi_5_3
+파인열매는 가지고 있지? 희귀한 파인열매를 손에 넣었으니 준비해둘게.
+quest_special_dialogue_celebi_5_4
+{0}, {1}, {2} 를 부탁할게.
+quest_special_dialogue_celebi_6_0
+고마워. 이만큼의 양질의 데이터가 모이면 가설을 증명하는 데 도움이 될 거야.
+quest_special_dialogue_celebi_6_1
+네가 필드에 나가 있는 동안 나는 환상의 포켓몬과 무성해지는 풀과 나무에 대해 조사해봤어.
+quest_special_dialogue_celebi_6_2
+풀타입 포켓몬을 잡으면 시간을 초월하는 포켓몬이 모습을 나타낼 가능성도 높아질 거야!
+quest_special_dialogue_celebi_6_3
+{0}, {1}, {2} 를 부탁해.
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%, 멋진 체험이었어! 세레비가 모습을 나타내는 한 밝은 미래가 기다리고 있다는 신호야.
+quest_special_dialogue_celebi_7_1
+리서치를 계속한 트레이너로서 성장이 눈에 띄는 너는, 나 자신도 더 포켓몬을 발견해야겠다고 생각하게 만들어. 그럼 %PLAYERNAME%, 다음에 또 보자!
+quest_new_friends_plural
+{0} 명과 친구가 된다
+quest_evolve_evolved_grass_singular
+이미 진화한 풀타입 포켓몬을 더 진화시킨다
+quest_catch_daysinarow
+포켓몬을 {0} 일 연속해서 잡는다
+quest_evolve_sunstone_singular
+태양의돌을 사용해서 냄새꼬 또는 해너츠를 진화 시킨다
+quest_walk_eevee_for_evo
+이브이를 파트너로 하고 10km 걷는다
+quest_evolve_espeon
+이브이를 낮에 에브이로 진화시킨다
+quest_send_gifts_plural
+선물을 {0} 개 보낸다
+quest_evolve_umbreon
+이브이를 밤에 블래키로 진화시킨다
+quest_trade_plural
+포켓몬 교환을 {0}번 한다
+quest_trade_singular
+포켓몬을 교환한다
+quest_spin_daysinarow
+포켓스톱을 {0} 일 연속으로 돌린다
+quest_feed_pinaps_plural
+포켓몬을 잡을 때 파인열매를 {0} 개 사용한다
+quest_evolve_items_plural
+도구를 사용해서 포켓몬을 {0} 마리 진화시킨다
+quest_catch_celebi_types_plural
+풀타입 또는 에스퍼타입 포켓몬을 {0} 마리 잡는다
+quest_reach_johto_gold
+성도메달을 목표로 한다
 quest_catch_special14_singular
 나옹 또는 가디를 잡는다
+quest_catch_special15_singular
+Catch a Snubbull or Poochyena
 quest_evolve_special2_singular
 나옹을 진화시킨다
+quest_title_celebi
+시간을 초월하는 포켓몬을 쫓아라!
+quest_title_celebi_0
+시간을 초월하는 포켓몬을 쫓아라! (1/8)
+quest_title_celebi_1
+시간을 초월하는 포켓몬을 쫓아라! (2/8)
+quest_title_celebi_2
+시간을 초월하는 포켓몬을 쫓아라! (3/8)
+quest_title_celebi_3
+시간을 초월하는 포켓몬을 쫓아라! (4/8)
+quest_title_celebi_4
+시간을 초월하는 포켓몬을 쫓아라! (5/8)
+quest_title_celebi_5
+시간을 초월하는 포켓몬을 쫓아라! (6/8)
+quest_title_celebi_6
+시간을 초월하는 포켓몬을 쫓아라! (7/8)
+quest_title_celebi_7
+시간을 초월하는 포켓몬을 쫓아라! (8/8)
+quest_complete_celebi
+시간을 초월하는 포켓몬을 쫓아라!
 quest_catch_special16_singular
 에나비 또는 포챠나를 잡는다
+quest_johtofestival_evolve_plural
+성도위크: 해너츠 또는 네이티를 {0}마리 진화시킨다
+quest_johtofestival_land_excellent_plural
+성도위크: Excellent가 나오게 {0}번 던진다
+quest_johtofestival_catch_type_water_plural
+성도위크: 물타입 포켓몬을 {0}마리 잡는다
+quest_johtofestival_win_raid_singular
+성도위크: 레이드배틀에서 1회 이긴다
+quest_johtofestival_catch_special17_plural
+성도위크: 해너츠를 {0}마리 잡는다
+quest_johtofestival_land_inarow_great_curveball_plural
+성도위크: 커브볼로 Great가 나오게 {0}회 연속으로 던진다
 quest_catch_special17_plural
 이브이를 {0}마리 잡는다
+quest_catch_special18_plural
+메탕을 {0} 마리 잡는다
+quest_catch_special19_plural
+게을로를 {0}마리 잡는다
+quest_catch_special20_plural
+랄토스를 {0}마리 잡는다
+quest_title_yokosuka
+Pokémon GO Safari Zone in YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%! 널 기다리고 있었어!
+quest_special_dialogue_yokosuka_0_1
+오늘은 나도 조사하려고 왔는데 아무래도 혼자서는 부족한 것 같군. 평소 이 주변에서 볼 수 없었던 포켓몬도 관찰되어서 말이야... 수수께끼는 깊어만 가는군.
+quest_special_dialogue_yokosuka_0_2
+공원 안을 돌아다니며 참고가 될만한 자료를 수집해줘. 포켓몬 활동도 활발하니 여긴 마치 포켓몬 리서치에 최적의 사파리존 같군!
+quest_special_dialogue_yokosuka_0_3
+{0}, {1}, {2}, {3}, {4}, 를 부탁해.
+quest_special_dialogue_yokosuka_1_0
+오늘은 정말 잘해줬어! 흥미로운 조사결과를 얻을 수 있었고 이 주변의 자연환경도 데이터화 하는 데 성공했어. 포켓몬의 서식지역의 최신 동향이라는 관점에서도 아주 의미 있는 시간이었지. 계속해서 이 도시를 탐색하고 더 많은 발견을 하길 추천할게!
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+파트너 포켓몬과 걸어서 {0}개의 사탕을 얻는다
+quest_catch_special21_singular
+피카츄 또는 꼬렛을 1마리 잡는다

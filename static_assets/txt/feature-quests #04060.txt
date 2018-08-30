@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Lande einen guten Curveball-Wurf.
 quest_land_nice_curve_plural
 Lande {0} gute Curveball-Würfe.
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%, du bist mir eine wirklich große Hilfe bei der Feld- und Spezialforschung gewesen!
+quest_special_dialogue_celebi_0_1
+Ich habe das Gefühl, dass es über diese Welt noch viel mehr zu entdecken gibt, und ich bin froh, dabei auf dich zählen zu können.
+quest_special_dialogue_celebi_0_2
+Ich habe selbst ein paar Experimente durchgeführt und vermute, dass ich kurz vor einer neuen aufregenden Entdeckung über ein weiteres, nur selten gesehenes Mysteriöses Pokémon stehe.
+quest_special_dialogue_celebi_0_3
+Könntest du diese Aufgaben ausführen, während ich meine Untersuchungen abschließe?
+quest_special_dialogue_celebi_0_4
+Bitte tu Folgendes:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_1_0
+Wow, du und deine Pokémon habt ganz schön Power! Meinen neuesten Daten nach zu urteilen erscheint das Mysteriöse Pokémon, das ich erforsche, allerdings nur zu friedlichen Zeiten.
+quest_special_dialogue_celebi_1_1
+Außerdem scheint es besonders Wälder und üppige Vegetation zu mögen. Könntest du das weiter erforschen, %PLAYERNAME%?
+quest_special_dialogue_celebi_1_2
+Wir sollten Folgendes tun:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_2_0
+Großartig, %PLAYERNAME%! Ich bin mir sicher, dass wir diesem Mysteriösen Pokémon auf der Spur sind! Vielleicht hilft es, wenn wir ein paar Eier ausbrüten, damit es mehr Freunde hat.
+quest_special_dialogue_celebi_2_1
+Oh, und vielleicht kannst du den Sonnenstein, den du verdient hast, zum Einsatz bringen?
+quest_special_dialogue_celebi_2_2
+Bitte tu Folgendes:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_3_0
+Oh wow, du hast ein Evoli gefangen? Perfektes Timing!
+quest_special_dialogue_celebi_3_1
+Wusstest du, dass sein instabiles Erbmaterial es diesem Pokémon ermöglicht, sich zu verschiedenen Pokémon zu entwickeln?
+quest_special_dialogue_celebi_3_2
+Ich wette, wenn du tagsüber Zeit mit deinem Evoli verbringst, entwickelt es sich zu Psiana – ein Psycho-Pokémon, genau wie das Mysteriöse Pokémon, das ich gerade erforsche!
+quest_special_dialogue_celebi_3_3
+Könntest du Folgendes tun:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_4_0
+Oh wow, du hast ein Evoli gefangen? Perfektes Timing!
+quest_special_dialogue_celebi_4_1
+Moment mal ... hatten wir diese Unterhaltung nicht schon einmal? Ich habe das komische Gefühl, als hätten wir das schon mal erlebt ...
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, ich schlage vor, dass du nachts ein wenig Zeit mit diesem Evoli verbringst. Ich glaube, dann würde es eine interessante Entwicklung durchmachen.
+quest_special_dialogue_celebi_4_3
+Ich frage mich, ob dieses komische Gefühl wiederkehren wird ...
+quest_special_dialogue_celebi_4_4
+Bitte tu Folgendes:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%, aufregende Neuigkeiten! Das komische Gefühl ist zwar nicht wiedergekehrt, aber ich habe entdeckt, dass das Mysteriöse Pokémon, das wir erforschen, die Fähigkeit hat, durch die Zeit zu reisen!
+quest_special_dialogue_celebi_5_1
+Vielleicht ist das der Grund für das, was hier geschieht ... oder wieder geschieht ... vielleicht ist dieses Pokémon in der Nähe?!
+quest_special_dialogue_celebi_5_2
+Ich schlage vor, dass du im Laufe der nächsten Woche Proben sammelst und mit ein paar Entwicklungsitems experimentierst, um zu sehen, ob dieses Gefühl wiederkehrt.
+quest_special_dialogue_celebi_5_3
+Übrigens, hast du ein paar Sananabeeren für mich? Meine Forschung könnte von mehr Daten über ihre Verwendung profitieren. Wenn du mit welchen zurückkehrst, gebe ich dir diese exotischen Silbernen Sananabeeren!
+quest_special_dialogue_celebi_5_4
+Bitte tu Folgendes:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_6_0
+Diese Daten sind äußerst hilfreich! Vielen Dank! Ich werde damit meine Theorie testen.
+quest_special_dialogue_celebi_6_1
+Während du geforscht hast, habe ich mehr über dieses Mysteriöse Pokémon lernen können. Anscheinend wuchern Bäume und Wiesen, wenn es nur in der Nähe ist.
+quest_special_dialogue_celebi_6_2
+Ich glaube, wenn du mehr Pflanzen-Pokémon fängst, wird sich dieses scheue zeitreisende Pokémon zeigen!
+quest_special_dialogue_celebi_6_3
+Wir sollten Folgendes tun:\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%, was für eine fantastische Erfahrung! Man sagt, dass das Erscheinen von Celebi uns allen eine rosige Zukunft verheißt.
+quest_special_dialogue_celebi_7_1
+Du hast es in deiner Forschung weit gebracht und mich inspiriert, noch mehr Pokémon zu erforschen. Bis zum nächsten Mal, %PLAYERNAME%!
+quest_new_friends_plural
+Schließe {0} neue Freundschaften.
+quest_evolve_evolved_grass_singular
+Entwickle ein entwickeltes Pokémon vom Typ Pflanze.
+quest_catch_daysinarow
+Fange {0} Tage hintereinander ein Pokémon.
+quest_evolve_sunstone_singular
+Benutze einen Sonnenstein, um Duflor oder Sonnkern zu entwickeln.
+quest_walk_eevee_for_evo
+Laufe 10 km mit Evoli als dein Kumpel, um Bonbons zu verdienen.
+quest_evolve_espeon
+Entwickle tagsüber Evoli zu Psiana.
+quest_send_gifts_plural
+Verschicke {0} Geschenke an Freunde.
+quest_evolve_umbreon
+Entwickle nachts Evoli zu Nachtara.
+quest_trade_plural
+Tausche {0}-mal Pokémon.
+quest_trade_singular
+Tausche ein Pokémon.
+quest_spin_daysinarow
+Besuche {0} Tage hintereinander PokéStops.
+quest_feed_pinaps_plural
+Verwende {0} Sananabeeren zum Fangen von Pokémon.
+quest_evolve_items_plural
+Verwende {0}-mal Items, um Pokémon zu entwickeln.
+quest_catch_celebi_types_plural
+Fange {0} Pokémon vom Typ Pflanze oder Psycho.
+quest_reach_johto_gold
+Verdiene die Johto-Gold-Medaille.
 quest_catch_special14_singular
 Fange Mauzi oder Fukano.
+quest_catch_special15_singular
+Fange Snubbull oder Fiffyen.
 quest_evolve_special2_singular
 Entwickle ein Mauzi.
+quest_title_celebi
+Ein Sprung in der Zeit
+quest_title_celebi_0
+Ein Sprung in der Zeit (1/8)
+quest_title_celebi_1
+Ein Sprung in der Zeit (2/8)
+quest_title_celebi_2
+Ein Sprung in der Zeit (3/8)
+quest_title_celebi_3
+Ein Sprung in der Zeit (4/8)
+quest_title_celebi_4
+Ein Sprung in der Zeit (5/8)
+quest_title_celebi_5
+Ein Sprung in der Zeit (6/8)
+quest_title_celebi_6
+Ein Sprung in der Zeit (7/8)
+quest_title_celebi_7
+Ein Sprung in der Zeit (8/8)
+quest_complete_celebi
+Ein Sprung in der Zeit
 quest_catch_special16_singular
 Fange ein Eneco oder Fiffyen.
+quest_johtofestival_evolve_plural
+Johto-Festival: Entwickle {0} Sonnkern oder Natu.
+quest_johtofestival_land_excellent_plural
+Johto-Festival: Lande {0} fabelhafte Würfe.
+quest_johtofestival_catch_type_water_plural
+Johto-Festival: Fange {0} Wasser-Pokémon.
+quest_johtofestival_win_raid_singular
+Johto-Festival: Gewinne einen Raid.
+quest_johtofestival_catch_special17_plural
+Johto-Festival: Fange {0} Sonnkern.
+quest_johtofestival_land_inarow_great_curveball_plural
+Johto-Festival: Lande {0} großartige Curveball-Würfe hintereinander.
 quest_catch_special17_plural
 Fange {0} Evoli.
+quest_catch_special18_plural
+Fange {0} Tanhel.
+quest_catch_special19_plural
+Fange {0} Bummelz.
+quest_catch_special20_plural
+Fange {0} Trasla.
+quest_title_yokosuka
+Pokémon GO-Safari-Zone in YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%! Wie schön, dass du zu dieser wichtigen Forschungsstelle gekommen bist.
+quest_special_dialogue_yokosuka_0_1
+Ich bin eigentlich hier, um Pokémon zu beobachten, die in dieser Gegend häufig erscheinen, aber ich glaube, ich brauche deine Hilfe! Die Arten von Pokémon, die ich heute gesehen habe, erscheinen normalerweise nicht hier. Wirklich merkwürdig!
+quest_special_dialogue_yokosuka_0_2
+Könntest du durch den Park gehen und ein paar Aufgaben für mich ausführen? Man kommt sich fast vor wie auf Safari, so viele wilde Pokémon gibt es hier!
+quest_special_dialogue_yokosuka_0_3
+Bitte führe folgende Forschungsaufgaben aus: \n{0}\n{1}\n{2}\n{3}\n{4}
+quest_special_dialogue_yokosuka_1_0
+Wow, tolle Arbeit heute! Zusätzlich zu deinen aufschlussreichen Forschungen hast du mir geholfen, die erstaunliche Natur um uns herum und die faszinierenden Migrationsmuster, denen Pokémon folgen, zu dokumentieren. Ich habe das Gefühl, dass es hier noch mehr zu entdecken gibt!
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+Verdiene {0} Bonbon(s) durch Spazieren mit deinem Kumpel.
+quest_catch_special21_singular
+Fange ein Rattfratz oder Pikachu.

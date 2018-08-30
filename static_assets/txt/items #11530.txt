@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Gafas de sol\nde Aviador
 m_glasses_teardrop_bundle_icon
 Gafas de sol\nde Aviador
+item_golden_pinap_berry_desc
+Al usarla con un Pokémon, recibirás más Caramelos si lo capturas y se captura con más facilidad en tu próximo lanzamiento.
+item_golden_pinap_berry_name
+Baya Pinia plateada
+avatar_f_shirt_celebi_bundle_icon
+Camiseta\nde Celebi
+avatar_m_shirt_celebi_bundle_icon
+Camiseta\nde Celebi
+avatar_m_hat_hgss_bundle_icon
+Gorra\nde Johto
+avatar_m_backpack_hgss_bundle_icon
+Bolsa\nde Johto
+avatar_m_shirt_hgss_bundle_icon
+Sudadera\nde Johto
+avatar_m_pants_hgss_bundle_icon
+Pantalones\nde Johto
+avatar_m_shoes_hgss_bundle_icon
+Zapatos\nde Johto
+avatar_f_hat_hgss_bundle_icon
+Gorro\nde Johto
+avatar_f_backpack_hgss_bundle_icon
+Bolso\nde Johto
+avatar_f_shirt_hgss_bundle_icon
+Sudadera\nde Johto
+avatar_f_pants_hgss_bundle_icon
+Pantalones de peto\nde Johto
+avatar_f_socks_hgss_bundle_icon
+Calcetines\nde Johto
+avatar_f_shoes_hgss_bundle_icon
+Zapatos\nde Johto
+bundle.general5.small.1_title
+Event Box

@@ -1615,72 +1615,72 @@ Week-end spécial Pokémon GO, 29 juillet 2018
 badge_apac_partner_july_2018_5_title
 Week-end spécial Pokémon GO, 29 juillet 2018
 banned_player_lockout_1|a
-Account Termination Notice\n\nYour account has been permanently terminated for violating the Terms of Service\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+Avis de fermeture de compte\n\nTon compte a été définitivement fermé pour infraction aux Conditions d’utilisation.\n\n<a href="three_strike_policy_url">Consulte le Point Assistance</a> pour plus d’informations.
 suspended_player_lockout_1
-Account Suspension Notice\n\nYour account has been suspended for violating the Terms of Service.\n\nThis is the second Strike against your account. You will regain access to your account in approximately 30 days. Any further transgressions will result in permanent account termination.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+Avis de suspension de compte\n\nTon compte a été suspendu pour infraction aux Conditions d’utilisation.\n\nCeci est la seconde infraction détectée sur ton compte. Tu retrouveras l’accès à ton compte dans 30 jours environ. Toute autre infraction se soldera par la fermeture définitive du compte.\n\n<a href="three_strike_policy_url">Consulte le Point Assistance</a> pour plus d’informations.
 player_cheating_warning|a
-Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+Attention\n\nNous avons détecté une activité anormale sur ton compte qui indique que tu utilises un logiciel client modifié ou un logiciel non autorisé, en violation des Conditions d’utilisation.\n\nCeci est la première fois que nous constatons ceci sur ton compte. Cette notice durera environ 7 jours.\n\nIl est fortement déconseillé d’utiliser de telles pratiques, faute de quoi ton compte sera suspendu.\n\n<a href="three_strike_policy_url">Consulte le Point Assistance </a> pour plus d’informations.
 three_strike_policy_url
 https://support.pokemongo.nianticlabs.com/hc/fr/articles/360001743487-Politique-disciplinaire-%C3%A0-trois-fautes
 badge_yokosuka_29_aug_2018_mikasa_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_29_aug_2018_verny_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_29_aug_2018_kurihama_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_30_aug_2018_mikasa_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_30_aug_2018_verny_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_30_aug_2018_kurihama_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_31_aug_2018_mikasa_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_31_aug_2018_verny_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_31_aug_2018_kurihama_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_1_sep_2018_mikasa_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_1_sep_2018_verny_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_1_sep_2018_kurihama_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_2_sep_2018_mikasa_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_2_sep_2018_verny_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_2_sep_2018_kurihama_title
-Pokémon GO Safari Zone
+Zone Safari de Pokémon GO
 badge_yokosuka_29_aug_2018_mikasa
-Yokosuka, Aug 29, 2018-MIKASA
+Yokosuka, 29 août 2018-MIKASA
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, Aug 29, 2018-VERNY
+Yokosuka, 29 août 2018
 badge_yokosuka_29_aug_2018_kurihama
-Yokosuka, Aug 29, 2018-KURIHAMA
+Yokosuka, 29 août 2018-KURIHAMA
 badge_yokosuka_30_aug_2018_mikasa
-Yokosuka, Aug 30, 2018-MIKASA
+Yokosuka, 30 août 2018-MIKASA
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, Aug 30, 2018-VERNY
+Yokosuka, 30 août 2018
 badge_yokosuka_30_aug_2018_kurihama
-Yokosuka, Aug 30, 2018-KURIHAMA
+Yokosuka, 30 août 2018-KURIHAMA
 badge_yokosuka_31_aug_2018_mikasa
-Yokosuka, Aug 31, 2018-MIKASA
+Yokosuka, 31 août 2018-MIKASA
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, Aug 31, 2018-VERNY
+Yokosuka, 31 août 2018
 badge_yokosuka_31_aug_2018_kurihama
-Yokosuka, Aug 31, 2018-KURIHAMA
+Yokosuka, 31 août 2018-KURIHAMA
 badge_yokosuka_1_sep_2018_mikasa
-Yokosuka, Sep 1, 2018-MIKASA
+Yokosuka, 1 sep 2018-MIKASA
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, Sep 1, 2018-VERNY
+Yokosuka, 1er sep 2018
 badge_yokosuka_1_sep_2018_kurihama
-Yokosuka, Sep 1, 2018-KURIHAMA
+Yokosuka, 1er sep 2018-KURIHAMA
 badge_yokosuka_2_sep_2018_mikasa
-Yokosuka, Sep 2, 2018-MIKASA
+Yokosuka, 2 sep 2018-MIKASA
 badge_yokosuka_2_sep_2018_verny
-Yokosuka, Sep 2, 2018-VERNY
+Yokosuka, 2 sep 2018
 badge_yokosuka_2_sep_2018_kurihama
-Yokosuka, Sep 2, 2018-KURIHAMA
-badge_pokedex_entries_gen4_title
-Sinnoh
+Yokosuka, 2 sep 2018-KURIHAMA
+general_dismiss
+Fermer

@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Aviator Sunglasses
 m_glasses_teardrop_bundle_icon
 Aviator Sunglasses
+item_golden_pinap_berry_desc
+Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
+item_golden_pinap_berry_name
+Silver Pinap Berry
+avatar_f_shirt_celebi_bundle_icon
+Celebi Shirt
+avatar_m_shirt_celebi_bundle_icon
+Celebi Shirt
+avatar_m_hat_hgss_bundle_icon
+Johto Cap
+avatar_m_backpack_hgss_bundle_icon
+Johto Bag
+avatar_m_shirt_hgss_bundle_icon
+Johto Top
+avatar_m_pants_hgss_bundle_icon
+Johto Pants
+avatar_m_shoes_hgss_bundle_icon
+Johto Shoes
+avatar_f_hat_hgss_bundle_icon
+Johto Cap
+avatar_f_backpack_hgss_bundle_icon
+Johto Bag
+avatar_f_shirt_hgss_bundle_icon
+Johto Top
+avatar_f_pants_hgss_bundle_icon
+Johto Pants
+avatar_f_socks_hgss_bundle_icon
+Johto Socks
+avatar_f_shoes_hgss_bundle_icon
+Johto Shoes
+bundle.general5.small.1_title
+Event Box

@@ -55,7 +55,7 @@ Creane uno qui
 ptc_account_creation_prompt
 Non hai un account del Club Allenatori di Pokémon?
 sa_account_creation_prompt
-Non hai un account di Niantic Kids?
+Non hai un account Niantic Kids?
 ptc_login_server_unreachable
 Il Club Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
 sa_login_server_unreachable

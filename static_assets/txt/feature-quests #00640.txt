@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 用曲球投出1次Nice
 quest_land_nice_curve_plural
 用曲球投出 {0} 次Nice
+quest_special_dialogue_celebi_0_0
+%PLAYERNAME%，感謝你幫我做田野調查和特殊調查！
+quest_special_dialogue_celebi_0_1
+我認為這個世界上還有很多謎團等著我們去探索，不過我很高興能有你幫我做研究。
+quest_special_dialogue_celebi_0_2
+我最近做了一些實驗，發現我似乎能找到另一隻罕見的幻之寶可夢。
+quest_special_dialogue_celebi_0_3
+你願意幫我一起尋找這隻寶可夢嗎？
+quest_special_dialogue_celebi_0_4
+請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_1_0
+天啊，你和你的寶可夢實在太驚人了！不過根據我手邊最新的數據顯示，這隻幻之寶可夢似乎只會出現在和平的時代。
+quest_special_dialogue_celebi_1_1
+除此之外，我還發現牠似乎很喜歡草木茂盛的森林。%PLAYERNAME%，你願意幫我做更進一步的調查嗎？
+quest_special_dialogue_celebi_1_2
+請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_2_0
+%PLAYERNAME%，你真是太棒了！我們就快找到幻之寶可夢了。我想我們需要多孵化一些蛋，增加我們的夥伴。
+quest_special_dialogue_celebi_2_1
+啊，對了。我們得用上日之石。
+quest_special_dialogue_celebi_2_2
+請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_3_0
+哇，你捉到伊布了嗎？這個時間點真是太完美了！
+quest_special_dialogue_celebi_3_1
+你知道伊布的基因不穩定，所以有許多種進化的可能性嗎？
+quest_special_dialogue_celebi_3_2
+如果你在白天花點時間和伊布在一起，或許會有機會讓牠進化成太陽伊布。太陽伊布跟我正在調查的幻之寶可夢一樣，都是超能力屬性的寶可夢。
+quest_special_dialogue_celebi_3_3
+可以請你幫忙完成下面這幾個課題嗎？\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_4_0
+哇，你捉到伊布了嗎？這個時間點真是太完美了！
+quest_special_dialogue_celebi_4_1
+等等……我……之前是不是講過同一句話？我總覺得哪裡怪怪的，感覺我們似乎早已經歷過這個瞬間。
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%，你願意在晚上花點時間陪這隻伊布嗎？我相信牠會進化成不同的模樣。
+quest_special_dialogue_celebi_4_3
+不知道這種不可思議的感覺會不會再次出現……
+quest_special_dialogue_celebi_4_4
+請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_5_0
+%PLAYERNAME%，我有些振奮人心的好消息！我終於知道為什麼上次那種不可思議的感覺沒有再出現了。因為我們正在尋找的那隻幻之寶可夢擁有穿越時光的力量！
+quest_special_dialogue_celebi_5_1
+也許這一切就是牠的能力造成的……也許這隻寶可夢就在附近！？
+quest_special_dialogue_celebi_5_2
+請你用接下來這幾天調查一下必須使用進化道具的進化，看看我的推論是否正確。
+quest_special_dialogue_celebi_5_3
+對了，你手上有凰梨果吧？如果你能幫我找一些凰梨果來，我可以給你一些難得一見的銀色凰梨果，讓你試試看。
+quest_special_dialogue_celebi_5_4
+在那之前，請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_6_0
+這些數據非常有用，謝謝你！我可以用它們來證明我的假設是否正確。
+quest_special_dialogue_celebi_6_1
+你去做田野調查的時候，我研究了一下這隻幻之寶可夢。我發現牠出現過的森林裡，草木都會長得非常茂盛。
+quest_special_dialogue_celebi_6_2
+如果你能捉到更多草屬性的寶可夢，這隻能穿越時空的寶可夢或許就會現蹤！
+quest_special_dialogue_celebi_6_3
+請幫我完成這幾個課題：\n{0}\n{1}\n{2}
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%，這次的經驗真是太完美了！幻之寶可夢時拉比的出現代表著會有光明的未來在等待我們。
+quest_special_dialogue_celebi_7_1
+感謝你這一路來的幫忙，你的努力讓我下定決心要去研究更多寶可夢。%PLAYERNAME%，我們下次再會！
+quest_new_friends_plural
+和 {0} 位訓練家成為朋友
+quest_evolve_evolved_grass_singular
+讓1隻已經進化過的草屬性寶可夢進一步進化
+quest_catch_daysinarow
+連續 {0} 天捕捉寶可夢
+quest_evolve_sunstone_singular
+用日之石來讓臭臭花或向日種子進化
+quest_walk_eevee_for_evo
+把伊布設為夥伴，並一起行走10公里
+quest_evolve_espeon
+在白天讓伊布進化成太陽伊布
+quest_send_gifts_plural
+傳送 {0} 個友誼禮物
+quest_evolve_umbreon
+在晚上讓伊布進化成月亮伊布
+quest_trade_plural
+進行 {0} 次寶可夢交換
+quest_trade_singular
+交換1隻寶可夢
+quest_spin_daysinarow
+連續 {0} 天拜訪寶可補給站
+quest_feed_pinaps_plural
+在捕捉寶可夢時使用 {0} 顆凰梨果
+quest_evolve_items_plural
+用道具讓 {0} 隻寶可夢進化
+quest_catch_celebi_types_plural
+捕捉 {0} 隻草屬性或超能力屬性的寶可夢
+quest_reach_johto_gold
+獲得金城都獎牌
 quest_catch_special14_singular
 捕捉1隻喵喵或卡蒂狗
+quest_catch_special15_singular
+捕捉布魯或土狼犬
 quest_evolve_special2_singular
 讓1隻喵喵進化
+quest_title_celebi
+時光漣漪
+quest_title_celebi_0
+時光漣漪 (1/8)
+quest_title_celebi_1
+時光漣漪 (2/8)
+quest_title_celebi_2
+時光漣漪 (3/8)
+quest_title_celebi_3
+時光漣漪 (4/8)
+quest_title_celebi_4
+時光漣漪 (5/8)
+quest_title_celebi_5
+時光漣漪 (6/8)
+quest_title_celebi_6
+時光漣漪 (7/8)
+quest_title_celebi_7
+時光漣漪 (8/8)
+quest_complete_celebi
+時光漣漪
 quest_catch_special16_singular
 捕捉1隻向尾喵或土狼犬
+quest_johtofestival_evolve_plural
+城都週：讓 {0} 隻向日種子或天然雀進化
+quest_johtofestival_land_excellent_plural
+城都週：投出 {0} 次Excellent
+quest_johtofestival_catch_type_water_plural
+城都週：捕捉 {0} 隻水屬性的寶可夢
+quest_johtofestival_win_raid_singular
+城都週：在1場團體戰中獲勝
+quest_johtofestival_catch_special17_plural
+城都週：捕捉 {0} 隻向日種子
+quest_johtofestival_land_inarow_great_curveball_plural
+城都週：連續用曲球投出 {0} 次Great
 quest_catch_special17_plural
 捕捉 {0} 隻伊布
+quest_catch_special18_plural
+捕捉 {0} 隻鐵啞鈴
+quest_catch_special19_plural
+捕捉 {0} 隻懶人獺
+quest_catch_special20_plural
+捕捉 {0} 隻拉魯拉絲
+quest_title_yokosuka
+Pokémon GO Safari Zone in YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%！我等你等了好久啊！
+quest_special_dialogue_yokosuka_0_1
+我原本打算今天要花上一整天的時間研究這裡的寶可夢，但看來我需要你的幫忙！今天我看到一些平常不會出現在這附近的寶可夢……這真是太奇怪了……
+quest_special_dialogue_yokosuka_0_2
+你可以去公園裡走走，幫我完成一些課題嗎？這附近有非常多野生的寶可夢，是最適合做研究的地方！
+quest_special_dialogue_yokosuka_0_3
+下面這幾個課題就交給你了。\n{0}\n{1}\n{2}\n{3}\n{4}
+quest_special_dialogue_yokosuka_1_0
+真是辛苦你了！我們成功地把這附近的寶可夢生態和環境數據化，今天的研究成果意義不凡！我們應該要繼續探索這個城市，發掘更多它的魅力！
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+和夥伴寶可夢一起走路，獲得 {0} 顆糖果
+quest_catch_special21_singular
+捕捉1隻小拉達或皮卡丘

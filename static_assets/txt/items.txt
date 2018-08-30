@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Óculos escuros aviador
 m_glasses_teardrop_bundle_icon
 Óculos escuros aviador
+item_golden_pinap_berry_desc
+Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo. Será mais fácil pegar Pokémon com ela.
+item_golden_pinap_berry_name
+Fruta Caxí prateada
+avatar_f_shirt_celebi_bundle_icon
+Camiseta de Celebi
+avatar_m_shirt_celebi_bundle_icon
+Camiseta de Celebi
+avatar_m_hat_hgss_bundle_icon
+Boné de Johto
+avatar_m_backpack_hgss_bundle_icon
+Bolsa de Johto
+avatar_m_shirt_hgss_bundle_icon
+Casaco de Johto
+avatar_m_pants_hgss_bundle_icon
+Calça de Johto
+avatar_m_shoes_hgss_bundle_icon
+Tênis de Johto
+avatar_f_hat_hgss_bundle_icon
+Boné de Johto
+avatar_f_backpack_hgss_bundle_icon
+Bolsa de Johto
+avatar_f_shirt_hgss_bundle_icon
+Blusa de Johto
+avatar_f_pants_hgss_bundle_icon
+Jardineira de Johto
+avatar_f_socks_hgss_bundle_icon
+Meias de Johto
+avatar_f_shoes_hgss_bundle_icon
+Sapatos de Johto
+bundle.general5.small.1_title
+Event Box

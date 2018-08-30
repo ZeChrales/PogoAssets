@@ -88,10 +88,6 @@ team_red_intro|4
 このチームの鍛え上げられたポケモンがバトルで最強なのは間違いないわ！
 team_red_intro|5
 準備はいい？
-team_yello_welcom|1
-グッドチョイス！来てくれると思ってたぜ。ポケモンバトルを楽しもうぜ！
-team_blue_welcom|1
-… 当然の選択だ。バトルでは冷静さを忘れるな。
 quickstart_pokestopfar|1
 これがポケストップだ。
 quickstart_pokestopfar|2

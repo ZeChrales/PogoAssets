@@ -88,10 +88,6 @@ team_red_intro|4
 我們隊伍訓練出來的寶可夢在對戰中絕對是所向披靡！
 team_red_intro|5
 你準備好了嗎？
-team_yello_welcom|1
-你的選擇是對的！我就知道你會加入我這一隊！一起去參加寶可夢對戰吧！
-team_blue_welcom|1
-加入我這隊這是最符合邏輯的選擇。在對戰中也別忘了保持冷靜。
 quickstart_pokestopfar|1
 這是寶可補給站。
 quickstart_pokestopfar|2

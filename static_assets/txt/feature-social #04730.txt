@@ -552,3 +552,5 @@ now_label
 オン
 friend_wants_to_trade_prompt
 {0}さんが待機しています
+trade_pokemon_needs_unfavorite
+お気に入りマークを外してください

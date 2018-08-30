@@ -1615,11 +1615,11 @@ Pokémon GO Special Weekend 2018/7/29
 badge_apac_partner_july_2018_5_title
 Pokémon GO Special Weekend 2018//7/29
 banned_player_lockout_1|a
-Account Termination Notice\n\nYour account has been permanently terminated for violating the Terms of Service\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+帳號永久停權\n\n系統偵測到此帳號曾多次違反服務條款，故已將此帳號永久停權。\n\n請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 suspended_player_lockout_1
-Account Suspension Notice\n\nYour account has been suspended for violating the Terms of Service.\n\nThis is the second Strike against your account. You will regain access to your account in approximately 30 days. Any further transgressions will result in permanent account termination.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+帳號停權\n\n系統偵測到違反服務條款的行為，故已將此帳號停權。\n\n帳號停權（2好球）狀態約會持續30天，若系統持續偵測到違反服務條款的行為，此帳號將會被永久停權（3好球出局），敬請注意。\n\n請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 player_cheating_warning|a
-Warning Notice\n\nWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.\n\nThis is the first Strike against your account. It will last for approximately 7 days.\n\nWe strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.\n\n<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+警告\n\n系統偵測到你以改造過的軟體或未經許可的第三方軟體登入Pokémon GO。這是違反服務條款的行為，請立刻停止。\n\n警告（1好球）狀態將會持續約7天，若系統持續偵測到違反服務條款的行為，此帳號將會被停權（2好球），敬請注意。\n\n請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 three_strike_policy_url
 https://support.pokemongo.nianticlabs.com/hc/zh-tw/articles/360001743487-%E4%B8%89%E6%8C%AF%E5%87%BA%E5%B1%80%E6%94%BF%E7%AD%96
 badge_yokosuka_29_aug_2018_mikasa_title
@@ -1653,34 +1653,34 @@ Pokémon GO Safari Zone
 badge_yokosuka_2_sep_2018_kurihama_title
 Pokémon GO Safari Zone
 badge_yokosuka_29_aug_2018_mikasa
-Yokosuka, Aug 29, 2018-MIKASA
+2018年8月29日 橫須賀三笠公園
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, Aug 29, 2018-VERNY
+2018年8月29日
 badge_yokosuka_29_aug_2018_kurihama
-Yokosuka, Aug 29, 2018-KURIHAMA
+2018年8月29日 橫須賀久里濱花國
 badge_yokosuka_30_aug_2018_mikasa
-Yokosuka, Aug 30, 2018-MIKASA
+2018年8月30日 橫須賀三笠公園
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, Aug 30, 2018-VERNY
+2018年8月30日
 badge_yokosuka_30_aug_2018_kurihama
-Yokosuka, Aug 30, 2018-KURIHAMA
+2018年8月30日 橫須賀久里濱花國
 badge_yokosuka_31_aug_2018_mikasa
-Yokosuka, Aug 31, 2018-MIKASA
+2018年8月31日 橫須賀三笠公園
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, Aug 31, 2018-VERNY
+2018年8月31日
 badge_yokosuka_31_aug_2018_kurihama
-Yokosuka, Aug 31, 2018-KURIHAMA
+2018年8月31日 橫須賀久里濱花國
 badge_yokosuka_1_sep_2018_mikasa
-Yokosuka, Sep 1, 2018-MIKASA
+2018年9月1日 橫須賀三笠公園
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, Sep 1, 2018-VERNY
+2018年9月1日
 badge_yokosuka_1_sep_2018_kurihama
-Yokosuka, Sep 1, 2018-KURIHAMA
+2018年9月1日 橫須賀久里濱花國
 badge_yokosuka_2_sep_2018_mikasa
-Yokosuka, Sep 2, 2018-MIKASA
+2018年9月2日 橫須賀三笠公園
 badge_yokosuka_2_sep_2018_verny
-Yokosuka, Sep 2, 2018-VERNY
+2018年9月2日
 badge_yokosuka_2_sep_2018_kurihama
-Yokosuka, Sep 2, 2018-KURIHAMA
-badge_pokedex_entries_gen4_title
-Sinnoh
+2018年9月2日 橫須賀久里濱花國
+general_dismiss
+跳過

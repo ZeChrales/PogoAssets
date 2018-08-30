@@ -562,11 +562,161 @@ quest_land_nice_curve_singular
 Fazer 1 boa jogada de bola curva.
 quest_land_nice_curve_plural
 Fazer {0} boas jogadas de bolas curvas.
+quest_special_dialogue_celebi_0_0
+¡%PLAYERNAME%, você tem sido uma grande ajuda nas pesquisas de campo e pesquisas especiais!
+quest_special_dialogue_celebi_0_1
+Tenho a sensação de que ainda temos muito a descobrir sobre este mundo e estou feliz de poder contar com você para tornar isto realidade.
+quest_special_dialogue_celebi_0_2
+Andei fazendo alguns experimentos e suspeito que estou a ponto de descobrir algo novo e emocionante sobre outro Pokémon Mítico que é visto com pouca frequência.
+quest_special_dialogue_celebi_0_3
+Você se importaria de completar estas tarefas enquanto concluo meus estudos?
+quest_special_dialogue_celebi_0_4
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_1_0
+Uau, você e seus Pokémon têm um poder incrível. Mas, de acordo com meus dados mais recentes, parece que o Pokémon Mítico que estou rastreando só aparece em tempos de paz.
+quest_special_dialogue_celebi_1_1
+Além disso, segundo meus dados, parece que gostam de florestas e vegetação abundante. Você se importaria de explorar isto mais um pouco, %PLAYERNAME%?
+quest_special_dialogue_celebi_1_2
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_2_0
+Excelente trabalho, %PLAYERNAME%! Sinto que estamos perto deste Pokémon Mítico. Fico me perguntando se podemos encontrar mais amigos chocando alguns Ovos.
+quest_special_dialogue_celebi_2_1
+Ah, você poderia usar a Pedra Solar que ganhou também?
+quest_special_dialogue_celebi_2_2
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_3_0
+Uau, é um Eevee que pegou? Bem na hora!
+quest_special_dialogue_celebi_3_1
+Sabia que a composição genética instável deste Pokémon permite que evolua para vários Pokémon diferentes?
+quest_special_dialogue_celebi_3_2
+Aposto que se passar um tempo com ele durante o dia, poderá evoluir Eevee para Espeon, que é um Pokémon de tipo Psíquico como o Pokémon Mítico que estou pesquisando!
+quest_special_dialogue_celebi_3_3
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_4_0
+Uau, é um Eevee que pegou? Bem na hora!
+quest_special_dialogue_celebi_4_1
+Espera... Já... tivemos esta conversa antes? Tenho uma sensação estranha na minha cabeça como se já tivéssemos vindo aqui antes.
+quest_special_dialogue_celebi_4_2
+%PLAYERNAME%, poderia passar um tempo com este Eevee durante a noite? Acho que você poderá ver uma forma evoluída muito intrigante.
+quest_special_dialogue_celebi_4_3
+Fico me perguntando se esta sensação estranha se repetirá...
+quest_special_dialogue_celebi_4_4
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_5_0
+¡%PLAYERNAME%, trago notícias empolgantes! Aquela sensação estranha não voltou, mas li algo muito importante e aprendi que o Pokémon Mítico que estamos investigando pode viajar no tempo!
+quest_special_dialogue_celebi_5_1
+Talvez esta é a razão de tudo estar acontecendo... ou voltando a acontecer... Será que este Pokémon não está por perto?
+quest_special_dialogue_celebi_5_2
+Sugiro que você recolha amostras e faça alguns experimentos com itens de evolução durante a próxima semana para ver se aquela sensação vai voltar.
+quest_special_dialogue_celebi_5_3
+Enquanto faz isso, tem Frutas Caxí? Seria ótimo obter mais dados sobre o uso delas para a minha pesquisa. Se você colher dados sobre elas, vou te presentear estas Frutas Caxí prateadas exóticas!
+quest_special_dialogue_celebi_5_4
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_6_0
+Esta informação é muito útil. Obrigado! Vou usá-la para analisar minha teoria.
+quest_special_dialogue_celebi_6_1
+Enquanto estava explorando, fiz progresso nos meus estudos sobre o Pokémon Mítico e parece que sua mera presença faz com que plantas floresçam.
+quest_special_dialogue_celebi_6_2
+Acho que se pegar mais Pokémon de tipo Planta, este elusivo Pokémon que viaja no tempo aparecerá!
+quest_special_dialogue_celebi_6_3
+Poderia fazer isto?\n{0}\n{1}\n{2}.
+quest_special_dialogue_celebi_7_0
+%PLAYERNAME%, que experiência incrível! A aparência do Pokémon Mítico Celebi é um sinal de que um futuro brilhante nos aguarda.
+quest_special_dialogue_celebi_7_1
+Você progrediu muito na sua pesquisa e devo dizer que está me inspirando a descobrir ainda mais Pokémon. Até a próxima, %PLAYERNAME%!
+quest_new_friends_plural
+Fazer {0} novos amigos.
+quest_evolve_evolved_grass_singular
+Evoluir 1 Pokémon de tipo Planta evoluído.
+quest_catch_daysinarow
+Pegar 1 Pokémon {0} dias seguidos.
+quest_evolve_sunstone_singular
+Usar 1 Pedra Solar para evoluir Gloom ou Sunkern.
+quest_walk_eevee_for_evo
+Caminhar 10 km com Eevee como seu companheiro para receber doce.
+quest_evolve_espeon
+Evoluir 1 Eevee para Espeon durante o dia.
+quest_send_gifts_plural
+Enviar {0} presentes para amigos.
+quest_evolve_umbreon
+Evoluir 1 Eevee para Umbreon durante a noite.
+quest_trade_plural
+Trocar Pokémon {0} vezes.
+quest_trade_singular
+Trocar 1 Pokémon.
+quest_spin_daysinarow
+Visitar Poképaradas {0} dia seguidos.
+quest_feed_pinaps_plural
+Usar {0} Frutas Caxí enquanto pega Pokémon.
+quest_evolve_items_plural
+Usar itens para evoluir Pokémon {0} vezes.
+quest_catch_celebi_types_plural
+Pegar {0} Pokémon de tipo Planta ou Psíquico.
+quest_reach_johto_gold
+Ganhar 1 medalha de Johto dourada.
 quest_catch_special14_singular
 Pegar 1 Meowth ou Growlithe.
+quest_catch_special15_singular
+Pegar 1 Snubbull ou Poochyena.
 quest_evolve_special2_singular
 Evoluir 1 Meowth.
+quest_title_celebi
+Uma oscilação no tempo
+quest_title_celebi_0
+Uma oscilação no tempo (1/8)
+quest_title_celebi_1
+Uma oscilação no tempo (2/8)
+quest_title_celebi_2
+Uma oscilação no tempo (3/8)
+quest_title_celebi_3
+Uma oscilação no tempo (4/8)
+quest_title_celebi_4
+Uma oscilação no tempo (5/8)
+quest_title_celebi_5
+Uma oscilação no tempo (6/8)
+quest_title_celebi_6
+Uma oscilação no tempo (7/8)
+quest_title_celebi_7
+Uma oscilação no tempo (8/8)
+quest_complete_celebi
+Uma oscilação no tempo
 quest_catch_special16_singular
 Pegar 1 Skitty ou Poochyena.
+quest_johtofestival_evolve_plural
+Festival de Johto: evoluir {0} Sunkern ou Natu.
+quest_johtofestival_land_excellent_plural
+Festival de Johto: fazer {0} excelentes jogadas.
+quest_johtofestival_catch_type_water_plural
+Festival de Johto: pegar {0} Pokémon de tipo Água
+quest_johtofestival_win_raid_singular
+Festival de Johto: vencer 1 reide.
+quest_johtofestival_catch_special17_plural
+Festival de Johto: pegar {0} Sunkern.
+quest_johtofestival_land_inarow_great_curveball_plural
+Festival de Johto: jogar {0} ótimas bolas curvas seguidas.
 quest_catch_special17_plural
 Pegar {0} Eevee.
+quest_catch_special18_plural
+Pegar {0} Beldum.
+quest_catch_special19_plural
+Pegar {0} Slakoth.
+quest_catch_special20_plural
+Pegar {0} Ralts.
+quest_title_yokosuka
+Zona de Safári de Pokémon GO em YOKOSUKA
+quest_special_dialogue_yokosuka_0_0
+%PLAYERNAME%! Que bom que você conseguiu chegar neste importante local de pesquisa.
+quest_special_dialogue_yokosuka_0_1
+Eu vim para estudar Pokémon que geralmente aparecem nesta área, mas parece que preciso da sua ajuda! As espécies de Pokémon que observei hoje não costumam aparecer por aqui. Que estranho!
+quest_special_dialogue_yokosuka_0_2
+Você estaria disposto a explorar o parque e realizar algumas tarefas para mim? Com todos esses Pokémon selvagens por perto, está parecendo um safári!
+quest_special_dialogue_yokosuka_0_3
+Poderia fazer isto? \n{0}\n{1}\n{2}\n{3}\n{4}
+quest_special_dialogue_yokosuka_1_0
+Nossa, você se saiu muito bem hoje! Além de completar algumas pesquisas esclarecedoras, você me ajudou a documentar a natureza incrível que está ao nosso redor e os fascinantes padrões de migração que os Pokémon seguem. Tenho a sensação de que há ainda mais para descobrir aqui!
+quest_special_dialogue_yokosuka_1_1
+The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
+quest_buddy_candy
+Earn {0} Candies walking with your buddy
+quest_catch_special21_singular
+Catch a Rattata or Pikachu

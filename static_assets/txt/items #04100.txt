@@ -616,3 +616,35 @@ avatar_f_glasses_teardrop_bundle_icon
 Flieger-\nSonnenbrille
 m_glasses_teardrop_bundle_icon
 Flieger-\nSonnenbrille
+item_golden_pinap_berry_desc
+Wenn du sie einem Pokémon zum Essen gibst, erhältst du mehr Bonbons, wenn du es fängst, und es lässt es sich leichter fangen.
+item_golden_pinap_berry_name
+Silberne Sananabeere
+avatar_f_shirt_celebi_bundle_icon
+Celebi-Shirt
+avatar_m_shirt_celebi_bundle_icon
+Celebi-Shirt
+avatar_m_hat_hgss_bundle_icon
+Johto-\nKappe
+avatar_m_backpack_hgss_bundle_icon
+Johto-\nTasche
+avatar_m_shirt_hgss_bundle_icon
+Johto-\nOberteil
+avatar_m_pants_hgss_bundle_icon
+Johto-\nHose
+avatar_m_shoes_hgss_bundle_icon
+Johto-\nSchuhe
+avatar_f_hat_hgss_bundle_icon
+Johto-\nHut
+avatar_f_backpack_hgss_bundle_icon
+Johto-\nTasche
+avatar_f_shirt_hgss_bundle_icon
+Johto-\nOberteil
+avatar_f_pants_hgss_bundle_icon
+Johto-\nLatzshorts
+avatar_f_socks_hgss_bundle_icon
+Johto-\nStrümpfe
+avatar_f_shoes_hgss_bundle_icon
+Johto-\nSchuhe
+bundle.general5.small.1_title
+Event Box

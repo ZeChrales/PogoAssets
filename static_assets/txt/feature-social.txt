@@ -552,3 +552,5 @@ now_label
 Now
 friend_wants_to_trade_prompt
 {0} wants to Trade with you.
+trade_pokemon_needs_unfavorite
+You must remove this Pokémon from your favorites before trading.

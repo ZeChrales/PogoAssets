@@ -1655,32 +1655,32 @@ Pokémon GO Safari Zone
 badge_yokosuka_29_aug_2018_mikasa
 Yokosuka, Aug 29, 2018-MIKASA
 badge_yokosuka_29_aug_2018_verny
-Yokosuka, Aug 29, 2018-VERNY
+Yokosuka, Aug 29, 2018
 badge_yokosuka_29_aug_2018_kurihama
 Yokosuka, Aug 29, 2018-KURIHAMA
 badge_yokosuka_30_aug_2018_mikasa
 Yokosuka, Aug 30, 2018-MIKASA
 badge_yokosuka_30_aug_2018_verny
-Yokosuka, Aug 30, 2018-VERNY
+Yokosuka, Aug 30, 2018
 badge_yokosuka_30_aug_2018_kurihama
 Yokosuka, Aug 30, 2018-KURIHAMA
 badge_yokosuka_31_aug_2018_mikasa
 Yokosuka, Aug 31, 2018-MIKASA
 badge_yokosuka_31_aug_2018_verny
-Yokosuka, Aug 31, 2018-VERNY
+Yokosuka, Aug 31, 2018
 badge_yokosuka_31_aug_2018_kurihama
 Yokosuka, Aug 31, 2018-KURIHAMA
 badge_yokosuka_1_sep_2018_mikasa
 Yokosuka, Sep 1, 2018-MIKASA
 badge_yokosuka_1_sep_2018_verny
-Yokosuka, Sep 1, 2018-VERNY
+Yokosuka, Sep 1, 2018
 badge_yokosuka_1_sep_2018_kurihama
 Yokosuka, Sep 1, 2018-KURIHAMA
 badge_yokosuka_2_sep_2018_mikasa
 Yokosuka, Sep 2, 2018-MIKASA
 badge_yokosuka_2_sep_2018_verny
-Yokosuka, Sep 2, 2018-VERNY
+Yokosuka, Sep 2, 2018
 badge_yokosuka_2_sep_2018_kurihama
 Yokosuka, Sep 2, 2018-KURIHAMA
-badge_pokedex_entries_gen4_title
-Sinnoh
+general_dismiss
+Dismiss
