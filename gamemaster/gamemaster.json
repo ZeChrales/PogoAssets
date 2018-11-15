@@ -68177,7 +68177,7 @@
         "weightStdDev": 4.75,
         "familyId": "FAMILY_TOGEPI",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 1.0,
+        "kmBuddyDistance": 3.0,
         "modelHeight": 1.25,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
@@ -68265,7 +68265,7 @@
         "weightStdDev": 6.4375,
         "familyId": "FAMILY_YANMA",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 1.0,
+        "kmBuddyDistance": 3.0,
         "modelHeight": 1.7999999523162842,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
@@ -95914,5 +95914,5 @@
       }
     }
   ],
-  "timestampMs": "1542290872626"
+  "timestampMs": "1542303695292"
 }
