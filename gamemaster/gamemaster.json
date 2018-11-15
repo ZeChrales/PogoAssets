@@ -19973,9 +19973,9 @@
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
         "stats": {
-          "baseStamina": 146,
-          "baseAttack": 161,
-          "baseDefense": 139
+          "baseStamina": 181,
+          "baseAttack": 135,
+          "baseDefense": 154
         },
         "quickMoves": [
           "BITE_FAST",
@@ -20060,9 +20060,9 @@
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
         "stats": {
-          "baseStamina": 181,
-          "baseAttack": 135,
-          "baseDefense": 154
+          "baseStamina": 146,
+          "baseAttack": 161,
+          "baseDefense": 139
         },
         "quickMoves": [
           "BITE_FAST",
@@ -20770,8 +20770,8 @@
         },
         "stats": {
           "baseStamina": 155,
-          "baseAttack": 193,
-          "baseDefense": 151
+          "baseAttack": 201,
+          "baseDefense": 154
         },
         "quickMoves": [
           "VOLT_SWITCH_FAST",
@@ -20857,8 +20857,8 @@
         },
         "stats": {
           "baseStamina": 155,
-          "baseAttack": 201,
-          "baseDefense": 154
+          "baseAttack": 193,
+          "baseDefense": 151
         },
         "quickMoves": [
           "VOLT_SWITCH_FAST",
@@ -21037,8 +21037,8 @@
         },
         "stats": {
           "baseStamina": 137,
-          "baseAttack": 126,
-          "baseDefense": 120
+          "baseAttack": 125,
+          "baseDefense": 129
         },
         "quickMoves": [
           "METAL_CLAW_FAST",
@@ -21132,8 +21132,8 @@
         },
         "stats": {
           "baseStamina": 137,
-          "baseAttack": 125,
-          "baseDefense": 129
+          "baseAttack": 126,
+          "baseDefense": 120
         },
         "quickMoves": [
           "SCRATCH_FAST",
@@ -21335,8 +21335,8 @@
         },
         "stats": {
           "baseStamina": 181,
-          "baseAttack": 182,
-          "baseDefense": 175
+          "baseAttack": 177,
+          "baseDefense": 195
         },
         "quickMoves": [
           "METAL_CLAW_FAST",
@@ -21422,8 +21422,8 @@
         },
         "stats": {
           "baseStamina": 181,
-          "baseAttack": 177,
-          "baseDefense": 195
+          "baseAttack": 182,
+          "baseDefense": 175
         },
         "quickMoves": [
           "METAL_CLAW_FAST",
@@ -22768,8 +22768,8 @@
         },
         "stats": {
           "baseStamina": 177,
-          "baseAttack": 169,
-          "baseDefense": 190
+          "baseAttack": 170,
+          "baseDefense": 193
         },
         "quickMoves": [
           "FEINT_ATTACK_FAST",
@@ -22856,8 +22856,8 @@
         },
         "stats": {
           "baseStamina": 177,
-          "baseAttack": 170,
-          "baseDefense": 193
+          "baseAttack": 169,
+          "baseDefense": 190
         },
         "quickMoves": [
           "FEINT_ATTACK_FAST",
@@ -24226,7 +24226,7 @@
         "stats": {
           "baseStamina": 67,
           "baseAttack": 109,
-          "baseDefense": 78
+          "baseDefense": 82
         },
         "quickMoves": [
           "MUD_SLAP_FAST",
@@ -24318,7 +24318,7 @@
         "stats": {
           "baseStamina": 67,
           "baseAttack": 109,
-          "baseDefense": 82
+          "baseDefense": 78
         },
         "quickMoves": [
           "MUD_SLAP_FAST",
@@ -24515,8 +24515,8 @@
         },
         "stats": {
           "baseStamina": 111,
-          "baseAttack": 167,
-          "baseDefense": 134
+          "baseAttack": 201,
+          "baseDefense": 145
         },
         "quickMoves": [
           "METAL_CLAW_FAST",
@@ -24600,8 +24600,8 @@
         },
         "stats": {
           "baseStamina": 111,
-          "baseAttack": 201,
-          "baseDefense": 145
+          "baseAttack": 167,
+          "baseDefense": 134
         },
         "quickMoves": [
           "SUCKER_PUNCH_FAST",
@@ -24780,7 +24780,7 @@
         },
         "stats": {
           "baseStamina": 120,
-          "baseAttack": 92,
+          "baseAttack": 99,
           "baseDefense": 78
         },
         "quickMoves": [
@@ -24875,7 +24875,7 @@
         },
         "stats": {
           "baseStamina": 120,
-          "baseAttack": 99,
+          "baseAttack": 92,
           "baseDefense": 78
         },
         "quickMoves": [
@@ -25077,7 +25077,7 @@
         },
         "stats": {
           "baseStamina": 163,
-          "baseAttack": 150,
+          "baseAttack": 158,
           "baseDefense": 136
         },
         "quickMoves": [
@@ -25164,7 +25164,7 @@
         },
         "stats": {
           "baseStamina": 163,
-          "baseAttack": 158,
+          "baseAttack": 150,
           "baseDefense": 136
         },
         "quickMoves": [
@@ -31542,8 +31542,8 @@
         },
         "stats": {
           "baseStamina": 216,
-          "baseAttack": 233,
-          "baseDefense": 149
+          "baseAttack": 230,
+          "baseDefense": 153
         },
         "quickMoves": [
           "BULLET_SEED_FAST",
@@ -31631,8 +31631,8 @@
         },
         "stats": {
           "baseStamina": 216,
-          "baseAttack": 230,
-          "baseDefense": 153
+          "baseAttack": 233,
+          "baseDefense": 149
         },
         "quickMoves": [
           "BULLET_SEED_FAST",
@@ -95914,5 +95914,5 @@
       }
     }
   ],
-  "timestampMs": "1542303695292"
+  "timestampMs": "1542311557071"
 }
