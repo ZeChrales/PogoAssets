@@ -72649,23 +72649,24 @@
         "weightStdDev": 8.125,
         "familyId": "FAMILY_MANTINE",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 3.0,
+        "kmBuddyDistance": 5.0,
         "modelHeight": 0.9200000166893005,
         "evolutionBranch": [
           {
-            "evolution": "MANTINE"
+            "evolution": "MANTINE",
+            "candyCost": 50
           }
         ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
+          10.300000190734863,
           0.0,
-          0.0,
-          0.0
+          -40.5
         ],
         "buddyOffsetFemale": [
+          10.300000190734863,
           0.0,
-          0.0,
-          0.0
+          -40.5
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
@@ -73762,7 +73763,7 @@
         "weightStdDev": 3.1875,
         "familyId": "FAMILY_EEVEE",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 3.0,
+        "kmBuddyDistance": 5.0,
         "modelHeight": 0.9100000262260437,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
@@ -73853,7 +73854,7 @@
         "weightStdDev": 3.237499952316284,
         "familyId": "FAMILY_EEVEE",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 3.0,
+        "kmBuddyDistance": 5.0,
         "modelHeight": 0.800000011920929,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
@@ -73870,7 +73871,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.7200000286102295
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -78331,7 +78332,7 @@
           "baseCaptureRate": 0.30000001192092896,
           "collisionRadiusM": 0.25,
           "collisionHeightM": 0.6000000238418579,
-          "collisionHeadRadiusM": 0.75,
+          "collisionHeadRadiusM": 0.25,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 1.100000023841858,
@@ -78382,18 +78383,18 @@
             "candyCost": 400
           }
         ],
-        "modelScaleV2": 6.0,
+        "modelScaleV2": 1.600000023841858,
         "buddyOffsetMale": [
           0.0,
           0.0,
-          -27.0
+          0.0
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          -27.0
+          0.0
         ],
-        "buddyScale": 17.0,
+        "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
           0.0,
@@ -101556,5 +101557,5 @@
       }
     }
   ],
-  "timestampMs": "1545969713172"
+  "timestampMs": "1547060962486"
 }
