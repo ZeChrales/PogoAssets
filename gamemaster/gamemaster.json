@@ -9184,9 +9184,9 @@
       "combatMove": {
         "uniqueId": "FLAMETHROWER",
         "type": "POKEMON_TYPE_FIRE",
-        "power": 70.0,
+        "power": 90.0,
         "vfxName": "flamethrower",
-        "energyDelta": -50
+        "energyDelta": -55
       }
     },
     {
@@ -9244,7 +9244,7 @@
       "combatMove": {
         "uniqueId": "ICE_PUNCH",
         "type": "POKEMON_TYPE_ICE",
-        "power": 50.0,
+        "power": 55.0,
         "vfxName": "ice_punch",
         "energyDelta": -40
       }
@@ -9454,7 +9454,7 @@
       "combatMove": {
         "uniqueId": "PSYSHOCK",
         "type": "POKEMON_TYPE_PSYCHIC",
-        "power": 65.0,
+        "power": 70.0,
         "vfxName": "psyshock",
         "energyDelta": -45
       }
@@ -9554,7 +9554,7 @@
       "combatMove": {
         "uniqueId": "IRON_HEAD",
         "type": "POKEMON_TYPE_STEEL",
-        "power": 60.0,
+        "power": 70.0,
         "vfxName": "iron_head",
         "energyDelta": -50
       }
@@ -9574,9 +9574,9 @@
       "combatMove": {
         "uniqueId": "THUNDER_PUNCH",
         "type": "POKEMON_TYPE_ELECTRIC",
-        "power": 45.0,
+        "power": 55.0,
         "vfxName": "thunder_punch",
-        "energyDelta": -35
+        "energyDelta": -40
       }
     },
     {
@@ -9594,9 +9594,9 @@
       "combatMove": {
         "uniqueId": "THUNDERBOLT",
         "type": "POKEMON_TYPE_ELECTRIC",
-        "power": 80.0,
+        "power": 90.0,
         "vfxName": "thunderbolt",
-        "energyDelta": -45
+        "energyDelta": -55
       }
     },
     {
@@ -9654,7 +9654,7 @@
       "combatMove": {
         "uniqueId": "DAZZLING_GLEAM",
         "type": "POKEMON_TYPE_FAIRY",
-        "power": 100.0,
+        "power": 110.0,
         "vfxName": "dazzling_gleam",
         "energyDelta": -70
       }
@@ -9994,7 +9994,7 @@
       "combatMove": {
         "uniqueId": "BODY_SLAM",
         "type": "POKEMON_TYPE_NORMAL",
-        "power": 50.0,
+        "power": 60.0,
         "vfxName": "body_slam",
         "energyDelta": -35
       }
@@ -10205,7 +10205,7 @@
         "power": 6.0,
         "vfxName": "shadow_claw_fast",
         "durationTurns": 1,
-        "energyDelta": 7
+        "energyDelta": 8
       }
     },
     {
@@ -10224,7 +10224,7 @@
       "combatMove": {
         "uniqueId": "RAZOR_LEAF_FAST",
         "type": "POKEMON_TYPE_GRASS",
-        "power": 8.0,
+        "power": 11.0,
         "vfxName": "razor_leaf_fast",
         "durationTurns": 1,
         "energyDelta": 4
@@ -10246,7 +10246,7 @@
       "combatMove": {
         "uniqueId": "ICE_SHARD_FAST",
         "type": "POKEMON_TYPE_ICE",
-        "power": 8.0,
+        "power": 9.0,
         "vfxName": "ice_shard_fast",
         "durationTurns": 2,
         "energyDelta": 10
@@ -10257,7 +10257,7 @@
       "combatMove": {
         "uniqueId": "FROST_BREATH_FAST",
         "type": "POKEMON_TYPE_ICE",
-        "power": 6.0,
+        "power": 7.0,
         "vfxName": "frost_breath_fast",
         "durationTurns": 1,
         "energyDelta": 5
@@ -10439,7 +10439,7 @@
       "combatMove": {
         "uniqueId": "CONFUSION_FAST",
         "type": "POKEMON_TYPE_PSYCHIC",
-        "power": 12.0,
+        "power": 16.0,
         "vfxName": "confusion_fast",
         "durationTurns": 3,
         "energyDelta": 12
@@ -10942,7 +10942,7 @@
       "combatMove": {
         "uniqueId": "WATERFALL_FAST",
         "type": "POKEMON_TYPE_WATER",
-        "power": 10.0,
+        "power": 12.0,
         "vfxName": "waterfall_fast",
         "durationTurns": 2,
         "energyDelta": 8
@@ -11084,7 +11084,7 @@
       "combatMove": {
         "uniqueId": "SMACK_DOWN_FAST",
         "type": "POKEMON_TYPE_ROCK",
-        "power": 10.0,
+        "power": 12.0,
         "vfxName": "smack_down_fast",
         "durationTurns": 2,
         "energyDelta": 8
@@ -20713,8 +20713,7 @@
       "genderSettings": {
         "pokemon": "COMBEE",
         "gender": {
-          "malePercent": 0.875,
-          "femalePercent": 0.125
+          "femalePercent": 1.0
         }
       }
     },
@@ -67823,8 +67822,6 @@
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
           "attackTimerS": 29.0,
-          "bonusCandyCaptureReward": 2,
-          "bonusStardustCaptureReward": 200,
           "attackProbability": 0.05000000074505806,
           "dodgeProbability": 0.4000000059604645,
           "dodgeDurationS": 1.0,
@@ -101055,5 +101052,5 @@
       }
     }
   ],
-  "timestampMs": "1550667269171"
+  "timestampMs": "1550673379509"
 }
