@@ -22149,11 +22149,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22251,11 +22246,6 @@
           66.69999694824219
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22343,11 +22333,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.800000011920929
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22455,11 +22440,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22555,11 +22535,6 @@
           0.30000001192092896
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22648,11 +22623,6 @@
           36.040000915527344
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22745,11 +22715,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.4000000059604645
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22845,11 +22810,6 @@
           0.30000001192092896
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -22936,11 +22896,6 @@
           25.600000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23031,11 +22986,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23126,11 +23076,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23219,11 +23164,6 @@
           39.099998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23335,11 +23275,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23451,9 +23386,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.020999999716877937,
+          -0.11599999666213989,
+          0.04699999839067459
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -23543,11 +23478,6 @@
           25.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23661,11 +23591,6 @@
           0.0
         ],
         "buddyScale": 14.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23764,11 +23689,6 @@
           -30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23876,11 +23796,6 @@
           -30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -23974,11 +23889,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24074,11 +23984,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24173,11 +24078,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24282,11 +24182,6 @@
           -21.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24374,11 +24269,6 @@
           -21.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24465,11 +24355,6 @@
           -21.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24584,9 +24469,9 @@
         ],
         "buddyScale": 14.0,
         "buddyPortraitOffset": [
+          0.1899999976158142,
           0.0,
-          0.0,
-          0.0
+          0.44999998807907104
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -24695,11 +24580,6 @@
           -20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -24792,11 +24672,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -24863,7 +24738,8 @@
         },
         "quickMoves": [
           "BITE_FAST",
-          "ACID_FAST"
+          "ACID_FAST",
+          "DRAGON_TAIL_FAST"
         ],
         "cinematicMoves": [
           "DARK_PULSE",
@@ -24903,9 +24779,9 @@
         ],
         "buddyScale": 15.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.10000000149011612,
+          0.17100000381469727,
+          0.07999999821186066
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -25001,11 +24877,6 @@
           0.0
         ],
         "buddyScale": 11.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -25110,11 +24981,6 @@
           -14.199999809265137
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -25202,11 +25068,6 @@
           -14.199999809265137
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -25293,11 +25154,6 @@
           -14.199999809265137
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -25391,11 +25247,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25491,11 +25342,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25590,11 +25436,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25699,11 +25540,6 @@
           -1.399999976158142
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25791,11 +25627,6 @@
           -1.399999976158142
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25882,11 +25713,6 @@
           -1.399999976158142
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -25979,11 +25805,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26098,11 +25919,6 @@
           6.699999809265137
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26209,11 +26025,6 @@
           57.560001373291016
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26326,9 +26137,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.1899999976158142,
+          -0.03999999910593033,
+          0.49000000953674316
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -26444,11 +26255,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26555,11 +26361,6 @@
           12.800000190734863
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26674,8 +26475,8 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
-          0.0
+          -0.10000000149011612,
+          -0.12999999523162842
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -26748,7 +26549,8 @@
         "cinematicMoves": [
           "DAZZLING_GLEAM",
           "PSYCHIC",
-          "MOONBLAST"
+          "MOONBLAST",
+          "METEOR_MASH"
         ],
         "animationTime": [
           2.3333001136779785,
@@ -26783,9 +26585,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.05000000074505806,
           0.0,
-          0.0,
-          0.0
+          -0.30000001192092896
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -26880,11 +26682,6 @@
           -1.7999999523162842
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -26979,11 +26776,6 @@
           -1.7999999523162842
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -27078,11 +26870,6 @@
           -1.7999999523162842
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -27154,7 +26941,8 @@
         "cinematicMoves": [
           "HEAT_WAVE",
           "OVERHEAT",
-          "SOLAR_BEAM"
+          "SOLAR_BEAM",
+          "PSYSHOCK"
         ],
         "animationTime": [
           2.6666998863220215,
@@ -27188,11 +26976,6 @@
           68.30000305175781
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -27246,7 +27029,8 @@
         "cinematicMoves": [
           "DAZZLING_GLEAM",
           "ICE_BEAM",
-          "BLIZZARD"
+          "BLIZZARD",
+          "PSYSHOCK"
         ],
         "animationTime": [
           2.6666998863220215,
@@ -27281,11 +27065,6 @@
           68.30000305175781
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -27338,7 +27117,8 @@
         "cinematicMoves": [
           "HEAT_WAVE",
           "OVERHEAT",
-          "SOLAR_BEAM"
+          "SOLAR_BEAM",
+          "PSYSHOCK"
         ],
         "animationTime": [
           2.6666998863220215,
@@ -27373,11 +27153,6 @@
           68.30000305175781
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -27492,9 +27267,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.05000000074505806,
+          0.05000000074505806,
+          0.05999999865889549
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -27568,7 +27343,8 @@
         "cinematicMoves": [
           "DAZZLING_GLEAM",
           "HYPER_BEAM",
-          "PLAY_ROUGH"
+          "PLAY_ROUGH",
+          "ICE_BEAM"
         ],
         "animationTime": [
           1.666700005531311,
@@ -27603,9 +27379,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.1599999964237213,
+          -0.14000000059604645,
+          -0.6700000166893005
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -27702,11 +27478,6 @@
           32.79999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -27820,11 +27591,6 @@
           -20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -27918,11 +27684,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28024,11 +27785,6 @@
           1.5
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28137,7 +27893,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          0.20000000298023224,
           0.0
         ],
         "thirdMove": {
@@ -28252,11 +28008,6 @@
           -1.899999976158142
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28362,11 +28113,6 @@
           -59.599998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28480,11 +28226,6 @@
           -52.22999954223633
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28592,11 +28333,6 @@
           9.100000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28706,11 +28442,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28803,11 +28534,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -28899,11 +28625,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29007,8 +28728,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.1379999965429306,
+          0.17800000309944153,
           0.0
         ],
         "thirdMove": {
@@ -29097,8 +28818,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.1379999965429306,
+          0.17800000309944153,
           0.0
         ],
         "thirdMove": {
@@ -29186,8 +28907,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.1379999965429306,
+          0.17800000309944153,
           0.0
         ],
         "thirdMove": {
@@ -29283,11 +29004,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29384,7 +29100,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.07000000029802322,
           0.0
         ],
         "thirdMove": {
@@ -29481,11 +29197,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29590,11 +29301,6 @@
           -29.899999618530273
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29681,11 +29387,6 @@
           -29.899999618530273
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29773,9 +29474,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.5,
+          -0.029999999329447746,
+          1.3600000143051147
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -29888,11 +29589,6 @@
           10.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -29979,11 +29675,6 @@
           52.29999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30095,11 +29786,6 @@
           0.20000000298023224
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30205,11 +29891,6 @@
           34.29999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30322,9 +30003,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.12999999523162842,
           0.0,
-          0.0,
-          0.0
+          0.38999998569488525
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -30431,11 +30112,6 @@
           40.400001525878906
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30547,11 +30223,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30653,11 +30324,6 @@
           51.79999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30764,11 +30430,6 @@
           9.300000190734863
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -30881,11 +30542,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31001,11 +30657,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31077,7 +30728,8 @@
         "cinematicMoves": [
           "FUTURESIGHT",
           "FOCUS_BLAST",
-          "SHADOW_BALL"
+          "SHADOW_BALL",
+          "FIRE_PUNCH"
         ],
         "animationTime": [
           2.0,
@@ -31111,11 +30763,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31227,11 +30874,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31347,11 +30989,6 @@
           60.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31404,7 +31041,8 @@
         "cinematicMoves": [
           "HEAVY_SLAM",
           "DYNAMIC_PUNCH",
-          "CLOSE_COMBAT"
+          "CLOSE_COMBAT",
+          "ROCK_SLIDE"
         ],
         "animationTime": [
           1.666700005531311,
@@ -31438,11 +31076,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31555,11 +31188,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31679,7 +31307,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.3240000009536743,
           0.0
         ],
         "thirdMove": {
@@ -31770,11 +31398,6 @@
           43.5
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31888,11 +31511,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -31981,11 +31599,6 @@
           54.060001373291016
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -32100,11 +31713,6 @@
           16.100000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32201,11 +31809,6 @@
           16.100000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32302,11 +31905,6 @@
           16.100000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32425,11 +32023,6 @@
           43.900001525878906
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32530,9 +32123,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.09000000357627869,
+          0.09000000357627869,
+          0.11999999731779099
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -32633,11 +32226,6 @@
           43.900001525878906
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32725,11 +32313,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32818,11 +32401,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -32911,11 +32489,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -33027,11 +32600,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33137,11 +32705,6 @@
           73.55000305175781
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33259,11 +32822,6 @@
           -17.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33370,11 +32928,6 @@
           41.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33470,11 +33023,6 @@
           86.87999725341797
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33582,11 +33130,6 @@
           140.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33689,11 +33232,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -33807,7 +33345,7 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
+          0.20000000298023224,
           0.0,
           0.0
         ],
@@ -33918,11 +33456,6 @@
           10.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34034,11 +33567,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34145,11 +33673,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34263,11 +33786,6 @@
           31.700000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          19.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34365,9 +33883,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          19.0,
-          0.0,
-          0.0
+          0.38999998569488525,
+          0.11999999731779099,
+          0.8500000238418579
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -34465,9 +33983,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          19.0,
           0.0,
-          0.0
+          0.2199999988079071,
+          -0.12999999523162842
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -34540,7 +34058,8 @@
         "cinematicMoves": [
           "DARK_PULSE",
           "GUNK_SHOT",
-          "SLUDGE_WAVE"
+          "SLUDGE_WAVE",
+          "THUNDER_PUNCH"
         ],
         "animationTime": [
           2.0,
@@ -34574,11 +34093,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          19.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34627,7 +34141,8 @@
         },
         "quickMoves": [
           "BITE_FAST",
-          "POISON_JAB_FAST"
+          "POISON_JAB_FAST",
+          "SNARL_FAST"
         ],
         "cinematicMoves": [
           "DARK_PULSE",
@@ -34668,9 +34183,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          19.0,
           0.0,
-          0.0
+          0.0,
+          -0.30000001192092896
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -34724,7 +34239,8 @@
         "cinematicMoves": [
           "DARK_PULSE",
           "GUNK_SHOT",
-          "SLUDGE_WAVE"
+          "SLUDGE_WAVE",
+          "THUNDER_PUNCH"
         ],
         "animationTime": [
           2.0,
@@ -34760,9 +34276,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          19.0,
+          -0.3100000023841858,
           0.0,
-          0.0
+          -0.9900000095367432
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -34875,11 +34391,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -34987,11 +34498,6 @@
           29.510000228881836
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -35107,9 +34613,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.27000001072883606,
           0.0,
-          0.0,
-          0.0
+          -0.8100000023841858
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -35209,11 +34715,6 @@
           -25.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -35323,7 +34824,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.5199999809265137
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -35438,11 +34939,6 @@
           27.780000686645508
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -35555,11 +35051,6 @@
           55.29999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -35646,11 +35137,6 @@
           31.049999237060547
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -35744,9 +35230,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.20999999344348907,
+          -0.11999999731779099,
+          0.44999998807907104
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -35854,9 +35340,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.18000000715255737,
+          -0.30000001192092896,
+          0.33000001311302185
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -35969,11 +35455,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36079,11 +35560,6 @@
           39.20000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36186,20 +35662,20 @@
         ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
-          -2.299999952316284,
+          10.0,
           0.0,
-          40.0
+          -55.0
         ],
         "buddyOffsetFemale": [
-          -2.299999952316284,
+          10.0,
           0.0,
-          40.0
+          -55.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
-          0.0
+          -0.11999999731779099,
+          0.07000000029802322
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -36307,11 +35783,6 @@
           23.790000915527344
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36401,16 +35872,21 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.8700000047683716,
+          -3.950000047683716,
+          -1.9800000190734863
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
         },
         "isTransferable": true,
-        "isDeployable": true
+        "isDeployable": true,
+        "combatPlayerPokemonPositionOffset": [
+          1.0,
+          0.0,
+          0.0
+        ]
       }
     },
     {
@@ -36493,11 +35969,6 @@
           23.790000915527344
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36609,11 +36080,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36718,11 +36184,6 @@
           20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36810,11 +36271,6 @@
           20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -36901,11 +36357,6 @@
           20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -37011,7 +36462,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          0.49000000953674316,
           0.0
         ],
         "thirdMove": {
@@ -37118,11 +36569,6 @@
           57.70000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -37212,6 +36658,13 @@
         "familyId": "FAMILY_LICKITUNG",
         "kmBuddyDistance": 3.0,
         "modelHeight": 1.2000000476837158,
+        "evolutionBranch": [
+          {
+            "evolution": "LICKILICKY",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          }
+        ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           15.100000381469727,
@@ -37225,8 +36678,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.07999999821186066,
+          0.10000000149011612,
           0.0
         ],
         "thirdMove": {
@@ -37342,11 +36795,6 @@
           120.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -37400,7 +36848,8 @@
         "cinematicMoves": [
           "SLUDGE_BOMB",
           "SHADOW_BALL",
-          "DARK_PULSE"
+          "DARK_PULSE",
+          "THUNDERBOLT"
         ],
         "animationTime": [
           2.0,
@@ -37434,11 +36883,6 @@
           58.560001373291016
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -37552,11 +36996,6 @@
           58.369998931884766
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -37653,7 +37092,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          0.11999999731779099,
           0.0
         ],
         "thirdMove": {
@@ -37721,6 +37160,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.100000023841858,
         "pokedexWeightKg": 34.599998474121094,
+        "parentPokemonId": "HAPPINY",
         "heightStdDev": 0.13750000298023224,
         "weightStdDev": 4.324999809265137,
         "familyId": "FAMILY_CHANSEY",
@@ -37745,11 +37185,6 @@
           50.599998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -37840,6 +37275,13 @@
         "familyId": "FAMILY_TANGELA",
         "kmBuddyDistance": 3.0,
         "modelHeight": 1.0,
+        "evolutionBranch": [
+          {
+            "evolution": "TANGROWTH",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          }
+        ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           7.0,
@@ -37852,11 +37294,6 @@
           20.0
         ],
         "buddyScale": 15.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38076,11 +37513,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38194,11 +37626,6 @@
           66.33000183105469
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38310,11 +37737,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38402,11 +37824,6 @@
           79.69000244140625
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38500,11 +37917,6 @@
           60.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38577,7 +37989,9 @@
         "cinematicMoves": [
           "HYDRO_PUMP",
           "POWER_GEM",
-          "PSYCHIC"
+          "PSYCHIC",
+          "THUNDER",
+          "ICE_BEAM"
         ],
         "animationTime": [
           1.733299970626831,
@@ -38611,11 +38025,6 @@
           62.20000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -38701,6 +38110,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.2999999523162842,
         "pokedexWeightKg": 54.5,
+        "parentPokemonId": "MIME_JR",
         "heightStdDev": 0.16249999403953552,
         "weightStdDev": 6.8125,
         "familyId": "FAMILY_MR_MIME",
@@ -38718,11 +38128,6 @@
           20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -38835,9 +38240,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.6499999761581421,
+          0.07000000029802322,
+          1.6399999856948853
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -38890,7 +38295,8 @@
         "cinematicMoves": [
           "DRAINING_KISS",
           "AVALANCHE",
-          "PSYSHOCK"
+          "PSYSHOCK",
+          "FOCUS_BLAST"
         ],
         "animationTime": [
           2.266700029373169,
@@ -38925,8 +38331,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.18000000715255737,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -39039,11 +38445,6 @@
           40.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -39154,11 +38555,6 @@
           49.79999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -39261,11 +38657,6 @@
           43.599998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -39354,11 +38745,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -39466,11 +38852,6 @@
           13.600000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -39559,11 +38940,6 @@
           63.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -39667,11 +39043,6 @@
           19.700000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -39769,11 +39140,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -39901,11 +39267,6 @@
           0.0
         ],
         "buddyScale": 11.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40009,11 +39370,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40123,11 +39479,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40237,11 +39588,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40357,11 +39703,6 @@
           48.209999084472656
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -40455,11 +39796,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40547,11 +39883,6 @@
           48.209999084472656
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40645,11 +39976,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40698,7 +40024,8 @@
         },
         "quickMoves": [
           "MUD_SHOT_FAST",
-          "ROCK_SMASH_FAST"
+          "ROCK_SMASH_FAST",
+          "WATERFALL_FAST"
         ],
         "cinematicMoves": [
           "ANCIENT_POWER",
@@ -40737,11 +40064,6 @@
           35.70000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -40794,7 +40116,8 @@
         "cinematicMoves": [
           "ANCIENT_POWER",
           "IRON_HEAD",
-          "HYPER_BEAM"
+          "HYPER_BEAM",
+          "ROCK_SLIDE"
         ],
         "animationTime": [
           2.1666998863220215,
@@ -40828,9 +40151,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.11999999731779099,
+          0.14000000059604645,
+          -0.10000000149011612
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -40882,7 +40205,8 @@
         "cinematicMoves": [
           "HEAVY_SLAM",
           "HYPER_BEAM",
-          "EARTHQUAKE"
+          "EARTHQUAKE",
+          "OUTRAGE"
         ],
         "animationTime": [
           2.4000000953674316,
@@ -40897,6 +40221,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 2.0999999046325684,
         "pokedexWeightKg": 460.0,
+        "parentPokemonId": "MUNCHLAX",
         "heightStdDev": 0.26249998807907104,
         "weightStdDev": 57.5,
         "familyId": "FAMILY_SNORLAX",
@@ -40917,7 +40242,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.18000000715255737,
           0.0
         ],
         "thirdMove": {
@@ -41015,11 +40340,6 @@
           28.010000228881836
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -41104,11 +40424,6 @@
           18.139999389648438
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -41193,11 +40508,6 @@
           18.139999389648438
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -41289,11 +40599,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -41390,11 +40695,6 @@
           39.70000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -41483,11 +40783,6 @@
           51.70000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -41575,9 +40870,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.09000000357627869,
+          0.05999999865889549,
+          0.3499999940395355
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -41704,11 +40999,6 @@
           -19.799999237060547
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -41799,11 +41089,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -41899,11 +41184,6 @@
           -9.899999618530273
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -41990,11 +41270,6 @@
           31.229999542236328
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42088,9 +41363,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.029999999329447746,
+          0.05999999865889549,
+          -0.11999999731779099
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -42187,11 +41462,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42278,11 +41548,6 @@
           32.540000915527344
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42375,11 +41640,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42475,11 +41735,6 @@
           3.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42566,11 +41821,6 @@
           14.819999694824219
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42663,11 +41913,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42753,11 +41998,6 @@
           -9.460000038146973
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -42853,8 +42093,8 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
-          0.0
+          -0.05999999865889549,
+          -0.20999999344348907
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -42947,7 +42187,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          0.029999999329447746
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -43045,9 +42285,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.029999999329447746,
           0.0,
-          0.0,
-          0.0
+          -0.23999999463558197
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -43138,9 +42378,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.36000001430511475,
+          -0.27000001072883606,
+          -1.0
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -43235,11 +42475,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -43327,7 +42562,7 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
+          0.05999999865889549,
           0.0,
           0.0
         ],
@@ -43420,9 +42655,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.33000001311302185,
+          -0.25,
+          -0.7799999713897705
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -43518,11 +42753,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -43611,11 +42841,6 @@
           82.54000091552734
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -43708,9 +42933,9 @@
         ],
         "buddyScale": 13.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.10000000149011612,
+          -0.05999999865889549,
+          0.25
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -43806,7 +43031,7 @@
         "buddyScale": 13.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.11999999731779099,
           0.0
         ],
         "thirdMove": {
@@ -43903,9 +43128,9 @@
         ],
         "buddyScale": 14.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.05999999865889549,
+          -0.05999999865889549,
+          -0.18000000715255737
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -44098,11 +43323,6 @@
           -20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -44199,7 +43419,7 @@
         "buddyScale": 10.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.029999999329447746,
           0.0
         ],
         "thirdMove": {
@@ -44387,11 +43607,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -44487,11 +43702,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -44544,7 +43754,8 @@
         "cinematicMoves": [
           "ZAP_CANNON",
           "FOCUS_BLAST",
-          "THUNDER"
+          "THUNDER",
+          "POWER_GEM"
         ],
         "animationTime": [
           1.333299994468689,
@@ -44580,7 +43791,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.15000000596046448,
           0.0
         ],
         "thirdMove": {
@@ -44668,11 +43879,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -44767,11 +43973,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -44926,6 +44127,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.190000057220459,
         "pokedexWeightKg": 38.0,
+        "parentPokemonId": "BONSLY",
         "heightStdDev": 0.14875000715255737,
         "weightStdDev": 4.75,
         "familyId": "FAMILY_SUDOWOODO",
@@ -44945,7 +44147,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -45034,8 +44236,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.05999999865889549,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -45133,11 +44335,6 @@
           40.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -45238,7 +44435,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.20999999344348907,
           0.0
         ],
         "thirdMove": {
@@ -45329,11 +44526,6 @@
           50.25
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -45404,6 +44596,13 @@
         "familyId": "FAMILY_AIPOM",
         "kmBuddyDistance": 3.0,
         "modelHeight": 0.800000011920929,
+        "evolutionBranch": [
+          {
+            "evolution": "AMBIPOM",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          }
+        ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           10.210000038146973,
@@ -45418,7 +44617,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.15000000596046448,
           0.0
         ],
         "thirdMove": {
@@ -45517,7 +44716,7 @@
         "buddyScale": 12.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -45606,7 +44805,7 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
+          0.10000000149011612,
           0.0,
           0.0
         ],
@@ -45682,6 +44881,13 @@
         "familyId": "FAMILY_YANMA",
         "kmBuddyDistance": 3.0,
         "modelHeight": 1.1299999952316284,
+        "evolutionBranch": [
+          {
+            "evolution": "YANMEGA",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          }
+        ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           3.299999952316284,
@@ -45695,9 +44901,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.3100000023841858,
           0.0,
-          0.0,
-          0.0
+          0.49000000953674316
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -45793,8 +44999,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.029999999329447746,
+          -0.07999999821186066,
           0.0
         ],
         "thirdMove": {
@@ -45887,7 +45093,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.2199999988079071
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -45974,11 +45180,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -46063,11 +45264,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -46159,11 +45355,6 @@
           0.0
         ],
         "buddyScale": 16.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -46251,9 +45442,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.05000000074505806,
+          -0.30000001192092896,
+          -0.3199999928474426
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -46365,9 +45556,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.10000000149011612,
+          -0.11999999731779099,
+          0.14000000059604645
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -46467,11 +45658,6 @@
           19.899999618530273
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -46572,11 +45758,6 @@
           52.20000076293945
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -46679,11 +45860,6 @@
           51.900001525878906
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -46797,7 +45973,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.25
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -46908,7 +46084,7 @@
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.25
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -47011,9 +46187,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.30000001192092896,
           0.0,
-          0.0,
-          0.0
+          0.5600000023841858
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -47124,11 +46300,6 @@
           15.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -47234,7 +46405,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          0.33000001311302185,
           0.0
         ],
         "thirdMove": {
@@ -47347,11 +46518,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -47456,11 +46622,6 @@
           22.1299991607666
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -47563,11 +46724,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -47673,11 +46829,6 @@
           28.600000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -47779,11 +46930,6 @@
           -9.640000343322754
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -47886,11 +47032,6 @@
           41.27000045776367
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -48000,8 +47141,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.029999999329447746,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -48115,8 +47256,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.019999999552965164,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -48184,7 +47325,8 @@
         },
         "quickMoves": [
           "METAL_CLAW_FAST",
-          "COUNTER_FAST"
+          "COUNTER_FAST",
+          "SHADOW_CLAW_FAST"
         ],
         "cinematicMoves": [
           "CLOSE_COMBAT",
@@ -48223,11 +47365,6 @@
           28.059999465942383
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -48340,7 +47477,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.05000000074505806,
           0.0
         ],
         "thirdMove": {
@@ -48447,11 +47584,6 @@
           -56.099998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -48564,9 +47696,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.019999999552965164,
+          0.05000000074505806,
+          -0.12999999523162842
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -48673,11 +47805,6 @@
           30.889999389648438
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -48778,11 +47905,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -48894,11 +48016,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -49002,11 +48119,6 @@
           -65.69999694824219
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -49107,11 +48219,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -49177,7 +48284,8 @@
         },
         "quickMoves": [
           "BUBBLE_FAST",
-          "WING_ATTACK_FAST"
+          "WING_ATTACK_FAST",
+          "BULLET_SEED_FAST"
         ],
         "cinematicMoves": [
           "WATER_PULSE",
@@ -49215,11 +48323,6 @@
           47.779998779296875
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -49323,11 +48426,6 @@
           29.200000762939453
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -49439,11 +48537,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -49515,7 +48608,8 @@
         "cinematicMoves": [
           "CRUNCH",
           "FIRE_BLAST",
-          "FOUL_PLAY"
+          "FOUL_PLAY",
+          "FLAMETHROWER"
         ],
         "animationTime": [
           1.333299994468689,
@@ -49548,11 +48642,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -49659,11 +48748,6 @@
           41.58000183105469
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -49773,11 +48857,6 @@
           -5.059999942779541
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -49843,7 +48922,8 @@
         },
         "quickMoves": [
           "TACKLE_FAST",
-          "COUNTER_FAST"
+          "COUNTER_FAST",
+          "MUD_SLAP_FAST"
         ],
         "cinematicMoves": [
           "EARTHQUAKE",
@@ -49882,11 +48962,6 @@
           20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -49998,11 +49073,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -50104,11 +49174,6 @@
           49.18000030517578
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -50209,7 +49274,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.05000000074505806,
           0.0
         ],
         "thirdMove": {
@@ -50332,9 +49397,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.09000000357627869,
+          -0.07000000029802322,
+          0.25
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -50437,11 +49502,6 @@
           -72.7699966430664
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -50555,7 +49615,7 @@
         "buddyScale": 10.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.07999999821186066,
           0.0
         ],
         "thirdMove": {
@@ -50668,11 +49728,6 @@
           -1.0
         ],
         "buddyScale": 10.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -50785,7 +49840,7 @@
         "buddyScale": 10.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.10000000149011612,
           0.0
         ],
         "thirdMove": {
@@ -50856,7 +49911,9 @@
         "cinematicMoves": [
           "STOMP",
           "BODY_SLAM",
-          "GYRO_BALL"
+          "GYRO_BALL",
+          "THUNDERBOLT",
+          "ICE_BEAM"
         ],
         "animationTime": [
           1.333299994468689,
@@ -50889,11 +49946,6 @@
           46.599998474121094
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -50996,11 +50048,6 @@
           20.799999237060547
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -51069,7 +50116,8 @@
         "cinematicMoves": [
           "THUNDER",
           "THUNDERBOLT",
-          "WILD_CHARGE"
+          "WILD_CHARGE",
+          "SHADOW_BALL"
         ],
         "animationTime": [
           1.333299994468689,
@@ -51103,11 +50151,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -51175,7 +50218,8 @@
         "cinematicMoves": [
           "FLAMETHROWER",
           "FIRE_BLAST",
-          "OVERHEAT"
+          "OVERHEAT",
+          "IRON_HEAD"
         ],
         "animationTime": [
           1.333299994468689,
@@ -51209,11 +50253,6 @@
           30.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -51282,7 +50321,8 @@
         "cinematicMoves": [
           "HYDRO_PUMP",
           "BUBBLE_BEAM",
-          "WATER_PULSE"
+          "WATER_PULSE",
+          "ICE_BEAM"
         ],
         "animationTime": [
           1.333299994468689,
@@ -51316,11 +50356,6 @@
           -20.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -51432,11 +50467,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -51553,9 +50583,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          -0.25,
+          -0.4000000059604645,
           -0.14000000059604645,
-          -0.6499999761581421
+          -1.0
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -51831,7 +50861,8 @@
         },
         "quickMoves": [
           "EXTRASENSORY_FAST",
-          "STEEL_WING_FAST"
+          "STEEL_WING_FAST",
+          "HIDDEN_POWER_FAST"
         ],
         "cinematicMoves": [
           "BRAVE_BIRD",
@@ -54236,7 +53267,8 @@
         "cinematicMoves": [
           "HYDRO_PUMP",
           "BLIZZARD",
-          "SOLAR_BEAM"
+          "SOLAR_BEAM",
+          "ICE_BEAM"
         ],
         "animationTime": [
           1.333299994468689,
@@ -54377,6 +53409,11 @@
           0.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.05999999865889549,
+          -0.07999999821186066,
+          0.10000000149011612
+        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -55235,6 +54272,11 @@
         "kmBuddyDistance": 5.0,
         "modelHeight": 0.9454545378684998,
         "evolutionBranch": [
+          {
+            "evolution": "GALLADE",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          },
           {
             "evolution": "GARDEVOIR",
             "candyCost": 100
@@ -58832,9 +57874,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.10000000149011612,
+          0.17000000178813934,
           -0.4399999976158142,
-          -0.17000000178813934
+          0.019999999552965164
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -60532,6 +59574,11 @@
           0.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.6499999761581421,
+          0.11999999731779099,
+          1.4299999475479126
+        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -62787,6 +61834,7 @@
         "cinematicMoves": [
           "ENERGY_BALL",
           "SHADOW_BALL",
+          "PSYSHOCK",
           "PSYSHOCK"
         ],
         "animationTime": [
@@ -63060,8 +62108,13 @@
         "modelHeight": 0.6581196784973145,
         "evolutionBranch": [
           {
+            "evolution": "FROSLASS",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          },
+          {
             "evolution": "GLALIE",
-            "candyCost": 50
+            "candyCost": 100
           }
         ],
         "modelScaleV2": 1.0,
@@ -64111,7 +63164,8 @@
         },
         "quickMoves": [
           "DRAGON_TAIL_FAST",
-          "FIRE_FANG_FAST"
+          "FIRE_FANG_FAST",
+          "BITE_FAST"
         ],
         "cinematicMoves": [
           "FIRE_BLAST",
@@ -64956,16 +64010,16 @@
         "type": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.5550000071525574,
-          "cylinderRadiusM": 2.5,
-          "cylinderHeightM": 4.0,
+          "cylinderRadiusM": 2.4000000953674316,
+          "cylinderHeightM": 3.0,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.019999999552965164,
           "baseFleeRate": 0.009999999776482582,
           "collisionRadiusM": 1.0,
-          "collisionHeightM": 2.5,
-          "collisionHeadRadiusM": 0.25,
+          "collisionHeightM": 2.0,
+          "collisionHeadRadiusM": 0.800000011920929,
           "movementTimerS": 11.0,
           "jumpTimeS": 1.100000023841858,
           "attackTimerS": 20.0,
@@ -65363,6 +64417,11 @@
           70.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.7599999904632568,
+          -0.05000000074505806,
+          1.7100000381469727
+        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -65411,7 +64470,7 @@
         ],
         "cinematicMoves": [
           "PSYCHO_BOOST",
-          "ZAP_CANNON",
+          "THUNDERBOLT",
           "ROCK_SLIDE"
         ],
         "animationTime": [
@@ -65447,6 +64506,11 @@
           70.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.7599999904632568,
+          -0.05000000074505806,
+          1.7100000381469727
+        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -65531,6 +64595,11 @@
           70.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.7599999904632568,
+          -0.05000000074505806,
+          1.7100000381469727
+        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -65579,7 +64648,7 @@
         ],
         "cinematicMoves": [
           "PSYCHO_BOOST",
-          "ZAP_CANNON",
+          "THUNDERBOLT",
           "SWIFT"
         ],
         "animationTime": [
@@ -65615,6 +64684,11 @@
           70.0
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.7599999904632568,
+          -0.05000000074505806,
+          1.7100000381469727
+        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -66700,18 +65774,23 @@
         "kmBuddyDistance": 1.0,
         "buddySize": "BUDDY_FLYING",
         "modelHeight": 2.3399999141693115,
-        "modelScaleV2": 0.75,
+        "modelScaleV2": 0.949999988079071,
         "buddyOffsetMale": [
-          100.0,
+          4.300000190734863,
           0.0,
-          -200.0
+          16.6200008392334
         ],
         "buddyOffsetFemale": [
-          100.0,
+          4.300000190734863,
           0.0,
-          -200.0
+          16.6200008392334
         ],
-        "buddyScale": 19.0,
+        "buddyScale": 16.0,
+        "buddyPortraitOffset": [
+          -0.38999998569488525,
+          0.07000000029802322,
+          -0.8999999761581421
+        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -67054,12 +66133,12 @@
         "buddyOffsetMale": [
           10.5,
           0.0,
-          103.75
+          96.0
         ],
         "buddyOffsetFemale": [
           10.5,
           0.0,
-          103.75
+          96.0
         ],
         "buddyScale": 19.0,
         "thirdMove": {
@@ -67295,7 +66374,8 @@
         },
         "quickMoves": [
           "SPARK_FAST",
-          "SNARL_FAST"
+          "SNARL_FAST",
+          "HIDDEN_POWER_FAST"
         ],
         "cinematicMoves": [
           "HYPER_BEAM",
@@ -67477,7 +66557,8 @@
         "cinematicMoves": [
           "SOLAR_BEAM",
           "SLUDGE_BOMB",
-          "DAZZLING_GLEAM"
+          "DAZZLING_GLEAM",
+          "GRASS_KNOT"
         ],
         "animationTime": [
           1.899999976158142,
@@ -67530,7 +66611,6 @@
         "pokemonId": "CRANIDOS",
         "modelScale": 1.2599999904632568,
         "type": "POKEMON_TYPE_ROCK",
-        "type2": "POKEMON_TYPE_ROCK",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.5,
@@ -67620,7 +66700,6 @@
         "pokemonId": "RAMPARDOS",
         "modelScale": 1.2599999904632568,
         "type": "POKEMON_TYPE_ROCK",
-        "type2": "POKEMON_TYPE_ROCK",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.800000011920929,
@@ -67944,16 +67023,6 @@
             "form": "WORMADAM_PLANT"
           },
           {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_SANDY"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_TRASH"
-          },
-          {
             "evolution": "MOTHIM",
             "candyCost": 50
           }
@@ -67988,14 +67057,15 @@
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.25200000405311584,
           "cylinderHeightM": 0.3779999911785126,
+          "cylinderGroundM": 0.27000001072883606,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.5,
           "baseFleeRate": 0.20000000298023224,
-          "collisionRadiusM": 0.1889999955892563,
-          "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionRadiusM": 0.09000000357627869,
+          "collisionHeightM": 0.09000000357627869,
+          "collisionHeadRadiusM": 0.09000000357627869,
           "movementType": "MOVEMENT_FLYING",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -68044,16 +67114,6 @@
             "evolution": "WORMADAM",
             "candyCost": 50,
             "form": "WORMADAM_PLANT"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_SANDY"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_TRASH"
           },
           {
             "evolution": "MOTHIM",
@@ -68151,17 +67211,7 @@
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
-            "form": "WORMADAM_PLANT"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
             "form": "WORMADAM_SANDY"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_TRASH"
           },
           {
             "evolution": "MOTHIM",
@@ -68256,16 +67306,6 @@
         "kmBuddyDistance": 5.0,
         "modelHeight": 0.3400000035762787,
         "evolutionBranch": [
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_PLANT"
-          },
-          {
-            "evolution": "WORMADAM",
-            "candyCost": 50,
-            "form": "WORMADAM_SANDY"
-          },
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
@@ -68401,14 +67441,15 @@
         "type2": "POKEMON_TYPE_GRASS",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
+          "cylinderRadiusM": 0.2199999988079071,
           "cylinderHeightM": 0.3779999911785126,
+          "cylinderGroundM": 0.30000001192092896,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.15000000596046448,
           "baseFleeRate": 0.07000000029802322,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.12600000202655792,
           "collisionHeightM": 0.25200000405311584,
           "collisionHeadRadiusM": 0.12600000202655792,
           "movementType": "MOVEMENT_FLYING",
@@ -68816,7 +67857,6 @@
         "evolutionPips": 1,
         "pokedexHeightM": 0.30000001192092896,
         "pokedexWeightKg": 5.5,
-        "parentPokemonId": "MOTHIM",
         "heightStdDev": 0.03750000149011612,
         "weightStdDev": 0.6875,
         "familyId": "FAMILY_COMBEE",
@@ -68884,7 +67924,7 @@
           "dodgeProbability": 0.30000001192092896,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 3.0,
+          "cameraDistance": 4.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -68915,25 +67955,30 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.2000000476837158,
         "pokedexWeightKg": 38.5,
-        "parentPokemonId": "MOTHIM",
+        "parentPokemonId": "COMBEE",
         "heightStdDev": 0.15000000596046448,
         "weightStdDev": 4.8125,
         "familyId": "FAMILY_COMBEE",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
         "modelHeight": 1.2699999809265137,
-        "modelScaleV2": 0.75,
+        "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           -3.4000000953674316,
           -8.0,
-          27.25
+          -55.20000076293945
         ],
         "buddyOffsetFemale": [
           -3.4000000953674316,
           -8.0,
-          27.25
+          -55.20000076293945
         ],
         "buddyScale": 19.0,
+        "buddyPortraitOffset": [
+          0.23999999463558197,
+          0.05999999865889549,
+          0.6000000238418579
+        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -69039,7 +68084,7 @@
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderHeightM": 0.699999988079071,
           "shoulderModeScale": 0.5
         },
         "encounter": {
@@ -69111,11 +68156,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -69202,11 +68242,6 @@
           19.799999237060547
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -69303,9 +68338,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.03200000151991844,
+          -0.07500000298023224,
+          0.10000000149011612
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -69395,8 +68430,8 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
-          -0.550000011920929
+          0.12800000607967377,
+          0.0
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -69475,19 +68510,19 @@
         "modelScaleV2": 1.0,
         "form": "CHERRIM_OVERCAST",
         "buddyOffsetMale": [
-          0.0,
+          6.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          6.0,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.019999999552965164,
+          0.05999999865889549,
           0.0
         ],
         "thirdMove": {
@@ -69567,19 +68602,19 @@
         "modelScaleV2": 1.0,
         "form": "CHERRIM_SUNNY",
         "buddyOffsetMale": [
-          0.0,
+          6.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          6.0,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.020999999716877937,
+          -0.12099999934434891,
           0.0
         ],
         "thirdMove": {
@@ -69672,9 +68707,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.17000000178813934,
           0.0,
-          0.0,
-          0.0
+          0.3790000081062317
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -69751,7 +68786,7 @@
           {
             "evolution": "GASTRODON",
             "candyCost": 50,
-            "form": "GASTRODON_WEST_SEA"
+            "form": "GASTRODON_EAST_SEA"
           }
         ],
         "modelScaleV2": 1.2699999809265137,
@@ -69768,9 +68803,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.17000000178813934,
           0.0,
-          0.0,
-          0.0
+          0.3790000081062317
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -69788,16 +68823,16 @@
         "type": "POKEMON_TYPE_WATER",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.15000000596046448,
+          "cylinderHeightM": 0.30000001192092896,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.5,
           "baseFleeRate": 0.10000000149011612,
-          "collisionRadiusM": 0.1889999955892563,
-          "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionRadiusM": 0.10000000149011612,
+          "collisionHeightM": 0.12999999523162842,
+          "collisionHeadRadiusM": 0.07500000298023224,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -69864,9 +68899,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.17000000178813934,
           0.0,
-          0.0,
-          0.0
+          0.3790000081062317
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -69954,11 +68989,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -69976,16 +69006,16 @@
         "type2": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.30000001192092896,
+          "cylinderHeightM": 0.8999999761581421,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.20000000298023224,
           "baseFleeRate": 0.05999999865889549,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.25,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.18000000715255737,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -70047,11 +69077,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -70069,16 +69094,16 @@
         "type2": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.30000001192092896,
+          "cylinderHeightM": 0.8999999761581421,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.20000000298023224,
           "baseFleeRate": 0.05999999865889549,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.25,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.18000000715255737,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -70140,11 +69165,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -70232,9 +69252,9 @@
         ],
         "buddyScale": 17.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.49000000953674316
+          -0.13099999725818634,
+          -0.1599999964237213,
+          -0.4000000059604645
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -70328,9 +69348,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.6299999952316284,
+          -0.11999999731779099,
+          1.4600000381469727
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -70420,11 +69440,11 @@
           0.0,
           22.5
         ],
-        "buddyScale": 17.0,
+        "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -1.5
+          -0.7200000286102295,
+          -0.49000000953674316,
+          -1.6799999475479126
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -70515,9 +69535,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.05000000074505806,
+          -0.11999999731779099,
+          0.10999999940395355
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -70607,8 +69627,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.029999999329447746,
+          -0.07000000029802322,
           0.0
         ],
         "thirdMove": {
@@ -70627,14 +69647,15 @@
         "type": "POKEMON_TYPE_GHOST",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.23000000417232513,
+          "cylinderHeightM": 0.699999988079071,
+          "cylinderGroundM": 0.4000000059604645,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.10000000149011612,
           "baseFleeRate": 0.07000000029802322,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.10000000149011612,
           "collisionHeightM": 0.25200000405311584,
           "collisionHeadRadiusM": 0.12600000202655792,
           "movementType": "MOVEMENT_HOVERING",
@@ -70647,7 +69668,7 @@
           "dodgeProbability": 0.30000001192092896,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 4.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -70699,7 +69720,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.05000000074505806,
           0.0
         ],
         "thirdMove": {
@@ -70756,7 +69777,8 @@
         "cinematicMoves": [
           "BRAVE_BIRD",
           "PSYCHIC",
-          "DARK_PULSE"
+          "DARK_PULSE",
+          "SKY_ATTACK"
         ],
         "animationTime": [
           1.899999976158142,
@@ -70790,11 +69812,6 @@
           -46.400001525878906
         ],
         "buddyScale": 15.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -70884,11 +69901,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          3.700000047683716
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -70976,9 +69988,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.550000011920929
+          0.07999999821186066,
+          -0.10999999940395355,
+          0.20000000298023224
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -71014,7 +70026,7 @@
           "attackProbability": 0.10000000149011612,
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
-          "dodgeDistance": 1.0,
+          "dodgeDistance": 0.10000000149011612,
           "cameraDistance": 2.25,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
@@ -71070,11 +70082,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -71166,9 +70173,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.18000000715255737,
+          -0.05999999865889549,
+          0.38999998569488525
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -71258,11 +70265,6 @@
           83.27999877929688
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -71298,7 +70300,7 @@
           "attackProbability": 0.10000000149011612,
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
-          "dodgeDistance": 1.0,
+          "dodgeDistance": 0.5,
           "cameraDistance": 3.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
@@ -71354,11 +70356,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -71448,9 +70445,9 @@
         ],
         "buddyScale": 15.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -1.600000023841858
+          -0.20000000298023224,
+          0.3700000047683716,
+          -0.5299999713897705
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -71469,13 +70466,13 @@
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderHeightM": 0.4300000071525574,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.10000000149011612,
           "baseFleeRate": 0.03999999910593033,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.10000000149011612,
           "collisionHeightM": 0.25200000405311584,
           "collisionHeadRadiusM": 0.12600000202655792,
           "movementType": "MOVEMENT_JUMP",
@@ -71526,7 +70523,8 @@
         "evolutionBranch": [
           {
             "evolution": "SUDOWOODO",
-            "candyCost": 50
+            "candyCost": 50,
+            "kmBuddyDistanceRequirement": 15.0
           }
         ],
         "modelScaleV2": 1.0,
@@ -71541,11 +70539,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -71621,7 +70614,8 @@
         "evolutionBranch": [
           {
             "evolution": "MR_MIME",
-            "candyCost": 50
+            "candyCost": 50,
+            "kmBuddyDistanceRequirement": 15.0
           }
         ],
         "modelScaleV2": 0.800000011920929,
@@ -71637,8 +70631,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.019999999552965164,
+          -0.10000000149011612,
           0.0
         ],
         "thirdMove": {
@@ -71713,7 +70707,8 @@
         "evolutionBranch": [
           {
             "evolution": "CHANSEY",
-            "candyCost": 25
+            "candyCost": 25,
+            "kmBuddyDistanceRequirement": 15.0
           }
         ],
         "modelScaleV2": 1.0,
@@ -71728,11 +70723,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -71817,11 +70807,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.30000001192092896
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -71907,9 +70892,9 @@
         ],
         "buddyScale": 16.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          2.700000047683716
+          -0.41999998688697815,
+          0.07999999821186066,
+          -0.8100000023841858
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -72002,9 +70987,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.6299999952316284
+          -0.20999999344348907,
+          0.17000000178813934,
+          -0.23999999463558197
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -72096,14 +71081,9 @@
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -61.0
         ],
         "buddyScale": 17.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -72172,7 +71152,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.899999976158142,
         "pokedexWeightKg": 95.0,
-        "parentPokemonId": "GIBLE",
+        "parentPokemonId": "GABITE",
         "heightStdDev": 0.23749999701976776,
         "weightStdDev": 11.875,
         "familyId": "FAMILY_GIBLE",
@@ -72183,19 +71163,14 @@
         "buddyOffsetMale": [
           0.0,
           0.0,
-          0.0
+          -67.4000015258789
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -67.4000015258789
         ],
         "buddyScale": 15.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -72285,11 +71260,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 10000,
           "candyToUnlock": 25
@@ -72380,7 +71350,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.07000000029802322,
           0.0
         ],
         "thirdMove": {
@@ -72470,11 +71440,6 @@
           27.5
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -72491,16 +71456,16 @@
         "type": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.800000011920929,
+          "cylinderHeightM": 0.699999988079071,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.4000000059604645,
           "baseFleeRate": 0.10000000149011612,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.25,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.30000001192092896,
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
           "attackTimerS": 29.0,
@@ -72508,7 +71473,7 @@
           "dodgeProbability": 0.10000000149011612,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 3.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -72564,9 +71529,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.3499999940395355,
+          -0.05999999865889549,
+          -1.2599999904632568
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -72584,16 +71549,16 @@
         "type": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 2.299999952316284,
+          "cylinderHeightM": 1.600000023841858,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.15000000596046448,
           "baseFleeRate": 0.07999999821186066,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.800000011920929,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.699999988079071,
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
           "attackTimerS": 29.0,
@@ -72603,7 +71568,7 @@
           "dodgeProbability": 0.10000000149011612,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 5.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -72654,9 +71619,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.8100000023841858,
           0.0,
-          0.0,
-          0.0
+          -2.4800000190734863
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -72748,11 +71713,6 @@
           3.619999885559082
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -72801,7 +71761,8 @@
         },
         "quickMoves": [
           "POISON_STING_FAST",
-          "INFESTATION_FAST"
+          "INFESTATION_FAST",
+          "BITE_FAST"
         ],
         "cinematicMoves": [
           "CRUNCH",
@@ -72828,22 +71789,22 @@
         "candyToEvolve": 25,
         "kmBuddyDistance": 5.0,
         "modelHeight": 1.2000000476837158,
-        "modelScaleV2": 0.75,
+        "modelScaleV2": 1.0,
         "buddyOffsetMale": [
-          1.7699999809265137,
+          -4.0,
           0.0,
-          -94.0
+          -115.0
         ],
         "buddyOffsetFemale": [
-          1.7699999809265137,
+          -4.0,
           0.0,
-          -94.0
+          -115.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.5799999833106995,
           0.0,
-          0.0,
-          -0.28999999165534973
+          1.2300000190734863
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -72863,7 +71824,7 @@
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderHeightM": 0.6000000238418579,
           "shoulderModeScale": 0.5
         },
         "encounter": {
@@ -72871,7 +71832,7 @@
           "baseFleeRate": 0.11999999731779099,
           "collisionRadiusM": 0.1889999955892563,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.17000000178813934,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -72927,19 +71888,14 @@
         "buddyOffsetMale": [
           0.0,
           0.0,
-          0.0
+          -28.600000381469727
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -28.600000381469727
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73028,9 +71984,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.25,
+          0.14000000059604645,
+          0.4699999988079071
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -73118,8 +72074,8 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
+          0.07999999821186066,
+          -0.05000000074505806,
           0.0
         ],
         "thirdMove": {
@@ -73155,7 +72111,7 @@
           "attackProbability": 0.10000000149011612,
           "dodgeProbability": 0.10000000149011612,
           "dodgeDurationS": 1.0,
-          "dodgeDistance": 1.0,
+          "dodgeDistance": 0.4000000059604645,
           "cameraDistance": 2.25,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
@@ -73211,11 +72167,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73232,16 +72183,17 @@
         "type": "POKEMON_TYPE_WATER",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.5,
+          "cylinderHeightM": 0.6499999761581421,
+          "cylinderGroundM": 0.4000000059604645,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.20000000298023224,
           "baseFleeRate": 0.05999999865889549,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.27000001072883606,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.27000001072883606,
           "movementType": "MOVEMENT_HOVERING",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -73251,7 +72203,7 @@
           "attackProbability": 0.10000000149011612,
           "dodgeProbability": 0.10000000149011612,
           "dodgeDurationS": 1.0,
-          "dodgeDistance": 1.0,
+          "dodgeDistance": 0.4000000059604645,
           "cameraDistance": 2.25,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
@@ -73293,18 +72245,18 @@
         "buddyOffsetMale": [
           0.0,
           0.0,
-          0.0
+          -35.70000076293945
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -35.70000076293945
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.10999999940395355,
           0.0,
-          0.0,
-          0.0
+          -0.2800000011920929
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -73323,16 +72275,17 @@
         "type2": "POKEMON_TYPE_FLYING",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.4000000059604645,
+          "cylinderHeightM": 0.4000000059604645,
+          "cylinderGroundM": 0.5,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.10000000149011612,
           "baseFleeRate": 0.03999999910593033,
-          "collisionRadiusM": 0.1889999955892563,
-          "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionRadiusM": 0.20000000298023224,
+          "collisionHeightM": 0.5,
+          "collisionHeadRadiusM": 0.20000000298023224,
           "movementType": "MOVEMENT_HOVERING",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -73397,9 +72350,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.10000000149011612,
+          -0.05000000074505806,
+          -0.3400000035762787
         ],
         "thirdMove": {
           "stardustToUnlock": 10000,
@@ -73418,16 +72371,16 @@
         "type2": "POKEMON_TYPE_ICE",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.30000001192092896,
+          "cylinderHeightM": 0.8999999761581421,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.30000001192092896,
           "baseFleeRate": 0.10000000149011612,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.30000001192092896,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.27000001072883606,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -73483,18 +72436,18 @@
         "buddyOffsetMale": [
           0.0,
           0.0,
-          0.0
+          -49.70000076293945
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -49.70000076293945
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.27000001072883606,
           0.0,
-          0.0,
-          0.0
+          -0.7699999809265137
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -73582,11 +72535,6 @@
           -57.209999084472656
         ],
         "buddyScale": 17.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73674,11 +72622,6 @@
           22.829999923706055
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73755,22 +72698,22 @@
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
         "modelHeight": 1.559999942779541,
-        "modelScaleV2": 0.8999999761581421,
+        "modelScaleV2": 1.0,
         "buddyOffsetMale": [
-          0.0,
-          41.52000045776367,
-          -61.5
+          -5.0,
+          -3.299999952316284,
+          -90.0
         ],
         "buddyOffsetFemale": [
-          0.0,
-          41.52000045776367,
-          -61.5
+          -5.0,
+          -3.299999952316284,
+          -90.0
         ],
-        "buddyScale": 11.0,
+        "buddyScale": 18.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -4.039999961853027
+          -1.0099999904632568,
+          -0.1599999964237213,
+          -2.3399999141693115
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -73858,11 +72801,6 @@
           -42.52000045776367
         ],
         "buddyScale": 16.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73880,7 +72818,7 @@
         "type2": "POKEMON_TYPE_ROCK",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 1.7999999523162842,
+          "cylinderRadiusM": 1.2000000476837158,
           "cylinderHeightM": 2.5,
           "shoulderModeScale": 0.5
         },
@@ -73937,24 +72875,20 @@
         "familyId": "FAMILY_RHYHORN",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 2.700000047683716,
-        "modelScaleV2": 1.0,
+        "modelScaleV2": 0.8999999761581421,
         "buddyOffsetMale": [
-          -9.199999809265137,
-          0.0,
-          -82.52999877929688
-        ],
-        "buddyOffsetFemale": [
-          -9.199999809265137,
-          0.0,
-          -82.52999877929688
-        ],
-        "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
+          10.0,
           0.0,
           0.0
         ],
+        "buddyOffsetFemale": [
+          10.0,
+          0.0,
+          0.0
+        ],
+        "buddyScale": 15.0,
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -73976,16 +72910,16 @@
         "type": "POKEMON_TYPE_GRASS",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 1.0,
+          "cylinderHeightM": 2.0,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.15000000596046448,
           "baseFleeRate": 0.10000000149011612,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 1.0,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 1.0,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -73996,7 +72930,7 @@
           "dodgeProbability": 0.30000001192092896,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -74033,23 +72967,24 @@
         "familyId": "FAMILY_TANGELA",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 2.049999952316284,
         "modelScaleV2": 0.9900000095367432,
         "buddyOffsetMale": [
+          16.18000030517578,
           0.0,
-          0.0,
-          0.0
+          20.170000076293945
         ],
         "buddyOffsetFemale": [
+          16.18000030517578,
           0.0,
-          0.0,
-          0.0
+          20.170000076293945
         ],
-        "buddyScale": 19.0,
+        "buddyScale": 15.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.7900000214576721,
+          -0.30000001192092896,
+          -2.4100000858306885
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -74137,11 +73072,6 @@
           -56.900001525878906
         ],
         "buddyScale": 16.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.30000001192092896
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -74194,7 +73124,8 @@
         "cinematicMoves": [
           "BRICK_BREAK",
           "FIRE_PUNCH",
-          "FIRE_BLAST"
+          "FIRE_BLAST",
+          "PSYCHIC"
         ],
         "animationTime": [
           1.899999976158142,
@@ -74228,11 +73159,6 @@
           -69.37000274658203
         ],
         "buddyScale": 17.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.30000001192092896
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -74287,7 +73213,8 @@
         "cinematicMoves": [
           "ANCIENT_POWER",
           "DAZZLING_GLEAM",
-          "AERIAL_ACE"
+          "AERIAL_ACE",
+          "FLAMETHROWER"
         ],
         "animationTime": [
           1.899999976158142,
@@ -74321,11 +73248,6 @@
           -66.5199966430664
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -74343,8 +73265,9 @@
         "type2": "POKEMON_TYPE_FLYING",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
+          "cylinderRadiusM": 1.0,
           "cylinderHeightM": 0.3779999911785126,
+          "cylinderGroundM": 1.0,
           "shoulderModeScale": 0.5
         },
         "encounter": {
@@ -74363,7 +73286,7 @@
           "dodgeProbability": 0.30000001192092896,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 4.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -74403,20 +73326,20 @@
         "modelHeight": 1.7999999523162842,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
+          10.0,
           0.0,
-          0.0,
-          0.0
+          -100.0
         ],
         "buddyOffsetFemale": [
+          10.0,
           0.0,
-          0.0,
-          0.0
+          -100.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
           0.0,
-          0.0
+          -0.1599999964237213
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -74506,7 +73429,7 @@
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
           0.0,
-          0.0,
+          -0.09000000357627869,
           0.0
         ],
         "thirdMove": {
@@ -74526,7 +73449,7 @@
         "camera": {
           "diskRadiusM": 0.3779999911785126,
           "cylinderRadiusM": 0.4000000059604645,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderHeightM": 0.699999988079071,
           "shoulderModeScale": 0.5
         },
         "encounter": {
@@ -74596,9 +73519,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.7200000286102295
+          0.07999999821186066,
+          -0.05000000074505806,
+          0.14000000059604645
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -74689,9 +73612,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.28999999165534973,
+          0.15000000596046448,
+          0.4699999988079071
         ],
         "thirdMove": {
           "stardustToUnlock": 75000,
@@ -74767,6 +73690,7 @@
         "familyId": "FAMILY_SWINUB",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.819999933242798,
         "modelScaleV2": 0.699999988079071,
         "buddyOffsetMale": [
@@ -74780,11 +73704,6 @@
           -141.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 50000,
           "candyToUnlock": 50
@@ -74838,7 +73757,8 @@
         "cinematicMoves": [
           "SOLAR_BEAM",
           "HYPER_BEAM",
-          "ZAP_CANNON"
+          "ZAP_CANNON",
+          "BLIZZARD"
         ],
         "animationTime": [
           1.899999976158142,
@@ -74873,9 +73793,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.7200000286102295
+          -0.009999999776482582,
+          -0.10999999940395355,
+          -0.07999999821186066
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -74963,12 +73883,7 @@
           0.0,
           -55.29999923706055
         ],
-        "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
+        "buddyScale": 17.0,
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75057,9 +73972,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -1.2200000286102295
+          -0.20000000298023224,
+          0.47999998927116394,
+          -0.8199999928474426
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -75098,7 +74013,7 @@
           "dodgeProbability": 0.30000001192092896,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 4.0,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -75135,23 +74050,24 @@
         "familyId": "FAMILY_DUSKULL",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 2.200000047683716,
-        "modelScaleV2": 0.5,
+        "modelScaleV2": 0.9700000286102295,
         "buddyOffsetMale": [
+          48.0,
           0.0,
-          0.0,
-          14.550000190734863
+          -77.4000015258789
         ],
         "buddyOffsetFemale": [
+          48.0,
           0.0,
-          0.0,
-          14.550000190734863
+          -77.4000015258789
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          -0.46000000834465027,
           0.0,
-          0.0,
-          0.0
+          -1.2000000476837158
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -75242,9 +74158,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.23999999463558197,
+          -0.1599999964237213,
+          -0.6299999952316284
         ],
         "thirdMove": {
           "stardustToUnlock": 50000,
@@ -75330,11 +74246,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75420,11 +74331,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75510,11 +74416,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75600,11 +74501,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75690,11 +74586,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75780,11 +74671,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75870,11 +74756,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 75000,
           "candyToUnlock": 75
@@ -75961,9 +74842,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.1599999964237213,
+          -0.07999999821186066,
+          0.38999998569488525
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76049,11 +74930,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.23999999463558197
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -76139,9 +75015,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.15000000596046448,
+          -0.029999999329447746,
+          0.3100000023841858
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76216,23 +75092,18 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 5.599999904632568,
-        "modelScaleV2": 0.3700000047683716,
+        "modelScaleV2": 0.6100000143051147,
         "buddyOffsetMale": [
-          19.139999389648438,
+          1.100000023841858,
           0.0,
-          26.200000762939453
+          -14.789999961853027
         ],
         "buddyOffsetFemale": [
-          19.139999389648438,
+          1.100000023841858,
           0.0,
-          26.200000762939453
+          -14.789999961853027
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -76357,7 +75228,7 @@
           "dodgeProbability": 0.05000000074505806,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 4.0,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -76396,22 +75267,22 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 2.359999895095825,
-        "modelScaleV2": 0.5,
+        "modelScaleV2": 0.9399999976158142,
         "buddyOffsetMale": [
-          24.75,
+          9.649999618530273,
           0.0,
-          31.0
+          -7.800000190734863
         ],
         "buddyOffsetFemale": [
-          24.75,
+          9.649999618530273,
           0.0,
-          31.0
+          -7.800000190734863
         ],
-        "buddyScale": 19.0,
+        "buddyScale": 16.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -1.6399999856948853
+          -0.3400000035762787,
+          0.23000000417232513,
+          -1.2899999618530273
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76484,7 +75355,7 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 3.240000009536743,
-        "modelScaleV2": 0.4000000059604645,
+        "modelScaleV2": 0.8299999833106995,
         "buddyOffsetMale": [
           12.069999694824219,
           0.0,
@@ -76497,9 +75368,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          -1.9199999570846558,
-          0.0,
-          -3.2200000286102295
+          -0.3400000035762787,
+          -0.800000011920929,
+          -1.1399999856948853
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76535,7 +75406,7 @@
           "dodgeProbability": 0.05000000074505806,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 5.0,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -76574,7 +75445,7 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 5.800000190734863,
-        "modelScaleV2": 0.3330000042915344,
+        "modelScaleV2": 0.6000000238418579,
         "buddyOffsetMale": [
           25.5,
           0.0,
@@ -76586,11 +75457,6 @@
           1.25
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -76664,7 +75530,7 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 5.380000114440918,
-        "modelScaleV2": 0.35499998927116394,
+        "modelScaleV2": 0.6299999952316284,
         "form": "GIRATINA_ALTERED",
         "buddyOffsetMale": [
           25.5,
@@ -76678,9 +75544,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.33000001311302185,
+          0.20999999344348907,
+          0.8399999737739563
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76753,24 +75619,25 @@
         "familyId": "FAMILY_GIRATINA",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 5.800000190734863,
         "modelScaleV2": 0.6000000238418579,
         "form": "GIRATINA_ORIGIN",
         "buddyOffsetMale": [
+          14.1899995803833,
           0.0,
-          0.0,
-          0.0
+          -34.5
         ],
         "buddyOffsetFemale": [
+          14.149999618530273,
           0.0,
-          0.0,
-          0.0
+          -34.5
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          -0.3499999940395355,
+          0.14000000059604645,
+          -0.8799999952316284
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -76845,7 +75712,7 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_FLYING",
         "modelHeight": 1.5,
-        "modelScaleV2": 0.8999999761581421,
+        "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           19.75,
           0.0,
@@ -76857,11 +75724,6 @@
           31.25
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -76946,9 +75808,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -0.5600000023841858
+          0.029999999329447746,
+          0.10999999940395355,
+          0.07999999821186066
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -77032,11 +75894,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77069,7 +75926,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 4.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77107,7 +75964,7 @@
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
         "modelHeight": 1.659999966621399,
-        "modelScaleV2": 0.949999988079071,
+        "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           -4.5,
           0.0,
@@ -77120,9 +75977,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          -1.0
+          -0.20000000298023224,
+          0.009999999776482582,
+          -0.44999998807907104
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -77206,9 +76063,9 @@
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.1899999976158142,
+          -0.05000000074505806,
+          0.4099999964237213
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -77224,15 +76081,15 @@
         "type": "POKEMON_TYPE_GRASS",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 0.18000000715255737,
+          "cylinderHeightM": 0.20000000298023224,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.019999999552965164,
-          "collisionRadiusM": 0.1889999955892563,
+          "collisionRadiusM": 0.11999999731779099,
           "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionHeadRadiusM": 0.10000000149011612,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -77292,11 +76149,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77380,11 +76232,6 @@
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77416,7 +76263,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77453,24 +76300,20 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77502,7 +76345,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77539,25 +76382,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_BUG",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77589,7 +76428,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77626,25 +76465,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_DARK",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77676,7 +76511,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77713,25 +76548,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_DRAGON",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77763,7 +76594,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77800,25 +76631,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_ELECTRIC",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77850,7 +76677,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77887,25 +76714,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_FAIRY",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -77937,7 +76760,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -77974,25 +76797,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_FIGHTING",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78024,7 +76843,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78061,25 +76880,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_FIRE",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78111,7 +76926,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78148,25 +76963,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_FLYING",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78198,7 +77009,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78235,25 +77046,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_GHOST",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78285,7 +77092,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78322,25 +77129,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_GRASS",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78372,7 +77175,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78409,25 +77212,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_GROUND",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78459,7 +77258,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78496,25 +77295,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_ICE",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78529,15 +77324,15 @@
         "type": "POKEMON_TYPE_NORMAL",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 1.2999999523162842,
+          "cylinderHeightM": 3.200000047683716,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.019999999552965164,
-          "collisionRadiusM": 0.1889999955892563,
-          "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionRadiusM": 1.2999999523162842,
+          "collisionHeightM": 3.200000047683716,
+          "collisionHeadRadiusM": 0.5,
           "movementType": "MOVEMENT_HOVERING",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -78546,7 +77341,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78583,25 +77378,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_NORMAL",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78633,7 +77424,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78670,25 +77461,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_POISON",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78720,7 +77507,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78757,25 +77544,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_PSYCHIC",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78807,7 +77590,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78844,25 +77627,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_ROCK",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78894,7 +77673,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78931,25 +77710,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_STEEL",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -78981,7 +77756,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 6.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -79018,25 +77793,21 @@
         "familyId": "FAMILY_ARCEUS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.299999952316284,
         "modelScaleV2": 0.8199999928474426,
         "form": "ARCEUS_WATER",
         "buddyOffsetMale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          19.25,
           0.0,
           0.0
         ],
         "buddyScale": 19.0,
-        "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
-        ],
         "thirdMove": {
           "stardustToUnlock": 100000,
           "candyToUnlock": 100
@@ -102284,5 +101055,5 @@
       }
     }
   ],
-  "timestampMs": "1548617510272"
+  "timestampMs": "1550667269171"
 }
