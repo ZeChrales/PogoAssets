@@ -9081,6 +9081,35 @@
       }
     },
     {
+      "templateId": "COMBAT_STAT_STAGE_SETTINGS",
+      "combatStatStageSettings": {
+        "minimumStatStage": -4,
+        "maximumStatStage": 4,
+        "attackBuffMultiplier": [
+          0.5,
+          0.5714285969734192,
+          0.6666666865348816,
+          0.800000011920929,
+          1.0,
+          1.25,
+          1.5,
+          1.75,
+          2.0
+        ],
+        "defenseBuffMultiplier": [
+          0.5,
+          0.5714285969734192,
+          0.6666666865348816,
+          0.800000011920929,
+          1.0,
+          1.25,
+          1.5,
+          1.75,
+          2.0
+        ]
+      }
+    },
+    {
       "templateId": "COMBAT_STAT_STAGE_SETTINGS_KEY",
       "combatStatStageSettings": {
         "minimumStatStage": -4,
@@ -9466,7 +9495,11 @@
         "type": "POKEMON_TYPE_ROCK",
         "power": 70.0,
         "vfxName": "ancient_power",
-        "energyDelta": -45
+        "energyDelta": -45,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2
+        }
       }
     },
     {
@@ -9526,7 +9559,11 @@
         "type": "POKEMON_TYPE_GHOST",
         "power": 50.0,
         "vfxName": "ominous_wind",
-        "energyDelta": -40
+        "energyDelta": -40,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2
+        }
       }
     },
     {
@@ -10725,7 +10762,11 @@
         "type": "POKEMON_TYPE_BUG",
         "power": 70.0,
         "vfxName": "silver_wind",
-        "energyDelta": -45
+        "energyDelta": -45,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2
+        }
       }
     },
     {
@@ -13417,6 +13458,10 @@
           {
             "form": "SPINDA_07",
             "assetBundleValue": 18
+          },
+          {
+            "form": 121,
+            "assetBundleValue": 19
           }
         ]
       }
@@ -15371,6 +15416,20 @@
       "templateId": "LUCKY_POKEMON_SETTINGS",
       "luckyPokemonSettings": {
         "powerUpStardustDiscountPercent": 0.5
+      }
+    },
+    {
+      "templateId": "ONBOARDING_V2_SETTINGS",
+      "onboardingV2Settings": {
+        "pokedexId": [
+          "PIDGEY",
+          "RATTATA",
+          "CATERPIE",
+          "PIDGEY",
+          "RATTATA",
+          "CATERPIE"
+        ],
+        "eggKmUntilHatch": 2
       }
     },
     {
@@ -20713,7 +20772,8 @@
       "genderSettings": {
         "pokemon": "COMBEE",
         "gender": {
-          "femalePercent": 1.0
+          "malePercent": 0.875,
+          "femalePercent": 0.125
         }
       }
     },
@@ -47679,7 +47739,7 @@
         "evolutionBranch": [
           {
             "evolution": "PILOSWINE",
-            "candyCost": 50
+            "candyCost": 25
           }
         ],
         "modelScaleV2": 1.100000023841858,
@@ -47792,6 +47852,13 @@
         "kmBuddyDistance": 3.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 1.100000023841858,
+        "evolutionBranch": [
+          {
+            "evolution": "MAMOSWINE",
+            "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+            "candyCost": 100
+          }
+        ],
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
           30.0,
@@ -75609,10 +75676,10 @@
         ],
         "evolutionPips": 1,
         "rarity": "POKEMON_RARITY_LEGENDARY",
-        "pokedexHeightM": 4.5,
-        "pokedexWeightKg": 750.0,
-        "heightStdDev": 0.5625,
-        "weightStdDev": 93.75,
+        "pokedexHeightM": 6.900000095367432,
+        "pokedexWeightKg": 650.0,
+        "heightStdDev": 0.862500011920929,
+        "weightStdDev": 81.25,
         "familyId": "FAMILY_GIRATINA",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
@@ -76208,10 +76275,10 @@
         ],
         "evolutionPips": 1,
         "rarity": "POKEMON_RARITY_MYTHIC",
-        "pokedexHeightM": 0.20000000298023224,
-        "pokedexWeightKg": 2.0999999046325684,
-        "heightStdDev": 0.02500000037252903,
-        "weightStdDev": 0.26249998807907104,
+        "pokedexHeightM": 0.4000000059604645,
+        "pokedexWeightKg": 5.199999809265137,
+        "heightStdDev": 0.05000000074505806,
+        "weightStdDev": 0.6499999761581421,
         "familyId": "FAMILY_SHAYMIN",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
@@ -101052,5 +101119,5 @@
       }
     }
   ],
-  "timestampMs": "1549693792832"
+  "timestampMs": "1551080937343"
 }
