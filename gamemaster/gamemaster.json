@@ -9110,35 +9110,6 @@
       }
     },
     {
-      "templateId": "COMBAT_STAT_STAGE_SETTINGS_KEY",
-      "combatStatStageSettings": {
-        "minimumStatStage": -4,
-        "maximumStatStage": 4,
-        "attackBuffMultiplier": [
-          0.33000001311302185,
-          0.4000000059604645,
-          0.5,
-          0.6700000166893005,
-          1.0,
-          1.5,
-          2.0,
-          2.5,
-          3.0
-        ],
-        "defenseBuffMultiplier": [
-          0.33000001311302185,
-          0.4000000059604645,
-          0.5,
-          0.6700000166893005,
-          1.0,
-          1.5,
-          2.0,
-          2.5,
-          3.0
-        ]
-      }
-    },
-    {
       "templateId": "COMBAT_V0013_MOVE_WRAP",
       "combatMove": {
         "uniqueId": "WRAP",
@@ -101119,5 +101090,5 @@
       }
     }
   ],
-  "timestampMs": "1551080937343"
+  "timestampMs": "1551017727085"
 }
