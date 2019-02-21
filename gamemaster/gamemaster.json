@@ -75212,22 +75212,22 @@
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
         "modelHeight": 3.680000066757202,
-        "modelScaleV2": 0.3700000047683716,
+        "modelScaleV2": 0.7699999809265137,
         "buddyOffsetMale": [
-          27.0,
+          4.0,
           0.0,
-          40.40999984741211
+          -46.0
         ],
         "buddyOffsetFemale": [
-          27.0,
+          4.0,
           0.0,
-          40.40999984741211
+          -46.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
+          0.5899999737739563,
           0.0,
-          0.0,
-          0.0
+          1.5
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -101090,5 +101090,5 @@
       }
     }
   ],
-  "timestampMs": "1551017727085"
+  "timestampMs": "1551554486623"
 }
