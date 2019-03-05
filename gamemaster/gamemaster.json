@@ -30553,7 +30553,8 @@
         "cinematicMoves": [
           "HYDRO_PUMP",
           "DYNAMIC_PUNCH",
-          "ICE_PUNCH"
+          "ICE_PUNCH",
+          "POWER_UP_PUNCH"
         ],
         "animationTime": [
           2.0,
@@ -36692,7 +36693,8 @@
           "FIRE_PUNCH",
           "ICE_PUNCH",
           "THUNDER_PUNCH",
-          "CLOSE_COMBAT"
+          "CLOSE_COMBAT",
+          "POWER_UP_PUNCH"
         ],
         "animationTime": [
           1.5,
@@ -37520,7 +37522,8 @@
         "cinematicMoves": [
           "CRUNCH",
           "EARTHQUAKE",
-          "OUTRAGE"
+          "OUTRAGE",
+          "POWER_UP_PUNCH"
         ],
         "animationTime": [
           2.1333000659942627,
@@ -57209,7 +57212,8 @@
         "cinematicMoves": [
           "ICE_PUNCH",
           "PSYCHIC",
-          "DYNAMIC_PUNCH"
+          "DYNAMIC_PUNCH",
+          "POWER_UP_PUNCH"
         ],
         "animationTime": [
           1.333299994468689,
@@ -62025,6 +62029,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 0.6100000143051147,
         "pokedexWeightKg": 1.0,
+        "parentPokemonId": "CHINGLING",
         "heightStdDev": 0.07625000178813934,
         "weightStdDev": 0.125,
         "familyId": "FAMILY_CHIMECHO",
@@ -67948,6 +67953,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 0.8999999761581421,
         "pokedexWeightKg": 23.299999237060547,
+        "parentPokemonId": "BURMY",
         "heightStdDev": 0.11249999701976776,
         "weightStdDev": 2.9124999046325684,
         "familyId": "FAMILY_BURMY",
@@ -71579,7 +71585,8 @@
         "cinematicMoves": [
           "FLASH_CANNON",
           "SHADOW_BALL",
-          "CLOSE_COMBAT"
+          "CLOSE_COMBAT",
+          "POWER_UP_PUNCH"
         ],
         "animationTime": [
           1.899999976158142,
@@ -71681,7 +71688,7 @@
         "weightStdDev": 6.1875,
         "familyId": "FAMILY_HIPPOPOTAS",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 1.0,
+        "kmBuddyDistance": 3.0,
         "modelHeight": 1.2999999523162842,
         "evolutionBranch": [
           {
@@ -71777,7 +71784,7 @@
         "weightStdDev": 37.5,
         "familyId": "FAMILY_HIPPOPOTAS",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 1.0,
+        "kmBuddyDistance": 3.0,
         "modelHeight": 3.799999952316284,
         "modelScaleV2": 0.7599999904632568,
         "buddyOffsetMale": [
@@ -72408,6 +72415,7 @@
         "evolutionPips": 1,
         "pokedexHeightM": 1.2000000476837158,
         "pokedexWeightKg": 24.0,
+        "parentPokemonId": "FINNEON",
         "heightStdDev": 0.15000000596046448,
         "weightStdDev": 3.0,
         "familyId": "FAMILY_FINNEON",
@@ -73806,7 +73814,7 @@
         "type2": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 1.5,
+          "cylinderRadiusM": 3.0,
           "cylinderHeightM": 2.4000000953674316,
           "shoulderModeScale": 0.5
         },
@@ -77991,19 +77999,19 @@
       "templateId": "V0808_POKEMON_MELTAN",
       "pokemonSettings": {
         "pokemonId": "MELTAN",
-        "modelScale": 1.0199999809265137,
+        "modelScale": 4.0,
         "type": "POKEMON_TYPE_STEEL",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.125,
-          "cylinderHeightM": 0.15000000596046448,
+          "cylinderRadiusM": 0.07999999821186066,
+          "cylinderHeightM": 0.20999999344348907,
           "shoulderModeScale": 0.5
         },
         "encounter": {
           "baseCaptureRate": 0.30000001192092896,
-          "collisionRadiusM": 0.25,
-          "collisionHeightM": 0.6000000238418579,
-          "collisionHeadRadiusM": 0.25,
+          "collisionRadiusM": 0.07000000029802322,
+          "collisionHeightM": 0.05000000074505806,
+          "collisionHeadRadiusM": 0.07999999821186066,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 1.100000023841858,
@@ -78012,7 +78020,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 1.8899999856948853,
+          "cameraDistance": 3.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78047,7 +78055,7 @@
         "familyId": "FAMILY_MELTAN",
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
-        "modelHeight": 0.949999988079071,
+        "modelHeight": 0.20000000298023224,
         "evolutionBranch": [
           {
             "evolution": "MELMETAL",
@@ -78058,18 +78066,18 @@
         "buddyOffsetMale": [
           0.0,
           0.0,
-          0.0
+          -27.0
         ],
         "buddyOffsetFemale": [
           0.0,
           0.0,
-          0.0
+          -27.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.05999999865889549,
+          -0.05000000074505806,
+          0.17000000178813934
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -78093,9 +78101,9 @@
         },
         "encounter": {
           "baseCaptureRate": 0.30000001192092896,
-          "collisionRadiusM": 0.1889999955892563,
-          "collisionHeightM": 0.25200000405311584,
-          "collisionHeadRadiusM": 0.12600000202655792,
+          "collisionRadiusM": 0.6000000238418579,
+          "collisionHeightM": 2.0,
+          "collisionHeadRadiusM": 0.4000000059604645,
           "movementType": "MOVEMENT_JUMP",
           "movementTimerS": 10.0,
           "jumpTimeS": 0.8999999761581421,
@@ -78106,7 +78114,7 @@
           "dodgeProbability": 0.15000000596046448,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 3.200000047683716,
+          "cameraDistance": 4.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -78145,8 +78153,8 @@
         "candyToEvolve": 25,
         "kmBuddyDistance": 20.0,
         "buddySize": "BUDDY_BIG",
-        "modelHeight": 3.819999933242798,
-        "modelScaleV2": 0.75,
+        "modelHeight": 2.490000009536743,
+        "modelScaleV2": 0.6000000238418579,
         "buddyOffsetMale": [
           4.5,
           0.0,
@@ -78157,11 +78165,11 @@
           0.0,
           42.0
         ],
-        "buddyScale": 19.0,
+        "buddyScale": 22.0,
         "buddyPortraitOffset": [
-          0.0,
-          0.0,
-          0.0
+          0.49000000953674316,
+          0.05999999865889549,
+          1.0800000429153442
         ],
         "thirdMove": {
           "stardustToUnlock": 100000,
@@ -101242,5 +101250,5 @@
       }
     }
   ],
-  "timestampMs": "1551785919684"
+  "timestampMs": "1553275202094"
 }
