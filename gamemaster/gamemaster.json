@@ -11238,6 +11238,19 @@
       }
     },
     {
+      "templateId": "COMBAT_V0319_MOVE_POWER_UP_PUNCH",
+      "combatMove": {
+        "uniqueId": "POWER_UP_PUNCH",
+        "type": "POKEMON_TYPE_FIGHTING",
+        "power": 40.0,
+        "vfxName": "power_up_punch",
+        "energyDelta": -35,
+        "buffs": {
+          "attackerAttackStatStageChange": 1
+        }
+      }
+    },
+    {
       "templateId": "ENCOUNTER_SETTINGS",
       "encounterSettings": {
         "spinBonusThreshold": 0.5,
@@ -58127,6 +58140,24 @@
       }
     },
     {
+      "templateId": "V0319_MOVE_POWER_UP_PUNCH",
+      "moveSettings": {
+        "movementId": "POWER_UP_PUNCH",
+        "animationId": 5,
+        "pokemonType": "POKEMON_TYPE_FIGHTING",
+        "power": 50.0,
+        "accuracyChance": 1.0,
+        "staminaLossScalar": 0.009999999776482582,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "power_up_punch",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33
+      }
+    },
+    {
       "templateId": "V0319_POKEMON_SHARPEDO",
       "pokemonSettings": {
         "pokemonId": "SHARPEDO",
@@ -101211,5 +101242,5 @@
       }
     }
   ],
-  "timestampMs": "1551865137906"
+  "timestampMs": "1551785919684"
 }
