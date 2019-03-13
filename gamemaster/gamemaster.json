@@ -14555,23 +14555,23 @@
             "assetBundleValue": 11
           },
           {
-            "form": "ROTOM_FROST",
+            "form": "ROTOM_HEAT",
             "assetBundleValue": 12
           },
           {
-            "form": "ROTOM_FAN",
+            "form": "ROTOM_WASH",
             "assetBundleValue": 13
           },
           {
-            "form": "ROTOM_MOW",
+            "form": "ROTOM_FROST",
             "assetBundleValue": 14
           },
           {
-            "form": "ROTOM_WASH",
+            "form": "ROTOM_FAN",
             "assetBundleValue": 15
           },
           {
-            "form": "ROTOM_HEAT",
+            "form": "ROTOM_MOW",
             "assetBundleValue": 16
           }
         ]
@@ -101250,5 +101250,5 @@
       }
     }
   ],
-  "timestampMs": "1553275202094"
+  "timestampMs": "1552432150154"
 }
