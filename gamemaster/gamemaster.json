@@ -11238,6 +11238,32 @@
       }
     },
     {
+      "templateId": "COMBAT_V0303_MOVE_ACID_SPRAY",
+      "combatMove": {
+        "uniqueId": "ACID_SPRAY",
+        "type": "POKEMON_TYPE_POISON",
+        "power": 20.0,
+        "vfxName": "acid_spray",
+        "energyDelta": -50,
+        "buffs": {
+          "targetDefenseStatStageChange": -2
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0312_MOVE_LEAF_TORNADO",
+      "combatMove": {
+        "uniqueId": "LEAF_TORNADO",
+        "type": "POKEMON_TYPE_GRASS",
+        "power": 45.0,
+        "vfxName": "leaf_tornado",
+        "energyDelta": -40,
+        "buffs": {
+          "targetAttackStatStageChange": -1
+        }
+      }
+    },
+    {
       "templateId": "COMBAT_V0319_MOVE_POWER_UP_PUNCH",
       "combatMove": {
         "uniqueId": "POWER_UP_PUNCH",
@@ -56717,6 +56743,24 @@
       }
     },
     {
+      "templateId": "V0303_MOVE_ACID_SPRAY",
+      "moveSettings": {
+        "movementId": "ACID_SPRAY",
+        "animationId": 5,
+        "pokemonType": "POKEMON_TYPE_POISON",
+        "power": 20.0,
+        "accuracyChance": 1.0,
+        "staminaLossScalar": 0.009999999776482582,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "acid_spray",
+        "durationMs": 3000,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -50
+      }
+    },
+    {
       "templateId": "V0303_POKEMON_MAWILE",
       "pokemonSettings": {
         "pokemonId": "MAWILE",
@@ -57516,6 +57560,24 @@
         },
         "isTransferable": true,
         "isDeployable": true
+      }
+    },
+    {
+      "templateId": "V0312_MOVE_LEAF_TORNADO",
+      "moveSettings": {
+        "movementId": "LEAF_TORNADO",
+        "animationId": 5,
+        "pokemonType": "POKEMON_TYPE_GRASS",
+        "power": 45.0,
+        "accuracyChance": 1.0,
+        "staminaLossScalar": 0.009999999776482582,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "leaf_tornado",
+        "durationMs": 3100,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -33
       }
     },
     {
@@ -98309,6 +98371,20 @@
       }
     },
     {
+      "templateId": "sequence_acid_spray",
+      "moveSequenceSettings": {
+        "sequence": [
+          "anim attacker atk-move",
+          "wait 0.5",
+          "vfx acid_spray",
+          "sfx attacker 491-0_acid_spray",
+          "wait 1.5",
+          "sys ui-sync",
+          "sys complete"
+        ]
+      }
+    },
+    {
       "templateId": "sequence_aerial_ace",
       "moveSequenceSettings": {
         "sequence": [
@@ -99632,6 +99708,20 @@
           "wait 0.25",
           "vfx defender leaf_blade",
           "wait 1.49",
+          "sys ui-sync",
+          "sys complete"
+        ]
+      }
+    },
+    {
+      "templateId": "sequence_leaf_tornado",
+      "moveSequenceSettings": {
+        "sequence": [
+          "anim attacker atk-move",
+          "wait 0.5",
+          "vfx leaf_tornado",
+          "sfx attacker 536-0_leaf_tornado",
+          "wait 1.5",
           "sys ui-sync",
           "sys complete"
         ]
@@ -101250,5 +101340,5 @@
       }
     }
   ],
-  "timestampMs": "1554797846784"
+  "timestampMs": "1553073474594"
 }
