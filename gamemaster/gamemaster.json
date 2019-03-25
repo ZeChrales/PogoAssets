@@ -24927,7 +24927,8 @@
         "cinematicMoves": [
           "DARK_PULSE",
           "SLUDGE_WAVE",
-          "GUNK_SHOT"
+          "GUNK_SHOT",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.6666998863220215,
@@ -31548,7 +31549,9 @@
         "cinematicMoves": [
           "LEAF_BLADE",
           "SLUDGE_BOMB",
-          "SOLAR_BEAM"
+          "SOLAR_BEAM",
+          "LEAF_TORNADO",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.0,
@@ -31749,7 +31752,8 @@
         "cinematicMoves": [
           "HYDRO_PUMP",
           "SLUDGE_WAVE",
-          "BLIZZARD"
+          "BLIZZARD",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.1666998863220215,
@@ -34243,7 +34247,8 @@
           "DARK_PULSE",
           "GUNK_SHOT",
           "SLUDGE_WAVE",
-          "THUNDER_PUNCH"
+          "THUNDER_PUNCH",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.0,
@@ -34331,7 +34336,8 @@
         "cinematicMoves": [
           "DARK_PULSE",
           "GUNK_SHOT",
-          "SLUDGE_WAVE"
+          "SLUDGE_WAVE",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.0,
@@ -34424,7 +34430,8 @@
           "DARK_PULSE",
           "GUNK_SHOT",
           "SLUDGE_WAVE",
-          "THUNDER_PUNCH"
+          "THUNDER_PUNCH",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           2.0,
@@ -45242,7 +45249,8 @@
         "cinematicMoves": [
           "SLUDGE_BOMB",
           "EARTHQUAKE",
-          "STONE_EDGE"
+          "STONE_EDGE",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           1.333299994468689,
@@ -46878,7 +46886,8 @@
         "cinematicMoves": [
           "AQUA_TAIL",
           "ICE_BEAM",
-          "SLUDGE_WAVE"
+          "SLUDGE_WAVE",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           1.333299994468689,
@@ -48279,7 +48288,8 @@
         "cinematicMoves": [
           "GUNK_SHOT",
           "WATER_PULSE",
-          "AURORA_BEAM"
+          "AURORA_BEAM",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           1.333299994468689,
@@ -53783,7 +53793,8 @@
         "cinematicMoves": [
           "LEAF_BLADE",
           "HURRICANE",
-          "FOUL_PLAY"
+          "FOUL_PLAY",
+          "LEAF_TORNADO"
         ],
         "animationTime": [
           1.333299994468689,
@@ -58062,7 +58073,8 @@
         "cinematicMoves": [
           "GUNK_SHOT",
           "SLUDGE_BOMB",
-          "ICE_BEAM"
+          "ICE_BEAM",
+          "ACID_SPRAY"
         ],
         "animationTime": [
           1.333299994468689,
@@ -101340,5 +101352,5 @@
       }
     }
   ],
-  "timestampMs": "1553073474594"
+  "timestampMs": "1554994596305"
 }
