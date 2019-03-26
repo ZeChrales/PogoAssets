@@ -8476,7 +8476,7 @@
     {
       "templateId": "BADGE_PHOTOBOMB",
       "badgeSettings": {
-        "badgeType": 55,
+        "badgeType": "BADGE_PHOTOBOMB",
         "badgeRank": 4,
         "targets": [
           10,
@@ -9564,7 +9564,8 @@
         "energyDelta": -45,
         "buffs": {
           "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.10000000149011612
         }
       }
     },
@@ -9628,7 +9629,8 @@
         "energyDelta": -40,
         "buffs": {
           "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.10000000149011612
         }
       }
     },
@@ -10831,7 +10833,8 @@
         "energyDelta": -45,
         "buffs": {
           "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.10000000149011612
         }
       }
     },
@@ -11246,7 +11249,8 @@
         "vfxName": "acid_spray",
         "energyDelta": -50,
         "buffs": {
-          "targetDefenseStatStageChange": -2
+          "targetDefenseStatStageChange": -2,
+          "buffActivationChance": 1.0
         }
       }
     },
@@ -11259,7 +11263,8 @@
         "vfxName": "leaf_tornado",
         "energyDelta": -40,
         "buffs": {
-          "targetAttackStatStageChange": -1
+          "targetAttackStatStageChange": -1,
+          "buffActivationChance": 0.5
         }
       }
     },
@@ -11272,7 +11277,8 @@
         "vfxName": "power_up_punch",
         "energyDelta": -35,
         "buffs": {
-          "attackerAttackStatStageChange": 1
+          "attackerAttackStatStageChange": 1,
+          "buffActivationChance": 1.0
         }
       }
     },
@@ -13565,7 +13571,7 @@
             "assetBundleValue": 18
           },
           {
-            "form": 121,
+            "form": "SPINDA_08",
             "assetBundleValue": 19
           }
         ]
@@ -14970,7 +14976,7 @@
     {
       "templateId": "IAP_CATEGORY_TEAM_CHANGE",
       "iapCategoryDisplay": {
-        "category": 7,
+        "category": "IAP_CATEGORY_TEAM_CHANGE",
         "sortOrder": 6
       }
     },
@@ -15455,9 +15461,9 @@
     {
       "templateId": "ITEM_TEAM_CHANGE",
       "itemSettings": {
-        "itemId": 1406,
-        "itemType": 19,
-        "category": 18,
+        "itemId": "ITEM_TEAM_CHANGE",
+        "itemType": "ITEM_TYPE_TEAM_CHANGE",
+        "category": "ITEM_CATEGORY_TEAM_CHANGE",
         "dropTrainerLevel": 100
       }
     },
@@ -15551,6 +15557,13 @@
           "CATERPIE"
         ],
         "eggKmUntilHatch": 2
+      }
+    },
+    {
+      "templateId": "PARTY_RECOMMENDATION_SETTINGS",
+      "partyRecommendationSettings": {
+        "mode": "PARTY_RECOMMENDATION_MODE_1",
+        "thirdMoveWeight": 0.019999999552965164
       }
     },
     {
@@ -15686,6 +15699,10 @@
         "maxEncounterPlayerLevel": 30,
         "maxQuestEncounterPlayerLevel": 15
       }
+    },
+    {
+      "templateId": "POKECOIN_PURCHASE_DISPLAY_GMT",
+      "pokecoinPurchaseDisplayGmt": {}
     },
     {
       "templateId": "POKEMON_SCALE_SETTINGS_BATTLE_POKEMON_SCALE",
@@ -16316,7 +16333,189 @@
       }
     },
     {
-      "templateId": "SMEARGLE_MOVES_SETTINGS"
+      "templateId": "SMEARGLE_MOVES_SETTINGS",
+      "smeargleMovesSettings": {
+        "quickMoves": [
+          "TACKLE_FAST",
+          "FURY_CUTTER_FAST",
+          "BUG_BITE_FAST",
+          "BITE_FAST",
+          "SUCKER_PUNCH_FAST",
+          "DRAGON_BREATH_FAST",
+          "THUNDER_SHOCK_FAST",
+          "SPARK_FAST",
+          "LOW_KICK_FAST",
+          "KARATE_CHOP_FAST",
+          "EMBER_FAST",
+          "WING_ATTACK_FAST",
+          "PECK_FAST",
+          "LICK_FAST",
+          "SHADOW_CLAW_FAST",
+          "VINE_WHIP_FAST",
+          "RAZOR_LEAF_FAST",
+          "MUD_SHOT_FAST",
+          "ICE_SHARD_FAST",
+          "FROST_BREATH_FAST",
+          "QUICK_ATTACK_FAST",
+          "SCRATCH_FAST",
+          "POUND_FAST",
+          "CUT_FAST",
+          "POISON_JAB_FAST",
+          "ACID_FAST",
+          "PSYCHO_CUT_FAST",
+          "ROCK_THROW_FAST",
+          "METAL_CLAW_FAST",
+          "BULLET_PUNCH_FAST",
+          "WATER_GUN_FAST",
+          "SPLASH_FAST",
+          "MUD_SLAP_FAST",
+          "ZEN_HEADBUTT_FAST",
+          "CONFUSION_FAST",
+          "POISON_STING_FAST",
+          "BUBBLE_FAST",
+          "FEINT_ATTACK_FAST",
+          "STEEL_WING_FAST",
+          "FIRE_FANG_FAST",
+          "ROCK_SMASH_FAST",
+          "COUNTER_FAST",
+          "POWDER_SNOW_FAST",
+          "CHARGE_BEAM_FAST",
+          "VOLT_SWITCH_FAST",
+          "DRAGON_TAIL_FAST",
+          "AIR_SLASH_FAST",
+          "INFESTATION_FAST",
+          "STRUGGLE_BUG_FAST",
+          "ASTONISH_FAST",
+          "HEX_FAST",
+          "IRON_TAIL_FAST",
+          "FIRE_SPIN_FAST",
+          "BULLET_SEED_FAST",
+          "EXTRASENSORY_FAST",
+          "SNARL_FAST",
+          "HIDDEN_POWER_FAST",
+          "TAKE_DOWN_FAST",
+          "WATERFALL_FAST",
+          "YAWN_FAST",
+          "PRESENT_FAST",
+          "SMACK_DOWN_FAST"
+        ],
+        "cinematicMoves": [
+          "STRUGGLE",
+          "WRAP",
+          "HYPER_BEAM",
+          "DARK_PULSE",
+          "SLUDGE",
+          "VICE_GRIP",
+          "FLAME_WHEEL",
+          "MEGAHORN",
+          "FLAMETHROWER",
+          "DIG",
+          "CROSS_CHOP",
+          "PSYBEAM",
+          "EARTHQUAKE",
+          "STONE_EDGE",
+          "ICE_PUNCH",
+          "DISCHARGE",
+          "FLASH_CANNON",
+          "DRILL_PECK",
+          "ICE_BEAM",
+          "BLIZZARD",
+          "HEAT_WAVE",
+          "AERIAL_ACE",
+          "DRILL_RUN",
+          "PETAL_BLIZZARD",
+          "BUG_BUZZ",
+          "POISON_FANG",
+          "NIGHT_SLASH",
+          "BUBBLE_BEAM",
+          "SUBMISSION",
+          "LOW_SWEEP",
+          "AQUA_JET",
+          "AQUA_TAIL",
+          "SEED_BOMB",
+          "PSYSHOCK",
+          "ANCIENT_POWER",
+          "ROCK_TOMB",
+          "ROCK_SLIDE",
+          "POWER_GEM",
+          "SHADOW_SNEAK",
+          "SHADOW_PUNCH",
+          "OMINOUS_WIND",
+          "SHADOW_BALL",
+          "MAGNET_BOMB",
+          "IRON_HEAD",
+          "THUNDER_PUNCH",
+          "THUNDER",
+          "THUNDERBOLT",
+          "TWISTER",
+          "DRAGON_PULSE",
+          "DRAGON_CLAW",
+          "DISARMING_VOICE",
+          "DRAINING_KISS",
+          "DAZZLING_GLEAM",
+          "MOONBLAST",
+          "PLAY_ROUGH",
+          "CROSS_POISON",
+          "SLUDGE_BOMB",
+          "SLUDGE_WAVE",
+          "GUNK_SHOT",
+          "BONE_CLUB",
+          "BULLDOZE",
+          "MUD_BOMB",
+          "SIGNAL_BEAM",
+          "X_SCISSOR",
+          "FLAME_CHARGE",
+          "FLAME_BURST",
+          "FIRE_BLAST",
+          "WATER_PULSE",
+          "HYDRO_PUMP",
+          "PSYCHIC",
+          "ICY_WIND",
+          "FIRE_PUNCH",
+          "SOLAR_BEAM",
+          "LEAF_BLADE",
+          "POWER_WHIP",
+          "AIR_CUTTER",
+          "HURRICANE",
+          "BRICK_BREAK",
+          "SWIFT",
+          "HORN_ATTACK",
+          "STOMP",
+          "HYPER_FANG",
+          "BODY_SLAM",
+          "CLOSE_COMBAT",
+          "DYNAMIC_PUNCH",
+          "FOCUS_BLAST",
+          "AURORA_BEAM",
+          "WILD_CHARGE",
+          "ZAP_CANNON",
+          "AVALANCHE",
+          "BRAVE_BIRD",
+          "SKY_ATTACK",
+          "SAND_TOMB",
+          "ROCK_BLAST",
+          "SILVER_WIND",
+          "NIGHT_SHADE",
+          "GYRO_BALL",
+          "HEAVY_SLAM",
+          "OVERHEAT",
+          "GRASS_KNOT",
+          "ENERGY_BALL",
+          "FUTURESIGHT",
+          "MIRROR_COAT",
+          "OUTRAGE",
+          "CRUNCH",
+          "FOUL_PLAY",
+          "SURF",
+          "DRACO_METEOR",
+          "PSYCHO_BOOST",
+          "FRENZY_PLANT",
+          "BLAST_BURN",
+          "HYDRO_CANNON",
+          "LAST_RESORT",
+          "METEOR_MASH"
+        ]
+      }
     },
     {
       "templateId": "SPAWN_V0001_POKEMON_BULBASAUR",
@@ -54472,7 +54671,8 @@
           {
             "evolution": "GALLADE",
             "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-            "candyCost": 100
+            "candyCost": 100,
+            "genderRequirement": "MALE"
           },
           {
             "evolution": "GARDEVOIR",
@@ -62364,7 +62564,8 @@
           {
             "evolution": "FROSLASS",
             "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-            "candyCost": 100
+            "candyCost": 100,
+            "genderRequirement": "FEMALE"
           },
           {
             "evolution": "GLALIE",
@@ -67274,11 +67475,13 @@
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
-            "form": "WORMADAM_PLANT"
+            "form": "WORMADAM_PLANT",
+            "genderRequirement": "FEMALE"
           },
           {
             "evolution": "MOTHIM",
-            "candyCost": 50
+            "candyCost": 50,
+            "genderRequirement": "MALE"
           }
         ],
         "modelScaleV2": 1.1799999475479126,
@@ -67367,11 +67570,13 @@
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
-            "form": "WORMADAM_PLANT"
+            "form": "WORMADAM_PLANT",
+            "genderRequirement": "FEMALE"
           },
           {
             "evolution": "MOTHIM",
-            "candyCost": 50
+            "candyCost": 50,
+            "genderRequirement": "MALE"
           }
         ],
         "modelScaleV2": 1.1799999475479126,
@@ -67465,11 +67670,13 @@
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
-            "form": "WORMADAM_SANDY"
+            "form": "WORMADAM_SANDY",
+            "genderRequirement": "FEMALE"
           },
           {
             "evolution": "MOTHIM",
-            "candyCost": 50
+            "candyCost": 50,
+            "genderRequirement": "MALE"
           }
         ],
         "modelScaleV2": 1.1799999475479126,
@@ -67563,11 +67770,13 @@
           {
             "evolution": "WORMADAM",
             "candyCost": 50,
-            "form": "WORMADAM_TRASH"
+            "form": "WORMADAM_TRASH",
+            "genderRequirement": "FEMALE"
           },
           {
             "evolution": "MOTHIM",
-            "candyCost": 50
+            "candyCost": 50,
+            "genderRequirement": "MALE"
           }
         ],
         "modelScaleV2": 1.1799999475479126,
@@ -68119,7 +68328,8 @@
         "evolutionBranch": [
           {
             "evolution": "VESPIQUEN",
-            "candyCost": 50
+            "candyCost": 50,
+            "genderRequirement": "FEMALE"
           }
         ],
         "modelScaleV2": 1.2699999809265137,
@@ -75819,8 +76029,8 @@
         "type2": "POKEMON_TYPE_DRAGON",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 0.25200000405311584,
-          "cylinderHeightM": 0.3779999911785126,
+          "cylinderRadiusM": 3.5,
+          "cylinderHeightM": 5.0,
           "shoulderModeScale": 0.5
         },
         "encounter": {
@@ -75837,7 +76047,7 @@
           "dodgeProbability": 0.05000000074505806,
           "dodgeDurationS": 1.0,
           "dodgeDistance": 1.0,
-          "cameraDistance": 2.25,
+          "cameraDistance": 5.0,
           "minPokemonActionFrequencyS": 0.20000000298023224,
           "maxPokemonActionFrequencyS": 1.600000023841858
         },
@@ -75847,13 +76057,13 @@
           "baseDefense": 187
         },
         "quickMoves": [
-          "DRAGON_BREATH_FAST",
+          "DRAGON_TAIL_FAST",
           "SHADOW_CLAW_FAST"
         ],
         "cinematicMoves": [
-          "DRAGON_CLAW",
-          "ANCIENT_POWER",
-          "SHADOW_SNEAK"
+          "DRAGON_PULSE",
+          "OMINOUS_WIND",
+          "SHADOW_BALL"
         ],
         "animationTime": [
           1.899999976158142,
@@ -101352,5 +101562,5 @@
       }
     }
   ],
-  "timestampMs": "1554994596305"
+  "timestampMs": "1553711880313"
 }
