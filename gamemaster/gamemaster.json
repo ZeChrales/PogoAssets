@@ -8263,6 +8263,28 @@
       }
     },
     {
+      "templateId": "BADGE_APAC_PARTNER_JULY_2018_6",
+      "badgeSettings": {
+        "badgeType": "BADGE_APAC_PARTNER_JULY_2018_6",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_APAC_PARTNER_JULY_2018_7",
+      "badgeSettings": {
+        "badgeType": "BADGE_APAC_PARTNER_JULY_2018_7",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
       "templateId": "BADGE_BATTLE_ATTACK_WON",
       "badgeSettings": {
         "badgeType": "BADGE_BATTLE_ATTACK_WON",
@@ -8471,6 +8493,28 @@
           2,
           3
         ]
+      }
+    },
+    {
+      "templateId": "BADGE_PARTNER_EVENT_2019_0",
+      "badgeSettings": {
+        "badgeType": "BADGE_PARTNER_EVENT_2019_0",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_PARTNER_EVENT_2019_1",
+      "badgeSettings": {
+        "badgeType": "BADGE_PARTNER_EVENT_2019_1",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
       }
     },
     {
@@ -101566,5 +101610,5 @@
       }
     }
   ],
-  "timestampMs": "1554058268153"
+  "timestampMs": "1556394154904"
 }
