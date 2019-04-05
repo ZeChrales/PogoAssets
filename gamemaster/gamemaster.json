@@ -8658,6 +8658,61 @@
       }
     },
     {
+      "templateId": "BADGE_SENTOSA_18_APR_2019",
+      "badgeSettings": {
+        "badgeType": "BADGE_SENTOSA_18_APR_2019",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_SENTOSA_19_APR_2019",
+      "badgeSettings": {
+        "badgeType": "BADGE_SENTOSA_19_APR_2019",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_SENTOSA_20_APR_2019",
+      "badgeSettings": {
+        "badgeType": "BADGE_SENTOSA_20_APR_2019",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_SENTOSA_21_APR_2019",
+      "badgeSettings": {
+        "badgeType": "BADGE_SENTOSA_21_APR_2019",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
+      "templateId": "BADGE_SENTOSA_22_APR_2019",
+      "badgeSettings": {
+        "badgeType": "BADGE_SENTOSA_22_APR_2019",
+        "badgeRank": 2,
+        "targets": [
+          100
+        ],
+        "eventBadge": true
+      }
+    },
+    {
       "templateId": "BADGE_SMALL_RATTATA",
       "badgeSettings": {
         "badgeType": "BADGE_SMALL_RATTATA",
@@ -101610,5 +101665,5 @@
       }
     }
   ],
-  "timestampMs": "1556394154904"
+  "timestampMs": "1556611476496"
 }
