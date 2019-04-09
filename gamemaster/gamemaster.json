@@ -2651,6 +2651,330 @@
       }
     },
     {
+      "templateId": "AVATAR_f_pose_01",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_01",
+        "groupName": "group_poses",
+        "sortOrder": 1,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_01"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_02",
+      "avatarCustomization": {
+        "enabled": true,
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_02",
+        "groupName": "group_poses",
+        "sortOrder": 2,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.f_pose_02",
+        "iconName": "pose_02"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_03",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_03",
+        "groupName": "group_poses",
+        "sortOrder": 3,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_03"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_04",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_04",
+        "groupName": "group_poses",
+        "sortOrder": 4,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_04"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_05",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_05",
+        "groupName": "group_poses",
+        "sortOrder": 5,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_05"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_06",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_06",
+        "groupName": "group_poses",
+        "sortOrder": 6,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_06"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_07",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_07",
+        "groupName": "group_poses",
+        "sortOrder": 7,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_07"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_08",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_08",
+        "groupName": "group_poses",
+        "sortOrder": 8,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_08"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_09",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_09",
+        "groupName": "group_poses",
+        "sortOrder": 9,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_09"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_10",
+      "avatarCustomization": {
+        "enabled": true,
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_10",
+        "groupName": "group_poses",
+        "sortOrder": 10,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.f_pose_10",
+        "iconName": "pose_10"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_11",
+      "avatarCustomization": {
+        "enabled": true,
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_11",
+        "groupName": "group_poses",
+        "sortOrder": 11,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.m_pose_01",
+        "iconName": "pose_11"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_12",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_12",
+        "groupName": "group_poses",
+        "sortOrder": 12,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_12"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_13",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_13",
+        "groupName": "group_poses",
+        "sortOrder": 13,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_13"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_14",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_14",
+        "groupName": "group_poses",
+        "sortOrder": 14,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_14"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_15",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_15",
+        "groupName": "group_poses",
+        "sortOrder": 15,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_15"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_16",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_16",
+        "groupName": "group_poses",
+        "sortOrder": 16,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_16"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_17",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_17",
+        "groupName": "group_poses",
+        "sortOrder": 17,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_17"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_18",
+      "avatarCustomization": {
+        "enabled": true,
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_18",
+        "groupName": "group_poses",
+        "sortOrder": 18,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.m_pose_08",
+        "iconName": "pose_18"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_19",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_19",
+        "groupName": "group_poses",
+        "sortOrder": 19,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_19"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_20",
+      "avatarCustomization": {
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_bundle",
+        "assetName": "pose_20",
+        "groupName": "group_poses",
+        "sortOrder": 20,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_20"
+      }
+    },
+    {
+      "templateId": "AVATAR_f_pose_empty",
+      "avatarCustomization": {
+        "enabled": true,
+        "avatarType": "PLAYER_AVATAR_FEMALE",
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "f_avatar_poses_empty_bundle",
+        "assetName": "pose_empty",
+        "groupName": "group_poses",
+        "sortOrder": 999,
+        "unlockType": "DEFAULT",
+        "iconName": "pose_empty"
+      }
+    },
+    {
       "templateId": "AVATAR_f_shirt_acetrainerbw",
       "avatarCustomization": {
         "enabled": true,
@@ -6442,6 +6766,309 @@
         "iapSku": "pgorelease.avatar.m_pants_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "m_pants_veterantrainerxy_0_bundle_icon"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_01",
+      "avatarCustomization": {
+        "enabled": true,
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_01",
+        "groupName": "group_poses",
+        "sortOrder": 1021,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.m_pose_01",
+        "iconName": "pose_01"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_02",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_02",
+        "groupName": "group_poses",
+        "sortOrder": 1022,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_02"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_03",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_03",
+        "groupName": "group_poses",
+        "sortOrder": 1023,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_03"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_04",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_04",
+        "groupName": "group_poses",
+        "sortOrder": 1024,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_04"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_05",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_05",
+        "groupName": "group_poses",
+        "sortOrder": 1025,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_05"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_06",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_06",
+        "groupName": "group_poses",
+        "sortOrder": 1026,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_06"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_07",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_07",
+        "groupName": "group_poses",
+        "sortOrder": 1027,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_07"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_08",
+      "avatarCustomization": {
+        "enabled": true,
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_08",
+        "groupName": "group_poses",
+        "sortOrder": 1028,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.m_pose_08",
+        "iconName": "pose_08"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_09",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_09",
+        "groupName": "group_poses",
+        "sortOrder": 1029,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_09"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_10",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_10",
+        "groupName": "group_poses",
+        "sortOrder": 1030,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_10"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_11",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_11",
+        "groupName": "group_poses",
+        "sortOrder": 1031,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_11"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_12",
+      "avatarCustomization": {
+        "enabled": true,
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_12",
+        "groupName": "group_poses",
+        "sortOrder": 1032,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.f_pose_02",
+        "iconName": "pose_12"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_13",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_13",
+        "groupName": "group_poses",
+        "sortOrder": 1033,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_13"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_14",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_14",
+        "groupName": "group_poses",
+        "sortOrder": 1034,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_14"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_15",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_15",
+        "groupName": "group_poses",
+        "sortOrder": 1035,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_15"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_16",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_16",
+        "groupName": "group_poses",
+        "sortOrder": 1036,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_16"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_17",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_17",
+        "groupName": "group_poses",
+        "sortOrder": 1037,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_17"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_18",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_18",
+        "groupName": "group_poses",
+        "sortOrder": 1038,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_18"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_19",
+      "avatarCustomization": {
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_19",
+        "groupName": "group_poses",
+        "sortOrder": 1039,
+        "unlockType": "IAP_CLOTHING",
+        "iconName": "pose_19"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_20",
+      "avatarCustomization": {
+        "enabled": true,
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_bundle",
+        "assetName": "pose_20",
+        "groupName": "group_poses",
+        "sortOrder": 1040,
+        "unlockType": "IAP_CLOTHING",
+        "iapSku": "pgorelease.avatar.f_pose_10",
+        "iconName": "pose_20"
+      }
+    },
+    {
+      "templateId": "AVATAR_m_pose_empty",
+      "avatarCustomization": {
+        "enabled": true,
+        "slot": [
+          "POSE"
+        ],
+        "bundleName": "m_avatar_poses_empty_bundle",
+        "assetName": "pose_empty",
+        "groupName": "group_poses",
+        "sortOrder": 1999,
+        "unlockType": "DEFAULT",
+        "iconName": "pose_empty"
       }
     },
     {
@@ -101666,5 +102293,5 @@
       }
     }
   ],
-  "timestampMs": "1556893322498"
+  "timestampMs": "1556954594876"
 }
