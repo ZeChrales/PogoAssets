@@ -67572,7 +67572,7 @@
         "weightStdDev": 0.42500001192092896,
         "familyId": "FAMILY_BURMY",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 5.0,
+        "kmBuddyDistance": 1.0,
         "modelHeight": 0.3400000035762787,
         "evolutionBranch": [
           {
@@ -67667,7 +67667,7 @@
         "weightStdDev": 0.42500001192092896,
         "familyId": "FAMILY_BURMY",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 5.0,
+        "kmBuddyDistance": 1.0,
         "modelHeight": 0.3400000035762787,
         "evolutionBranch": [
           {
@@ -67767,7 +67767,7 @@
         "weightStdDev": 0.42500001192092896,
         "familyId": "FAMILY_BURMY",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 5.0,
+        "kmBuddyDistance": 1.0,
         "modelHeight": 0.3400000035762787,
         "evolutionBranch": [
           {
@@ -67867,7 +67867,7 @@
         "weightStdDev": 0.42500001192092896,
         "familyId": "FAMILY_BURMY",
         "candyToEvolve": 25,
-        "kmBuddyDistance": 5.0,
+        "kmBuddyDistance": 1.0,
         "modelHeight": 0.3400000035762787,
         "evolutionBranch": [
           {
@@ -69545,14 +69545,14 @@
         "modelHeight": 0.8999999761581421,
         "modelScaleV2": 1.0,
         "buddyOffsetMale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyOffsetFemale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyScale": 19.0,
         "thirdMove": {
@@ -69633,14 +69633,14 @@
         "modelScaleV2": 1.0,
         "form": "GASTRODON_EAST_SEA",
         "buddyOffsetMale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyOffsetFemale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyScale": 19.0,
         "thirdMove": {
@@ -69721,14 +69721,14 @@
         "modelScaleV2": 1.0,
         "form": "GASTRODON_WEST_SEA",
         "buddyOffsetMale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyOffsetFemale": [
+          13.0,
           0.0,
-          0.0,
-          0.0
+          -50.0
         ],
         "buddyScale": 19.0,
         "thirdMove": {
@@ -72101,8 +72101,8 @@
           -1.2599999904632568
         ],
         "thirdMove": {
-          "stardustToUnlock": 10000,
-          "candyToUnlock": 25
+          "stardustToUnlock": 50000,
+          "candyToUnlock": 50
         },
         "isTransferable": true,
         "isDeployable": true
@@ -72172,27 +72172,28 @@
         "familyId": "FAMILY_HIPPOPOTAS",
         "candyToEvolve": 25,
         "kmBuddyDistance": 3.0,
+        "buddySize": "BUDDY_BIG",
         "modelHeight": 3.799999952316284,
         "modelScaleV2": 0.7599999904632568,
         "buddyOffsetMale": [
+          40.0,
           0.0,
-          0.0,
-          0.0
+          16.0
         ],
         "buddyOffsetFemale": [
+          40.0,
           0.0,
-          0.0,
-          0.0
+          16.0
         ],
         "buddyScale": 19.0,
         "buddyPortraitOffset": [
-          -0.8100000023841858,
-          0.0,
-          -2.4800000190734863
+          0.28999999165534973,
+          0.17000000178813934,
+          0.23000000417232513
         ],
         "thirdMove": {
-          "stardustToUnlock": 10000,
-          "candyToUnlock": 25
+          "stardustToUnlock": 50000,
+          "candyToUnlock": 50
         },
         "isTransferable": true,
         "isDeployable": true
@@ -74201,7 +74202,7 @@
         "type2": "POKEMON_TYPE_GROUND",
         "camera": {
           "diskRadiusM": 0.3779999911785126,
-          "cylinderRadiusM": 3.0,
+          "cylinderRadiusM": 2.4000000953674316,
           "cylinderHeightM": 2.4000000953674316,
           "shoulderModeScale": 0.5
         },
@@ -74804,12 +74805,12 @@
         "modelHeight": 0.27000001072883606,
         "modelScaleV2": 1.3300000429153442,
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -74889,12 +74890,12 @@
         "modelScaleV2": 1.2699999809265137,
         "form": "ROTOM_FAN",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -74974,12 +74975,12 @@
         "modelScaleV2": 1.100000023841858,
         "form": "ROTOM_FROST",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -75059,12 +75060,12 @@
         "modelScaleV2": 1.3300000429153442,
         "form": "ROTOM_HEAT",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -75144,12 +75145,12 @@
         "modelScaleV2": 1.2699999809265137,
         "form": "ROTOM_MOW",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -75229,12 +75230,12 @@
         "modelScaleV2": 1.1699999570846558,
         "form": "ROTOM_NORMAL",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -75314,12 +75315,12 @@
         "modelScaleV2": 1.1699999570846558,
         "form": "ROTOM_WASH",
         "buddyOffsetMale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
         "buddyOffsetFemale": [
-          0.0,
+          17.0,
           0.0,
           0.0
         ],
@@ -101665,5 +101666,5 @@
       }
     }
   ],
-  "timestampMs": "1556611476496"
+  "timestampMs": "1556893322498"
 }
