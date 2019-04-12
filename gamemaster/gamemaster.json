@@ -16288,8 +16288,9 @@
     {
       "templateId": "PARTY_RECOMMENDATION_SETTINGS",
       "partyRecommendationSettings": {
-        "mode": "PARTY_RECOMMENDATION_MODE_1",
-        "thirdMoveWeight": 0.019999999552965164
+        "mode": "PARTY_RECOMMENDATION_MODE_2",
+        "variance": 0.009999999776482582,
+        "thirdMoveWeight": 0.05000000074505806
       }
     },
     {
@@ -102293,5 +102294,5 @@
       }
     }
   ],
-  "timestampMs": "1556954594876"
+  "timestampMs": "1555192390943"
 }
